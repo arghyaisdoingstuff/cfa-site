@@ -11689,7 +11689,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "Owners have limited liability in a:",
         "options": [
             "corporation.",
@@ -11702,7 +11702,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "Compared to those of public companies, share issuances of private companies most likely:",
         "options": [
             "raise larger amounts of capital.",
@@ -11715,7 +11715,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "Double taxation of profits is most likely a concern for owners in:",
         "options": [
             "corporations.",
@@ -11728,7 +11728,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "In a limited partnership, business operations are the responsibility of:",
         "options": [
             "the general partner only.",
@@ -11741,7 +11741,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "Compared to private corporations, which of the following is a typical characteristic of public corporations?",
         "options": [
             "A government is a shareholder",
@@ -11754,7 +11754,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "The purchase of which of the following shares most likely requires investors to be accredited?",
         "options": [
             "Public company shares only",
@@ -11767,7 +11767,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Organizational Forms, Corporate Issuer Features, and Ownership",
+        "lm": "LM1 - Organizational Forms, Corporate Issuer Features, and Ownership",
         "text": "Which of the following statements about corporations is most accurate?",
         "options": [
             "Upside return potential is unlimited for both equity holders and debtholders",
@@ -11780,7 +11780,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Investors and Other Stakeholders",
+        "lm": "LM2 - Investors and Other Stakeholders",
         "text": "A corporation's stakeholders most likely include:",
         "options": [
             "shareholders only.",
@@ -11793,7 +11793,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Investors and Other Stakeholders",
+        "lm": "LM2 - Investors and Other Stakeholders",
         "text": "Which of the following company stakeholders is most likely exposed to the greatest information asymmetry when compared to the company's management?",
         "options": [
             "A bank lender",
@@ -11806,7 +11806,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Investors and Other Stakeholders",
+        "lm": "LM2 - Investors and Other Stakeholders",
         "text": "With respect to ESG implementation, which of the following is most likely a social factor?",
         "options": [
             "Board composition",
@@ -11819,7 +11819,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Investors and Other Stakeholders",
+        "lm": "LM2 - Investors and Other Stakeholders",
         "text": "The interests of creditors are least likely aligned with the interests of:",
         "options": [
             "suppliers.",
@@ -11832,7 +11832,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Investors and Other Stakeholders",
+        "lm": "LM2 - Investors and Other Stakeholders",
         "text": "Which of the following stakeholder groups is most likely to have the highest risk tolerance with respect to the volatility of a company's performance?",
         "options": [
             "Creditors",
@@ -11845,7 +11845,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following is most accurate?",
         "options": [
             "Risk appetites are similar among private lenders",
@@ -11858,7 +11858,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following is most likely a good corporate governance practice?",
         "options": [
             "Disclosing related-party transactions",
@@ -11871,7 +11871,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "With respect to corporate governance, which of the following represents a principal–agent conflict?",
         "options": [
             "Shareholders and creditors have different investment risk tolerances",
@@ -11884,7 +11884,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following board committees is most likely responsible for recommending the appointment of an external auditor and proposing its remuneration?",
         "options": [
             "Audit committee",
@@ -11897,7 +11897,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Managers seeking to retain their jobs by pursuing initiatives they are uniquely suited to manage is most likely an example of:",
         "options": [
             "self-dealing.",
@@ -11910,7 +11910,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following is most likely a primary role of a corporate board of directors?",
         "options": [
             "Voting common shares",
@@ -11923,7 +11923,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following features of an executive remuneration plan most likely indicates a misalignment of interests between executives and investors? Executive payouts that:",
         "options": [
             "consist of only cash and no equity.",
@@ -11936,7 +11936,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following board committees is among the three most commonly recommended by corporate governance codes?",
         "options": [
             "Risk committee",
@@ -11949,7 +11949,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Information asymmetry between managers and shareholders is most likely higher if a company:",
         "options": [
             "makes products of greater complexity.",
@@ -11962,7 +11962,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
+        "lm": "LM3 - Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits",
         "text": "Which of the following best reflects a misalignment of interests between managers/directors and shareholders?",
         "options": [
             "A compensation package relying too little on stock options can motivate excessive risk-taking behavior by management",
@@ -11975,7 +11975,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Working Capital and Liquidity",
+        "lm": "LM4 - Working Capital and Liquidity",
         "text": "An analyst gathers the following information (in £ millions) about a company:\n| Cash | 50 |\n| Short-term marketable investments | 37 |\n| Receivables | 15 |\n| Current assets | 114 |\n| Current liabilities | 100 |\nThe quick ratio of this company is closest to:",
         "options": [
             "0.87.",
@@ -11988,7 +11988,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Working Capital and Liquidity",
+        "lm": "LM4 - Working Capital and Liquidity",
         "text": "An analyst gathers the following liquidity indicators for a company and its peer group:\n| Indicator | Company | Peer Group |\n| Quick ratio | 0.9 | 1.1 |\n| Operating cycle (days) | 70 | 73 |\n| Cash conversion cycle (days) | 40 | 38 |\nAll else being equal, the company's liquidity compares favorably to the peer group based on the:",
         "options": [
             "quick ratio.",
@@ -12001,7 +12001,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Working Capital and Liquidity",
+        "lm": "LM4 - Working Capital and Liquidity",
         "text": "Which of the following is most likely classified as a drag on liquidity?",
         "options": [
             "Tight credit market conditions",
@@ -12014,7 +12014,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Working Capital and Liquidity",
+        "lm": "LM4 - Working Capital and Liquidity",
         "text": "An analyst gathers the following information (in $ millions) about three peer companies:\n| Company | Year 2 Credit Sales | Year 2 Average Receivables Balance | Year 1 Credit Sales | Year 1 Average Receivables Balance |\n| 1 | 6.5 | 3.0 | 5.0 | 2.5 |\n| 2 | 4.0 | 1.5 | 3.0 | 1.0 |\n| 3 | 3.0 | 1.0 | 2.5 | 0.8 |\nWhich company reduced the average time to collect accounts receivable between Year 1 and Year 2?",
         "options": [
             "Company 1",
@@ -12027,7 +12027,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Working Capital and Liquidity",
+        "lm": "LM4 - Working Capital and Liquidity",
         "text": "Which of the following is best described as a secondary source of liquidity?",
         "options": [
             "Bank line of credit",
@@ -12040,7 +12040,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Working Capital and Liquidity",
+        "lm": "LM4 - Working Capital and Liquidity",
         "text": "An analyst gathers the following information about a company:\n| Metric | Year 1 | Year 2 |\n| Days sales outstanding | 85 | 76 |\n| Days of inventory on hand | 136 | 129 |\n| Days payable outstanding | 29 | 13 |\nThe company's cash conversion cycle in Year 2 is:",
         "options": [
             "shorter than the cash conversion cycle in Year 1.",
@@ -12053,7 +12053,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "An analyst gathers the following information about a project:\n| Initial outlay | €100 million |\n| Cash flow at end of Year 1 | €65 million |\n| Cash flow at end of Year 2 | €65 million |\n| Cash flow at end of Year 3 | €65 million |\nIf the required rate of return is 15%, the NPV is closest to:",
         "options": [
             "€48 million.",
@@ -12066,7 +12066,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "The NPV of a new project is expected to be –$0.20 million. An incremental investment of $0.40 million would give management the flexibility to switch to a lower cost input in the future. If this option has an estimated value of $0.80 million, the value of the project including the option is:",
         "options": [
             "$0.20 million.",
@@ -12079,7 +12079,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "A company is deciding whether to invest in one of two mutually exclusive projects with positive NPVs. If Project 1 has a higher NPV but a lower IRR than Project 2, the company should:",
         "options": [
             "prefer Project 1.",
@@ -12092,7 +12092,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "Management most likely has the least amount of discretion when deciding to invest in a(n):",
         "options": [
             "regulatory project.",
@@ -12105,7 +12105,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "The ability to abandon an investment if it has produced disappointing financial results is most likely a type of:",
         "options": [
             "sizing option.",
@@ -12118,7 +12118,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "Which statement regarding capital investments is correct?",
         "options": [
             "Going concern projects are investments to increase the size of the business",
@@ -12131,7 +12131,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "Maintenance capital expenditures include:",
         "options": [
             "continuous improvements of existing facilities.",
@@ -12144,7 +12144,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "Which of the following is a common capital allocation pitfall?",
         "options": [
             "Ignoring sunk costs",
@@ -12157,7 +12157,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "With respect to capital budgeting, which of the following statements is most accurate? The internal rate of return calculation assumes that a project's interim cash flows are reinvested at the project's:",
         "options": [
             "hurdle rate.",
@@ -12170,7 +12170,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "When evaluating potential capital investments, the most appropriate discount rate is the:",
         "options": [
             "overall cost of capital for the company.",
@@ -12183,7 +12183,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "An analyst gathers the following information (in $ millions) about two mutually exclusive capital projects:\n| Project | NPV at 9% Required Rate of Return | NPV at 12% Required Rate of Return | NPV at 15% Required Rate of Return |\n| Project 1 | 50 | 17 | -10 |\n| Project 2 | 61 | 13 | -31 |\nProject 1 should be selected for investment if the required rate of return is:",
         "options": [
             "9%.",
@@ -12196,7 +12196,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Investments and Capital Allocation",
+        "lm": "LM5 - Capital Investments and Capital Allocation",
         "text": "A company with a required rate of return of 12% is considering a capital project with the following cash flows (in millions):\n| Initial Outlay | Year 1 | Year 2 |\n| -£150 | £8 | £175 |\nThe expected IRR for the project is closest to:",
         "options": [
             "10.7%.",
@@ -12209,7 +12209,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "According to the Modigliani–Miller Proposition I without taxes, when a firm increases the proportion of debt in its capital structure, the firm value:",
         "options": [
             "decreases.",
@@ -12222,7 +12222,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Which of the following is defined as the sensitivity of a firm's operating profit to a change in its revenues?",
         "options": [
             "Total leverage",
@@ -12235,7 +12235,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Consider the following information about a company:\n| Market value of debt outstanding | £15,000 |\n| Market value of company | £40,000 |\n| Cost of debt | 4.0% |\n| Unlevered WACC | 9.0% |\n| Tax rate | 25% |\nBased on the Modigliani–Miller propositions, the company's cost of equity is closest to:",
         "options": [
             "10.4%.",
@@ -12248,7 +12248,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "A company increases its debt from 20% to 60% of its capital structure. Based on the Modigliani and Miller proposition (without taxes) regarding capital structure, the WACC of the company:",
         "options": [
             "decreases.",
@@ -12261,7 +12261,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "All else being equal, a company most likely has a reduced debt capacity when its:",
         "options": [
             "current ratio increases.",
@@ -12274,7 +12274,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Which of the following combination of factors most likely increases a company's ability to support debt in its capital structure?",
         "options": [
             "High revenue, low cash flow volatility, and a low level of fungible assets",
@@ -12287,7 +12287,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "According to the pecking order theory, company managers most likely prefer to:",
         "options": [
             "issue debt as the last resort.",
@@ -12300,7 +12300,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "The source of capital that most likely benefits from a tax shield is:",
         "options": [
             "debt.",
@@ -12313,7 +12313,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "An analyst gathers the following information about three companies in the same industry but at different stages of their life cycles:\n| Company | Year 1 Revenue ($ millions) | Year 2 Revenue ($ millions) | Year 3 Revenue ($ millions) | Year 3 Debt/Capital |\n| Company 1 | 10 | 11 | 9 | 0% |\n| Company 2 | 30 | 36 | 44 | 8% |\n| Company 3 | 100 | 95 | 97 | 25% |\nThe company in the growth phase of its lifecycle is most likely:",
         "options": [
             "Company 1.",
@@ -12326,7 +12326,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Debt as a proportion of total capital is most likely greatest in which of the following life-cycle stages of a company?",
         "options": [
             "Start-up",
@@ -12339,7 +12339,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "A corporate treasurer gathers the following information about her company:\n| Debt-to-equity ratio based on market value | 43% |\n| Debt-to-equity ratio based on book value | 52% |\nThe weight of debt in the company's target capital structure is closest to:",
         "options": [
             "34%.",
@@ -12352,7 +12352,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "An analyst gathers the following information about a US company:\n| Market value of debt | $550 million |\n| Market value of preferred stock | $200 million |\n| Market value of common stock | $450 million |\n| Before-tax cost of debt | 7% |\n| Cost of preferred stock | 9% |\n| Cost of common stock | 12% |\n| Marginal tax rate | 25% |\nThe company's WACC is closest to:",
         "options": [
             "8.0%.",
@@ -12365,7 +12365,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "According to Modigliani–Miller Proposition I without taxes, all else being equal, the value of a levered firm increases as its:",
         "options": [
             "unlevered value decreases.",
@@ -12378,7 +12378,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Based on Modigliani–Miller's Proposition II with taxes, if a firm has debt in its capital structure and the tax rate increases, the firm's cost of equity will:",
         "options": [
             "decrease.",
@@ -12391,7 +12391,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "A company's cost of equity capital exceeds its cost of debt capital. If interest expenses are tax deductible, which of the following most likely decreases the company's weighted average cost of capital? An increase in the:",
         "options": [
             "weighting of equity",
@@ -12404,7 +12404,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "An analyst gathers the following information about a corporation:\n| Before-tax required rate of return of debt investors | 6% |\n| Required rate of return of equity investors | 10% |\n| Tax rate | 15% |\nIf the capital structure of the corporation is 40% debt and 60% equity, the WACC of the corporation is:",
         "options": [
             "7.50%.",
@@ -12417,7 +12417,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "With respect to capital structure, operating leverage is:",
         "options": [
             "an industry factor.",
@@ -12430,7 +12430,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Target capital structure is often expressed using book values of equity and debt because:",
         "options": [
             "capital structure policy is not aligned to measures used by third parties.",
@@ -12443,7 +12443,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "A company's required rate of return is its:",
         "options": [
             "IRR.",
@@ -12456,7 +12456,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "Under the static trade-off theory, the optimal capital structure maximizes:",
         "options": [
             "firm value.",
@@ -12469,7 +12469,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "An increased use of debt may result in a reduction in the agency costs of equity according to the:",
         "options": [
             "free cash flow hypothesis.",
@@ -12482,7 +12482,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "When a company's target capital structure is unknown to analysts, which of the following is the least appropriate method to estimate the capital structure weights?",
         "options": [
             "Using the book values of capital components",
@@ -12495,7 +12495,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "All else being equal, if interest on a company's debt is tax deductible, an increase in the tax rate will most likely:",
         "options": [
             "decrease the WACC.",
@@ -12508,7 +12508,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Capital Structure",
+        "lm": "LM6 - Capital Structure",
         "text": "All else being equal, if a US company's marginal tax rate increases, the company's WACC will most likely:",
         "options": [
             "decrease.",
@@ -12521,7 +12521,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "A pricing approach where a company simultaneously charges different prices to different customers based on purchase volume is best referred to as:",
         "options": [
             "tiered pricing.",
@@ -12534,7 +12534,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "The sequence of processes involved in the creation of a product, both within and external to a firm, including all the steps involved in producing a physical product and delivering it to the end customer, regardless of whether those steps are performed by a single firm, is referred to as the:",
         "options": [
             "value chain.",
@@ -12547,7 +12547,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "The sequence of processes involved in the creation of a product, both within and external to a firm, is best referred to as a:",
         "options": [
             "value chain.",
@@ -12560,7 +12560,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "The business model of a knowledge aggregation company that allows its users to contribute directly to online content is best referred to as a:",
         "options": [
             "platform business model.",
@@ -12573,7 +12573,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "Which of the following pricing models is most likely used when a firm willingly sacrifices margins to build market share?",
         "options": [
             "Dynamic pricing",
@@ -12586,7 +12586,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "A company manufacturing and selling a product using someone else's brand name in return for a royalty most likely operates:",
         "options": [
             "under a franchise model.",
@@ -12599,7 +12599,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "The flow of finished goods from manufacturer to wholesaler, retailer, and finally to the end customer best describes a(n):",
         "options": [
             "direct sales strategy.",
@@ -12612,7 +12612,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "When analyzing a company, analysts should:",
         "options": [
             "ignore the company's business model.",
@@ -12625,7 +12625,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "\"Economic\" profit is best described as the return to a firm's owners:",
         "options": [
             "in the form of retained earnings and distributions to the owners.",
@@ -12638,7 +12638,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "If a corporation is financed with both debt and equity, which of the following must the corporation pay?",
         "options": [
             "Interest only",
@@ -12651,7 +12651,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "Charging prices that differ based on product features or volume purchased best describes:",
         "options": [
             "tiered pricing.",
@@ -12664,7 +12664,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "Which of the following would most likely be included on a company's \"financial\" balance sheet?",
         "options": [
             "Short-term debt obligations",
@@ -12677,7 +12677,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Corporate Issuers",
-        "lm": "Business Models",
+        "lm": "LM7 - Business Models",
         "text": "A company that produces goods to be marketed by other firms is best described as having a:",
         "options": [
             "value added reseller business model.",
@@ -12690,7 +12690,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Venture capital is best classified as a sub-category of:",
         "options": [
             "real estate.",
@@ -12703,7 +12703,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Management fees are most likely based on assets under management for:",
         "options": [
             "hedge funds only.",
@@ -12716,7 +12716,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "A feature that protects hedge fund clients from paying twice for the same performance is most likely a:",
         "options": [
             "discount.",
@@ -12729,7 +12729,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "In co-investing, the investor invests in alternative assets indirectly through a fund but also has the:\nCorrect answer:",
         "options": [
             "right to invest directly in the same assets alongside the fund.",
@@ -12742,7 +12742,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Which of the following methods of investing in alternative investments provides the most flexibility to the investor?",
         "options": [
             "Co-investing",
@@ -12755,7 +12755,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Compared with fund investing in alternative investments, the co-investing method most likely has:",
         "options": [
             "lower management fees.",
@@ -12768,7 +12768,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Compared with co-investing, direct investing in alternative investments most likely offers:",
         "options": [
             "reduced control over the investment selection process.",
@@ -12781,7 +12781,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "[Question stem missing in book]",
         "options": [
             "include tangible assets only.",
@@ -12794,7 +12794,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Which of the following is most appropriately categorized as a traditional investment?",
         "options": [
             "Gold",
@@ -12807,7 +12807,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Which of the following statements is most accurate? Alternative investments:",
         "options": [
             "tend to be more efficiently priced than traditional investments.",
@@ -12820,7 +12820,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Institutional investors typically begin investing in alternative investments via:",
         "options": [
             "co-investing.",
@@ -12833,7 +12833,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Investors in alternative assets who seek liquidity are most likely to invest in:",
         "options": [
             "hedge funds.",
@@ -12846,7 +12846,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Within a limited partnership structure, the limited partner is most likely to:",
         "options": [
             "jointly control the operations and decisions of the fund.",
@@ -12859,7 +12859,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Which of the following statements about limited partnerships is most accurate? Limited partners:",
         "options": [
             "play passive roles in the partnership.",
@@ -12872,7 +12872,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "In alternative investments, the American waterfall distribution method is more advantageous to the:",
         "options": [
             "limited partners because performance fees are collected on a per-deal basis.",
@@ -12885,7 +12885,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "The clawback provision of a private equity fund most likely benefits the:",
         "options": [
             "broker.",
@@ -12898,7 +12898,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "A private equity fund structured as a partnership is managed by:",
         "options": [
             "the general partner only.",
@@ -12911,7 +12911,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "Until drawdown of capital is complete, the management fee on a private equity fund is most likely based on:",
         "options": [
             "drawn capital.",
@@ -12924,7 +12924,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "A hedge fund's lockup period is best defined as the required period of time before:",
         "options": [
             "incentive fees are earned.",
@@ -12937,7 +12937,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Features, Methods, and Structures",
+        "lm": "LM1 - Alternative Investment Features, Methods, and Structures",
         "text": "A hedge fund feature that allows an incentive fee to be earned only after the fund exceeds a specified return best defines a:",
         "options": [
             "lockup.",
@@ -12950,7 +12950,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "An analyst gathers the following information about a hedge fund:\n• $200 million in assets under management at the beginning of year\n• a 2% management fee based on year-end assets under management\n• a 20% incentive fee calculated net of the management fee\nIf the fund's gross return is 25% during the year, the total fees earned by the fund manager are:",
         "options": [
             "$11 million.",
@@ -12963,7 +12963,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "A hedge fund has the following characteristics:\n| Assets under management, beginning of year | $100 million |\n| Assets under management, end of year | $120 million |\n| Management fee | 1% of year-end assets under management |\n| Performance fee | 15% of the annual return above a 3% hurdle rate |\nIf the performance fee is calculated net of the management fee and there were no capital contributions or withdrawals, the net annual return to the investor is closest to:",
         "options": [
             "16.3%.",
@@ -12976,7 +12976,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "An analyst collects the following information about a hedge fund:\n| Assets under management | $1.5 billion, beginning of year |\n| Annual return | 20% |\n| Management fee | 2%, based on year-end valuation |\n| Incentive fee | 20%, calculated net of management fees |\nIf the incentive fee is calculated on returns in excess of a 6% hurdle rate, total annual fees earned by the fund manager are closest to:",
         "options": [
             "$34,800,000.00",
@@ -12989,7 +12989,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "Which of the following has most likely been designed to provide an opportunity for a hedge fund manager to liquidate positions in an orderly fashion without magnifying the losses?",
         "options": [
             "Notice periods",
@@ -13002,7 +13002,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "The lag in marking private equity investments to market most likely makes private equity appear:",
         "options": [
             "less volatile than it really is.",
@@ -13015,7 +13015,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "A hedge fund has the following characteristics:\n• Initial investment capital of $200 million;\n• 2% management fee, based on assets under management at the end of the year;\n• 20% incentive fee, calculated independent of the management fee and based on returns in excess of a 7% hurdle rate.\nIf the fund's return is 18% at the end of the first year, the fund's investors' net return is closest to:",
         "options": [
             "12.0%.",
@@ -13028,7 +13028,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "A hedge fund has assets under management of $20 million at the beginning of the year and $24 million at the end of the year. The fund charges a 2% management fee based on year-end assets under management and a 20% incentive fee. If the incentive fee is calculated net of the management fee, the total fee charged for the year is closest to:",
         "options": [
             "$0.88 million.",
@@ -13041,7 +13041,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "An analyst collects the following information about a hedge fund:\n| Assets under management, beginning of year | $200 million |\n| Management fee | 2% |\n| Incentive fee, net of management fee | 20% |\n| Hard hurdle rate | 5% |\nThe management fee and incentive fee are based on the year-end value. If the fund generates a gross return of 10%, the net return is closest to:",
         "options": [
             "6.2%.",
@@ -13054,7 +13054,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "When market prices are used to value underlying positions held by a hedge fund, the most conservative approach uses:",
         "options": [
             "bid prices only.",
@@ -13067,7 +13067,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "A hedge fund has the following fee structure based on year-end assets under management:\n| Assets under management, beginning of year | $10 million |\n| Management fee | 2% |\n| Incentive fee | 20% |\nThe incentive fee is calculated net of the management fee. If the gross annual return is 15%, the net-of-fees return to investors is closest to:",
         "options": [
             "8.8%.",
@@ -13080,7 +13080,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "A hedge fund has the following characteristics:\n| Management fee | 2% of year-end assets under management |\n| Incentive fee | 20% of the annual return above a 6% hurdle rate |\n| Assets under management at end of Year 1 | $800 million |\n| Assets under management at end of Year 2 | $960 million |\nIf the management and incentive fees are calculated independently and there were no capital contributions or withdrawals, total fees for Year 2 are closest to:",
         "options": [
             "$37.8 million.",
@@ -13093,7 +13093,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "A perceived benefit of adding alternative assets to a portfolio of traditional assets is most likely the higher:",
         "options": [
             "risk-adjusted return profile of the resulting portfolio.",
@@ -13106,7 +13106,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "Hedge fund mark-to-model valuations most likely reflect a:",
         "options": [
             "liquidation value.",
@@ -13119,7 +13119,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Alternative Investment Performance and Returns",
+        "lm": "LM2 - Alternative Investment Performance and Returns",
         "text": "An investor gathers the following information about a hedge fund:\n| Beginning-of-year assets under management (AUM) | $300,000,000 |\n| Current high-water mark | $320,000,000 |\n| Annual return before fees | 10% |\n| Management fee, based on end-of-year AUM before fees | 2% |\n| Incentive fee | 20% |\nIf the incentive fee is based on returns net of management fees and the fee structure includes the use of a high-water mark, the investor's net return for the year is closest to:",
         "options": [
             "6.24%.",
@@ -13132,7 +13132,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "Which of the following statements about private debt is most accurate? Mezzanine debt is:",
         "options": [
             "funding provided to start-up or early-stage companies generating negative cash flow.",
@@ -13145,7 +13145,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "Which of the following is most likely a primary exit strategy for a company held by a private equity fund's portfolio?",
         "options": [
             "IPO",
@@ -13158,7 +13158,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "From the perspective of a private equity firm, an advantage of exiting a portfolio company through a special purpose acquisition company (SPAC) most likely include:",
         "options": [
             "floating valuation.",
@@ -13171,7 +13171,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "With respect to private equity, the growth capital strategy is also known as:",
         "options": [
             "venture capital.",
@@ -13184,7 +13184,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "In the private debt market, venture debt:",
         "options": [
             "entails buying the debt of mature companies in financial difficulty.",
@@ -13197,7 +13197,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "Which of the following sources of private debt financing may provide equity participation to lenders or investors?",
         "options": [
             "Venture debt only",
@@ -13210,7 +13210,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "Private equity indexes most likely overestimate:",
         "options": [
             "volatility.",
@@ -13223,7 +13223,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "An exit strategy where a private equity manager sells a company to a strategic buyer in the same industry best describes a:",
         "options": [
             "trade sale.",
@@ -13236,7 +13236,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "Which of the following entails buying the debt of mature companies in financial difficulty?",
         "options": [
             "Venture debt",
@@ -13249,7 +13249,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Investments in Private Capital: Equity and Debt",
+        "lm": "LM3 - Investments in Private Capital: Equity and Debt",
         "text": "Compared to unsecured debt, unitranche debt most likely features:",
         "options": [
             "lower borrowing costs.",
@@ -13262,7 +13262,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Which of the following are best categorized as social infrastructure assets?",
         "options": [
             "Airports",
@@ -13275,7 +13275,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Which of the following infrastructure investments most likely have the highest risk?",
         "options": [
             "Brownfield investments with the majority of their return from current yield.",
@@ -13288,7 +13288,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Which of the following is most likely a characteristic of private real estate markets?",
         "options": [
             "Transaction costs are high",
@@ -13301,7 +13301,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Which of the following statements about real estate assets is most accurate?",
         "options": [
             "Real estate assets are heterogeneous",
@@ -13314,7 +13314,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Investors in greenfield infrastructure projects typically:",
         "options": [
             "rely on the assets' financial and operating history.",
@@ -13327,7 +13327,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "A disadvantage of direct real estate investing is:",
         "options": [
             "a lack of control.",
@@ -13340,7 +13340,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Which of the following real estate investing strategies is most likely to focus on modest redevelopment or upgrades, the leasing of vacant space, and the repositioning of underlying properties to earn a higher return?",
         "options": [
             "Core-plus",
@@ -13353,7 +13353,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "With respect to infrastructure investments, a take-or-pay arrangement is most likely used to mitigate:",
         "options": [
             "demand risk.",
@@ -13366,7 +13366,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "Which of the following is best categorized as core real estate?",
         "options": [
             "A high-quality office building in a rural area",
@@ -13379,7 +13379,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Real Estate and Infrastructure",
+        "lm": "LM4 - Real Estate and Infrastructure",
         "text": "The benefits of adding investments in infrastructure assets to a portfolio most likely include:",
         "options": [
             "inflation protection only.",
@@ -13392,7 +13392,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Natural Resources",
+        "lm": "LM5 - Natural Resources",
         "text": "All else being equal, when a commodity futures market is in contango, the forward curve is most likely:",
         "options": [
             "downward sloping.",
@@ -13405,7 +13405,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Natural Resources",
+        "lm": "LM5 - Natural Resources",
         "text": "If a commodity's storage cost is equal to its convenience yield, its futures prices will be greater than its spot price if the risk-free rate is:",
         "options": [
             "negative.",
@@ -13418,7 +13418,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Natural Resources",
+        "lm": "LM5 - Natural Resources",
         "text": "Which of the following is best classified as a commodity?",
         "options": [
             "Livestock",
@@ -13431,7 +13431,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Natural Resources",
+        "lm": "LM5 - Natural Resources",
         "text": "Timberland investments offer:",
         "options": [
             "an income stream only.",
@@ -13444,7 +13444,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Natural Resources",
+        "lm": "LM5 - Natural Resources",
         "text": "Crude oil is categorized as:",
         "options": [
             "a soft commodity.",
@@ -13457,7 +13457,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Hedge Funds",
+        "lm": "LM6 - Hedge Funds",
         "text": "Which of the following hedge funds most likely have a beta close to zero?",
         "options": [
             "Short-biased funds",
@@ -13470,7 +13470,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Hedge Funds",
+        "lm": "LM6 - Hedge Funds",
         "text": "Which of the following statements is most accurate? Hedge funds:",
         "options": [
             "may be invested entirely in traditional assets.",
@@ -13483,7 +13483,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Hedge Funds",
+        "lm": "LM6 - Hedge Funds",
         "text": "An activist hedge fund strategy is most likely:",
         "options": [
             "based on top-down analysis.",
@@ -13496,7 +13496,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Hedge Funds",
+        "lm": "LM6 - Hedge Funds",
         "text": "In contrast to a fund of hedge funds, a single hedge fund is most likely to:",
         "options": [
             "charge lower total fees.",
@@ -13509,7 +13509,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Hedge Funds",
+        "lm": "LM6 - Hedge Funds",
         "text": "Convertible bond arbitrage is best classified as a(n):",
         "options": [
             "macro hedge fund strategy.",
@@ -13522,7 +13522,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Hedge Funds",
+        "lm": "LM6 - Hedge Funds",
         "text": "A hedge fund is most likely characterized by:",
         "options": [
             "the ability to use derivatives.",
@@ -13535,7 +13535,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Introduction to Digital Assets",
+        "lm": "LM7 - Introduction to Digital Assets",
         "text": "Compared to traditional financial assets, digital assets:",
         "options": [
             "can be invested in through indirect investment vehicles such as ETFs.",
@@ -13548,7 +13548,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Introduction to Digital Assets",
+        "lm": "LM7 - Introduction to Digital Assets",
         "text": "Which of the following forms of digital asset investment most likely involves the use of a cryptocurrency wallet?",
         "options": [
             "Direct investment",
@@ -13561,7 +13561,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Introduction to Digital Assets",
+        "lm": "LM7 - Introduction to Digital Assets",
         "text": "Compared to centralized cryptocurrency exchanges, decentralized exchanges are:",
         "options": [
             "less likely to be regulated and less susceptible to attacks from hackers.",
@@ -13574,7 +13574,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Introduction to Digital Assets",
+        "lm": "LM7 - Introduction to Digital Assets",
         "text": "Cryptocurrency prices are driven by:",
         "options": [
             "regulatory development only.",
@@ -13587,7 +13587,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Premium Pack 2026",
         "subject": "Alternative Investments",
-        "lm": "Introduction to Digital Assets",
+        "lm": "LM7 - Introduction to Digital Assets",
         "text": "The process of representing ownership rights to physical assets on a distributed ledger best describes:",
         "options": [
             "tokenization.",
