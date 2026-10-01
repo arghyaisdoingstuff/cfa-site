@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v47-mock2-results';
+        const SEED_VERSION = 'v48-practice-layout';
         const seeded = localStorage.getItem('cfaSeedVersion');
         
         if (seeded !== SEED_VERSION) {
@@ -560,14 +560,7 @@ const app = {
         const mockQs = allQ.filter(q => q.mockName);
         const mocks = [...new Set(mockQs.map(q => q.mockName))];
 
-        let html = `<div class="max-w-4xl mx-auto space-y-6">
-            <div class="flex items-center justify-between">
-                <h2 class="text-lg font-bold text-slate-800 dark:text-white">Mock Exams</h2>
-                <button onclick="app.resetMocks()" class="flex items-center gap-2 px-3 py-1.5 text-xs font-semibold text-red-600 dark:text-red-400 border border-red-200 dark:border-red-900 rounded-lg hover:bg-red-50 dark:hover:bg-red-950/40 transition-colors">
-                    <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
-                    Reset Mock Attempts
-                </button>
-            </div>`;
+        let html = `<div class="max-w-4xl mx-auto space-y-6">`;
         if (mocks.length === 0) {
             html += `<div class="stat-card text-center py-10 text-slate-500 dark:text-zinc-400">No mock exams found.</div>`;
         }
@@ -618,9 +611,10 @@ const app = {
                             <div>${subRows}</div>
                         </div>` : ''}
 
-                        <div class="flex flex-wrap gap-3">
+                        <div class="flex flex-wrap gap-3 items-center">
                             ${s1Qs.length > 0 ? `<button onclick="app.startMock('${mockEsc}', 1)" class="btn-primary text-sm py-2 px-5">${attempted ? 'Retry' : 'Start'} Session 1 (${s1Qs.length} Qs)</button>` : ''}
                             ${s2Qs.length > 0 ? `<button onclick="app.startMock('${mockEsc}', 2)" class="btn-primary text-sm py-2 px-5">${attempted ? 'Retry' : 'Start'} Session 2 (${s2Qs.length} Qs)</button>` : ''}
+                            ${attempted ? `<button onclick="app.resetMocks('${mockEsc}')" class="flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-red-600 dark:text-red-400 border border-red-200 dark:border-red-900 rounded-lg hover:bg-red-50 dark:hover:bg-red-950/40 transition-colors"><svg class='w-3 h-3' fill='none' stroke='currentColor' viewBox='0 0 24 24'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15'/></svg>Reset</button>` : ''}
                         </div>
                     </div>
 
@@ -912,51 +906,52 @@ const app = {
         const flagged  = isQuestionFlagged(q.id);
 
         c.innerHTML = `
-            <div class="max-w-2xl mx-auto">
-                <div class="flex items-center justify-between mb-3">
-                    <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300 flex items-center gap-1">
-                        ← Back to setup
-                    </button>
+            <div class="max-w-4xl mx-auto">
+                <!-- Top bar -->
+                <div class="flex items-center justify-between mb-2">
+                    <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to setup</button>
                     <span class="text-sm text-slate-400 dark:text-zinc-500">${this.sessionCorrect}/${this.sessionTotal} correct</span>
                 </div>
-                <div class="flex items-center gap-2 mb-2">
-                    <span class="text-sm text-slate-500 dark:text-zinc-400 dark:text-zinc-500 font-medium">Q${this.quizIndex+1} of ${this.quizQueue.length}</span>
-                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div><button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-600 bg-slate-200 hover:bg-slate-300 hover:text-slate-800 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:bg-zinc-700 dark:hover:text-white rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
+                <div class="flex items-center gap-2 mb-4">
+                    <span class="text-sm text-slate-500 dark:text-zinc-400 font-medium">Q${this.quizIndex+1} of ${this.quizQueue.length}</span>
+                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div>
+                    <button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-600 bg-slate-200 hover:bg-slate-300 hover:text-slate-800 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:bg-zinc-700 dark:hover:text-white rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
                 </div>
 
-                <!-- Question card (relative for pause overlay) -->
-                <div class="stat-card mb-4 relative" id="question-card">
-                    <div class="flex items-center justify-between flex-wrap gap-2 mb-4">
-                        <div class="flex items-center gap-2 flex-wrap">
-                            ${subjectPill(q.subject)}
-                            ${q.lm?`<span class="text-xs text-slate-400 dark:text-zinc-500">${q.lm}</span>`:'<span class="text-xs text-slate-300 italic">LM unassigned</span>'}
+                <!-- 2-column layout: question left, feedback right -->
+                <div class="flex flex-col lg:flex-row gap-4 items-start">
+                    <!-- LEFT: Question -->
+                    <div class="flex-1 min-w-0">
+                        <div class="stat-card relative" id="question-card">
+                            <div class="flex items-center justify-between flex-wrap gap-2 mb-4">
+                                <div class="flex items-center gap-2 flex-wrap">
+                                    ${subjectPill(q.subject)}
+                                    ${q.lm ? `<span class="text-xs text-slate-400 dark:text-zinc-500">${q.lm}</span>` : ''}
+                                </div>
+                                <div class="flex items-center gap-2">
+                                    ${sourcePill(q.source||'Unknown')}
+                                    <button id="flag-btn" onclick="app.toggleFlagCurrent()" class="flag-btn ${flagged?'flagged':''}">🚩 ${flagged?'Flagged':'Flag'}</button>
+                                </div>
+                            </div>
+                            <div class="prose prose-slate dark:prose-invert max-w-none text-slate-800 dark:text-white font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${window.renderMarkdown(q.text)}</div>
+                            <div id="options-container">
+                                ${(q.options||[]).map((opt,i)=>`
+                                    <button class="option-btn" onclick="app.submitPracticeAnswer(${i})">
+                                        <span class="option-letter">${String.fromCharCode(65+i)}</span>${opt}
+                                    </button>`).join('')}
+                            </div>
+                            <!-- Pause overlay -->
+                            <div id="pause-overlay" class="quiz-paused-overlay" style="display:none;">
+                                <svg class="w-12 h-12 text-slate-400 dark:text-zinc-500 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                                <p class="text-slate-700 dark:text-zinc-200 font-bold text-xl mb-1">Paused</p>
+                                <p class="text-slate-400 dark:text-zinc-500 text-sm mb-4">Your timer is stopped</p>
+                                <button onclick="app.togglePause()" class="btn-primary">Resume →</button>
+                            </div>
                         </div>
-                        <div class="flex items-center gap-2">
-                            ${sourcePill(q.source||'Unknown')}
-                            <button id="flag-btn" onclick="app.toggleFlagCurrent()" class="flag-btn ${flagged?'flagged':''}">
-                                🚩 ${flagged?'Flagged':'Flag'}
-                            </button>
-                        </div>
                     </div>
-                    <div class="prose prose-slate dark:prose-invert max-w-none text-slate-800 dark:text-white font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${window.renderMarkdown(q.text)}</div>
-                    <div id="options-container">
-                        ${(q.options||[]).map((opt,i)=>`
-                            <button class="option-btn" onclick="app.submitPracticeAnswer(${i})">
-                                <span class="option-letter">${String.fromCharCode(65+i)}</span>${opt}
-                            </button>`).join('')}
-                    </div>
-                    
-                    <!-- Pause overlay (hidden by default) -->
-                    <div id="pause-overlay" class="quiz-paused-overlay" style="display:none;">
-                        <svg class="w-12 h-12 text-slate-400 dark:text-zinc-500 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
-                        </svg>
-                        <p class="text-slate-700 dark:text-zinc-200 font-bold text-xl mb-1">Paused</p>
-                        <p class="text-slate-400 dark:text-zinc-500 text-sm mb-4">Your timer is stopped</p>
-                        <button onclick="app.togglePause()" class="btn-primary">Resume →</button>
-                    </div>
+                    <!-- RIGHT: Feedback (hidden until answered) -->
+                    <div class="lg:w-80 xl:w-96 w-full flex-shrink-0" id="feedback-container"></div>
                 </div>
-                <div id="feedback-container"></div>
             </div>`;
 
         this.updatePauseBtn();
@@ -981,28 +976,28 @@ const app = {
 
         const isLast = this.quizIndex+1 >= this.quizQueue.length;
         document.getElementById('feedback-container').innerHTML = `
-            <div class="stat-card border-l-4 ${isCorrect?'border-green-500':'border-red-500'}">
-                <div class="flex items-center gap-3 mb-3">
+            <div class="stat-card border-l-4 ${isCorrect?'border-green-500':'border-red-500'} h-full">
+                <!-- Result badge -->
+                <div class="flex items-center gap-3 mb-4">
                     ${isCorrect
-                        ? `<div class="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center"><svg class="w-5 h-5 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg></div><span class="font-bold text-green-700 text-lg">Correct!</span>`
-                        : `<div class="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center"><svg class="w-5 h-5 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg></div><span class="font-bold text-red-700 text-lg">Incorrect</span>`}
-                    <span class="ml-auto text-sm text-slate-400 dark:text-zinc-500">⏱ ${timeTaken}s</span>
+                        ? `<div class="w-8 h-8 rounded-full bg-green-100 dark:bg-green-900/40 flex items-center justify-center flex-shrink-0"><svg class="w-5 h-5 text-green-600 dark:text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"/></svg></div><span class="font-bold text-green-700 dark:text-green-400 text-lg">Correct!</span>`
+                        : `<div class="w-8 h-8 rounded-full bg-red-100 dark:bg-red-900/40 flex items-center justify-center flex-shrink-0"><svg class="w-5 h-5 text-red-600 dark:text-red-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg></div><span class="font-bold text-red-700 dark:text-red-400 text-lg">Incorrect</span>`}
+                    <span class="ml-auto text-xs text-slate-400 dark:text-zinc-500">⏱ ${timeTaken}s</span>
                 </div>
-                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate dark:prose-invert max-w-none text-slate-600 dark:text-zinc-300 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
-                <!-- Confidence rating -->
-                <div class="mt-4 pt-4 border-t border-slate-100 dark:border-zinc-800">
-                    <p class="text-xs font-semibold text-slate-500 dark:text-zinc-400 dark:text-zinc-500 uppercase tracking-wide mb-2">How confident were you?</p>
-                    <div class="flex gap-2" id="confidence-row">
-                        <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'sure')"    class="confidence-btn sure">🟢 Sure</button>
-                        <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'unsure')"  class="confidence-btn unsure">🟡 Unsure</button>
-                        <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'guessing')" class="confidence-btn guessing">🔴 Guessing</button>
+                <!-- Explanation -->
+                ${q.explanation ? `<div class="explanation-box mb-4"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 dark:text-blue-400 mb-2">Explanation</p><div class="prose prose-sm prose-slate dark:prose-invert max-w-none text-slate-600 dark:text-zinc-300 leading-relaxed prose-p:my-1">${window.renderMarkdown(q.explanation)}</div></div>` : ''}
+                <!-- Confidence -->
+                <div class="pt-3 border-t border-slate-100 dark:border-zinc-800">
+                    <p class="text-xs font-semibold text-slate-500 dark:text-zinc-400 uppercase tracking-wide mb-2">How confident were you?</p>
+                    <div class="grid grid-cols-3 gap-2 mb-4" id="confidence-row">
+                        <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'sure')"    class="confidence-btn sure text-center">🟢<br><span class="text-xs">Sure</span></button>
+                        <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'unsure')"  class="confidence-btn unsure text-center">🟡<br><span class="text-xs">Unsure</span></button>
+                        <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'guessing')" class="confidence-btn guessing text-center">🔴<br><span class="text-xs">Guessing</span></button>
                     </div>
-                </div>
-                <div class="flex justify-between items-center mt-4">
-                    <span class="text-xs text-slate-400 dark:text-zinc-500">${this.sessionCorrect}/${this.sessionTotal} correct this session</span>
-                    <button id="next-btn" onclick="app.nextPracticeQuestion()" class="${isCorrect?'btn-success':'btn-primary'}" style="display:none;">
+                    <button id="next-btn" onclick="app.nextPracticeQuestion()" class="${isCorrect?'btn-success':'btn-primary'} w-full justify-center" style="display:none;">
                         ${isLast?'View Summary →':'Next Question →'}
                     </button>
+                    <p class="text-xs text-slate-400 dark:text-zinc-500 text-center mt-2">${this.sessionCorrect}/${this.sessionTotal} correct this session</p>
                 </div>
             </div>`;
 
@@ -1815,13 +1810,16 @@ Return ONLY a valid JSON array (no markdown). Each element:
         await this.renderSettings(document.getElementById('app-container'));
         await this.updateSidebarStats();
     },
-    resetMocks: async function() {
-        if (!confirm('Delete ALL mock exam attempts? Your question bank stays intact.')) return;
+    resetMocks: async function(mockName) {
+        const label = mockName ? `"${mockName}"` : 'ALL mock exams';
+        if (!confirm(`Reset attempts for ${label}? This cannot be undone.`)) return;
         const allQ = await db.questions.toArray();
-        const mockIds = new Set(allQ.filter(q => q.mockName).map(q => q.id));
-        const mockAttempts = await db.attempts.where('questionId').anyOf([...mockIds]).toArray();
-        await db.attempts.bulkDelete(mockAttempts.map(a => a.id));
-        showToast(`Cleared ${mockAttempts.length} mock attempt${mockAttempts.length!==1?'s':''}`, 'success');
+        const targetQ = allQ.filter(q => mockName ? q.mockName === mockName : q.mockName);
+        const targetIds = new Set(targetQ.map(q => q.id));
+        const toDelete = await db.attempts.toArray();
+        const ids = toDelete.filter(a => targetIds.has(a.questionId)).map(a => a.id);
+        for (const id of ids) await db.attempts.delete(id);
+        showToast(`Cleared ${ids.length} attempt${ids.length!==1?'s':''} for ${label}`, 'success');
         await this.renderMocks(document.getElementById('app-container'));
     },
 
