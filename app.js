@@ -2664,6 +2664,7 @@ const app = {
                                 <span class="option-letter">${String.fromCharCode(65+i)}</span>${opt}
                             </button>`).join('')}
                     </div>
+                    <button id="skip-btn" onclick="app.skipPracticeQuestion()" class="w-full text-center text-sm font-semibold text-slate-400 hover:text-slate-600 py-3 mt-4 border border-dashed border-slate-200 rounded-xl hover:bg-slate-50 transition-colors">Skip for now</button>
                     <!-- Pause overlay (hidden by default) -->
                     <div id="pause-overlay" class="quiz-paused-overlay" style="display:none;">
                         <svg class="w-12 h-12 text-slate-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -2689,6 +2690,7 @@ const app = {
             : (q.correctAnswer?.toUpperCase?.().charCodeAt(0)-65 ?? -1);
         const isCorrect = selectedIndex === correctIndex;
         this.sessionTotal++; if(isCorrect) this.sessionCorrect++;
+        const skipBtn = document.getElementById("skip-btn"); if(skipBtn) skipBtn.style.display = "none";
 
         document.querySelectorAll('.option-btn').forEach((btn,idx)=>{
             btn.disabled=true;
@@ -2738,6 +2740,13 @@ const app = {
         await this.updateSidebarStats();
     },
 
+    skipPracticeQuestion: function() {
+        if (this.isPaused) return;
+        this.stopTimer();
+        const q = this.quizQueue.splice(this.quizIndex, 1)[0];
+        this.quizQueue.push(q);
+        this.renderPracticeQuestion(document.getElementById('app-container'));
+    },
     nextPracticeQuestion: async function() {
         // If confidence not selected yet, save without it
         if (this._pendingAttempt) { await db.attempts.add(this._pendingAttempt); this._pendingAttempt=null; }
