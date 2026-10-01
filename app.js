@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v43-split-sources';
+        const SEED_VERSION = 'v44-remove-mocks';
         const seeded = localStorage.getItem('cfaSeedVersion');
         
         if (seeded !== SEED_VERSION) {
@@ -335,7 +335,7 @@ const app = {
     },
 
     updateSidebarStats: async function () {
-        const qCount  = await db.questions.count();
+        const qCount  = (await db.questions.toArray()).filter(q=>!q.mockName).length;
         const aCount  = await db.attempts.count();
         const correct = await db.attempts.where('isCorrect').equals(1).count();
         const acc     = aCount > 0 ? Math.round(correct / aCount * 100) : 0;
@@ -402,8 +402,10 @@ const app = {
     // DASHBOARD
     // ══════════════════════════════════════════
     renderDashboard: async function (c) {
-        const attempts = await db.attempts.toArray();
-        const qTotal   = await db.questions.count();
+                const allQs = await db.questions.toArray();
+        const mockIds = new Set(allQs.filter(q=>q.mockName).map(q=>q.id));
+        const attempts = (await db.attempts.toArray()).filter(a => !mockIds.has(a.questionId));
+        const qTotal   = allQs.length - mockIds.size;
         if (attempts.length === 0) {
             c.innerHTML = `<div class="empty-state">
                 <svg class="w-16 h-16 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -553,7 +555,7 @@ const app = {
     // ══════════════════════════════════════════
 
     renderMocks: async function(c) {
-        const allQ = window._quizAllQ || await db.questions.toArray();
+        const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
         const mockQs = allQ.filter(q => q.mockName);
         const mocks = [...new Set(mockQs.map(q => q.mockName))];
         
@@ -582,7 +584,7 @@ const app = {
     },
     
     startMock: async function(mockName, session) {
-        const allQ = window._quizAllQ || await db.questions.toArray();
+        const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
         let q = allQ.filter(q => q.mockName === mockName && q.session === session);
         
         // Sort authentically by CFA Official Subject Order
@@ -604,7 +606,7 @@ const app = {
     },
 
     renderQuizSetup: async function (c) {
-        const allQ = await db.questions.toArray();
+        const allQ = (await db.questions.toArray()).filter(q => !q.mockName);
         if (allQ.length === 0) {
             c.innerHTML = `<div class="empty-state"><p class="text-slate-400 dark:text-zinc-500 mb-6">No questions yet.</p></div>`;
             return;
@@ -736,7 +738,7 @@ const app = {
         if (type==='source')  this.filterSource  = value;
         if (type==='subject') { this.filterSubject = value; this.filterLm = 'all'; }
         if (type==='lm')      this.filterLm      = value;
-        const allQ = window._quizAllQ || await db.questions.toArray();
+        const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
         const aIds = window._attemptedIds || new Set(), wIds = window._wrongIds || new Set(), fIds = window._flaggedIds || new Set();
         
         const matchesStatus = (q) => {
@@ -819,7 +821,7 @@ const app = {
     },
 
     startQuizSession: async function() {
-        const allQ = window._quizAllQ || await db.questions.toArray();
+        const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
         let q = this.applyFilters(allQ);
         if (!q.length) { showToast('No questions match your filters','error'); return; }
         const cv = document.getElementById('quiz-count')?.value || '10';
@@ -1386,7 +1388,7 @@ const app = {
     // ══════════════════════════════════════════
     renderIngestion: async function(c) {
         const apiKey  = localStorage.getItem('geminiApiKey') || '';
-        const sources = [...new Set((await db.questions.toArray()).map(q=>q.source||'Unknown'))].sort();
+        const sources = [...new Set((await db.questions.toArray()).filter(q=>!q.mockName).map(q=>q.source||'Unknown'))].sort();
         c.innerHTML = `
             <div class="max-w-2xl mx-auto space-y-6">
                 <div class="stat-card">
