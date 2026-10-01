@@ -385,7 +385,7 @@ const app = {
                 <svg class="w-16 h-16 text-slate-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
                 </svg>
-                <h3 class="text-xl font-bold text-slate-200 mb-2">No data yet</h3>
+                <h3 class="text-xl font-bold text-slate-700 mb-2">No data yet</h3>
                 <p class="text-slate-400 mb-6">Answer some practice questions to see your performance here.</p>
                 <button onclick="app.navigate('quiz')" class="btn-primary">Start Practising →</button>
             </div>`;
@@ -421,19 +421,19 @@ const app = {
             </div>
             <div class="grid grid-cols-1 lg:grid-cols-3 gap-5 mb-8">
                 <div class="chart-container lg:col-span-2">
-                    <h3 class="font-bold text-slate-100 mb-1">Accuracy by Topic Area</h3>
+                    <h3 class="font-bold text-slate-800 mb-1">Accuracy by Topic Area</h3>
                     <p class="text-xs text-slate-400 mb-4">% correct per 2026 CFA topic area</p>
                     <div style="height:260px;"><canvas id="subjectChart"></canvas></div>
                 </div>
                 <div class="chart-container flex flex-col">
-                    <h3 class="font-bold text-slate-100 mb-1">Correct vs. Incorrect</h3>
+                    <h3 class="font-bold text-slate-800 mb-1">Correct vs. Incorrect</h3>
                     <p class="text-xs text-slate-400 mb-4">Overall split</p>
                     <div style="height:200px;" class="flex items-center justify-center">
                         <canvas id="donutChart"></canvas>
                     </div>
                     ${(byConf.sure||byConf.unsure||byConf.guessing) ? `
-                    <div class="mt-4 pt-4 border-t border-slate-800">
-                        <p class="text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Confidence Split</p>
+                    <div class="mt-4 pt-4 border-t border-slate-100">
+                        <p class="text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Confidence Split</p>
                         <div class="flex gap-2 text-xs">
                             <div class="flex-1 bg-green-50 rounded-lg p-2 text-center"><p class="font-bold text-green-700">${byConf.sure||0}</p><p class="text-slate-400">Sure</p></div>
                             <div class="flex-1 bg-yellow-50 rounded-lg p-2 text-center"><p class="font-bold text-yellow-700">${byConf.unsure||0}</p><p class="text-slate-400">Unsure</p></div>
@@ -443,14 +443,14 @@ const app = {
                 </div>
             </div>
             <div class="chart-container mb-8">
-                <h3 class="font-bold text-slate-100 mb-1">Performance by Source</h3>
+                <h3 class="font-bold text-slate-800 mb-1">Performance by Source</h3>
                 <p class="text-xs text-slate-400 mb-4">How you're doing across each question bank</p>
                 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                     ${Object.entries(bySource).map(([src,s])=>{
                         const a=Math.round(s.c/s.t*100), col=a>=70?'#22c55e':a>=50?'#f59e0b':'#ef4444';
-                        return `<div class="border border-slate-800 rounded-xl p-4">
+                        return `<div class="border border-slate-100 rounded-xl p-4">
                             <div class="flex items-center justify-between mb-2">
-                                <span class="text-sm font-semibold text-slate-200 truncate mr-2">${src}</span>
+                                <span class="text-sm font-semibold text-slate-700 truncate mr-2">${src}</span>
                                 <span class="text-lg font-bold" style="color:${col}">${a}%</span>
                             </div>
                             <div class="progress-bar-track mb-2">
@@ -463,12 +463,12 @@ const app = {
             </div>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-5 mb-8">
                 <div class="stat-card">
-                    <h3 class="font-bold text-slate-100 mb-1">Focus Areas</h3>
+                    <h3 class="font-bold text-slate-800 mb-1">Focus Areas</h3>
                     <p class="text-xs text-slate-400 mb-4">Weakest topic areas (≥2 attempts)</p>
                     ${weak.length===0 ? '<p class="text-sm text-slate-400">Not enough data yet.</p>'
                         : weak.map(s=>`<div class="mb-4">
                             <div class="flex justify-between text-sm mb-1">
-                                <span class="font-medium text-slate-200">${s.n}</span>
+                                <span class="font-medium text-slate-700">${s.n}</span>
                                 <span class="font-bold" style="color:${s.acc<50?'#ef4444':'#f59e0b'}">${s.acc}%</span>
                             </div>
                             <div class="progress-bar-track">
@@ -476,13 +476,13 @@ const app = {
                             </div></div>`).join('')}
                 </div>
                 <div class="stat-card">
-                    <h3 class="font-bold text-slate-100 mb-1">By Learning Module</h3>
+                    <h3 class="font-bold text-slate-800 mb-1">By Learning Module</h3>
                     <p class="text-xs text-slate-400 mb-4">2026 CFA LM breakdown</p>
                     <div style="max-height:220px;overflow-y:auto;">
                         ${Object.entries(byLm).map(([key,s])=>{
                             const a=Math.round(s.c/s.t*100);
                             return `<div class="reading-row">
-                                <span class="text-slate-300 flex-1 truncate mr-3 text-xs">${key}</span>
+                                <span class="text-slate-600 flex-1 truncate mr-3 text-xs">${key}</span>
                                 <span class="text-xs text-slate-400 mr-3">${s.t}q</span>
                                 <span class="font-bold text-sm" style="color:${a>=70?'#16a34a':a>=50?'#f59e0b':'#ef4444'}">${a}%</span>
                             </div>`;
@@ -535,7 +535,7 @@ const app = {
         
         let html = `<div class="max-w-4xl mx-auto space-y-4">`;
         if (mocks.length === 0) {
-            html += `<div class="stat-card text-center py-10 text-slate-400">No mock exams found. Upload a CSV with a "Mock Name" column and a "Session" column (1 or 2).</div>`;
+            html += `<div class="stat-card text-center py-10 text-slate-500">No mock exams found. Upload a CSV with a "Mock Name" column and a "Session" column (1 or 2).</div>`;
         }
         
         for (const mock of mocks) {
@@ -545,8 +545,8 @@ const app = {
             html += `
             <div class="stat-card flex flex-col md:flex-row items-center justify-between gap-4">
                 <div>
-                    <h3 class="font-bold text-lg text-slate-100">${mock}</h3>
-                    <p class="text-sm text-slate-400 mt-1">${s1Count+s2Count} Questions total</p>
+                    <h3 class="font-bold text-lg text-slate-800">${mock}</h3>
+                    <p class="text-sm text-slate-500 mt-1">${s1Count+s2Count} Questions total</p>
                 </div>
                 <div class="flex flex-wrap gap-2">
                     ${s1Count > 0 ? `<button onclick="app.startMock('${mock.replace(/'/g, "\'")}', 1)" class="px-4 py-2 bg-slate-800 text-white text-sm font-semibold rounded-xl hover:bg-slate-900 shadow-sm transition-all active:scale-95 whitespace-nowrap">Start Session 1 (${s1Count} Qs)</button>` : ''}
@@ -602,12 +602,12 @@ const app = {
         c.innerHTML = `
             <div class="max-w-2xl mx-auto space-y-5">
                 <div class="stat-card">
-                    <h3 class="font-bold text-slate-100 text-lg mb-1">Configure Your Session</h3>
+                    <h3 class="font-bold text-slate-800 text-lg mb-1">Configure Your Session</h3>
                     <p class="text-slate-400 text-sm mb-6">Choose a mode, filter by source/topic, then start.</p>
 
                     <!-- Mode -->
                     <div class="mb-6">
-                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Mode</label>
+                        <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Mode</label>
                         <div class="flex gap-3">
                             <button onclick="app.setMode('practice')" id="mode-practice" class="mode-tab ${this.quizMode==='practice'?'active':''}">
                                 📝 Practice Mode
@@ -622,7 +622,7 @@ const app = {
 
                     <!-- Status filter -->
                     <div class="mb-5">
-                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Question Status</label>
+                        <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Question Status</label>
                         <div class="flex flex-wrap gap-2" id="status-filters">
                             ${this.filterChip('status','all','All Questions',allQ.length,this.filterStatus)}
                             ${this.filterChip('status','unattempted','Unattempted',allQ.filter(q=>!attemptedIds.has(q.id)).length,this.filterStatus)}
@@ -633,7 +633,7 @@ const app = {
 
                     <!-- Source filter -->
                     <div class="mb-5">
-                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Source / Question Bank</label>
+                        <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Source / Question Bank</label>
                         <div class="flex flex-wrap gap-2" id="source-filters">
                             ${this.filterChip('source','all','All Sources',allQ.length,this.filterSource)}
                             ${sources.map(s=>this.filterChip('source',s,s,allQ.filter(q=>(q.source||'Unknown')===s).length,this.filterSource)).join('')}
@@ -642,7 +642,7 @@ const app = {
 
                     <!-- Subject filter -->
                     <div class="mb-5">
-                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Topic Area</label>
+                        <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Topic Area</label>
                         <div class="flex flex-wrap gap-2" id="subject-filters">
                             ${this.filterChip('subject','all','All Topics',allQ.length,this.filterSubject)}
                             ${subjects.map(s=>this.filterChip('subject',s,s,allQ.filter(q=>q.subject===s).length,this.filterSubject)).join('')}
@@ -651,14 +651,14 @@ const app = {
 
                     <!-- LM filter -->
                     <div class="mb-5" id="lm-filter-section" style="${this.filterSubject==='all'?'display:none':''}">
-                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Learning Module</label>
+                        <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Learning Module</label>
                         <div class="flex flex-wrap gap-2" id="lm-filters"></div>
                     </div>
 
                     <!-- Count -->
                     <div class="mb-6 flex items-center gap-4">
                         <div>
-                            <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">Questions</label>
+                            <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">Questions</label>
                             <select id="quiz-count" class="form-input w-36">
                                 <option value="5">5</option>
                                 <option value="10" selected>10</option>
@@ -676,7 +676,7 @@ const app = {
                     </button>
 
                     <!-- Keyboard hints -->
-                    <div class="shortcut-bar mt-4 pt-4 border-t border-slate-800">
+                    <div class="shortcut-bar mt-4 pt-4 border-t border-slate-100">
                         <span class="text-slate-400 font-semibold mr-1">Shortcuts:</span>
                         <span><kbd class="kbd">A</kbd><kbd class="kbd">B</kbd><kbd class="kbd">C</kbd> select</span>
                         <span><kbd class="kbd">F</kbd> flag</span>
@@ -702,7 +702,7 @@ const app = {
     filterChip: function(type, value, label, count, activeValue) {
         const active = value === activeValue;
         const base   = 'filter-btn px-3 py-1.5 rounded-full text-xs font-semibold border transition-all duration-150 cursor-pointer';
-        const style  = active ? `${base} border-blue-500 bg-blue-500 text-white` : `${base} border-slate-800 text-slate-300 hover:border-blue-400 hover:text-blue-600`;
+        const style  = active ? `${base} border-blue-500 bg-blue-500 text-white` : `${base} border-slate-200 text-slate-600 hover:border-blue-400 hover:text-blue-600`;
         const esc    = value.replace(/'/g,"\\'");
         return `<button onclick="app.setFilter('${type}','${esc}')" class="${style}">${label} <span class="opacity-70">(${count})</span></button>`;
     },
@@ -818,7 +818,7 @@ const app = {
         const acc = Math.round(recent.filter(a=>a.isCorrect).length/recent.length*100);
         const el=document.getElementById('recent-session-stats');
         if(el) el.innerHTML=`<div class="stat-card">
-            <h3 class="font-semibold text-slate-200 mb-3">Last 10 Questions</h3>
+            <h3 class="font-semibold text-slate-700 mb-3">Last 10 Questions</h3>
             <div class="flex gap-4 text-center">
                 <div class="flex-1"><p class="text-2xl font-bold text-green-600">${recent.filter(a=>a.isCorrect).length}</p><p class="text-xs text-slate-400">Correct</p></div>
                 <div class="flex-1"><p class="text-2xl font-bold text-red-500">${recent.filter(a=>!a.isCorrect).length}</p><p class="text-xs text-slate-400">Incorrect</p></div>
@@ -841,14 +841,14 @@ const app = {
         c.innerHTML = `
             <div class="max-w-2xl mx-auto">
                 <div class="flex items-center justify-between mb-3">
-                    <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 hover:text-slate-300 flex items-center gap-1">
+                    <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 hover:text-slate-600 flex items-center gap-1">
                         ← Back to setup
                     </button>
                     <span class="text-sm text-slate-400">${this.sessionCorrect}/${this.sessionTotal} correct</span>
                 </div>
                 <div class="flex items-center gap-2 mb-2">
-                    <span class="text-sm text-slate-400 font-medium">Q${this.quizIndex+1} of ${this.quizQueue.length}</span>
-                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div><button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-400 bg-slate-200 hover:bg-slate-300 hover:text-slate-200 rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
+                    <span class="text-sm text-slate-500 font-medium">Q${this.quizIndex+1} of ${this.quizQueue.length}</span>
+                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div><button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-500 bg-slate-200 hover:bg-slate-300 hover:text-slate-700 rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
                 </div>
 
                 <!-- Question card (relative for pause overlay) -->
@@ -865,7 +865,7 @@ const app = {
                             </button>
                         </div>
                     </div>
-                    <div class="prose prose-invert max-w-none text-slate-100 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${window.renderMarkdown(q.text)}</div>
+                    <div class="prose prose-slate max-w-none text-slate-800 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${window.renderMarkdown(q.text)}</div>
                     <div id="options-container">
                         ${(q.options||[]).map((opt,i)=>`
                             <button class="option-btn" onclick="app.submitPracticeAnswer(${i})">
@@ -878,7 +878,7 @@ const app = {
                         <svg class="w-12 h-12 text-slate-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
                         </svg>
-                        <p class="text-slate-200 font-bold text-xl mb-1">Paused</p>
+                        <p class="text-slate-700 font-bold text-xl mb-1">Paused</p>
                         <p class="text-slate-400 text-sm mb-4">Your timer is stopped</p>
                         <button onclick="app.togglePause()" class="btn-primary">Resume →</button>
                     </div>
@@ -915,10 +915,10 @@ const app = {
                         : `<div class="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center"><svg class="w-5 h-5 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg></div><span class="font-bold text-red-700 text-lg">Incorrect</span>`}
                     <span class="ml-auto text-sm text-slate-400">⏱ ${timeTaken}s</span>
                 </div>
-                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-300 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
+                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-600 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
                 <!-- Confidence rating -->
-                <div class="mt-4 pt-4 border-t border-slate-800">
-                    <p class="text-xs font-semibold text-slate-400 uppercase tracking-wide mb-2">How confident were you?</p>
+                <div class="mt-4 pt-4 border-t border-slate-100">
+                    <p class="text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">How confident were you?</p>
                     <div class="flex gap-2" id="confidence-row">
                         <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'sure')"    class="confidence-btn sure">🟢 Sure</button>
                         <button onclick="app.saveAttempt(${selectedIndex},${timeTaken},'unsure')"  class="confidence-btn unsure">🟡 Unsure</button>
@@ -988,13 +988,13 @@ const app = {
                 <!-- Question -->
                 <div class="flex-1 min-w-0">
                     <div class="flex items-center justify-between mb-3">
-                        <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 hover:text-slate-300">← Back to setup</button>
+                        <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 hover:text-slate-600">← Back to setup</button>
                         <span class="text-sm text-slate-400">${this.examAnswers.filter(a=>a!==null).length}/${this.quizQueue.length} answered</span>
                     </div>
                     <div class="stat-card relative" id="question-card">
                         <div class="flex items-center justify-between flex-wrap gap-2 mb-4">
                             <div class="flex items-center gap-2 flex-wrap">
-                                ${this.isMock ? '<span class="text-xs font-bold text-slate-400 bg-slate-900 px-2 py-1 rounded-md">Mock Exam</span>' : subjectPill(q.subject)}
+                                ${this.isMock ? '<span class="text-xs font-bold text-slate-500 bg-slate-100 px-2 py-1 rounded-md">Mock Exam</span>' : subjectPill(q.subject)}
                                 ${this.isMock ? '' : (q.lm?`<span class="text-xs text-slate-400">${q.lm}</span>`:'')}
                             </div>
                             <div class="flex items-center gap-2">
@@ -1004,7 +1004,7 @@ const app = {
                                 </button>
                             </div>
                         </div>
-                        <div class="prose prose-invert max-w-none text-slate-100 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.text)}</div>
+                        <div class="prose prose-slate max-w-none text-slate-800 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.text)}</div>
                         <div id="options-container">
                             ${(q.options||[]).map((opt,i)=>`
                                 <button class="option-btn ${i===sel?'selected-exam':''}" onclick="app.selectExamAnswer(${i})">
@@ -1016,15 +1016,15 @@ const app = {
                             <svg class="w-12 h-12 text-slate-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
                             </svg>
-                            <p class="text-slate-200 font-bold text-xl mb-1">Paused</p>
+                            <p class="text-slate-700 font-bold text-xl mb-1">Paused</p>
                             <p class="text-slate-400 text-sm mb-4">Your timer is stopped</p>
                             <button onclick="app.togglePause()" class="btn-primary">Resume →</button>
                         </div>
                     </div>
                     <!-- Nav buttons -->
                     <div class="flex justify-between mt-4">
-                        <button onclick="app.examNavigate(${this.quizIndex-1})" ${this.quizIndex===0?'disabled':''} class="px-4 py-2 text-sm font-semibold border border-slate-800 rounded-xl hover:bg-slate-800 disabled:opacity-40 disabled:cursor-not-allowed">← Prev</button>
-                        <button onclick="app.examNavigate(${this.quizIndex+1})" class="px-4 py-2 text-sm font-semibold border border-slate-800 rounded-xl hover:bg-slate-800">
+                        <button onclick="app.examNavigate(${this.quizIndex-1})" ${this.quizIndex===0?'disabled':''} class="px-4 py-2 text-sm font-semibold border border-slate-200 rounded-xl hover:bg-slate-50 disabled:opacity-40 disabled:cursor-not-allowed">← Prev</button>
+                        <button onclick="app.examNavigate(${this.quizIndex+1})" class="px-4 py-2 text-sm font-semibold border border-slate-200 rounded-xl hover:bg-slate-50">
                             ${this.quizIndex+1<this.quizQueue.length?'Next →':'Skip to Review →'}
                         </button>
                     </div>
@@ -1057,14 +1057,14 @@ const app = {
         const unanswered = this.quizQueue.length - answered;
 
         return `<div class="stat-card sticky top-0">
-            <p class="text-xs font-bold uppercase tracking-wide text-slate-400 mb-3">Navigator</p>
+            <p class="text-xs font-bold uppercase tracking-wide text-slate-500 mb-3">Navigator</p>
             <div class="nav-grid mb-4">${cells}</div>
             <div class="space-y-1 text-xs mb-4">
                 <div class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-slate-200 inline-block"></span>Unanswered (${unanswered})</div>
                 <div class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-blue-200 inline-block"></span>Answered (${answered})</div>
                 <div class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-yellow-200 inline-block"></span>Flagged (${flaggedCount})</div>
             </div>
-            <div class="text-xs text-slate-400 mb-3">Timer: <span id="nav-timer" class="font-mono font-bold text-slate-200">${this.formatTime(this.getElapsedSeconds())}</span></div>
+            <div class="text-xs text-slate-400 mb-3">Timer: <span id="nav-timer" class="font-mono font-bold text-slate-700">${this.formatTime(this.getElapsedSeconds())}</span></div>
             <button onclick="app.submitExam(document.getElementById('app-container'),false)" class="btn-primary w-full justify-center text-sm py-2">
                 Submit Exam
             </button>
@@ -1147,17 +1147,17 @@ const app = {
                          style="background:${acc>=70?'#dcfce7':acc>=50?'#fef9c3':'#fee2e2'}">
                         <span class="text-3xl font-black" style="color:${acc>=70?'#16a34a':acc>=50?'#ca8a04':'#dc2626'}">${acc}%</span>
                     </div>
-                    <h3 class="text-2xl font-bold text-slate-100 mb-1">Exam Complete</h3>
+                    <h3 class="text-2xl font-bold text-slate-800 mb-1">Exam Complete</h3>
                     <p class="text-slate-400 mb-5">${this.sessionCorrect} correct · ${this.sessionTotal-this.sessionCorrect} incorrect · ${this.quizQueue.length-this.sessionTotal} unanswered</p>
                     <div class="flex gap-3 justify-center">
                         <button onclick="app.renderQuizSetup(document.getElementById('app-container'))" class="btn-primary">New Session</button>
-                        <button onclick="app.navigate('dashboard')" class="px-4 py-2.5 border border-slate-700 rounded-xl text-sm font-semibold text-slate-300 hover:bg-slate-800">Dashboard</button>
+                        <button onclick="app.navigate('dashboard')" class="px-4 py-2.5 border border-slate-300 rounded-xl text-sm font-semibold text-slate-600 hover:bg-slate-50">Dashboard</button>
                     </div>
                 </div>
 
                 <!-- Question grid -->
                 <div class="stat-card mb-6">
-                    <h3 class="font-bold text-slate-100 mb-1">Question Review</h3>
+                    <h3 class="font-bold text-slate-800 mb-1">Question Review</h3>
                     <p class="text-xs text-slate-400 mb-4">Click any question to see details · 🟢 Correct · 🔴 Incorrect · 🟡 Flagged</p>
                     <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(36px, 1fr));gap:6px;">
                         ${cells}
@@ -1187,7 +1187,7 @@ const app = {
                     </div>
                     <span class="text-sm font-bold ${isC?'text-green-600':'text-red-600'}">${sel===null?'Unanswered':isC?'Correct':'Incorrect'}</span>
                 </div>
-                <div class="prose prose-invert max-w-none text-slate-100 font-medium mb-4 prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.text)}</div>
+                <div class="prose prose-slate max-w-none text-slate-800 font-medium mb-4 prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.text)}</div>
                 <div class="space-y-2 mb-4">
                     ${(q.options||[]).map((opt,idx)=>{
                         let extra='';
@@ -1200,7 +1200,7 @@ const app = {
                         </div>`;
                     }).join('')}
                 </div>
-                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-300 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
+                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-600 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
             </div>`;
     },
 
@@ -1215,15 +1215,15 @@ const app = {
                      style="background:${acc>=70?'#dcfce7':acc>=50?'#fef9c3':'#fee2e2'}">
                     <span class="text-3xl font-black" style="color:${acc>=70?'#16a34a':acc>=50?'#ca8a04':'#dc2626'}">${acc}%</span>
                 </div>
-                <h3 class="text-2xl font-bold text-slate-100 mb-1">Session Complete</h3>
+                <h3 class="text-2xl font-bold text-slate-800 mb-1">Session Complete</h3>
                 <p class="text-slate-400 mb-6">You scored ${this.sessionCorrect} out of ${this.sessionTotal}</p>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
-                    <div class="bg-green-50 rounded-xl p-4"><p class="text-2xl font-bold text-green-600">${this.sessionCorrect}</p><p class="text-xs text-slate-400">Correct</p></div>
-                    <div class="bg-red-50 rounded-xl p-4"><p class="text-2xl font-bold text-red-500">${this.sessionTotal-this.sessionCorrect}</p><p class="text-xs text-slate-400">Incorrect</p></div>
+                    <div class="bg-green-50 rounded-xl p-4"><p class="text-2xl font-bold text-green-600">${this.sessionCorrect}</p><p class="text-xs text-slate-500">Correct</p></div>
+                    <div class="bg-red-50 rounded-xl p-4"><p class="text-2xl font-bold text-red-500">${this.sessionTotal-this.sessionCorrect}</p><p class="text-xs text-slate-500">Incorrect</p></div>
                 </div>
                 <div class="flex gap-3">
                     <button onclick="app.renderQuizSetup(document.getElementById('app-container'))" class="btn-primary flex-1 justify-center">New Session</button>
-                    <button onclick="app.navigate('dashboard')" class="flex-1 py-2.5 border border-slate-700 rounded-xl text-sm font-semibold text-slate-300 hover:bg-slate-800">Dashboard</button>
+                    <button onclick="app.navigate('dashboard')" class="flex-1 py-2.5 border border-slate-300 rounded-xl text-sm font-semibold text-slate-600 hover:bg-slate-50">Dashboard</button>
                 </div>
             </div></div>`;
     },
@@ -1371,7 +1371,7 @@ const app = {
                             <svg class="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z"/></svg>
                         </div>
                         <div class="flex-1">
-                            <h3 class="font-bold text-slate-100 mb-1">Gemini API Key</h3>
+                            <h3 class="font-bold text-slate-800 mb-1">Gemini API Key</h3>
                             <p class="text-sm text-slate-400 mb-3">Used to extract questions. Stored locally in your browser only.</p>
                             <div class="flex gap-2">
                                 <input type="password" id="api-key" class="form-input flex-1" placeholder="AIzaSy..." value="${apiKey}">
@@ -1387,16 +1387,16 @@ const app = {
                             <svg class="w-5 h-5 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/></svg>
                         </div>
                         <div class="flex-1">
-                            <h3 class="font-bold text-slate-100 mb-1">Upload File</h3>
+                            <h3 class="font-bold text-slate-800 mb-1">Upload File</h3>
                             <p class="text-sm text-slate-400 mb-4">PDF or image — Gemini will extract all multiple-choice questions automatically.</p>
-                            <div class="border-2 border-dashed border-slate-800 rounded-xl p-6 text-center mb-5 hover:border-blue-400 transition-colors cursor-pointer" onclick="document.getElementById('file-upload').click()">
+                            <div class="border-2 border-dashed border-slate-200 rounded-xl p-6 text-center mb-5 hover:border-blue-400 transition-colors cursor-pointer" onclick="document.getElementById('file-upload').click()">
                                 <svg class="w-8 h-8 text-slate-300 mx-auto mb-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"/></svg>
                                 <p class="text-sm text-slate-400" id="file-label">Click to upload PDF or Image</p>
                                 <p class="text-xs text-slate-300 mt-1">PDF · PNG · JPG  ·  max 5 pages per batch</p>
                                 <input type="file" id="file-upload" class="hidden" accept=".pdf,.png,.jpg,.jpeg" onchange="document.getElementById('file-label').textContent=this.files[0]?.name||'Click to upload'">
                             </div>
                             <div class="mb-4">
-                                <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-1">Source / Question Bank <span class="text-red-400">*</span></label>
+                                <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-1">Source / Question Bank <span class="text-red-400">*</span></label>
                                 <div class="flex gap-2">
                                     <select id="ingest-source-select" class="form-input flex-1" onchange="app.onSourceSelectChange()">
                                         <option value="">— Select existing source —</option>
@@ -1408,14 +1408,14 @@ const app = {
                             </div>
                             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-5">
                                 <div>
-                                    <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-1">Topic Area <span class="text-red-400">*</span></label>
+                                    <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-1">Topic Area <span class="text-red-400">*</span></label>
                                     <select id="ingest-subject" class="form-input" onchange="app.onSubjectChange()">
                                         <option value="">— Select topic area —</option>
                                         ${SUBJECT_LIST.map(s=>`<option value="${s}">${s}</option>`).join('')}
                                     </select>
                                 </div>
                                 <div>
-                                    <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wide mb-1">Learning Module <span class="text-slate-300">(optional)</span></label>
+                                    <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-1">Learning Module <span class="text-slate-300">(optional)</span></label>
                                     <select id="ingest-lm" class="form-input" disabled>
                                         <option value="">— Select topic area first —</option>
                                     </select>
@@ -1460,13 +1460,13 @@ const app = {
         if(!subject) { showToast('Please select a topic area','error'); return; }
         if(!fileInput.files.length){ showToast('Please select a file','error'); return; }
         const file=fileInput.files[0], statusDiv=document.getElementById('ingest-status');
-        statusDiv.innerHTML=`<div class="flex items-center gap-3 text-sm text-slate-300"><div class="spinner w-5 h-5"></div> Processing…</div>`;
+        statusDiv.innerHTML=`<div class="flex items-center gap-3 text-sm text-slate-600"><div class="spinner w-5 h-5"></div> Processing…</div>`;
         try {
             let imgs=[];
-            if(file.type==='application/pdf'){ statusDiv.innerHTML=`<div class="flex items-center gap-3 text-sm text-slate-300"><div class="spinner w-5 h-5"></div> Converting PDF pages…</div>`; imgs=await this.convertPdfToImages(file); }
+            if(file.type==='application/pdf'){ statusDiv.innerHTML=`<div class="flex items-center gap-3 text-sm text-slate-600"><div class="spinner w-5 h-5"></div> Converting PDF pages…</div>`; imgs=await this.convertPdfToImages(file); }
             else if(file.type.startsWith('image/')){ const b64=await this.fileToBase64(file); imgs=[b64.split(',')[1]]; }
             else throw new Error('Unsupported file type');
-            statusDiv.innerHTML=`<div class="flex items-center gap-3 text-sm text-slate-300"><div class="spinner w-5 h-5"></div> Asking Gemini… (${imgs.length} page${imgs.length>1?'s':''})</div>`;
+            statusDiv.innerHTML=`<div class="flex items-center gap-3 text-sm text-slate-600"><div class="spinner w-5 h-5"></div> Asking Gemini… (${imgs.length} page${imgs.length>1?'s':''})</div>`;
             const extracted=await this.callGeminiAPI(apiKey,imgs,subject,lm);
             for(const q of extracted) await db.questions.add({ source, subject, lm: q.lm||lm||'', text:q.text, options:q.options, correctAnswer:q.correctAnswer, explanation:q.explanation||'' });
             statusDiv.innerHTML=`<div class="flex items-center gap-2 text-green-700 bg-green-50 border border-green-200 rounded-xl p-3 text-sm font-medium"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg> Added ${extracted.length} questions to <strong>${source}</strong></div>`;
@@ -1520,22 +1520,22 @@ Return ONLY a valid JSON array (no markdown). Each element:
         c.innerHTML=`
             <div class="max-w-2xl mx-auto space-y-6">
                 <div class="stat-card">
-                    <h3 class="font-bold text-slate-100 mb-4">Question Bank</h3>
+                    <h3 class="font-bold text-slate-800 mb-4">Question Bank</h3>
                     <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
-                        <div class="bg-blue-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-blue-700">${qCount}</p><p class="text-xs text-slate-400 mt-1">Questions</p></div>
-                        <div class="bg-purple-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-purple-700">${aCount}</p><p class="text-xs text-slate-400 mt-1">Attempts</p></div>
-                        <div class="bg-yellow-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-yellow-600">${flagCount}</p><p class="text-xs text-slate-400 mt-1">Flagged</p></div>
+                        <div class="bg-blue-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-blue-700">${qCount}</p><p class="text-xs text-slate-500 mt-1">Questions</p></div>
+                        <div class="bg-purple-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-purple-700">${aCount}</p><p class="text-xs text-slate-500 mt-1">Attempts</p></div>
+                        <div class="bg-yellow-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-yellow-600">${flagCount}</p><p class="text-xs text-slate-500 mt-1">Flagged</p></div>
                     </div>
-                    <h4 class="text-sm font-semibold text-slate-300 mb-3">By Source</h4>
+                    <h4 class="text-sm font-semibold text-slate-600 mb-3">By Source</h4>
                     <div class="space-y-2 mb-6">
                         ${sources.map(s=>{
                             const qs=allQ.filter(q=>(q.source||'Unknown')===s);
-                            return `<div class="flex items-center justify-between p-3 bg-slate-800 rounded-xl">
-                                <div><p class="text-sm font-semibold text-slate-200">${s}</p>
+                            return `<div class="flex items-center justify-between p-3 bg-slate-50 rounded-xl">
+                                <div><p class="text-sm font-semibold text-slate-700">${s}</p>
                                     <p class="text-xs text-slate-400">${[...new Set(qs.map(q=>q.subject))].join(', ')}</p>
                                 </div>
                                 <div class="flex items-center gap-3">
-                                    <span class="text-sm font-bold text-slate-300">${qs.length} q</span>
+                                    <span class="text-sm font-bold text-slate-600">${qs.length} q</span>
                                     <button onclick="app.deleteSource('${s.replace(/'/g,"\\'")}')\" class="text-xs text-red-400 hover:text-red-600">Delete</button>
                                 </div></div>`;
                         }).join('')}
@@ -1549,9 +1549,9 @@ Return ONLY a valid JSON array (no markdown). Each element:
                     <p class="text-xs text-slate-400 mt-3">⚠️ Data lives in your browser. Export regularly.</p>
                 </div>
                 
-                      <div class="bg-slate-950 rounded-2xl p-6 border border-slate-800 shadow-sm">
-                          <h3 class="text-lg font-bold text-slate-100 mb-4">Bulk Import CSV</h3>
-                          <p class="text-sm text-slate-300 mb-4">Upload a CSV file with columns: <strong>Source, Subject, LM, Text, Option A, Option B, Option C, Correct Answer, Explanation</strong>.</p>
+                      <div class="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
+                          <h3 class="text-lg font-bold text-slate-800 mb-4">Bulk Import CSV</h3>
+                          <p class="text-sm text-slate-600 mb-4">Upload a CSV file with columns: <strong>Source, Subject, LM, Text, Option A, Option B, Option C, Correct Answer, Explanation</strong>.</p>
                           <input type="file" id="csv-upload" accept=".csv" class="hidden" onchange="app.handleCSVUpload(event)">
                           <button onclick="document.getElementById('csv-upload').click()" class="px-4 py-2 bg-blue-600 text-white rounded-xl hover:bg-blue-700 text-sm font-semibold">
                               Select CSV File
@@ -1562,15 +1562,15 @@ Return ONLY a valid JSON array (no markdown). Each element:
                     <h3 class="font-bold text-red-700 mb-3">Danger Zone</h3>
                     <div class="space-y-3">
                         <div class="flex items-center justify-between p-3 bg-red-50 rounded-xl">
-                            <div><p class="text-sm font-semibold text-slate-200">Clear Flags</p><p class="text-xs text-slate-400">Remove all flagged question markers.</p></div>
+                            <div><p class="text-sm font-semibold text-slate-700">Clear Flags</p><p class="text-xs text-slate-400">Remove all flagged question markers.</p></div>
                             <button onclick="app.clearFlags()" class="btn-danger">Clear</button>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-red-50 rounded-xl">
-                            <div><p class="text-sm font-semibold text-slate-200">Reset Progress</p><p class="text-xs text-slate-400">Delete all attempt history. Questions remain.</p></div>
+                            <div><p class="text-sm font-semibold text-slate-700">Reset Progress</p><p class="text-xs text-slate-400">Delete all attempt history. Questions remain.</p></div>
                             <button onclick="app.clearAttempts()" class="btn-danger">Reset</button>
                         </div>
                         <div class="flex items-center justify-between p-3 bg-red-50 rounded-xl">
-                            <div><p class="text-sm font-semibold text-slate-200">Clear All Data</p><p class="text-xs text-slate-400">Delete all questions AND attempts permanently.</p></div>
+                            <div><p class="text-sm font-semibold text-slate-700">Clear All Data</p><p class="text-xs text-slate-400">Delete all questions AND attempts permanently.</p></div>
                             <button onclick="app.clearDatabase()" class="btn-danger">Delete All</button>
                         </div>
                     </div>
