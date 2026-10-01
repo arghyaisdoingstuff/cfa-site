@@ -246,7 +246,7 @@ const app = {
 
     seedSampleQuestions: async function () {
         // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v16-pm-quants';
+        const SEED_VERSION = 'v17-vikas-reformat';
         const seeded = localStorage.getItem('cfaSeedVersion');
         if (seeded !== SEED_VERSION) {
             // Clear ALL existing questions and attempts so we start fresh with the new set
