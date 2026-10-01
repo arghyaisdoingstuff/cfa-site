@@ -268,68 +268,30 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v48-practice-layout';
+        const SEED_VERSION = 'v49-clean-seed';
         const seeded = localStorage.getItem('cfaSeedVersion');
-        
+
         if (seeded !== SEED_VERSION) {
-            // --- CLEANUP STEP FOR MOCKS ---
-            // If the user replaces a mock, we need to nuke old copies from the DB so they don't duplicate 
-            // when text fixes make them appear as "new" questions.
-            const allQBefore = await db.questions.toArray();
-            const mockQs = allQBefore.filter(q => q.mockName === 'Mock Exam 1' || q.source === 'Mock: Mock Exam 1');
-            if (mockQs.length > 0) {
-                const mockIds = mockQs.map(q => q.id);
-                await db.questions.bulkDelete(mockIds);
-                console.log(`Deleted ${mockIds.length} old mock questions to prevent duplication.`);
-            }
-            // ------------------------------
-            
-            const existingQ = await db.questions.toArray();
-            
-            if (existingQ.length === 0) {
-                await db.questions.bulkAdd(window.ALL_QUESTIONS);
-            } else {
-                const existingMap = new Map();
-                for (const q of existingQ) existingMap.set(q.text + '|' + (q.mockName || ''), q);
-                
-                const toAdd = [];
-                const toUpdate = [];
-                
-                for (const sq of window.ALL_QUESTIONS) {
-                    const eq = existingMap.get(sq.text + '|' + (sq.mockName || ''));
-                    if (!eq) {
-                        toAdd.push(sq);
-                    } else {
-                        let needsUpdate = false;
-                        if (eq.explanation !== sq.explanation || 
-                            eq.correctAnswer !== sq.correctAnswer ||
-                            eq.lm !== sq.lm ||
-                            eq.subject !== sq.subject ||
-                            eq.mockName !== sq.mockName ||
-                            eq.session !== sq.session ||
-                            JSON.stringify(eq.options) !== JSON.stringify(sq.options)) {
-                            needsUpdate = true;
-                        }
-                        if (needsUpdate) {
-                            toUpdate.push({
-                                ...eq,
-                                explanation: sq.explanation,
-                                correctAnswer: sq.correctAnswer,
-                                lm: sq.lm,
-                                subject: sq.subject,
-                                options: sq.options,
-                                source: sq.source
-                            });
-                        }
-                    }
-                }
-                
-                if (toAdd.length > 0) await db.questions.bulkAdd(toAdd);
-                if (toUpdate.length > 0) await db.questions.bulkPut(toUpdate);
-            }
-            
+            // Collect sources shipped with the app (static sources).
+            // We identify them by looking at ALL_QUESTIONS source values.
+            const staticSources = new Set(window.ALL_QUESTIONS.map(q => q.source || 'Unknown'));
+            const staticMockNames = new Set(window.ALL_QUESTIONS.filter(q => q.mockName).map(q => q.mockName));
+
+            // Delete every question that came from a static source so we can re-add cleanly.
+            // User-uploaded questions (not in staticSources and no mockName from static mocks) are preserved.
+            const allExisting = await db.questions.toArray();
+            const toDeleteIds = allExisting
+                .filter(q => staticSources.has(q.source || 'Unknown') || staticMockNames.has(q.mockName))
+                .map(q => q.id);
+
+            if (toDeleteIds.length > 0) await db.questions.bulkDelete(toDeleteIds);
+
+            // Re-add all static questions fresh.
+            await db.questions.bulkAdd(window.ALL_QUESTIONS);
             localStorage.setItem('cfaSeedVersion', SEED_VERSION);
+            console.log(`Seeded ${window.ALL_QUESTIONS.length} questions (v49).`);
         } else if ((await db.questions.count()) === 0) {
+            // DB was wiped manually — reseed.
             await db.questions.bulkAdd(window.ALL_QUESTIONS);
         }
     },
@@ -359,6 +321,8 @@ const app = {
     toggleSidebar: function() { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(!s || !o) return; if(s.classList.contains("-translate-x-full")) { s.classList.remove("-translate-x-full"); o.classList.remove("hidden"); } else { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } },
     navigate: function (view) {
         this.currentView = view;
+        // Clear quiz cache when leaving the quiz tab so counts are always fresh
+        if (view !== 'quiz') window._quizAllQ = null;
         if(window.innerWidth < 768) { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(s && o) { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } }
         document.querySelectorAll('.nav-link').forEach(el =>
             el.classList.toggle('active', el.dataset.view === view));
@@ -738,9 +702,7 @@ const app = {
                         </div>
                     </div>
 
-                    <button onclick="app.startQuizSession()" class="btn-primary w-full justify-center py-3 text-base">
-                        ${this.quizMode==='exam'?'Begin Exam →':'Start Practice →'}
-                    </button>
+                    <button onclick="app.startQuizSession()" class="btn-primary w-full justify-center py-3 text-base">Start Practice →</button>
 
                     <!-- Keyboard hints -->
                     <div class="shortcut-bar mt-4 pt-4 border-t border-slate-100 dark:border-zinc-800">
@@ -909,7 +871,7 @@ const app = {
             <div class="max-w-4xl mx-auto">
                 <!-- Top bar -->
                 <div class="flex items-center justify-between mb-2">
-                    <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to setup</button>
+                    <button onclick="(app.sessionTotal>0&&!confirm('Abandon this session?'))||app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to setup</button>
                     <span class="text-sm text-slate-400 dark:text-zinc-500">${this.sessionCorrect}/${this.sessionTotal} correct</span>
                 </div>
                 <div class="flex items-center gap-2 mb-4">
@@ -1056,7 +1018,7 @@ const app = {
                 <!-- Question -->
                 <div class="flex-1 min-w-0">
                     <div class="flex items-center justify-between mb-3">
-                        <button onclick="app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to setup</button>
+                        <button onclick="(app.sessionTotal>0&&!confirm('Abandon this session?'))||app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to setup</button>
                         <span class="text-sm text-slate-400 dark:text-zinc-500">${this.examAnswers.filter(a=>a!==null).length}/${this.quizQueue.length} answered</span>
                     </div>
                     <div class="stat-card relative" id="question-card">
@@ -1168,6 +1130,7 @@ const app = {
     },
 
     submitExam: async function(c, auto) {
+        if (this._submitting) return; this._submitting = true;
         const unanswered = this.examAnswers.filter(a=>a===null).length;
         if (!auto && unanswered > 0) {
             if (!confirm(`You have ${unanswered} unanswered question${unanswered>1?'s':''}. Submit anyway?`)) return;
@@ -1189,6 +1152,7 @@ const app = {
             });
         }
         await this.updateSidebarStats();
+        this._submitting = false;
         await this.renderExamReview(c);
     },
 
@@ -1753,8 +1717,19 @@ Return ONLY a valid JSON array (no markdown). Each element:
                         });
                     }
                     if (qs.length > 0) {
-                        await db.questions.bulkAdd(qs);
-                        showToast(`Successfully imported ${qs.length} questions!`, 'success');
+                        // Deduplicate against existing questions by text
+                        const existing = await db.questions.toArray();
+                        const existingTexts = new Set(existing.map(q => q.text.trim()));
+                        const deduped = qs.filter(q => !existingTexts.has(q.text.trim()));
+                        const dupeCount = qs.length - deduped.length;
+                        if (deduped.length > 0) {
+                            await db.questions.bulkAdd(deduped);
+                            let msg = `Imported ${deduped.length} questions!`;
+                            if (dupeCount > 0) msg += ` (${dupeCount} duplicates skipped)`;
+                            showToast(msg, 'success');
+                        } else {
+                            showToast(`All ${qs.length} questions already exist — nothing added.`, 'info');
+                        }
                         await this.renderSettings(document.getElementById('app-container'));
                         await this.updateSidebarStats();
                     } else {
