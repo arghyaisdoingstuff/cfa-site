@@ -1,6 +1,29 @@
 // ─────────────────────────────────────────────────────────
 // 2026 CFA Level I Curriculum
 // ─────────────────────────────────────────────────────────
+
+window.renderMarkdown = function(text) {
+    if (!text) return '';
+    let processed = text.replace(/(?:^[ \t]*\|.*\|[ \t]*\n?)+/gm, (match) => {
+        const lines = match.trim().split('\n');
+        const hasDelimiter = lines.some(line => /^[\s|:\-]+$/.test(line) && line.includes('-'));
+        if (hasDelimiter) return match;
+        
+        let maxCols = 0;
+        lines.forEach(line => {
+            const cols = (line.match(/\|/g) || []).length - 1;
+            if (cols > maxCols) maxCols = cols;
+        });
+        if (maxCols < 1) return match;
+        
+        const header = '|' + Array(maxCols).fill('   ').join('|') + '|';
+        const delimiter = '|' + Array(maxCols).fill('---').join('|') + '|';
+        
+        return '\n' + header + '\n' + delimiter + '\n' + lines.join('\n') + '\n';
+    });
+    return typeof marked !== "undefined" ? marked.parse(processed) : processed;
+};
+
 const CFA_CURRICULUM = {
     'Ethical & Professional Standards': [
         'LM1 – Ethics and Trust in the Investment Profession',
@@ -246,7 +269,7 @@ const app = {
 
     seedSampleQuestions: async function () {
         // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v21-skip-btn';
+        const SEED_VERSION = 'v30-force-cache-clear';
         const seeded = localStorage.getItem('cfaSeedVersion');
         if (seeded !== SEED_VERSION) {
             // Clear ALL existing questions and attempts so we start fresh with the new set
