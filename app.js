@@ -601,22 +601,44 @@ const app = {
         if (type==='lm')      this.filterLm      = value;
         const allQ = window._quizAllQ || await db.questions.toArray();
         const aIds = window._attemptedIds || new Set(), wIds = window._wrongIds || new Set(), fIds = window._flaggedIds || new Set();
+        
+        const matchesStatus = (q) => {
+            if (this.filterStatus === 'unattempted') return !aIds.has(q.id);
+            if (this.filterStatus === 'wrong') return wIds.has(q.id);
+            if (this.filterStatus === 'flagged') return fIds.has(q.id);
+            return true;
+        };
+        const matchesSource = (q) => this.filterSource === 'all' || (q.source || 'Unknown') === this.filterSource;
+        const matchesSubject = (q) => this.filterSubject === 'all' || q.subject === this.filterSubject;
+        
         const sources  = [...new Set(allQ.map(q=>q.source||'Unknown'))].sort();
         const subjects = SUBJECT_LIST.filter(s=>allQ.some(q=>q.subject===s));
-        const refresh  = (id,ft,cur,items,lFn,cFn) => {
+        
+        const refresh  = (id,ft,cur,items,lFn,cFn, totalFn) => {
             const el=document.getElementById(id); if(!el)return;
-            el.innerHTML = this.filterChip(ft,'all',ft==='source'?'All Sources':ft==='subject'?'All Topics':'All Questions',allQ.length,cur)
+            el.innerHTML = this.filterChip(ft,'all',ft==='source'?'All Sources':ft==='subject'?'All Topics':'All Questions',totalFn(),cur)
                 + items.map(s=>this.filterChip(ft,s,lFn(s),cFn(s),cur)).join('');
         };
-        // Status filter
+        
         const sEl = document.getElementById('status-filters');
-        if (sEl) sEl.innerHTML =
-            this.filterChip('status','all','All Questions',allQ.length,this.filterStatus)+
-            this.filterChip('status','unattempted','Unattempted',allQ.filter(q=>!aIds.has(q.id)).length,this.filterStatus)+
-            this.filterChip('status','wrong','Previously Wrong',allQ.filter(q=>wIds.has(q.id)).length,this.filterStatus)+
-            this.filterChip('status','flagged','🚩 Flagged',allQ.filter(q=>fIds.has(q.id)).length,this.filterStatus);
-        refresh('source-filters','source',this.filterSource,sources,s=>s,s=>allQ.filter(q=>(q.source||'Unknown')===s).length);
-        refresh('subject-filters','subject',this.filterSubject,subjects,s=>s,s=>allQ.filter(q=>q.subject===s).length);
+        if (sEl) {
+            const baseForStatus = allQ.filter(q => matchesSource(q) && matchesSubject(q));
+            sEl.innerHTML =
+                this.filterChip('status','all','All Questions',baseForStatus.length,this.filterStatus)+
+                this.filterChip('status','unattempted','Unattempted',baseForStatus.filter(q=>!aIds.has(q.id)).length,this.filterStatus)+
+                this.filterChip('status','wrong','Previously Wrong',baseForStatus.filter(q=>wIds.has(q.id)).length,this.filterStatus)+
+                this.filterChip('status','flagged','?? Flagged',baseForStatus.filter(q=>fIds.has(q.id)).length,this.filterStatus);
+        }
+        
+        const baseForSource = allQ.filter(q => matchesStatus(q) && matchesSubject(q));
+        refresh('source-filters','source',this.filterSource,sources,s=>s,
+            s=>baseForSource.filter(q=>(q.source||'Unknown')===s).length,
+            ()=>baseForSource.length);
+            
+        const baseForSubject = allQ.filter(q => matchesStatus(q) && matchesSource(q));
+        refresh('subject-filters','subject',this.filterSubject,subjects,s=>s,
+            s=>baseForSubject.filter(q=>q.subject===s).length,
+            ()=>baseForSubject.length);
         const lmSec=document.getElementById('lm-filter-section'); if(lmSec) lmSec.style.display=this.filterSubject==='all'?'none':'';
         if (this.filterSubject!=='all') this.updateLmFilters(allQ);
         this.updateAvailableCount(allQ);
