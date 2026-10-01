@@ -646,9 +646,20 @@ const app = {
 
     updateLmFilters: function(allQ) {
         const el=document.getElementById('lm-filters'); if(!el)return;
-        const lms=[...new Set(allQ.filter(q=>q.subject===this.filterSubject).map(q=>q.lm||'Unassigned'))].sort();
-        el.innerHTML = this.filterChip('lm','all','All LMs',allQ.filter(q=>q.subject===this.filterSubject).length,this.filterLm)
-            + lms.map(lm=>this.filterChip('lm',lm,lm,allQ.filter(q=>q.subject===this.filterSubject&&(q.lm||'Unassigned')===lm).length,this.filterLm)).join('');
+        
+        const aIds=window._attemptedIds||new Set(), wIds=window._wrongIds||new Set(), fIds=window._flaggedIds||new Set();
+        const base = allQ.filter(q => {
+            if (this.filterStatus==='unattempted' && aIds.has(q.id)) return false;
+            if (this.filterStatus==='wrong' && !wIds.has(q.id)) return false;
+            if (this.filterStatus==='flagged' && !fIds.has(q.id)) return false;
+            if (this.filterSource!=='all' && (q.source||'Unknown')!==this.filterSource) return false;
+            if (q.subject !== this.filterSubject) return false;
+            return true;
+        });
+
+        const lms=[...new Set(base.map(q=>q.lm||'Unassigned'))].sort();
+        el.innerHTML = this.filterChip('lm','all','All LMs',base.length,this.filterLm)
+            + lms.map(lm=>this.filterChip('lm',lm,lm,base.filter(q=>(q.lm||'Unassigned')===lm).length,this.filterLm)).join('');
     },
 
     applyFilters: function(allQ) {
