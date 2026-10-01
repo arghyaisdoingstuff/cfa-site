@@ -268,10 +268,22 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v39-mock-1-complete';
+        const SEED_VERSION = 'v40-mock-1-cleanup';
         const seeded = localStorage.getItem('cfaSeedVersion');
         
         if (seeded !== SEED_VERSION) {
+            // --- CLEANUP STEP FOR MOCKS ---
+            // If the user replaces a mock, we need to nuke old copies from the DB so they don't duplicate 
+            // when text fixes make them appear as "new" questions.
+            const allQBefore = await db.questions.toArray();
+            const mockQs = allQBefore.filter(q => q.mockName === 'Mock Exam 1' || q.source === 'Mock: Mock Exam 1');
+            if (mockQs.length > 0) {
+                const mockIds = mockQs.map(q => q.id);
+                await db.questions.bulkDelete(mockIds);
+                console.log(`Deleted ${mockIds.length} old mock questions to prevent duplication.`);
+            }
+            // ------------------------------
+            
             const existingQ = await db.questions.toArray();
             
             if (existingQ.length === 0) {
