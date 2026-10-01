@@ -151,7 +151,7 @@ body { overflow: hidden; }
 /* ── Exam Navigator ── */
 .nav-grid {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(auto-fill, minmax(36px, 1fr));
     gap: 5px;
 }
 .nav-cell {

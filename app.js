@@ -2290,7 +2290,7 @@ const app = {
             .map(([n,s])=>({n,acc:Math.round(s.c/s.t*100)})).sort((a,b)=>a.acc-b.acc).slice(0,3);
 
         c.innerHTML = `
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-5 mb-8">
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 mb-8">
                 ${this.kpiCard('Questions Attempted',total,'','#3b82f6',`of ${qTotal} in bank`)}
                 ${this.kpiCard('Overall Accuracy',acc,'%',acc>=70?'#16a34a':acc>=50?'#f59e0b':'#ef4444',this.accLabel(acc))}
                 ${this.kpiCard('Avg Time / Question',avgTime,'s','#8b5cf6','per question')}
@@ -2997,7 +2997,7 @@ const app = {
                 </div>
                 <h3 class="text-2xl font-bold text-slate-800 mb-1">Session Complete</h3>
                 <p class="text-slate-400 mb-6">You scored ${this.sessionCorrect} out of ${this.sessionTotal}</p>
-                <div class="grid grid-cols-2 gap-4 mb-6">
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
                     <div class="bg-green-50 rounded-xl p-4"><p class="text-2xl font-bold text-green-600">${this.sessionCorrect}</p><p class="text-xs text-slate-500">Correct</p></div>
                     <div class="bg-red-50 rounded-xl p-4"><p class="text-2xl font-bold text-red-500">${this.sessionTotal-this.sessionCorrect}</p><p class="text-xs text-slate-500">Incorrect</p></div>
                 </div>
@@ -3186,7 +3186,7 @@ const app = {
                                 </div>
                                 <input type="text" id="ingest-source-new" class="form-input mt-2 hidden" placeholder="e.g. Mark Meldrum, CFAI Premium Pack, Schweser QBank…">
                             </div>
-                            <div class="grid grid-cols-2 gap-3 mb-5">
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-5">
                                 <div>
                                     <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wide mb-1">Topic Area <span class="text-red-400">*</span></label>
                                     <select id="ingest-subject" class="form-input" onchange="app.onSubjectChange()">
@@ -3301,7 +3301,7 @@ Return ONLY a valid JSON array (no markdown). Each element:
             <div class="max-w-2xl mx-auto space-y-6">
                 <div class="stat-card">
                     <h3 class="font-bold text-slate-800 mb-4">Question Bank</h3>
-                    <div class="grid grid-cols-3 gap-4 mb-6">
+                    <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
                         <div class="bg-blue-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-blue-700">${qCount}</p><p class="text-xs text-slate-500 mt-1">Questions</p></div>
                         <div class="bg-purple-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-purple-700">${aCount}</p><p class="text-xs text-slate-500 mt-1">Attempts</p></div>
                         <div class="bg-yellow-50 rounded-xl p-4 text-center"><p class="text-3xl font-bold text-yellow-600">${flagCount}</p><p class="text-xs text-slate-500 mt-1">Flagged</p></div>
