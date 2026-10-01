@@ -752,7 +752,7 @@ const app = {
                             </button>
                         </div>
                     </div>
-                    <div class="prose prose-slate max-w-none text-slate-800 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${typeof marked !== "undefined" ? marked.parse(q.text) : q.text}</div>
+                    <div class="prose prose-slate max-w-none text-slate-800 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${window.renderMarkdown(q.text)}</div>
                     <div id="options-container">
                         ${(q.options||[]).map((opt,i)=>`
                             <button class="option-btn" onclick="app.submitPracticeAnswer(${i})">
@@ -802,7 +802,7 @@ const app = {
                         : `<div class="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center"><svg class="w-5 h-5 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg></div><span class="font-bold text-red-700 text-lg">Incorrect</span>`}
                     <span class="ml-auto text-sm text-slate-400">⏱ ${timeTaken}s</span>
                 </div>
-                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-600 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${typeof marked !== "undefined" ? marked.parse(q.explanation) : q.explanation}</div></div>`:''}
+                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-600 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
                 <!-- Confidence rating -->
                 <div class="mt-4 pt-4 border-t border-slate-100">
                     <p class="text-xs font-semibold text-slate-500 uppercase tracking-wide mb-2">How confident were you?</p>
@@ -881,7 +881,7 @@ const app = {
                                 </button>
                             </div>
                         </div>
-                        <div class="prose prose-slate max-w-none text-slate-800 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2">${typeof marked !== "undefined" ? marked.parse(q.text) : q.text}</div>
+                        <div class="prose prose-slate max-w-none text-slate-800 font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.text)}</div>
                         <div id="options-container">
                             ${(q.options||[]).map((opt,i)=>`
                                 <button class="option-btn ${i===sel?'selected-exam':''}" onclick="app.selectExamAnswer(${i})">
@@ -1062,7 +1062,7 @@ const app = {
                     </div>
                     <span class="text-sm font-bold ${isC?'text-green-600':'text-red-600'}">${sel===null?'Unanswered':isC?'Correct':'Incorrect'}</span>
                 </div>
-                <div class="prose prose-slate max-w-none text-slate-800 font-medium mb-4 prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${typeof marked !== "undefined" ? marked.parse(q.text) : q.text}</div>
+                <div class="prose prose-slate max-w-none text-slate-800 font-medium mb-4 prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.text)}</div>
                 <div class="space-y-2 mb-4">
                     ${(q.options||[]).map((opt,idx)=>{
                         let extra='';
@@ -1075,7 +1075,7 @@ const app = {
                         </div>`;
                     }).join('')}
                 </div>
-                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-600 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${typeof marked !== "undefined" ? marked.parse(q.explanation) : q.explanation}</div></div>`:''}
+                ${q.explanation?`<div class="explanation-box"><p class="text-xs font-semibold uppercase tracking-wide text-blue-700 mb-2">Explanation</p><div class="prose prose-sm prose-slate max-w-none text-slate-600 leading-relaxed prose-p:my-1 prose-table:my-2 prose-th:p-2 prose-td:p-2">${window.renderMarkdown(q.explanation)}</div></div>`:''}
             </div>`;
     },
 
