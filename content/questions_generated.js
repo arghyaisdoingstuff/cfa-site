@@ -22778,7 +22778,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 1: Jolene Campbell, CFA, a well-known analyst, is working on a report about XLK Autos (XLK). XLK is developing a fuel-efficient car about which no public information is yet available. Campbell uses financial data and information gathered from automobile experts not connected to XLK about the commercial viability of XLK's project. She then issues a \"buy\" recommendation on the stock. Campbell sends her report exclusively to her firm's clients even though she expects her report to impact XLK's stock price. Has Campbell most likely violated the Standard relating to material nonpublic information?",
+        "text": "Jolene Campbell, CFA, a well-known analyst, is working on a report about XLK Autos (XLK). XLK is developing a fuel-efficient car about which no public information is yet available. Campbell uses financial data and information gathered from automobile experts not connected to XLK about the commercial viability of XLK's project. She then issues a \"buy\" recommendation on the stock. Campbell sends her report exclusively to her firm's clients even though she expects her report to impact XLK's stock price. Has Campbell most likely violated the Standard relating to material nonpublic information?",
         "options": [
             "No",
             "Yes, because she uses information that is not yet public",
@@ -22791,7 +22791,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 2: Rex Leopold, CFA, is a financial advisor. Leopold plans to leave his current employer to start his own competing business. During non-business hours, and before giving notice of termination to his current employer, Leopold undertakes preparations to start his own firm, including procuring the appropriate regulatory approvals, leasing office space, and hiring an office manager. Has Leopold most likely violated the Standards?",
+        "text": "Rex Leopold, CFA, is a financial advisor. Leopold plans to leave his current employer to start his own competing business. During non-business hours, and before giving notice of termination to his current employer, Leopold undertakes preparations to start his own firm, including procuring the appropriate regulatory approvals, leasing office space, and hiring an office manager. Has Leopold most likely violated the Standards?",
         "options": [
             "No.",
             "Yes, the Standard relating to loyalty.",
@@ -22804,7 +22804,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 3: A member holds a supervisory position in an investment firm. Which of the following Standards recommends that the member regularly engages in informal continuing education so that professional responsibilities are fulfilled? The Standard relating to:",
+        "text": "A member holds a supervisory position in an investment firm. Which of the following Standards recommends that the member regularly engages in informal continuing education so that professional responsibilities are fulfilled? The Standard relating to:",
         "options": [
             "suitability.",
             "competence.",
@@ -22817,7 +22817,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 4: The Standard relating to conduct as participants in CFA Institute programs prohibits candidates from:",
+        "text": "The Standard relating to conduct as participants in CFA Institute programs prohibits candidates from:",
         "options": [
             "discussing curriculum material with others.",
             "expressing disagreement with CFA Institute on its policies and procedures.",
@@ -22830,7 +22830,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 5: A 12-year old investment firm adopts the GIPS standards. To claim compliance with the GIPS standards, the firm is initially required to present GIPS-compliant performance history:",
+        "text": "A 12-year old investment firm adopts the GIPS standards. To claim compliance with the GIPS standards, the firm is initially required to present GIPS-compliant performance history:",
         "options": [
             "for at least five years.",
             "for at least ten years.",
@@ -22843,7 +22843,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 6: Toshi Hoda, CFA, is an analyst at a brokerage firm. Hoda holds shares in a company that he begins to cover. According to the Standard relating to avoid or disclose conflicts, Hoda is required to disclose his personal holdings to:",
+        "text": "Toshi Hoda, CFA, is an analyst at a brokerage firm. Hoda holds shares in a company that he begins to cover. According to the Standard relating to avoid or disclose conflicts, Hoda is required to disclose his personal holdings to:",
         "options": [
             "his employer only.",
             "his employer and his firm's clients only.",
@@ -22856,7 +22856,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 7: A firm claiming compliance with the GIPS standards:",
+        "text": "A firm claiming compliance with the GIPS standards:",
         "options": [
             "can claim compliance on specific composites.",
             "is responsible for maintaining that compliance.",
@@ -22869,7 +22869,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 8: In the absence of regulatory guidance, CFA Institute recommends that members maintain their investment research records for at least:",
+        "text": "In the absence of regulatory guidance, CFA Institute recommends that members maintain their investment research records for at least:",
         "options": [
             "3 years.",
             "5 years.",
@@ -22882,7 +22882,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 9: Based on his superior return history, Vijay Gupta, CFA, is interviewed by the First Faithful Church to manage the church\u2019s voluntary retirement plan\u2019s equity portfolio. Each church staff member chooses whether to opt in or out of the retirement plan according to his or her own investment objectives. The plan trustees tell Gupta that stocks of companies involved in the sale of alcohol, tobacco, gambling, or firearms are not acceptable investments given the objectives and constraints of the portfolio. Gupta tells the trustees he cannot reasonably execute the strategy he applies for his other clients with these restrictions and that all his other accounts hold shares of companies involved in these businesses because he believes they have the highest alpha. By agreeing to manage the account according to the trustees\u2019 wishes, does Gupta violate the CFA Institute Standards of Professional Conduct?",
+        "text": "Based on his superior return history, Vijay Gupta, CFA, is interviewed by the First Faithful Church to manage the church\u2019s voluntary retirement plan\u2019s equity portfolio. Each church staff member chooses whether to opt in or out of the retirement plan according to his or her own investment objectives. The plan trustees tell Gupta that stocks of companies involved in the sale of alcohol, tobacco, gambling, or firearms are not acceptable investments given the objectives and constraints of the portfolio. Gupta tells the trustees he cannot reasonably execute the strategy he applies for his other clients with these restrictions and that all his other accounts hold shares of companies involved in these businesses because he believes they have the highest alpha. By agreeing to manage the account according to the trustees\u2019 wishes, does Gupta violate the CFA Institute Standards of Professional Conduct?",
         "options": [
             "No",
             "Yes, because the manager was hired based upon his previous investment strategy",
@@ -22895,7 +22895,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 10: According to the recommended procedures for compliance with the Standard relating to additional compensation arrangements, a member receiving additional compensation must disclose to his employer in writing:",
+        "text": "According to the recommended procedures for compliance with the Standard relating to additional compensation arrangements, a member receiving additional compensation must disclose to his employer in writing:",
         "options": [
             "the nature of the compensation only.",
             "the approximate amount of the compensation only.",
@@ -22908,7 +22908,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 11: Which of the following is a key concept relating to the GIPS standards? The GIPS standards:",
+        "text": "Which of the following is a key concept relating to the GIPS standards? The GIPS standards:",
         "options": [
             "address every aspect of performance measurement.",
             "require firms to adhere to certain calculation methodologies to allow for comparability across firms.",
@@ -22921,7 +22921,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 12: Joy Nash, CFA, resides in Country 1, where applicable law is less strict than the Standards. Nash does business in Country 2, where applicable law is less strict than in Country 1. According to the Standards, when doing business in Country 2, Nash must follow:",
+        "text": "Joy Nash, CFA, resides in Country 1, where applicable law is less strict than the Standards. Nash does business in Country 2, where applicable law is less strict than in Country 1. According to the Standards, when doing business in Country 2, Nash must follow:",
         "options": [
             "the Code and Standards.",
             "applicable law of Country 1.",
@@ -22934,7 +22934,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 13: Agnes Trimbach, CFA, works at an investment firm that serves individual investors. Trimbach recommends the purchase of German government bonds to a client. She tells the client: \"The government guarantees that you will receive the promised principal and interest on the bonds. In addition, interest rate fluctuations could add to your gains or cause losses.\" Has Trimbach most likely violated the Standards?",
+        "text": "Agnes Trimbach, CFA, works at an investment firm that serves individual investors. Trimbach recommends the purchase of German government bonds to a client. She tells the client: \"The government guarantees that you will receive the promised principal and interest on the bonds. In addition, interest rate fluctuations could add to your gains or cause losses.\" Has Trimbach most likely violated the Standards?",
         "options": [
             "No",
             "Yes, the Standard relating to misrepresentation",
@@ -22947,7 +22947,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 14: Sandra Chen, CFA, works for a research firm. Vega Chen's research group identifies a low-volatility investment product as a viable risk-reduction strategy. The group prepares a report based on its findings. Chen believes the analysis is thorough and discloses the associated risks. However, Chen disagrees with the findings because she believes the product will be more volatile than the report suggests. She agrees to have her name included in the report. Has Chen most likely violated the Standards?",
+        "text": "Sandra Chen, CFA, works for a research firm. Vega Chen's research group identifies a low-volatility investment product as a viable risk-reduction strategy. The group prepares a report based on its findings. Chen believes the analysis is thorough and discloses the associated risks. However, Chen disagrees with the findings because she believes the product will be more volatile than the report suggests. She agrees to have her name included in the report. Has Chen most likely violated the Standards?",
         "options": [
             "No",
             "Yes, because she failed to dissociate herself with the report",
@@ -22960,7 +22960,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 15: Tomas Bo, CFA, an asset manager, receives an unsolicited stock order from a client. He discusses the order with his firm's analysts to determine how it will impact that client's portfolio. The analysts determine the stock to be undervalued and suitable for many of Bo's clients. Bo calls 100 other clients for whom the stock is suitable to recommend the stock. He then executes a single block trade for the original client as well as other clients for whom the stock is suitable. Bo most likely violated the Standards:",
+        "text": "Tomas Bo, CFA, an asset manager, receives an unsolicited stock order from a client. He discusses the order with his firm's analysts to determine how it will impact that client's portfolio. The analysts determine the stock to be undervalued and suitable for many of Bo's clients. Bo calls 100 other clients for whom the stock is suitable to recommend the stock. He then executes a single block trade for the original client as well as other clients for whom the stock is suitable. Bo most likely violated the Standards:",
         "options": [
             "only by executing the single block trade.",
             "only by discussing unsolicited client orders with his analysts.",
@@ -22973,7 +22973,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 16: Alan Quanta, CFA, provides credit rating analysis of high-yield bonds using external credit ratings as a foundation. At the end of the last quarter, Quanta\u2019s firm, North Investment Bank, held a large position in the bonds of Veyron Corporation, a real estate company with all of its land holdings in a country recently downgraded by several credit rating agencies. The downgrades made Veyron bonds extremely difficult to sell because the bond price has dropped every day since the downgrades. Quanta has been asked by his supervisor to contact the firm's institutional clients to convince them Veyron bonds are still an attractive purchase, especially at these lower prices. Quanta does not consider the Veyron bonds a buy at this price level. According to the CFA Institute Code of Ethics and Standards of Professional Conduct, the most appropriate action for Quanta is to:",
+        "text": "Alan Quanta, CFA, provides credit rating analysis of high-yield bonds using external credit ratings as a foundation. At the end of the last quarter, Quanta\u2019s firm, North Investment Bank, held a large position in the bonds of Veyron Corporation, a real estate company with all of its land holdings in a country recently downgraded by several credit rating agencies. The downgrades made Veyron bonds extremely difficult to sell because the bond price has dropped every day since the downgrades. Quanta has been asked by his supervisor to contact the firm's institutional clients to convince them Veyron bonds are still an attractive purchase, especially at these lower prices. Quanta does not consider the Veyron bonds a buy at this price level. According to the CFA Institute Code of Ethics and Standards of Professional Conduct, the most appropriate action for Quanta is to:",
         "options": [
             "obey his supervisor\u2019s request.",
             "ignore his supervisor's request.",
@@ -22986,7 +22986,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 17: To increase market participants' interest and trading volume in a company's stock, an advisor buys the stock and immediately sells it without causing large price movements. The advisor then shares consensus analyst earnings estimates for the company on social media. Has the advisor most likely violated the Standard relating to market manipulation?",
+        "text": "To increase market participants' interest and trading volume in a company's stock, an advisor buys the stock and immediately sells it without causing large price movements. The advisor then shares consensus analyst earnings estimates for the company on social media. Has the advisor most likely violated the Standard relating to market manipulation?",
         "options": [
             "No",
             "Yes, by widely sharing analyst earnings estimates for the company on social media",
@@ -22999,7 +22999,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 18: Werner Merz, CFA, manages a short-term corporate bond mutual fund at a subsidiary of Cygnet Bank. The president of Cygnet Bank tells Merz that the bank needs to sell some of its long-term government bond holdings; however, because market prices are below their purchase price of 100, a loss would be realized. The president asks Merz to purchase these bonds for the mutual fund at 100, assuring him that the fund can hold the bonds to maturity and get a full return of the initial investment. Merz purchases the bonds for the fund at 100 as requested. Merz has most likely violated the Standard(s) relating:",
+        "text": "Werner Merz, CFA, manages a short-term corporate bond mutual fund at a subsidiary of Cygnet Bank. The president of Cygnet Bank tells Merz that the bank needs to sell some of its long-term government bond holdings; however, because market prices are below their purchase price of 100, a loss would be realized. The president asks Merz to purchase these bonds for the mutual fund at 100, assuring him that the fund can hold the bonds to maturity and get a full return of the initial investment. Merz purchases the bonds for the fund at 100 as requested. Merz has most likely violated the Standard(s) relating:",
         "options": [
             "only to suitability.",
             "only to loyalty, prudence, and care.",
@@ -23012,7 +23012,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 19: A member presents investment performance to potential clients. According to the Standard relating to performance presentation, the member is permitted to omit which of the following in his presentation?",
+        "text": "A member presents investment performance to potential clients. According to the Standard relating to performance presentation, the member is permitted to omit which of the following in his presentation?",
         "options": [
             "Only simulated results as a source of performance data.",
             "Only supporting details of recommendations if the details are made available upon request.",
@@ -23025,7 +23025,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 20: Maria Bendez, CFA, is a well-known analyst. She sends her recommendations to all of her firm clients. However, Bendez does not disseminate her recommendations to the public even though she believes that her recommendations could affect security prices. A client calls her and says: \"Maria, thank you! Every time you send me your recommendations, I think you provide me with an advantage over other market participants.\" Has Bendez most likely violated the Standards?",
+        "text": "Maria Bendez, CFA, is a well-known analyst. She sends her recommendations to all of her firm clients. However, Bendez does not disseminate her recommendations to the public even though she believes that her recommendations could affect security prices. A client calls her and says: \"Maria, thank you! Every time you send me your recommendations, I think you provide me with an advantage over other market participants.\" Has Bendez most likely violated the Standards?",
         "options": [
             "No",
             "Yes, the Standard relating to material nonpublic information",
@@ -23038,7 +23038,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 21: Hina Khan, CFA, works with ABC Bank. Khan refers clients to other business units of ABC Bank when clients need such services. She does not disclose to her clients the referral fee arrangement she has with the other business units as it is an arrangement within the bank. Has Khan violated the Standards?",
+        "text": "Hina Khan, CFA, works with ABC Bank. Khan refers clients to other business units of ABC Bank when clients need such services. She does not disclose to her clients the referral fee arrangement she has with the other business units as it is an arrangement within the bank. Has Khan violated the Standards?",
         "options": [
             "No",
             "Yes, the Standard relating to fair dealing",
@@ -23051,7 +23051,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 22: John Pedersen, CFA, writes in his firm's promotional material: Statement 1: \"I passed all three CFA Program examinations in three consecutive years.\" Statement 2: \"Being a CFA charterholder, I am among the elite of investment professionals.\" Has Pedersen most likely violated the Standard(s)?",
+        "text": "John Pedersen, CFA, writes in his firm's promotional material: Statement 1: \"I passed all three CFA Program examinations in three consecutive years.\" Statement 2: \"Being a CFA charterholder, I am among the elite of investment professionals.\" Has Pedersen most likely violated the Standard(s)?",
         "options": [
             "No",
             "Yes, by making Statement 1 only",
@@ -23064,7 +23064,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 23: Which of the following is a recommended procedure for compliance with the standard relating to responsibilities of supervisors? Once a violation in the form of wrongdoing from an employee is discovered, a supervisor should do which of the following?",
+        "text": "Which of the following is a recommended procedure for compliance with the standard relating to responsibilities of supervisors? Once a violation in the form of wrongdoing from an employee is discovered, a supervisor should do which of the following?",
         "options": [
             "Avoid increasing supervision of the wrongdoer until the investigation is concluded",
             "Place appropriate limitations on the wrongdoer pending the outcome of the investigation",
@@ -23077,7 +23077,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 24: Megan Chandra, CFA, allocates an oversubscribed IPO suitable for all the accounts she manages. Chandra does not allocate the IPO to her mother\u2019s standard fee-paying account or her husband\u2019s non-fee-paying account. Has Chandra violated the Standards?",
+        "text": "Megan Chandra, CFA, allocates an oversubscribed IPO suitable for all the accounts she manages. Chandra does not allocate the IPO to her mother\u2019s standard fee-paying account or her husband\u2019s non-fee-paying account. Has Chandra violated the Standards?",
         "options": [
             "No",
             "Yes, by not allocating the IPO allocation to her mother\u2019s account",
@@ -23090,7 +23090,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 25: The Standard relating to communication with clients and prospective clients requires members to inform which of the following of significant risks and limitations to the investment decision-making process?",
+        "text": "The Standard relating to communication with clients and prospective clients requires members to inform which of the following of significant risks and limitations to the investment decision-making process?",
         "options": [
             "Clients only.",
             "Prospective clients only.",
@@ -23103,7 +23103,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 26: According to the CFA Institute Code of Ethics, members are responsible for:",
+        "text": "According to the CFA Institute Code of Ethics, members are responsible for:",
         "options": [
             "monitoring their firm's compliance with the Standards.",
             "ensuring the professional competence of employees in their firm.",
@@ -23116,7 +23116,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Ethical & Professional Standards",
-        "text": "Question 27: Which of the following is an objective of the GIPS standards?",
+        "text": "Which of the following is an objective of the GIPS standards?",
         "options": [
             "Establish financial regulation on a global basis",
             "Promote investor interests and instill investor confidence",
@@ -23129,7 +23129,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 28: Which of the following statements is most accurate? Fintech applications:",
+        "text": "Which of the following statements is most accurate? Fintech applications:",
         "options": [
             "can perform tasks at levels surpassing human capabilities.",
             "eliminate the need for humans in providing investment advice to retail investors.",
@@ -23142,7 +23142,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 29: An analyst gathers the following information about three markets:\n\n| Market | Number of Sellers | Non-price Competition |\n|---|---|---|\n| Market 1 | Many | None |\n| Market 2 | Few | Strong |\n| Market 3 | Many | Strong |\n\nWhich market is most likely monopolistically competitive?",
+        "text": "An analyst gathers the following information about three markets:\n\n| Market | Number of Sellers | Non-price Competition |\n|---|---|---|\n| Market 1 | Many | None |\n| Market 2 | Few | Strong |\n| Market 3 | Many | Strong |\n\nWhich market is most likely monopolistically competitive?",
         "options": [
             "Market 1",
             "Market 2",
@@ -23155,7 +23155,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 30: With respect to ESG analysis, which of the following is most likely categorized as a social issue?",
+        "text": "With respect to ESG analysis, which of the following is most likely categorized as a social issue?",
         "options": [
             "Deforestation",
             "Labor standards",
@@ -23168,7 +23168,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 31: Tiered pricing is best described as:",
+        "text": "Tiered pricing is best described as:",
         "options": [
             "charging different prices at different times.",
             "charging different prices to different buyers.",
@@ -23181,7 +23181,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 32: Which of the following best describes a function of the International Bank for Reconstruction and Development?",
+        "text": "Which of the following best describes a function of the International Bank for Reconstruction and Development?",
         "options": [
             "Provides low interest rate loans to developing countries",
             "Regulates cross-border trade relationships on a global scale",
@@ -23194,7 +23194,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 33: As a result of an inventory write-down, which of the following financial ratios most likely decreases?",
+        "text": "As a result of an inventory write-down, which of the following financial ratios most likely decreases?",
         "options": [
             "Quick ratio",
             "Current ratio",
@@ -23207,7 +23207,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 34: Which of the following ranks geopolitical systems from the lowest to the highest level of globalization?",
+        "text": "Which of the following ranks geopolitical systems from the lowest to the highest level of globalization?",
         "options": [
             "Autarky, bilateralism, hegemony",
             "Autarky, hegemony, bilateralism",
@@ -23220,7 +23220,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 35: An analyst gathers the following information about a firm:\n\n| Item | Value |\n|---|---:|\n| Cost of equity if no debt is issued | 12% |\n| Cost of debt | 6% |\n| Percent of debt in capital structure | 30% |\n\nIf there are no taxes, the WACC estimated using Modigliani\u2013Miller Proposition II is closest to:",
+        "text": "An analyst gathers the following information about a firm:\n\n| Item | Value |\n|---|---:|\n| Cost of equity if no debt is issued | 12% |\n| Cost of debt | 6% |\n| Percent of debt in capital structure | 30% |\n\nIf there are no taxes, the WACC estimated using Modigliani\u2013Miller Proposition II is closest to:",
         "options": [
             "10.2%",
             "12.0%",
@@ -23233,7 +23233,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 36: A positively skewed unimodal distribution of returns most likely has:",
+        "text": "A positively skewed unimodal distribution of returns most likely has:",
         "options": [
             "a long tail on the left side.",
             "a mode that is less than its mean.",
@@ -23246,7 +23246,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 37: Which of the following statements is most accurate?\n\n| Statement | Description |\n|---|---|\n| 1 | The IRR assumes reinvestment of cash flows at the required rate of return. |\n| 2 | IRR is strongly preferred when NPV and IRR rank two mutually exclusive projects differently. |\n| 3 | NPV is zero when IRR equals the hurdle rate. |\n\nWhich statement is correct?",
+        "text": "Which of the following statements is most accurate?\n\n| Statement | Description |\n|---|---|\n| 1 | The IRR assumes reinvestment of cash flows at the required rate of return. |\n| 2 | IRR is strongly preferred when NPV and IRR rank two mutually exclusive projects differently. |\n| 3 | NPV is zero when IRR equals the hurdle rate. |\n\nWhich statement is correct?",
         "options": [
             "Statement 1",
             "Statement 2",
@@ -23259,7 +23259,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 38: During the slowdown phase of the business cycle:",
+        "text": "During the slowdown phase of the business cycle:",
         "options": [
             "inflation decelerates.",
             "business halts new orders.",
@@ -23272,7 +23272,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 39: An analyst gathers the following information (in \u00a3 millions) about a company's expenditures in developing an intangible asset for internal use:\n\n| Expenditure | Amount (\u00a3 millions) |\n|---|---:|\n| Costs incurred during research phase | 10 |\n| Development costs incurred after reaching technical feasibility | 15 |\n\nIf all the criteria for capitalization have been met, the maximum amount of expenditures (in \u00a3 millions) that may be capitalized is:",
+        "text": "An analyst gathers the following information (in \u00a3 millions) about a company's expenditures in developing an intangible asset for internal use:\n\n| Expenditure | Amount (\u00a3 millions) |\n|---|---:|\n| Costs incurred during research phase | 10 |\n| Development costs incurred after reaching technical feasibility | 15 |\n\nIf all the criteria for capitalization have been met, the maximum amount of expenditures (in \u00a3 millions) that may be capitalized is:",
         "options": [
             "10",
             "15",
@@ -23285,7 +23285,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 40: Target capital structure is often expressed using book values of equity and debt because:",
+        "text": "Target capital structure is often expressed using book values of equity and debt because:",
         "options": [
             "capital structure policy is aligned to measures used by third parties.",
             "market values can fluctuate substantially and frequently impact the appropriate level of borrowing.",
@@ -23298,7 +23298,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 41: Which of the following is most appropriate when assessing a company's ability to meet its long-term debt obligations?",
+        "text": "Which of the following is most appropriate when assessing a company's ability to meet its long-term debt obligations?",
         "options": [
             "Current ratio",
             "Defensive interval ratio",
@@ -23311,7 +23311,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 42: A bank account has a stated annual interest rate of 3.5% with quarterly compounding. If the current value of the account is $100,000, the future value of the account two years from now is closest to:",
+        "text": "A bank account has a stated annual interest rate of 3.5% with quarterly compounding. If the current value of the account is $100,000, the future value of the account two years from now is closest to:",
         "options": [
             "$107,123.",
             "$107,207.",
@@ -23324,7 +23324,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 43: An analyst gathers the following information (in \u00a3 millions) about a company:\n\n|  | Year 2 | Year 1 |\n|---|---:|---:|\n| Total assets | 90 | 100 |\n| Total liabilities | 36 | 40 |\n| Total net assets | 54 | 60 |\n\nUsing vertical common-size balance sheet analysis, the company's total liabilities in Year 2 are closest to:",
+        "text": "An analyst gathers the following information (in \u00a3 millions) about a company:\n\n|  | Year 2 | Year 1 |\n|---|---:|---:|\n| Total assets | 90 | 100 |\n| Total liabilities | 36 | 40 |\n| Total net assets | 54 | 60 |\n\nUsing vertical common-size balance sheet analysis, the company's total liabilities in Year 2 are closest to:",
         "options": [
             "40%",
             "67%",
@@ -23337,7 +23337,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 44: An analyst gathers the following year-end information (in \u20ac thousands) about a company\u2019s current assets and current liabilities:\n\n| Item | Year 2 | Year 1 |\n|---|---:|---:|\n| Cash | 20 | 20 |\n| Receivables | 60 | 90 |\n| Highly marketable short-term securities | 40 | 50 |\n| Inventories | 80 | 70 |\n| Current liabilities | 100 | 100 |\n\nFrom Year 1 to Year 2, the cash ratio:",
+        "text": "An analyst gathers the following year-end information (in \u20ac thousands) about a company\u2019s current assets and current liabilities:\n\n| Item | Year 2 | Year 1 |\n|---|---:|---:|\n| Cash | 20 | 20 |\n| Receivables | 60 | 90 |\n| Highly marketable short-term securities | 40 | 50 |\n| Inventories | 80 | 70 |\n| Current liabilities | 100 | 100 |\n\nFrom Year 1 to Year 2, the cash ratio:",
         "options": [
             "decreased.",
             "remained the same.",
@@ -23350,7 +23350,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 45: Under US GAAP, which of the following should be reported separately from continuing operations on the income statement?",
+        "text": "Under US GAAP, which of the following should be reported separately from continuing operations on the income statement?",
         "options": [
             "Restructuring charges",
             "Gain or loss from sale of an asset",
@@ -23363,7 +23363,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 46: An analyst gathers the following information about a currency pair:\n\n| Currency Pair | Spot Rate | Expected Spot Rate in One Year |\n|---|---:|---:|\n| USD/EUR | 1.1800 | 1.1650 |\n\nThe expected change in value of USD per one EUR relative to the euro over the next year is closest to a(n):",
+        "text": "An analyst gathers the following information about a currency pair:\n\n| Currency Pair | Spot Rate | Expected Spot Rate in One Year |\n|---|---:|---:|\n| USD/EUR | 1.1800 | 1.1650 |\n\nThe expected change in value of USD per one EUR relative to the euro over the next year is closest to a(n):",
         "options": [
             "depreciation of 1.27%.",
             "depreciation of 1.29%.",
@@ -23376,7 +23376,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 47: Assume that a central bank has decided to lower interest rates in the economy. To carry out this policy, the central bank will most likely:",
+        "text": "Assume that a central bank has decided to lower interest rates in the economy. To carry out this policy, the central bank will most likely:",
         "options": [
             "sell securities.",
             "buy securities.",
@@ -23389,7 +23389,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 48: An analyst gathers the following information (in \u20ac millions) about a company's current assets and liabilities:\n\n| Item | Amount (\u20ac millions) |\n|---|---:|\n| Short-term marketable investments | 300 |\n| Receivables | 1,000 |\n| Inventory | 1,500 |\n| Current liabilities | 5,000 |\n\nThe quick ratio is:",
+        "text": "An analyst gathers the following information (in \u20ac millions) about a company's current assets and liabilities:\n\n| Item | Amount (\u20ac millions) |\n|---|---:|\n| Short-term marketable investments | 300 |\n| Receivables | 1,000 |\n| Inventory | 1,500 |\n| Current liabilities | 5,000 |\n\nThe quick ratio is:",
         "options": [
             "0.10.",
             "0.30.",
@@ -23402,7 +23402,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 49: Proxy voting is best defined as a means for:",
+        "text": "Proxy voting is best defined as a means for:",
         "options": [
             "a would-be acquirer to gain control.",
             "activist shareholders to pressure management.",
@@ -23415,7 +23415,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 50: The NZD/EUR (amount of NZD per 1 EUR) spot rate is 1.5453. If the 3-month forward discount is 24 points, the 3-month forward rate is closest to:",
+        "text": "The NZD/EUR (amount of NZD per 1 EUR) spot rate is 1.5453. If the 3-month forward discount is 24 points, the 3-month forward rate is closest to:",
         "options": [
             "1.54290.",
             "1.54770.",
@@ -23428,7 +23428,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 51: An analyst calculates the following metrics about a sample of paired observations of a dependent variable Y and an independent variable X:\n\n| Metric | Value |\n|---|---:|\n| Variance of X | 9 |\n| Variance of Y | 15 |\n| Covariance of Y and X | 12 |\n\nBased on the sample, the slope coefficient of the simple linear regression of Y to X is closest to:",
+        "text": "An analyst calculates the following metrics about a sample of paired observations of a dependent variable Y and an independent variable X:\n\n| Metric | Value |\n|---|---:|\n| Variance of X | 9 |\n| Variance of Y | 15 |\n| Covariance of Y and X | 12 |\n\nBased on the sample, the slope coefficient of the simple linear regression of Y to X is closest to:",
         "options": [
             "0.80.",
             "1.03.",
@@ -23441,7 +23441,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 52: The third quintile corresponds to the:",
+        "text": "The third quintile corresponds to the:",
         "options": [
             "40th percentile.",
             "50th percentile.",
@@ -23454,7 +23454,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 53: Goodness of fit measures derived from analysis of variance (ANOVA) data most likely include the:",
+        "text": "Goodness of fit measures derived from analysis of variance (ANOVA) data most likely include the:",
         "options": [
             "coefficient of variation.",
             "regression coefficients.",
@@ -23467,7 +23467,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 54: PP&E may be reported above its historical cost on the balance sheet under:",
+        "text": "PP&E may be reported above its historical cost on the balance sheet under:",
         "options": [
             "the cost model only.",
             "the revaluation model only.",
@@ -23480,7 +23480,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 55: An analyst gathers the following information about a company:\n\n| Item | Value |\n|---|---:|\n| Market value of equity | $64 million |\n| Cost of equity | 14% |\n| Market value of debt | $20 million |\n| Before-tax cost of debt | 5% |\n| Marginal tax rate | 30% |\n\nThe company's WACC is closest to:",
+        "text": "An analyst gathers the following information about a company:\n\n| Item | Value |\n|---|---:|\n| Market value of equity | $64 million |\n| Cost of equity | 14% |\n| Market value of debt | $20 million |\n| Before-tax cost of debt | 5% |\n| Marginal tax rate | 30% |\n\nThe company's WACC is closest to:",
         "options": [
             "11.02%",
             "11.50%",
@@ -23493,7 +23493,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 56: An analyst uses the following information to forecast a company's gross profit margin:\n\n| Item | Current Amount (in $ millions) | Forecasted Growth |\n|---|---:|---:|\n| Sales | 1,200 | 4% |\n| Cost of sales | 300 | 8% |\n\nThe analyst's gross margin forecast would be closest to a(n):",
+        "text": "An analyst uses the following information to forecast a company's gross profit margin:\n\n| Item | Current Amount (in $ millions) | Forecasted Growth |\n|---|---:|---:|\n| Sales | 1,200 | 4% |\n| Cost of sales | 300 | 8% |\n\nThe analyst's gross margin forecast would be closest to a(n):",
         "options": [
             "decrease of 4%.",
             "decrease of 1%.",
@@ -23506,7 +23506,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 57: A series of five annual tuition payments of $25,000 each will begin exactly 20 years from today. If the stated annual rate is 4%, the required investment today to fund all five payments is closest to:",
+        "text": "A series of five annual tuition payments of $25,000 each will begin exactly 20 years from today. If the stated annual rate is 4%, the required investment today to fund all five payments is closest to:",
         "options": [
             "$50,794.",
             "$52,826.",
@@ -23519,7 +23519,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 58: Which of the following companies would most likely be considered to have the lowest financial reporting quality, other things equal?",
+        "text": "Which of the following companies would most likely be considered to have the lowest financial reporting quality, other things equal?",
         "options": [
             "A company that reports significant profits due to a favorable exchange rate movement.",
             "A company that reports the results from two different segments as a combined entity.",
@@ -23532,7 +23532,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 59: In which of the following business structures do owners share all risk and business liability?",
+        "text": "In which of the following business structures do owners share all risk and business liability?",
         "options": [
             "Corporations",
             "Limited partnerships",
@@ -23545,7 +23545,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 60: An analyst gathers the following information (in $ millions) about three companies:\n\n| Item | Company 1 | Company 2 | Company 3 |\n|---|---:|---:|---:|\n| Cash | 2.5 | 2.0 | 1.5 |\n| Short-term marketable instruments | 4.0 | 1.0 | 1.0 |\n| Receivables | 2.0 | 2.0 | 1.0 |\n| Inventory | 1.0 | 1.0 | 3.0 |\n| Current liabilities | 5.0 | 2.5 | 2.0 |\n\nBased on the quick ratio, which company exhibits the lowest liquidity risk?",
+        "text": "An analyst gathers the following information (in $ millions) about three companies:\n\n| Item | Company 1 | Company 2 | Company 3 |\n|---|---:|---:|---:|\n| Cash | 2.5 | 2.0 | 1.5 |\n| Short-term marketable instruments | 4.0 | 1.0 | 1.0 |\n| Receivables | 2.0 | 2.0 | 1.0 |\n| Inventory | 1.0 | 1.0 | 3.0 |\n| Current liabilities | 5.0 | 2.5 | 2.0 |\n\nBased on the quick ratio, which company exhibits the lowest liquidity risk?",
         "options": [
             "Company 1",
             "Company 2",
@@ -23558,7 +23558,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 61: For a company paying preferred dividends, the components needed to compute basic EPS are net income:",
+        "text": "For a company paying preferred dividends, the components needed to compute basic EPS are net income:",
         "options": [
             "and the weighted average number of common shares outstanding.",
             "preferred dividends, and the weighted average number of common shares outstanding.",
@@ -23571,7 +23571,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 62: In monopolistically competitive markets, economic profits:",
+        "text": "In monopolistically competitive markets, economic profits:",
         "options": [
             "cannot be earned.",
             "can be earned in the short run only.",
@@ -23584,7 +23584,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 63: An analyst is comparing the solvency of a company over the past two years using the information below:\n\n| Item | Year 2 |\n|---|---:|\n| Total debt | \u00a52,300 million |\n| Total shareholders\u2019 equity | \u00a517,000 million |\n| Total assets | \u00a520,000 million |\n| Net income | \u00a5375 million |\n| Interest payments/interest expense | \u00a5200 million |\n| Taxes paid | \u00a5125 million |\n\n| Ratio in Year 1 | Value |\n|---|---:|\n| Debt to capital | 12.7% |\n| Interest coverage | 2.9 |\n\nThe best conclusion the analyst can make about Year 2 is that compared with Year 1, the company\u2019s solvency has:",
+        "text": "An analyst is comparing the solvency of a company over the past two years using the information below:\n\n| Item | Year 2 |\n|---|---:|\n| Total debt | \u00a52,300 million |\n| Total shareholders\u2019 equity | \u00a517,000 million |\n| Total assets | \u00a520,000 million |\n| Net income | \u00a5375 million |\n| Interest payments/interest expense | \u00a5200 million |\n| Taxes paid | \u00a5125 million |\n\n| Ratio in Year 1 | Value |\n|---|---:|\n| Debt to capital | 12.7% |\n| Interest coverage | 2.9 |\n\nThe best conclusion the analyst can make about Year 2 is that compared with Year 1, the company\u2019s solvency has:",
         "options": [
             "deteriorated because both ratios have weakened.",
             "remained the same.",
@@ -23597,7 +23597,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 64: In hypothesis testing, the critical value is determined by the:",
+        "text": "In hypothesis testing, the critical value is determined by the:",
         "options": [
             "p-value.",
             "sample's mean.",
@@ -23610,7 +23610,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 65: If the prices of tech stocks usually rise when interest rates fall, the correlation between the two variables is most likely:",
+        "text": "If the prices of tech stocks usually rise when interest rates fall, the correlation between the two variables is most likely:",
         "options": [
             "negative.",
             "zero.",
@@ -23623,7 +23623,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 66: Interest payable decreased during a company\u2019s fiscal year. Compared with the amount of cash interest payments made, interest expense is most likely:",
+        "text": "Interest payable decreased during a company\u2019s fiscal year. Compared with the amount of cash interest payments made, interest expense is most likely:",
         "options": [
             "lower.",
             "the same.",
@@ -23636,7 +23636,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 67: An analyst gathers the following year-end prices for a non-dividend-paying stock that was purchased at the end of Year 1 and sold at the end of Year 3:\n\n| Year | Price |\n|---|---:|\n| 1 | \u20ac6 |\n| 2 | \u20ac10 |\n| 3 | \u20ac12 |\n\nWhich of the following returns is the largest?",
+        "text": "An analyst gathers the following year-end prices for a non-dividend-paying stock that was purchased at the end of Year 1 and sold at the end of Year 3:\n\n| Year | Price |\n|---|---:|\n| 1 | \u20ac6 |\n| 2 | \u20ac10 |\n| 3 | \u20ac12 |\n\nWhich of the following returns is the largest?",
         "options": [
             "The geometric mean annual return",
             "The arithmetic mean annual return",
@@ -23649,7 +23649,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 68: A company makes all sales on credit. According to the converged accounting standards for revenue recognition, a contract asset is most likely recognized on the seller's balance sheet when:",
+        "text": "A company makes all sales on credit. According to the converged accounting standards for revenue recognition, a contract asset is most likely recognized on the seller's balance sheet when:",
         "options": [
             "goods or services are delivered and payment is received.",
             "payment is received in advance of transferring the goods or services.",
@@ -23662,7 +23662,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 69: Which of the following statements relating to the financial reporting of defined contribution pension plans is correct?",
+        "text": "Which of the following statements relating to the financial reporting of defined contribution pension plans is correct?",
         "options": [
             "The only balance sheet impact from contributions to defined-contribution plans is on an asset account.",
             "Under a defined-contribution plan, company contributions to the plan are treated as an operating cash flow.",
@@ -23675,7 +23675,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 70: Line items can be expressed as a percentage of net revenue on which of the following common-size financial statements?",
+        "text": "Line items can be expressed as a percentage of net revenue on which of the following common-size financial statements?",
         "options": [
             "The income statement only",
             "The statement of cash flows only",
@@ -23688,7 +23688,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 71: An analyst gathers the following annual returns on a stock:\n\n| Year | Return |\n|---|---:|\n| 1 | 5% |\n| 2 | -2% |\n| 3 | 3% |\n| 4 | 8% |\n\nIf the annual target return is 4%, the sample target semideviation of returns is closest to:",
+        "text": "An analyst gathers the following annual returns on a stock:\n\n| Year | Return |\n|---|---:|\n| 1 | 5% |\n| 2 | -2% |\n| 3 | 3% |\n| 4 | 8% |\n\nIf the annual target return is 4%, the sample target semideviation of returns is closest to:",
         "options": [
             "3.0%.",
             "3.5%.",
@@ -23701,7 +23701,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 72: A manufacturing company decides to invest in the maintenance of its IT hardware and software. This best describes a(n):",
+        "text": "A manufacturing company decides to invest in the maintenance of its IT hardware and software. This best describes a(n):",
         "options": [
             "expansion project.",
             "going concern project.",
@@ -23714,7 +23714,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 73: A retailer that prepares its financial statements in accordance with IFRS has 100 office chairs in its inventory with a suggested retail price of $240 each, for which it paid a supplier an average of $200 a chair.\n\nDemand for the chairs has been low for quite a while, and in response the supplier has lowered its selling price to $160 each.\n\nHowever, the retailer estimates it can sell the chairs for $180 each if it offers free shipping to its customers. Shipping costs to the retailer are estimated to be $10 per chair, on average.\n\nThe total carrying amount of these 100 office chairs on the retailer\u2019s balance sheet is closest to:",
+        "text": "A retailer that prepares its financial statements in accordance with IFRS has 100 office chairs in its inventory with a suggested retail price of $240 each, for which it paid a supplier an average of $200 a chair.\n\nDemand for the chairs has been low for quite a while, and in response the supplier has lowered its selling price to $160 each.\n\nHowever, the retailer estimates it can sell the chairs for $180 each if it offers free shipping to its customers. Shipping costs to the retailer are estimated to be $10 per chair, on average.\n\nThe total carrying amount of these 100 office chairs on the retailer\u2019s balance sheet is closest to:",
         "options": [
             "$16,000.",
             "$17,000.",
@@ -23727,7 +23727,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 74: Which of the following statements is most accurate? The role of financial reporting is to:",
+        "text": "Which of the following statements is most accurate? The role of financial reporting is to:",
         "options": [
             "forecast future net income and cash flow.",
             "value a security for making investment decisions.",
@@ -23740,7 +23740,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 75: Which of the following financial statement disclosures regarding inventory are required under both IFRS and US GAAP?",
+        "text": "Which of the following financial statement disclosures regarding inventory are required under both IFRS and US GAAP?",
         "options": [
             "Events leading to a reversal of a write-down",
             "The amount of any reversal of any write-down",
@@ -23753,7 +23753,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 76: The principal tool used to align the interests of management and shareholders is:",
+        "text": "The principal tool used to align the interests of management and shareholders is:",
         "options": [
             "regulation.",
             "proxy voting.",
@@ -23766,7 +23766,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 77: The redistribution of income and wealth is most directly associated with:",
+        "text": "The redistribution of income and wealth is most directly associated with:",
         "options": [
             "fiscal policy only.",
             "monetary policy only.",
@@ -23779,7 +23779,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 78: Deductible temporary differences could arise when the:",
+        "text": "Deductible temporary differences could arise when the:",
         "options": [
             "taxable income exceeds accounting profit.",
             "carrying amount of an asset exceeds its tax base.",
@@ -23792,7 +23792,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 79: Sampling error is the difference between the observed value of a statistic and the:",
+        "text": "Sampling error is the difference between the observed value of a statistic and the:",
         "options": [
             "mean of the sample.",
             "quantity it is intended to estimate.",
@@ -23805,7 +23805,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 80: An analyst estimates the following risk premiums for a long-term corporate bond:\n\n| Premium | Rate |\n|---|---:|\n| Inflation premium | 1.5% |\n| Default risk premium | 2.0% |\n| Liquidity premium | 1.0% |\n| Maturity premium | 1.5% |\n\nIf the short-term nominal risk-free interest rate is 4.0%, the yield on the bond is closest to:",
+        "text": "An analyst estimates the following risk premiums for a long-term corporate bond:\n\n| Premium | Rate |\n|---|---:|\n| Inflation premium | 1.5% |\n| Default risk premium | 2.0% |\n| Liquidity premium | 1.0% |\n| Maturity premium | 1.5% |\n\nIf the short-term nominal risk-free interest rate is 4.0%, the yield on the bond is closest to:",
         "options": [
             "6.0%.",
             "8.5%.",
@@ -23818,7 +23818,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 81: An increase in which of the following will most likely allow governments to directly change income distribution?",
+        "text": "An increase in which of the following will most likely allow governments to directly change income distribution?",
         "options": [
             "Transfer payments",
             "Flat income tax rates",
@@ -23831,7 +23831,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 82: Because of significant changes in the marketplace, the demand for a company\u2019s product has fallen and is not expected to recover to previous levels. The following information is related to the patent under which the product is produced:\n\n| Item Description | $ thousands |\n|---|---:|\n| Carrying value amount | 36,000 |\n| Undiscounted expected future cash flows | 38,000 |\n| Present value of expected future cash flows | 32,000 |\n| Fair value if sold | 34,000 |\n| Costs to sell | 4,000 |\n\nWhich of the following statements is most accurate? The patent is impaired under:",
+        "text": "Because of significant changes in the marketplace, the demand for a company\u2019s product has fallen and is not expected to recover to previous levels. The following information is related to the patent under which the product is produced:\n\n| Item Description | $ thousands |\n|---|---:|\n| Carrying value amount | 36,000 |\n| Undiscounted expected future cash flows | 38,000 |\n| Present value of expected future cash flows | 32,000 |\n| Fair value if sold | 34,000 |\n| Costs to sell | 4,000 |\n\nWhich of the following statements is most accurate? The patent is impaired under:",
         "options": [
             "IFRS only.",
             "both IFRS and US GAAP.",
@@ -23844,7 +23844,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 83: A liquidity trap is most closely associated with:",
+        "text": "A liquidity trap is most closely associated with:",
         "options": [
             "deflation.",
             "an inelastic demand for money.",
@@ -23857,7 +23857,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 84: An exchange rate between two currencies has decreased to 1.3500. If the base currency has depreciated by 7% against the price currency, the initial exchange rate between the two currencies was closest to:",
+        "text": "An exchange rate between two currencies has decreased to 1.3500. If the base currency has depreciated by 7% against the price currency, the initial exchange rate between the two currencies was closest to:",
         "options": [
             "1.2617.",
             "1.4445.",
@@ -23870,7 +23870,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 85: If interest is tax deductible, as the tax rate increases, the after-tax cost of debt for a company:",
+        "text": "If interest is tax deductible, as the tax rate increases, the after-tax cost of debt for a company:",
         "options": [
             "decreases.",
             "remains the same.",
@@ -23883,7 +23883,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 86: Firms in monopolistic competition most likely have:",
+        "text": "Firms in monopolistic competition most likely have:",
         "options": [
             "no pricing power.",
             "some pricing power.",
@@ -23896,7 +23896,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Financial Statement Analysis",
-        "text": "Question 87: Amounts recorded as deferred revenue most likely become included in income when they are:",
+        "text": "Amounts recorded as deferred revenue most likely become included in income when they are:",
         "options": [
             "paid.",
             "earned.",
@@ -23909,7 +23909,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 88: The role of lender of last resort in an economy is most likely fulfilled by the:",
+        "text": "The role of lender of last resort in an economy is most likely fulfilled by the:",
         "options": [
             "government.",
             "central bank.",
@@ -23922,7 +23922,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 89: Which of the following attributes is most accurate for a typical company in its start-up stage?",
+        "text": "Which of the following attributes is most accurate for a typical company in its start-up stage?",
         "options": [
             "Cash flows are negative",
             "The company can raise equity in public markets",
@@ -23935,7 +23935,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 90: Monte Carlo simulations:",
+        "text": "Monte Carlo simulations:",
         "options": [
             "require analytical pricing formulas to value securities.",
             "can be used as a complement to analytical methods.",
@@ -23948,7 +23948,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 1: Valuation of a swap during its life will least likely involve the:",
+        "text": "Valuation of a swap during its life will least likely involve the:",
         "options": [
             "use of replication.",
             "investor\u2019s risk aversion.",
@@ -23961,7 +23961,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 2: A passive investment strategy most likely outperforms an active investment strategy when:",
+        "text": "A passive investment strategy most likely outperforms an active investment strategy when:",
         "options": [
             "there are few market participants.",
             "asset prices reflect information quickly.",
@@ -23974,7 +23974,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 3: A bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than a cash payment best describes a:",
+        "text": "A bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than a cash payment best describes a:",
         "options": [
             "step-up coupon bond.",
             "deferred coupon bond.",
@@ -23987,7 +23987,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 4: The justified forward P/E ratio calculated based on the Gordon growth model is always positively related to the:",
+        "text": "The justified forward P/E ratio calculated based on the Gordon growth model is always positively related to the:",
         "options": [
             "payout ratio.",
             "dividend growth rate.",
@@ -24000,7 +24000,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Corporate Issuers",
-        "text": "Question 5: With respect to leveraged buyouts, the current management team will continue to manage the company in:",
+        "text": "With respect to leveraged buyouts, the current management team will continue to manage the company in:",
         "options": [
             "management buy-ins only.",
             "management buyouts only.",
@@ -24013,7 +24013,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 6: Electronic trading in cryptocurrencies on centralized exchanges is most likely:",
+        "text": "Electronic trading in cryptocurrencies on centralized exchanges is most likely:",
         "options": [
             "hosted on public servers.",
             "direct without any intermediating broker or dealer.",
@@ -24026,7 +24026,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 7: Which of the following objectives of a client's IPS is best described as a relative risk objective? For the next year, a client's portfolio objective is to:",
+        "text": "Which of the following objectives of a client's IPS is best described as a relative risk objective? For the next year, a client's portfolio objective is to:",
         "options": [
             "have a 95% value at risk that is less than $100,000.",
             "outperform the local stock market index by 100 basis points.",
@@ -24039,7 +24039,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 8: Which of the following is not a credit enhancement in asset-backed securities?",
+        "text": "Which of the following is not a credit enhancement in asset-backed securities?",
         "options": [
             "Credit tranching",
             "Overcollateralization",
@@ -24052,7 +24052,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 9: A bond has an annual modified duration of 5.359, an annual convexity of 248.23, and is currently yielding 3.5%. If the bond\u2019s yield-to-maturity increases to 3.7%, the expected percentage price change is closest to:",
+        "text": "A bond has an annual modified duration of 5.359, an annual convexity of 248.23, and is currently yielding 3.5%. If the bond\u2019s yield-to-maturity increases to 3.7%, the expected percentage price change is closest to:",
         "options": [
             "-1.02%",
             "-0.97%",
@@ -24065,7 +24065,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 10: In limited partnership agreements, which of the following benefits the general partner?",
+        "text": "In limited partnership agreements, which of the following benefits the general partner?",
         "options": [
             "catch-up clause.",
             "clawback provision.",
@@ -24078,7 +24078,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 11: Which of the following methods of investing in alternative investments requires the least amount of investment expertise?",
+        "text": "Which of the following methods of investing in alternative investments requires the least amount of investment expertise?",
         "options": [
             "Co-investing",
             "Fund investing",
@@ -24091,7 +24091,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 12: The first decision when constructing a security market index is most likely:",
+        "text": "The first decision when constructing a security market index is most likely:",
         "options": [
             "identifying the target market.",
             "identifying the investment universe.",
@@ -24104,7 +24104,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 13: The assets underlying an infrastructure investment are most likely:",
+        "text": "The assets underlying an infrastructure investment are most likely:",
         "options": [
             "intended for private use.",
             "owned by a government entity.",
@@ -24117,7 +24117,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 14: During times of severe market turmoil, the risk reduction from portfolio diversification most likely:",
+        "text": "During times of severe market turmoil, the risk reduction from portfolio diversification most likely:",
         "options": [
             "decreases.",
             "remains the same.",
@@ -24130,7 +24130,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 15: Free-cash-flow-to-equity is equal to cash flow from operations:",
+        "text": "Free-cash-flow-to-equity is equal to cash flow from operations:",
         "options": [
             "less fixed capital investment less net borrowing.",
             "less fixed capital investment plus net borrowing.",
@@ -24143,10 +24143,10 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 16: A 5% corporate bond makes annual coupon payments on 19 March of each year. If the bond is purchased on 19 March, the bond is most likely trading:",
+        "text": "A 5% corporate bond makes annual coupon payments on 19 March of each year. If the bond is priced for settlement on 25 March at a yield-to-maturity of 5%, its flat price is:",
         "options": [
             "below par.",
-            "at par.",
+            "par.",
             "above par."
         ],
         "correctAnswer": 0,
@@ -24156,7 +24156,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 17: A good risk management framework:",
+        "text": "A good risk management framework:",
         "options": [
             "is a top-down process and guidance directing risk management activities.",
             "seeks to prioritize avoidance of financial loss over defining policies and processes.",
@@ -24169,7 +24169,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 18: Indifference curves are plotted on a graph, with returns on the vertical axis and risk on the horizontal axis. For a risk-averse investor, the slope of the indifference curve is most likely:",
+        "text": "Indifference curves are plotted on a graph, with returns on the vertical axis and risk on the horizontal axis. For a risk-averse investor, the slope of the indifference curve is most likely:",
         "options": [
             "negative.",
             "zero.",
@@ -24182,7 +24182,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 19: In the binomial option model, when the volatility of the underlying increases, the value of a call option:",
+        "text": "In the binomial option model, when the volatility of the underlying increases, the value of a call option:",
         "options": [
             "decreases.",
             "remains unchanged.",
@@ -24195,7 +24195,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 20: A corporation issues 5-year fixed-rate bonds. Its treasurer expects interest rates to decline for maturities for at least the next year. She enters into a 1-year agreement with a bank to receive quarterly fixed-rate payments and to make payments based on floating rates benchmarked to 3-month Libor. This agreement is best described as a:",
+        "text": "A corporation issues 5-year fixed-rate bonds. Its treasurer expects interest rates to decline for maturities for at least the next year. She enters into a 1-year agreement with a bank to receive quarterly fixed-rate payments and to make payments based on floating rates benchmarked to 3-month Libor. This agreement is best described as a:",
         "options": [
             "swap.",
             "futures contract.",
@@ -24208,7 +24208,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 21: A trader buys 500 shares of a stock on margin at $36 a share using an initial leverage ratio of 1.66. The maintenance margin requirement for the position is 30%. The stock price at which the margin call will occur is closest to:",
+        "text": "A trader buys 500 shares of a stock on margin at $36 a share using an initial leverage ratio of 1.66. The maintenance margin requirement for the position is 30%. The stock price at which the margin call will occur is closest to:",
         "options": [
             "$20.57.",
             "$25.20.",
@@ -24221,7 +24221,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 22: The type of developed market bond that most likely has the greatest risk of default is a:",
+        "text": "The type of developed market bond that most likely has the greatest risk of default is a:",
         "options": [
             "revenue bond.",
             "sovereign bond.",
@@ -24234,7 +24234,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 23: An index provider launches a new index that will include value stocks in a specific country. This index will most likely be a:",
+        "text": "An index provider launches a new index that will include value stocks in a specific country. This index will most likely be a:",
         "options": [
             "style index.",
             "large-capitalization index.",
@@ -24247,7 +24247,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 24: If a market is semi-strong-form efficient, fundamental analysis most likely:",
+        "text": "If a market is semi-strong-form efficient, fundamental analysis most likely:",
         "options": [
             "enables investors to generate consistent abnormal returns.",
             "helps participants understand the value implications of information.",
@@ -24260,7 +24260,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 25: The yield-to-maturity of a 5-year, 8% annual-pay bond priced at 108.42 is closest to:",
+        "text": "The yield-to-maturity of a 5-year, 8% annual-pay bond priced at 108.42 is closest to:",
         "options": [
             "6.00%.",
             "7.38%.",
@@ -24273,7 +24273,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 26: For an option-free bond, effective duration:",
+        "text": "For an option-free bond, effective duration:",
         "options": [
             "will be equal to modified duration if the yield curve is absolutely flat.",
             "measures interest rate risk for both parallel and non-parallel benchmark yield curve shifts.",
@@ -24286,7 +24286,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 27: Bonds issued in which of the following markets most likely have fewer reporting, regulatory, and tax constraints?",
+        "text": "Bonds issued in which of the following markets most likely have fewer reporting, regulatory, and tax constraints?",
         "options": [
             "Eurobond markets",
             "Foreign bond markets",
@@ -24299,7 +24299,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 28: The correlation between the returns of a risk-free asset and a portfolio of risky assets is:",
+        "text": "The correlation between the returns of a risk-free asset and a portfolio of risky assets is:",
         "options": [
             "negative.",
             "zero.",
@@ -24312,7 +24312,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 29: A 6% 25-year bond with semiannual payments has a market price of $850.00. The yield to maturity of this bond is closest to:",
+        "text": "A 6% 25-year bond with semiannual payments has a market price of $850.00. The yield to maturity of this bond is closest to:",
         "options": [
             "5.72%.",
             "7.32%.",
@@ -24325,7 +24325,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 30: The motivation for investing in the mezzanine tranche of a collateralized debt obligation (CDO) is most likely to:",
+        "text": "The motivation for investing in the mezzanine tranche of a collateralized debt obligation (CDO) is most likely to:",
         "options": [
             "benefit from the credit protection provided by the senior tranche.",
             "earn a higher yield than that on a comparably rated corporate bond.",
@@ -24338,7 +24338,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 31: An investor holds a bond with the following characteristics:\n\n| Item | Value |\n|---|---:|\n| Yield to maturity | 10% |\n| Modified duration | 5.7 |\n\nIf the duration gap is zero, the investment horizon is closest to:",
+        "text": "An investor holds a bond with the following characteristics:\n\n| Item | Value |\n|---|---:|\n| Yield to maturity | 10% |\n| Modified duration | 5.7 |\n\nIf the duration gap is zero, the investment horizon is closest to:",
         "options": [
             "5.2 years.",
             "5.7 years.",
@@ -24351,7 +24351,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 32: The CAPM states that two assets with the same expected return will have the same:",
+        "text": "The CAPM states that two assets with the same expected return will have the same:",
         "options": [
             "standard deviation.",
             "correlation of returns with the market.",
@@ -24364,7 +24364,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 33: The sensitivity of a 30-year fixed-rate bond to a 50 basis points increase in the benchmark rate at the 25-30 years maturity segment is best measured by:",
+        "text": "The sensitivity of a 30-year fixed-rate bond to a 50 basis points increase in the benchmark rate at the 25-30 years maturity segment is best measured by:",
         "options": [
             "key rate duration.",
             "effective duration.",
@@ -24377,7 +24377,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 34: A put option trades for $1.00 with an exercise price of $40.00. If the price of the underlying at expiration is $35.00, the profit for a put seller is:",
+        "text": "A put option trades for $1.00 with an exercise price of $40.00. If the price of the underlying at expiration is $35.00, the profit for a put seller is:",
         "options": [
             "-$5.00.",
             "-$4.00.",
@@ -24390,7 +24390,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 35: Investing in private debt most likely is:",
+        "text": "Investing in private debt most likely is:",
         "options": [
             "less risky than investing in traditional bonds.",
             "equally risky to investing in traditional bonds.",
@@ -24403,7 +24403,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 36: An investor purchases a 5% coupon bond maturing in 15 years for par value. Immediately after purchase, the yield required by the market increases. The investor would then most likely have to sell the bond at:",
+        "text": "An investor purchases a 5% coupon bond maturing in 15 years for par value. Immediately after purchase, the yield required by the market increases. The investor would then most likely have to sell the bond at:",
         "options": [
             "par.",
             "a discount.",
@@ -24416,7 +24416,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 37: If a semiannual pay bond has a yield-to-maturity of 4.3% quoted on a semiannual bond basis, the yield-to-maturity based on quarterly compounding is closest to:",
+        "text": "If a semiannual pay bond has a yield-to-maturity of 4.3% quoted on a semiannual bond basis, the yield-to-maturity based on quarterly compounding is closest to:",
         "options": [
             "4.23%.",
             "4.28%.",
@@ -24429,7 +24429,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 38: The value of a European put is:",
+        "text": "The value of a European put is:",
         "options": [
             "inversely related to the exercise price.",
             "inversely related to the risk-free interest rate.",
@@ -24442,7 +24442,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 39: An asset-based valuation model would be most applicable:",
+        "text": "An asset-based valuation model would be most applicable:",
         "options": [
             "for valuing a small and privately held firm.",
             "when the economic environment is hyperinflationary.",
@@ -24455,7 +24455,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 40: A disadvantage of a fund of hedge funds as compared to a large multi-strategy fund is:",
+        "text": "A disadvantage of a fund of hedge funds as compared to a large multi-strategy fund is:",
         "options": [
             "due diligence expertise.",
             "higher management fees.",
@@ -24468,7 +24468,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 41: For a put option, if the price of the underlying is greater than the exercise price, the put option is:",
+        "text": "For a put option, if the price of the underlying is greater than the exercise price, the put option is:",
         "options": [
             "in the money.",
             "at the money.",
@@ -24481,7 +24481,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 42: As compared to exchange-traded derivative markets, over-the-counter derivative markets are typically more:",
+        "text": "As compared to exchange-traded derivative markets, over-the-counter derivative markets are typically more:",
         "options": [
             "liquid.",
             "flexible.",
@@ -24494,7 +24494,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 43: With regard to commodities, it is most likely true that:",
+        "text": "With regard to commodities, it is most likely true that:",
         "options": [
             "exposure is most commonly achieved via commodity derivatives.",
             "their returns are based on an income stream such as interest or dividends.",
@@ -24506,8 +24506,8 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Mock: Mock Exam 1",
-        "subject": "Equity Investments",
-        "text": "Question 44: An analyst forecasts different outcomes for a company next year:\n\n|  | Bear Case | Base Case | Bull Case |\n|---|---:|---:|---:|\n| Sales (in \u20ac millions) | 280 | 350 | 400 |\n| EBITDA margin (%) | 10 | 18 | 25 |\n| Debt to capital (%) | 75 | 60 | 55 |\n\nThis forecast table is best described as a:",
+        "subject": "Financial Statement Analysis",
+        "text": "An analyst forecasts different outcomes for a company next year:\n\n|  | Bear Case | Base Case | Bull Case |\n|---|---:|---:|---:|\n| Sales (in \u20ac millions) | 280 | 350 | 400 |\n| EBITDA margin (%) | 10 | 18 | 25 |\n| Debt to capital (%) | 75 | 60 | 55 |\n\nThis forecast table is best described as a:",
         "options": [
             "scenario analysis.",
             "sensitivity analysis.",
@@ -24520,11 +24520,11 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 45: During its life, the value of a forward contract is most likely equal to the price of the underlying forward, discounted over the:",
+        "text": "During its life, the value of a forward contract is most likely equal to the price of the underlying minus the price of the:",
         "options": [
-            "original term of the contract.",
-            "remaining term of the contract.",
-            "settlement date."
+            "forward.",
+            "forward, discounted over the original term of the contract.",
+            "forward, discounted over the remaining term of the contract."
         ],
         "correctAnswer": 2,
         "mockName": "Mock Exam 1",
@@ -24533,7 +24533,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 46: According to the capital asset pricing model (CAPM), the difference in the expected returns for two securities is determined by the securities\u2019:",
+        "text": "According to the capital asset pricing model (CAPM), the difference in the expected returns for two securities is determined by the securities\u2019:",
         "options": [
             "total risk.",
             "systematic risk only.",
@@ -24546,7 +24546,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 47: Which of the following performance measures is most appropriate for an investor who holds a well-diversified portfolio?",
+        "text": "Which of the following performance measures is most appropriate for an investor who holds a well-diversified portfolio?",
         "options": [
             "M2",
             "Sharpe ratio",
@@ -24559,7 +24559,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Economics",
-        "text": "Question 48: A function of the financial system is to:",
+        "text": "A function of the financial system is to:",
         "options": [
             "prevent traders from speculating on information.",
             "equate aggregate savings with aggregate borrowings.",
@@ -24572,7 +24572,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 49: A protective put strategy consists of a:",
+        "text": "A protective put strategy consists of a:",
         "options": [
             "long put option on an asset and a long position in a risk-free bond.",
             "long position in an underlying asset and a long put option on the asset.",
@@ -24585,7 +24585,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 50: A stock dividend:",
+        "text": "A stock dividend:",
         "options": [
             "is relevant for valuation of a company.",
             "involves an increase in the number of shares outstanding.",
@@ -24598,7 +24598,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 51: Which of the following best describes a reason for having a written investment policy statement?",
+        "text": "Which of the following best describes a reason for having a written investment policy statement?",
         "options": [
             "To communicate a plan for achieving investment success",
             "To keep track of the performance of a client's investment portfolio",
@@ -24611,7 +24611,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 52: Which bond is most likely to exhibit a reduction in duration as time to maturity increases? A bond priced at:",
+        "text": "Which bond is most likely to exhibit a reduction in duration as time to maturity increases? A bond priced at:",
         "options": [
             "par.",
             "a discount.",
@@ -24624,7 +24624,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 53: In the investment policy statement of a pension fund, a countrywide limit on the proportion of high-risk assets that can be held in long-term pension portfolios is most likely a:",
+        "text": "In the investment policy statement of a pension fund, a countrywide limit on the proportion of high-risk assets that can be held in long-term pension portfolios is most likely a:",
         "options": [
             "liquidity constraint.",
             "time horizon constraint.",
@@ -24637,7 +24637,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 54: Relative to a non-recourse mortgage loan, in a recourse mortgage loan the:",
+        "text": "Relative to a non-recourse mortgage loan, in a recourse mortgage loan the:",
         "options": [
             "lender can change the interest rate charged.",
             "borrower does not have a strategic default option.",
@@ -24650,7 +24650,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 55: The multiple of invested capital (MOIC) measure takes into account:",
+        "text": "The multiple of invested capital (MOIC) measure takes into account:",
         "options": [
             "the realized value of an investment only.",
             "the residual asset value of an investment only.",
@@ -24663,7 +24663,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 56: Investors in a closed-end mutual fund can liquidate their positions by selling the shares to:",
+        "text": "Investors in a closed-end mutual fund can liquidate their positions by selling the shares to:",
         "options": [
             "the fund itself only.",
             "other investors only.",
@@ -24676,7 +24676,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 57: Effective duration measures a bond's sensitivity to a:",
+        "text": "Effective duration measures a bond's sensitivity to a:",
         "options": [
             "flattening of the benchmark yield curve.",
             "steepening of the benchmark yield curve.",
@@ -24689,7 +24689,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 58: An example of nonsystematic risk is a(n):",
+        "text": "An example of nonsystematic risk is a(n):",
         "options": [
             "failure of a drug trial.",
             "increase in the overall rate of inflation.",
@@ -24702,7 +24702,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 59: Which of the following is best categorized as non-financial risk?",
+        "text": "Which of the following is best categorized as non-financial risk?",
         "options": [
             "Credit risk",
             "Market risk",
@@ -24715,7 +24715,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 60: An investor buys a stock on margin, posting 60% of the initial $63.00 per share price as equity. All else being equal, if the investor receives a margin call at $33.60 per share, the maintenance margin on this trade is:",
+        "text": "An investor buys a stock on margin, posting 60% of the initial $63.00 per share price as equity. All else being equal, if the investor receives a margin call at $33.60 per share, the maintenance margin on this trade is:",
         "options": [
             "12.5%.",
             "25.0%.",
@@ -24728,7 +24728,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 61: Which version of the dividend discount model (DDM) would most likely be appropriate for valuing a fairly young, publicly traded company?",
+        "text": "Which version of the dividend discount model (DDM) would most likely be appropriate for valuing a fairly young, publicly traded company?",
         "options": [
             "A two-stage DDM",
             "A three-stage DDM",
@@ -24741,7 +24741,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 62: An analyst gathers the following information about a company and its common stock:\n\n| Item | Value |\n|---|---:|\n| Current dividend per share (D0) | $2.00 |\n| Dividend payout ratio | 55% |\n| ROE | 9% |\n\nIf the required return is 8%, the intrinsic value per share using the Gordon growth model is closest to:",
+        "text": "An analyst gathers the following information about a company and its common stock:\n\n| Item | Value |\n|---|---:|\n| Current dividend per share (D0) | $2.00 |\n| Dividend payout ratio | 55% |\n| ROE | 9% |\n\nIf the required return is 8%, the intrinsic value per share using the Gordon growth model is closest to:",
         "options": [
             "$50.63.",
             "$52.68.",
@@ -24754,7 +24754,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 63: An analyst gathers the following information (in $ millions) about a company's fiscal year:\n\n| Item | Value |\n|---|---:|\n| Net income | 1,500 |\n| Average total assets | 11,500 |\n| Average shareholders\u2019 equity | 7,500 |\n\nIf the dividend payout ratio is 45%, the sustainable growth rate is closest to:",
+        "text": "An analyst gathers the following information (in $ millions) about a company's fiscal year:\n\n| Item | Value |\n|---|---:|\n| Net income | 1,500 |\n| Average total assets | 11,500 |\n| Average shareholders\u2019 equity | 7,500 |\n\nIf the dividend payout ratio is 45%, the sustainable growth rate is closest to:",
         "options": [
             "7%.",
             "9%.",
@@ -24767,7 +24767,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 64: Which of the following most likely accounts for most of the long-term changes in a portfolio's value?",
+        "text": "Which of the following most likely accounts for most of the long-term changes in a portfolio's value?",
         "options": [
             "Beta",
             "Alpha",
@@ -24780,7 +24780,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 65: An analyst gathers the following information about a hedge fund:\n\n| Item | Value |\n|---|---:|\n| Beginning-of-year assets under management (AUM) | $100 million |\n| End-of-year AUM before fees | $120 million |\n| Management fee, based on year-end AUM | 2% |\n| Incentive fee | 20% |\n| Hard hurdle rate | 8% |\n\nIf the incentive fee is calculated net of the management fee, the total fees earned by the fund manager are closest to:",
+        "text": "An analyst gathers the following information about a hedge fund:\n\n| Item | Value |\n|---|---:|\n| Beginning-of-year assets under management (AUM) | $100 million |\n| End-of-year AUM before fees | $120 million |\n| Management fee, based on year-end AUM | 2% |\n| Incentive fee | 20% |\n| Hard hurdle rate | 8% |\n\nIf the incentive fee is calculated net of the management fee, the total fees earned by the fund manager are closest to:",
         "options": [
             "$4.3 million.",
             "$4.8 million.",
@@ -24793,7 +24793,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 66: An analyst gathers the following information about a bond:\n\n| Item | Value |\n|---|---:|\n| Annual modified duration | 7.534 |\n| Flat price (per 100 of par value) | 92.084 |\n| Accrued interest (per 100 of par value) | 1.458 |\n\nThe bond's money duration per 100 of par value is closest to:",
+        "text": "An analyst gathers the following information about a bond:\n\n| Item | Value |\n|---|---:|\n| Annual modified duration | 7.534 |\n| Flat price (per 100 of par value) | 92.084 |\n| Accrued interest (per 100 of par value) | 1.458 |\n\nThe bond's money duration per 100 of par value is closest to:",
         "options": [
             "683.",
             "694.",
@@ -24806,7 +24806,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 67: An analyst gathers the following information about forward rates:\n\n| Time Period | Forward Rate |\n|---|---:|\n| 0y1y | 2.31% |\n| 1y1y | 2.82% |\n| 2y1y | 2.97% |\n\nThe 2-year implied spot rate is closest to:",
+        "text": "An analyst gathers the following information about forward rates:\n\n| Time Period | Forward Rate |\n|---|---:|\n| 0y1y | 2.31% |\n| 1y1y | 2.82% |\n| 2y1y | 2.97% |\n\nThe 2-year implied spot rate is closest to:",
         "options": [
             "2.56%.",
             "2.82%.",
@@ -24819,7 +24819,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 68: A US Treasury security originally issued with five years to maturity is a Treasury:",
+        "text": "A US Treasury security originally issued with five years to maturity is a Treasury:",
         "options": [
             "bill.",
             "note.",
@@ -24832,7 +24832,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 69: In behavioral finance, which of the following statements best describes the bias of conservatism? Investors:",
+        "text": "In behavioral finance, which of the following statements best describes the bias of conservatism? Investors:",
         "options": [
             "assess new information and probabilities of outcomes based on similarity to the current state.",
             "focus on issues in isolation and respond to the issues based on how the issues are posed.",
@@ -24845,7 +24845,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 70: An analyst gathers the following information about a bond:\n\n| Price | Yield-to-Maturity (%) |\n|---:|---:|\n| 103.52 | 3.7 |\n| 103.84 | 3.3 |\n\nIf the bond currently trades at a price of 103.67 with a yield-to-maturity of 3.5%, the approximate convexity is closest to:",
+        "text": "An analyst gathers the following information about a bond:\n\n| Price | Yield-to-Maturity (%) |\n|---:|---:|\n| 103.52 | 3.7 |\n| 103.84 | 3.3 |\n\nIf the bond currently trades at a price of 103.67 with a yield-to-maturity of 3.5%, the approximate convexity is closest to:",
         "options": [
             "0.048.",
             "0.096.",
@@ -24858,7 +24858,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Quantitative Methods",
-        "text": "Question 71: Which of the following return measures is most appropriate when comparing the annual returns of an asset class over various long historical time periods?",
+        "text": "Which of the following return measures is most appropriate when comparing the annual returns of an asset class over various long historical time periods?",
         "options": [
             "The arithmetic mean of real returns",
             "The geometric mean of real returns",
@@ -24871,7 +24871,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 72: If the forward price of a stock is equal to the current spot price, the price of an at-the-money put option applying put-call parity will be:",
+        "text": "If the forward price of a stock is equal to the current spot price, the price of an at-the-money put option applying put-call parity will be:",
         "options": [
             "lower than the price of at-the-money call option.",
             "equal to the price of at-the-money call option.",
@@ -24884,7 +24884,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 73: Regarding hedge fund fee calculations, a high-water mark:",
+        "text": "Regarding hedge fund fee calculations, a high-water mark:",
         "options": [
             "represents the return on gains that are not yet fully realized.",
             "protects the client from paying twice for the same performance.",
@@ -24897,7 +24897,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 74: An analyst gathers the following information about three stocks that are the only constituents of an equal-weighted index:\n\n| Stock | Beginning Price per Share | Beginning Shares Outstanding | End Price per Share | End Shares Outstanding |\n|---|---:|---:|---:|---:|\n| 1 | \u20ac30 | 500 | \u20ac36 | 500 |\n| 2 | \u20ac50 | 200 | \u20ac45 | 200 |\n| 3 | \u20ac40 | 300 | \u20ac50 | 300 |\n\nAt the beginning of the year, the index value was 100. If it is not rebalanced during the year, the index value at the end of the year is closest to:",
+        "text": "An analyst gathers the following information about three stocks that are the only constituents of an equal-weighted index:\n\n| Stock | Beginning Price per Share | Beginning Shares Outstanding | End Price per Share | End Shares Outstanding |\n|---|---:|---:|---:|---:|\n| 1 | \u20ac30 | 500 | \u20ac36 | 500 |\n| 2 | \u20ac50 | 200 | \u20ac45 | 200 |\n| 3 | \u20ac40 | 300 | \u20ac50 | 300 |\n\nAt the beginning of the year, the index value was 100. If it is not rebalanced during the year, the index value at the end of the year is closest to:",
         "options": [
             "109.2.",
             "111.7.",
@@ -24910,7 +24910,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 75: The price of a futures contract will be higher than the price of a forward contract when the correlation between futures prices and interest rates is:",
+        "text": "The price of a futures contract will be higher than the price of a forward contract when the correlation between futures prices and interest rates is:",
         "options": [
             "negative.",
             "zero.",
@@ -24923,7 +24923,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Fixed Income",
-        "text": "Question 76: In the priority of claims, the class of corporate debt that has the lowest priority of payments in the event of default is most likely:",
+        "text": "In the priority of claims, the class of corporate debt that has the lowest priority of payments in the event of default is most likely:",
         "options": [
             "second lien debt.",
             "subordinated debt.",
@@ -24936,7 +24936,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 77: The returns of Asset 1 and Asset 2 are perfectly positively correlated. If the assets have the same standard deviation of returns, the covariance between the returns of the assets is equal to the:",
+        "text": "The returns of Asset 1 and Asset 2 are perfectly positively correlated. If the assets have the same standard deviation of returns, the covariance between the returns of the assets is equal to the:",
         "options": [
             "variance of Asset 1\u2019s returns.",
             "standard deviation of Asset 1\u2019s returns.",
@@ -24949,7 +24949,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 78: In contrast to life insurers, property and casualty insurers most likely:",
+        "text": "In contrast to life insurers, property and casualty insurers most likely:",
         "options": [
             "invest their general account assets in fixed-income securities.",
             "accept investments with lower returns in their general account.",
@@ -24962,7 +24962,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 79: If the expected forward rate curve shifts downward after the inception of a swap, the mark-to-market value of the swap for the fixed-rate payer will most likely:",
+        "text": "If the expected forward rate curve shifts downward after the inception of a swap, the mark-to-market value of the swap for the fixed-rate payer will most likely:",
         "options": [
             "decrease.",
             "remain the same.",
@@ -24975,7 +24975,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 80: Short sellers most likely:",
+        "text": "Short sellers most likely:",
         "options": [
             "pay a short rebate to security lenders.",
             "receive cash collateral from security lenders.",
@@ -24988,7 +24988,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 81: An analyst gathers the following information (in $ millions) about a hedge fund:\n\n| Item | Amount ($ millions) |\n|---|---:|\n| Initial investment cost | 100 |\n| Profit, Year 1 | 25 |\n| Loss, Year 2 | 10 |\n\nIf the incentive fee is 20% and there is a clawback provision, the total incentive fee for Years 1 and 2 is:",
+        "text": "An analyst gathers the following information (in $ millions) about a hedge fund:\n\n| Item | Amount ($ millions) |\n|---|---:|\n| Initial investment cost | 100 |\n| Profit, Year 1 | 25 |\n| Loss, Year 2 | 10 |\n\nIf the incentive fee is 20% and there is a clawback provision, the total incentive fee for Years 1 and 2 is:",
         "options": [
             "0.",
             "3.",
@@ -25001,7 +25001,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 82: Statutory voting means that shareholders:",
+        "text": "Statutory voting means that shareholders:",
         "options": [
             "vote by proxy.",
             "have one vote per share.",
@@ -25014,7 +25014,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 83: An investor purchases a European put option for $10 with a strike price of $95. If the price of the underlying at expiration is $80, the value of the option at expiration is equal to:",
+        "text": "An investor purchases a European put option for $10 with a strike price of $95. If the price of the underlying at expiration is $80, the value of the option at expiration is equal to:",
         "options": [
             "$0.",
             "$5.",
@@ -25027,7 +25027,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Alternative Investments",
-        "text": "Question 84: Which of the following statements about direct ownership of real estate is most accurate?",
+        "text": "Which of the following statements about direct ownership of real estate is most accurate?",
         "options": [
             "Local real estate market expertise is important for success",
             "Investors have no control over the tenant selection process",
@@ -25040,7 +25040,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 85: For which of the following industries are economic influences most important?",
+        "text": "For which of the following industries are economic influences most important?",
         "options": [
             "Utilities",
             "Transportation",
@@ -25053,7 +25053,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 86: If an investor wants to protect a short position from adverse price movements while also providing the opportunity for gains in the future, the investor should most likely use a:",
+        "text": "If an investor wants to protect a short position from adverse price movements while also providing the opportunity for gains in the future, the investor should most likely use a:",
         "options": [
             "stop order.",
             "limit order.",
@@ -25066,7 +25066,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Portfolio Management",
-        "text": "Question 87: When making investment decisions, which of the following best describes a way to correct a behavioral bias caused by a cognitive error?",
+        "text": "When making investment decisions, which of the following best describes a way to correct a behavioral bias caused by a cognitive error?",
         "options": [
             "Obtain better investment information",
             "Rely on intuition when making investments",
@@ -25079,7 +25079,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Derivatives",
-        "text": "Question 88: At maturity, the buyer of an over-the-counter (OTC) financial instrument faces the counterparty credit risk of the seller in:",
+        "text": "At maturity, the buyer of an over-the-counter (OTC) financial instrument faces the counterparty credit risk of the seller in:",
         "options": [
             "a profitable long forward position only.",
             "an in-the-money long call option position only.",
@@ -25092,7 +25092,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 89: The following is a trader\u2019s order book for a stock:\n\n| Bid Volume | Limit Price (CHF) | Ask Volume |\n|---:|---:|---:|\n| --- | 42.76 | 6,800 |\n| --- | 42.68 | 9,100 |\n| --- | 42.64 | 6,600 |\n| --- | 42.60 | 2,400 |\n| 2,000 | 42.56 | --- |\n| 4,000 | 42.52 | --- |\n| 7,100 | 42.44 | --- |\n| 5,000 | 42.42 | --- |\n\nShe receives an order to sell 9,000 shares with a limit price of CHF42.52. The average price (in CHF) at which the trades will be executed is closest to:",
+        "text": "The following is a trader\u2019s order book for a stock:\n\n| Bid Volume | Limit Price (CHF) | Ask Volume |\n|---:|---:|---:|\n| --- | 42.76 | 6,800 |\n| --- | 42.68 | 9,100 |\n| --- | 42.64 | 6,600 |\n| --- | 42.60 | 2,400 |\n| 2,000 | 42.56 | --- |\n| 4,000 | 42.52 | --- |\n| 7,100 | 42.44 | --- |\n| 5,000 | 42.42 | --- |\n\nShe receives an order to sell 9,000 shares with a limit price of CHF42.52. The average price (in CHF) at which the trades will be executed is closest to:",
         "options": [
             "42.50.",
             "42.52.",
@@ -25105,7 +25105,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Mock: Mock Exam 1",
         "subject": "Equity Investments",
-        "text": "Question 90: A US investor purchases an American depository receipt of a company based in Japan. If the total return of the company's stock in Japan is 3% and the Japanese yen appreciates by 3% against the US dollar, the investor's total return is closest to:",
+        "text": "A US investor purchases an American depository receipt of a company based in Japan. If the total return of the company's stock in Japan is 3% and the Japanese yen appreciates by 3% against the US dollar, the investor's total return is closest to:",
         "options": [
             "0%.",
             "3%.",
