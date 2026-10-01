@@ -246,7 +246,7 @@ const app = {
 
     seedSampleQuestions: async function () {
         // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v20-markdown';
+        const SEED_VERSION = 'v21-skip-btn';
         const seeded = localStorage.getItem('cfaSeedVersion');
         if (seeded !== SEED_VERSION) {
             // Clear ALL existing questions and attempts so we start fresh with the new set
@@ -735,7 +735,7 @@ const app = {
                 </div>
                 <div class="flex items-center gap-2 mb-2">
                     <span class="text-sm text-slate-500 font-medium">Q${this.quizIndex+1} of ${this.quizQueue.length}</span>
-                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div>
+                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div><button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-500 bg-slate-200 hover:bg-slate-300 hover:text-slate-700 rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
                 </div>
 
                 <!-- Question card (relative for pause overlay) -->
@@ -759,7 +759,7 @@ const app = {
                                 <span class="option-letter">${String.fromCharCode(65+i)}</span>${opt}
                             </button>`).join('')}
                     </div>
-                    <button id="skip-btn" onclick="app.skipPracticeQuestion()" class="w-full text-center text-sm font-semibold text-slate-400 hover:text-slate-600 py-3 mt-4 border border-dashed border-slate-200 rounded-xl hover:bg-slate-50 transition-colors">Skip for now</button>
+                    
                     <!-- Pause overlay (hidden by default) -->
                     <div id="pause-overlay" class="quiz-paused-overlay" style="display:none;">
                         <svg class="w-12 h-12 text-slate-400 mb-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -785,7 +785,7 @@ const app = {
             : (q.correctAnswer?.toUpperCase?.().charCodeAt(0)-65 ?? -1);
         const isCorrect = selectedIndex === correctIndex;
         this.sessionTotal++; if(isCorrect) this.sessionCorrect++;
-        const skipBtn = document.getElementById("skip-btn"); if(skipBtn) skipBtn.style.display = "none";
+        const skipBtn = document.getElementById("skip-btn"); if(skipBtn) skipBtn.style.visibility = "hidden";
 
         document.querySelectorAll('.option-btn').forEach((btn,idx)=>{
             btn.disabled=true;
