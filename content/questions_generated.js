@@ -17366,5 +17366,2319 @@ const SAMPLE_QUESTIONS = [
         ],
         "correctAnswer": 1,
         "explanation": "Correct because according to GIPS standards, changes in the FIRM'S organization must not lead to alteration of historical performance. Therefore, the firm must continue to include the $50 million in the firm's historical performance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An individual can invest $19,000 today and receive $20,000 in one year's time. If her required rate of return is 5%, the rate of return on the investment is:",
+        "options": [
+            "less than the required rate of return.",
+            "equal to the required rate of return.",
+            "greater than the required rate of return."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the return on the investment can be calculated as (20,000 – 19,000)/19,000 = 1,000/19,000 = 5.26%. Therefore, it exceeds the required return of 5%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An analyst collects the following set of ten returns from previous years:\n\n| Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |\n| Return (%) | 2.2 | 6.2 | 8.9 | 9.3 | 10.5 | 11.7 | 12.3 | 14.1 | 15.3 | 18.4 |\n\nThe geometric mean return is closest to:",
+        "options": [
+            "9.62%.",
+            "10.80%.",
+            "10.89%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the geometric mean return is calculated as the Tth root of the product of T terms, where the terms are one plus the returns and T is the number of returns. After taking the Tth root, subtract one:\nwhere\nRG = the geometric mean return\nT = the number of returns\nRt = the return in year t\nRG =\n= 10.80%"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "Over a period of 16 months, an investor has earned a return of 12%. The investor's annualized return is closest to:",
+        "options": [
+            "8.87%.",
+            "9.00%.",
+            "9.38%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the annualized return is calculated using the formula for annualized return, Rannual = (1+Rperiod)c, where:\nRperiod = 12%\nc = 12/16, because one year contains 12/16th of a 16-month period.\nPlugging in the numbers:\nRannual = 1.12(12/16) – 1 = 0.0887 or = 8.87%"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An investor observed the following hedge fund return data.\n\n| Year | Beginning of Year Account Balance | Net Return of the Fund |\n| :--- | :--- | :--- |\n| 1 | $30 million | 10% |\n| 2 | $40 million | –5% |\n| 3 | $30 million | –5% |\n\nThe money-weighted return is closest to:",
+        "options": [
+            "–1.523%.",
+            "–0.749%.",
+            "–0.524%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct. Tabulate the annual returns and the investment amounts to determine the cash flows:\n\n| Year | 1 | 2 | 3 |\n| :--- | :--- | :--- | :--- |\n| Balance from previous year | 0 | 33.00 | 38.00 |\n| New Investment by Maria Delanie | 30.00 | 7.00 | 0 |\n| Withdrawal by Maria Delanie | 0 | 0 | -8.00 |\n| Net balance at the beginning of the year | 30.00 | 40.00 | 30.00 |\n| Investment return for the year | 10% | -5% | -5% |\n| Investment gain (loss) | 3.00 | -2.00 | -1.50 |\n| Balance at the end of the year | 33.00 | 38.00 | 28.50 |\n\nCF0 = –30, CF1 = –7, CF2 = +8, CF3 = +28.5; IRR = –0.524%"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An investor considers the following certificates of deposit (CDs) available for purchase at face value:\n\n| CD | Interest Rate |\n| :--- | :--- |\n| 1 | 2.2% |\n| 2 | 3.3% |\n| 3 | 4.4% |\n\nIf each CD has the same maturity and default risk, the opportunity cost of investing in CD 1 is closest to:",
+        "options": [
+            "0.0%.",
+            "1.1%.",
+            "2.2%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because all three securities have the same maturity and default risk so the investor is forgoing 2.2% (4.4% – 2.2%) by investing in CD 1 rather than investing in CD 3."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An investor is considering two term deposits with the following characteristics:\n\n| | Term Deposit 1 | Term Deposit 2 |\n| :--- | :--- | :--- |\n| Compounding frequency | Quarterly | Continuous |\n| Stated annual rate | 4% | --- |\n\nThe stated annual rate for Term Deposit 2 that should make the investor indifferent between the two term deposits is closest to:",
+        "options": [
+            "3.92%.",
+            "3.98%.",
+            "4.06%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the investor will be indifferent if the EAR for both term deposits is the same. Therefore, we need to find the stated annual rate with continuous compounding that corresponds to the EAR of the quarterly compounded term deposit. Calculations: EAR of Term Deposit 1 = (1 + 0.04/4)4 – 1 = 0.040604. Hence, EAR of Term Deposit 2 = 0.040604 = er – 1, leading to a stated annual rate for Term Deposit 2 of r = ln(1.040604) = 0.039801 ≈ 3.98%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An analyst gathers the following information about a portfolio:\n\n| Year | Equity Return | Fixed Income Return |\n| :--- | :--- | :--- |\n| 1 | 7.20% | 2.10% |\n| 2 | 9.60% | –4.60% |\n| 3 | –14.20% | 4.70% |\n\nIf the equity weighting is 70%, the fixed-income weighting is 30% and the portfolio is rebalanced annually, the portfolio's annual geometric mean return is closest to:",
+        "options": [
+            "0.60%.",
+            "0.83%.",
+            "1.82%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the first step is to calculate the portfolio's annual returns as a weighted mean of the equity and fixed-income returns with 70% equity and 30% fixed-income weighting.\nYear 1: (0.7 × 0.072) + (0.3 × 0.021) = 0.0567 = 5.67%\nYear 2: (0.7 × 0.096) + (0.3 × –0.046) = 0.0534 = 5.34%\nYear 3: (0.7 × –0.142) + (0.3 × 0.047) = –0.0853 = –8.53%\nNext, the portfolio's geometric mean annual return is calculated as:\n[(1 + 0.0567) × (1 + 0.0534) × (1 – 0.0853)]^(1/3) – 1 = [1.01818]^(1/3) – 1 = 0.00602 ≈ 0.60%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An investor purchased a stock for $450 and then sold the stock immediately after receiving a dividend of $2. If the holding period return is a loss of 10.2%, the investor sold the stock at a price closest to:",
+        "options": [
+            "$402.00",
+            "$404.00",
+            "$406.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a holding period return is the return earned from holding an asset for a single specified period of time. This return can be generalized and shown as a mathematical expression in which P is the price and I is the income: R = [(P1 – P0) + I1]/P0. The subscript indicates the time of the price or income, (t = 0), is the beginning of the period and (t = 1) is the end of the period. Hence, P1 = R × P0 + P0 – I1 = –10.2% × $450 + $450 – $2 = $402.1 ≈ $402."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "An investor purchases a stock for $100. Immediately after receiving a dividend of $7, the investor sells the stock for $107. The holding period return of the investment is closest to:",
+        "options": [
+            "0%.",
+            "7%.",
+            "14%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a holding period return is the return earned from holding an asset for a single specified period of time. This return can be generalized and shown as a mathematical expression in which P is the price and I is the income: R = (P1 – P0 + D1)/P0 Thus, R = ($107 – $100 + $7)/$100 = $14/$100 = 14%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "Which of the following statements is most accurate? The money-weighted return:",
+        "options": [
+            "ignores cash withdrawals and additional cash investments.",
+            "measures what the investor actually earned on the funds invested.",
+            "should be used to compare the performance of different investment managers."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the money-weighted return is an accurate measure of what the investor actually earned on the money invested."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "Which of the following risk premiums compensates investors for the risk of loss relative to an investment's fair value if the investment needs to be converted to cash quickly?",
+        "options": [
+            "Liquidity premium",
+            "Inflation premium",
+            "Maturity premium"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the liquidity premium compensates investors for the risk of loss relative to an investment's fair value if the investment needs to be converted to cash quickly."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM1 - Rates and Returns",
+        "text": "With respect to portfolio return measures, which of the following statements is most accurate?",
+        "options": [
+            "The time-weighted return is sensitive to additions and withdrawals of funds",
+            "The calculations of the money-weighted return and internal rate of return are similar",
+            "The money-weighted return is the preferred measure when evaluating the performance of a portfolio manager"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the money-weighted return accounts for the money invested and provides the investor with information on the return she earns on her actual investment. The money-weighted return and its calculation are similar to the internal rate of return and the yield to maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "A pension fund needs to pay a lump sum $10,000,000 to its participants in 15 years. If the fund is expected to earn 5% per year compounded semi-annually, the amount needed today to meet its liability in 15 years is closest to:",
+        "options": [
+            "$4,767,427.00",
+            "$4,810,171.00",
+            "$4,892,771.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because using the equation PV = FVN (1 + rs/m)-Nm\nwhere\nm = number of compounding periods per year\nrs = quoted annual interest rate\nN = number of years\nwe compute PV = $10,000,000 × (1 + 0.05/2)–15×2 = $4,767,426.85 ≈ $4,767,427.\nIn applying the equation, we use the periodic rate (in this case, the semi-annual rate) and the appropriate number of periods with semi-annual compounding.\nAlternative solution using a financial calculator in END mode:\nN = 30; I/Y = 0.025; PMT = 0; FV = 10,000,000; CPT PV = $4,767,426.852 ≈ $4,767,427"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "A company estimates its revenue will be 50% higher than today in four years' time. The compound annual growth rate is closest to:",
+        "options": [
+            "10.7%.",
+            "11.8%.",
+            "12.5%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a growth rate (g) is calculated as g = (FVN/PV)1/N – 1, where FV is the future value, PV is the present value and N is the number of periods. Here, g = (1.5/1)1/4 – 1 = 0.10668 ≈ 10.7%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "A bank offers a savings account with a stated annual rate of 3% in the first year and 5% in the second year. If returns are compounded quarterly and €90,000 is deposited in the account at the beginning of the first year, the account's value at the end of the second year is closest to:",
+        "options": [
+            "€97,200.00",
+            "€97,335.00",
+            "€97,455.00"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the returns are compounded quarterly; ."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "An investor has three options for receiving payments from an investment:\n• Option 1: a single payment of $136,000 today;\n• Option 2: 30 annual payments of $12,000, beginning one year from today;\n• Option 3: 20 annual payments of $13,000, beginning today.\nIf the annual discount rate is 8%, the option with the highest present value is:",
+        "options": [
+            "Option 1.",
+            "Option 2.",
+            "Option 3."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Option 3 (annuity due with 20 payments of $13,000 each) has the highest present value of the annuities and the $136,000 lump sum.\nCalculator solution for Option 2: End mode; N = 30; I/Y = 8; PMT = –12,000; compute PV = 135,093.\nCalculator solution for Option 3: Begin mode; N = 20; I/Y = 8; PMT = –13,000; compute PV = 137,847."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "An investor needs to make the following payments to cover college tuition fees, starting 10 years from today:\n\n| Annual fee (payable at the beginning of each year) | $50,000 |\n| Number of years of fee payments | 4 |\n\nIf the investor's annual discount rate is 3%, the minimum investment amount required today to fund all four years of college tuition is closest to:",
+        "options": [
+            "$138,294.00",
+            "$142,442.00",
+            "$146,716.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the present value (PV) of the annuity due 10 years from today equals PV10 = $50,000 + $50,000 × [1 – 1/(1.03)^3]/0.03 = $50,000 + $50,000 × 2.828611 = $191,431. The PV of the annuity today equals PV0 = $191,431/(1.03)^10 = $142,442.\nCalculator solution: BEGIN mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 191,431. Discounted back 10 years: N = 10; I/Y = 3%; FV = 191,431; solve for PV = 142,442.\nAlternatively, the annuity can be treated as an ordinary annuity, with a PV 9 years from today of PV9 = $50,000 × [1 – 1/(1.03)^4]/0.03 = $50,000 × 3.717098 = $185,855. The PV of the annuity today equals PV0 = $185,855/(1.03)^9 = $142,442.\nCalculator solution: END mode; N = 4; I/Y = 3%; PMT = 50,000; solve for PV = 185,855. Discounted back 9 years: N = 9; I/Y = 3%; FV = 185,855; solve for PV = 142,442."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "An investment requires 10 equal annual payments, starting today, and will pay out a lump sum of $500,000 15 years from today. If the interest rate is 4% per year compounded annually, the required annual payment is closest to:",
+        "options": [
+            "$32,913.00",
+            "$34,230.00",
+            "$40,044.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the present value of the future lump sum payment is PV = FVN(1 + r)–N = $500,000(1 + 0.04)–15 = $277,632.25. The 10 annual payments form an annuity due (since the payments start today) whose present value equals the present value of an ordinary annuity with 9 annual payments plus the first payment, i.e. PV = A + A[1 – 1/(1 + r)^N]/r = A(1 + [1 – 1/(1 + 0.04)^9]/0.04) = 8.4353(A). Setting the PV of the cash inflows (the return in 15 years), we can solve for the annual payment amount; A = $277,632.25/8.4353 ≈ $32,913. Calculator solution: BGN; N = 10; I/Y = 4; PV = 277,632.25; solve for PMT = 32,913."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM2 - Time Value of Money in Finance",
+        "text": "An investment pays $1,000 annually for five years, with the first payment occurring three years from today. If the discount rate is 6% compounded annually, the present value of the investment today is closest to:",
+        "options": [
+            "$3,537.00",
+            "$3,749.00",
+            "$4,212.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because by drawing a timeline, the investment is recognized as a delayed annuity with the first payment starting at t = 3.\nThe first step is to compute the present value of an ordinary annuity at t = 2 because the first annuity payment is then one period away, as PV2 = A[1 – 1/(1 + r)^N] / r = $1,000 × [1 – 1/(1 + 0.06)^5]/0.06 = $4,212.36.\nUsing the present value formula for a lump sum to bring the single cash flow from t = 2 to t = 0, PV0 = FVN(1 + r)–N = $4,212.36 (1 + 0.06)–2 = $3,748.99 ≈ $3,749.\nCalculator solution:\n(1) END mode; N = 5; I = 6%; PMT = –1,000; FV = 0; solve for PV = 4,212.36.\n(2) END mode; N = 2; I = 6%; PMT = 0; FV = 4,212.36; solve for PV = 3,748.99 ≈ 3,749.\nA second method to compute the present value of the investment is to recognize it as an annuity due with first payment at t = 3, and then discount back three periods using the present value formula for a lump sum. PV3 := {A[1 – 1/(1 + r)^N] / r}(1 + r) = $1,000 × {[1 – 1/(1 + 0.06)^5]/0.06} × (1 + 0.06) = $4,465.11.\nUsing the present value formula for a lump sum to bring the single cash flow from t = 3 to t = 0, PV0 = FVN(1 + r)–N = $4,465.11 (1 + 0.06)–3 = $3,748.99 ≈ $3,749.\nCalculator solution:\n(1) BGN mode; N = 5; I = 6%; PMT = –1,000; FV = 0; solve for PV = 4,465.11.\n(2) END mode; N = 3; I = 6%; PMT = 0; FV = 4,465.11; solve for PV = 3,748.99 ≈ 3,749.\nAnother method to compute the correct answer is to calculate the present value of a series of equal cash flows, with the first cash flow in the third year. Using a calculator with CF0=0, CF1=0, CF2=0, CF3=1000, CF4=1000, CF5=1000, CF6=1000, CF7=1000; I=6%; solve for NPV= 3,748.99 ~ 3,749."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "A graphical depiction of a continuous distribution shows the left tail to be longer than the right tail. The distribution is best described as having:",
+        "options": [
+            "leptokurtosis.",
+            "positive skewness.",
+            "negative skewness."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct. A negatively skewed distribution appears as if the left tail has been pulled away from the mean. The average magnitude of negative deviations from the mean is larger than the average magnitude of positive deviations."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "An analyst gathers the following sample returns for a security:\n\n| Return |\n| :--- |\n| –2% |\n| –1% |\n| 1% |\n| 2% |\n\nThe mean absolute deviation of the sample returns is:",
+        "options": [
+            "less than the sample standard deviation.",
+            "equal to the sample standard deviation.",
+            "greater than the sample standard deviation."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the mean absolute deviation of 1.5% is less than the sample standard deviation of 1.83%. The mean absolute deviation, MAD, is calculated as: , where the sample mean, . As the sample mean is: , the calculation of MAD is: = 1.5000%, while the sample standard deviation of n observations, Xi, is , here: = 1.8257%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "An analyst gathers the following returns for seven funds:\n\n| 12% | 7% | 5% | 4% | 8% | 3% | 3% |\n\nThe second quartile return is:",
+        "options": [
+            "4%.",
+            "5%.",
+            "6%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the formula for the position of a percentile in an array with n entries sorted in ascending order is Ly = (n + 1) × y/100, where y is the percentage point at which we are dividing the distribution and Ly is the location ( L) of the percentile ( Py) in the array sorted in ascending order. With seven entries, the location of the second quartile, or 50th percentile, is: Ly = (7 + 1) × 50/100 = 4. When placing the funds' returns in ascending order (3%; 3%; 4%; 5%; 7%; 8%; 12%), the return of the 4th fund is 5%.\nAlternatively, candidates might realize that the second quartile or 50th percentile is the median. The median is the value of the middle item of a set of items that has been sorted into ascending or descending order. In an odd-numbered sample of n items, the median occupies the ( n + 1)/2 position. Hence, the median return is 5%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "An analyst observes the following EPS for four companies: –£0.50, £0.50, £2.50, and £5.50. The 50th percentile of the EPS values is closest to:",
+        "options": [
+            "£1.50.",
+            "£2.00.",
+            "£2.50."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the 50th percentile is the median, which is the average of the two middle items; (£0.50 + £2.50)/2 = £1.50. In an even-numbered sample of n items, the median occupies the (n + 1)/2 position. In an even-numbered sample, we define the median as the mean of the values of items occupying the n/2 and (n + 2)/2 positions (the two middle items). Calculating the median may also be more complex; to do so, we need to order the observations from smallest to largest, determine whether the sample size is even or odd and, on that basis, apply one of two calculations. Alternatively, the 50th percentile when Ly is not a whole number or integer, Ly lies between the two closest integer numbers (one above and one below), and we use linear interpolation between those two places to determine Py. That is, Ly = (n + 1)(y/100) = (4 + 1)(50/100) = 2.5. Hence, 2 is the closest integer below the calculated location and 3 is the closest integer above the calculated location. Using linear interpolation, P50 = £0.50 + (£2.50 – £0.50) × (2.5 – 2) = £1.50."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "An analyst calculates the following statistics for a sample with 100 observations:\n\n| | Value |\n| :--- | :--- |\n| First quartile | 11 |\n| Second quartile | 62 |\n| Third quartile | 93 |\n| Fourth quartile | 359 |\n\nThe interquartile range of the sample is equal to:",
+        "options": [
+            "31",
+            "82",
+            "348"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the interquartile range (IQR) is the difference between the third quartile and the first quartile, or IQR = Q3 – Q1 = 93 – 11 = 82. Quartiles divide the distribution into quarters."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "Which of the following measures best quantifies the amount of risk per unit of mean return?",
+        "options": [
+            "Sharpe ratio",
+            "Standard deviation",
+            "Coefficient of variation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the coefficient of variation, CV, is the ratio of the standard deviation of a set of observations to their mean value. When the observations are returns, for example, the coefficient of variation measures the amount of risk (standard deviation) per unit of mean return."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "An analyst discards the lowest 2.5% and the highest 2.5% of values in a sample, and computes the mean of the remaining 95% of values. The resulting mean is best described as a:",
+        "options": [
+            "trimmed mean.",
+            "harmonic mean.",
+            "winsorized mean."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the trimmed mean is computed by excluding a stated small percentage of the lowest and highest values and then computing an arithmetic mean of the remaining values. For example, a 5% trimmed mean discards the lowest 2.5% and the highest 2.5% of values and computes the mean of the remaining 95% of values."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "Ranked in ascending order, the 19th observation in a sample of 75 is in the second:",
+        "options": [
+            "decile.",
+            "quintile.",
+            "quartile."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the 19th observation is located at the 25th percentile; which is in the second quintile. The second quintile includes observations that are above the 20th percentile and at or below the 40th percentile."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "If a unimodal return distribution is negatively skewed, which of the following most likely has the highest value?",
+        "options": [
+            "Mean",
+            "Mode",
+            "Median"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because for the continuous negatively skewed unimodal distribution, the mean is less than the median, which is less than the mode. Therefore, the mode has the highest value."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "For a continuous positively skewed unimodal distribution:",
+        "options": [
+            "both the mode and the median are less than the mean.",
+            "both the mode and the median are greater than the mean.",
+            "the mode is less than the mean and the median is greater than the mean."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because for a continuous positively skewed unimodal distribution, the mode is less than the median, which is less than the mean."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "A portfolio has a mean return of 1.0% and a standard deviation of returns of 2.7%. If the specified minimum target return is 1.0%, the sample target semideviation is:",
+        "options": [
+            "less than 2.7%.",
+            "equal to 2.7%.",
+            "greater than 2.7%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the target downside deviation = [Σ(Xi – B)2/(n – 1)]0.5, where Xi are the periodic returns below the target return, B is the target return, and n is the total number of periods. Since the sample has a standard deviation of 2.7%, it will have values below and above its mean of 1.0%. Since the target downside deviation ignores the deviations above the mean, it will be less than the standard deviation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "The correlation between two variables measures:",
+        "options": [
+            "only their linear relationship.",
+            "only their non-linear relationship.",
+            "both their linear and non-linear relationships."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the correlation coefficient is a measure of the linear association between two variables; it would not be appropriate to use the correlation coefficient to measure the non-linear relationship between variables."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "A portfolio has the following annual returns over five years:\n\n| Year | Annual Return |\n| :--- | :--- |\n| 1 | –23% |\n| 2 | 20% |\n| 3 | 3% |\n| 4 | 13% |\n| 5 | –1% |\n\nIf the portfolio manager has a target annual return of 6%, the portfolio's target downside deviation is closest to:",
+        "options": [
+            "12%.",
+            "13%.",
+            "15%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the target downside deviation, also referred to as the target semideviation, is a measure of dispersion of the observations (here, returns) below the target. To calculate a sample target semideviation, we first specify the target. After identifying observations below the target, we find the sum of the squared negative deviations from the target, divide that sum by the total number of observations in the sample minus 1, and, finally, take the square root. Observations for years 1, 3, and 5 are below the target. Thus, target downside deviation = {[(-23% - 6%)^2 + (3% - 6%)^2 + (-1% - 6%)^2]/4}^(1/2) = {[(-29%)^2 + (-3%)^2 + (-7%)^2]/4}^(1/2) = [(841%^2 + 9%^2 + 49%^2)/4]^(1/2) = (899%^2/4)^(1/2) = (224.75%^2)^(1/2) = 14.99% ≈ 15%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM3 - Statistical Measures of Asset Returns",
+        "text": "The coefficient of variation of a portfolio's monthly returns is best defined as the ratio of the:",
+        "options": [
+            "standard deviation of the portfolio's returns to the mean return.",
+            "mean excess portfolio return to the standard deviation of returns.",
+            "standard deviation of the portfolio's returns to the mean excess return."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the coefficient of variation is the ratio of the standard deviation of a set of observations to their mean value."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM4 - Probability Trees and Conditional Expectations",
+        "text": "A discrete random variable X has the following probability distribution:\n\n| Probability | Outcome |\n| :--- | :--- |\n| 0.20 | 35 |\n| 0.30 | 50 |\n| 0.50 | 80 |\n\nThe standard deviation of X is closest to:",
+        "options": [
+            "18.73.",
+            "20.00.",
+            "22.91."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the expected value E(X) = Σi=1nP(Xi)Xi = (0.20 × 35) + (0.30 × 50) + (0.50 × 80) = 62. The variance σ^2(X) = E{[X – E(X)]^2} = Σi=1nP(Xi)[X – E(X)]^2 = 0.20 × (35 – 62)^2 + 0.30 × (50 – 62)^2 + 0.50 × (80 – 62)^2 = 351. Standard deviation is the positive square root of variance: σ = 351^(1/2) ≈ 18.73."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM4 - Probability Trees and Conditional Expectations",
+        "text": "An analyst assumes that a company's future EPS will be either $2.00, $2.20, or $2.40. If each scenario is equally likely, the variance [in $2] of the company's future EPS is closest to:",
+        "options": [
+            "0.03.",
+            "0.16.",
+            "0.20."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the variance of a random variable is the expected value (the probability-weighted average) of squared deviations from the random variable's expected value: σ2(X) = E[X – E(X)]2. Since each scenario is equally likely (probability = 1/3), E(X) = (2.0 + 2.2 + 2.4)/3 = 2.2, so σ2(X) = [(2.0 – 2.2)2 + (2.2 – 2.2)2 + (2.4 – 2.2)2]/3 = [0.04 + 0.04]/3 = 0.08/3 = 0.0267 ≈ 0.03 [in $2]."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM4 - Probability Trees and Conditional Expectations",
+        "text": "A tree diagram contains the following information about the dividend per share payable by a company under two scenarios:\n\n| Scenario | Probability of Scenario | Dividend per Share | Probability of Dividend |\n| :--- | :--- | :--- | :--- |\n| Favorable | 0.60 | $2.00 | 0.80 |\n| | | $1.50 | 0.20 |\n| Unfavorable | 0.40 | $0.75 | 0.30 |\n| | | $0.50 | 0.70 |\n\nThe expected dividend per share under the favorable scenario is closest to:",
+        "options": [
+            "$1.14.",
+            "$1.37.",
+            "$1.90."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the expected value of a random variable X given an event or scenario S is denoted E(X | S). Suppose the random variable X can take on any one of n distinct outcomes X1, X2, ..., Xn (these outcomes form a set of mutually exclusive and exhaustive events). The expected value of X conditional on S is the first outcome, X1, times the probability of the first outcome given S, P(X1 | S), plus the second outcome, X2, times the probability of the second outcome given S, P(X2 | S), and so forth. In our case, S = Favorable scenario, X1 = Dividend of $2.50, X2 = Dividend of $1.50, P(X1 | S) = 0.80, and P(X2 | S) = 0.20. Thus, the expected dividend given the favorable scenario = (0.80 × $2.00) + (0.20 × $1.50) = $1.90."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM4 - Probability Trees and Conditional Expectations",
+        "text": "An analyst examines the distribution of portfolio returns in bullish and bearish market scenarios. To calculate the expected return on the portfolio in a bearish market scenario, the most appropriate approach is to use:",
+        "options": [
+            "the multiplication rule.",
+            "conditional expected values.",
+            "the total probability rule for expected value."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in investments, we make use of any relevant information available in making our forecasts. When we refine our expectations or forecasts, we are typically making adjustments based on new information or events; in these cases, we are using conditional expected values."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM5 - Portfolio Mathematics",
+        "text": "A portfolio manager considers the following joint probability function:\n\n| | Return on Foreign Portfolio RP = –10% | Return on Foreign Portfolio RP = 25% |\n| :--- | :--- | :--- |\n| Return on Foreign Currency RC = –15% | 0.6 | 0 |\n| Return on Foreign Currency RC = 30% | 0 | 0.4 |\n\nThe covariance (in % squared) between the returns on the foreign portfolio and the foreign currency is closest to:",
+        "options": [
+            "294",
+            "378",
+            "819"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the covariance is 378 and calculated as follows:\nExpected return on the foreign portfolio = 0.6(–10%) + 0.4(25%) = 4%.\nExpected return on the foreign currency = 0.6(–15%) + 0.4(30%) = 3%.\nCovariance = 0.6(–10% – 4%)(–15% – 3%) + 0.4(25% – 4%)(30% – 3%) = 378 (% squared)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM5 - Portfolio Mathematics",
+        "text": "If a portfolio's safety-first ratio and coefficient of variation both equal 1.2, the portfolio's return threshold is:",
+        "options": [
+            "negative.",
+            "zero.",
+            "positive."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the safety-first ratio is: [E(RP) – RL]/σP, where RP is the portfolio return, RL is the return threshold (shortfall level), and σP is the portfolio standard deviation. The coefficient of variation (CV) is: σP/E(RP). When this ratio is greater than 1.0, risk is greater than return. With a CV greater than 1.0 (i.e., σP > RP), the only way for the SFRatio to be greater than 1.0 is if the shortfall level is negative."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM5 - Portfolio Mathematics",
+        "text": "An analyst estimates the following correlation matrix of two securities' returns:\n\n| | Security 1 | Security 2 |\n| :--- | :--- | :--- |\n| Security 1 | 1.0 | 0.5 |\n| Security 2 | 0.5 | 1.0 |\n\nIf the standard deviation of returns of each security is 9%, the covariance (in units of % squared) between the two securities is closest to:",
+        "options": [
+            "20.3.",
+            "40.5.",
+            "61.7."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the covariance is Cov (R1, R2) = ρ(R1, R2) σ(R1)σ(R2) = (0.5)(9)(9) = 40.5."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM5 - Portfolio Mathematics",
+        "text": "If the returns of two assets exhibit perfect positive correlation, the two-asset portfolio's standard deviation of returns is:",
+        "options": [
+            "less than the weighted average standard deviation.",
+            "equal to the weighted average standard deviation.",
+            "greater than the weighted average standard deviation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because correlation is a number between –1 and +1 for two random variables. Increasingly positive correlation indicates an increasingly strong positive linear relationship (up to 1, which indicates a perfect linear relationship). Thus, a perfectly positive linear relationship indicates correlation of 1.0. As long as security returns are not perfectly positively correlated, diversification benefits are possible. Since correlation equals 1.0, diversification benefits cannot be obtained and the portfolio standard deviation formula simplifies to a weighted average."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM6 - Simulation Methods",
+        "text": "Bootstrap resampling:",
+        "options": [
+            "repeatedly draws samples without replacement.",
+            "can be used to estimate the standard error of a population median.",
+            "relies on an analytical formula to estimate the distribution of estimators."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because bootstrap, one of the most popular resampling methods, can be used to find the standard error or construct confidence intervals for the statistic of other population parameters, such as the median."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM6 - Simulation Methods",
+        "text": "A random variable Y = exp(X) is lognormally distributed, where X is normally distributed. The distribution of Y:",
+        "options": [
+            "is skewed to the left.",
+            "is often used to model stock prices.",
+            "has a mean equal to exp(μ), where μ is the mean of X."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the lognormal distribution has been found to be a usefully accurate description of the distribution of prices for many financial assets, which includes stocks."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM6 - Simulation Methods",
+        "text": "The lognormal distribution is:",
+        "options": [
+            "negatively skewed.",
+            "bounded below by zero.",
+            "widely used for modeling the probability distribution of asset returns."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the two most noteworthy observations about the lognormal distribution are that it is bounded below by 0 and it is skewed to the right (it has a long right tail)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM6 - Simulation Methods",
+        "text": "Both the normal distribution and the lognormal distribution:",
+        "options": [
+            "are symmetrical.",
+            "are completely described by two parameters.",
+            "have a range of possible outcomes that includes all real numbers between –∞ and +∞."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because like the normal distribution, the lognormal distribution is completely described by two parameters."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM7 - Estimation and Inference",
+        "text": "A researcher wants to measure the level of consumer confidence in a country by interviewing a simple random sample of ten consumers from three randomly selected cities. This method is an example of:",
+        "options": [
+            "cluster sampling.",
+            "systematic sampling.",
+            "stratified random sampling."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because cluster sampling requires the division or classification of the population into subpopulation groups, called clusters. In this method, the population is divided into clusters, each of which is essentially a mini-representation of the entire populations. Then certain clusters are chosen as a whole using simple random sampling. If a subsample is randomly selected from each selected cluster, then the plan is referred as two-stage cluster sampling. In this case, each city represents a cluster, from which a sample of ten consumers is randomly selected, i.e. the researcher uses a two-stage cluster sampling."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM7 - Estimation and Inference",
+        "text": "The central limit theorem is best described as stating that the sampling distribution of the sample mean will be approximately normal for large-size samples:",
+        "options": [
+            "if the population distribution is normal.",
+            "if the population distribution is symmetrical.",
+            "for populations described by any probability distribution."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the central limit theorem holds without regard for the distribution of the underlying population."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM7 - Estimation and Inference",
+        "text": "An analyst gathered the following information about a stock index:\n\n| Mean net income for all companies in the index | $2.4 million |\n| Standard deviation of net income for all companies in the index | $3.2 million |\n\nIf the analyst takes a sample of 36 companies from the index, the standard error of the sample mean is closest to:",
+        "options": [
+            "$88,889.00",
+            "$400,000.00",
+            "$533,333.00"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the standard error of the sample mean is equal to the population standard deviation (σ) divided by the square root of the number of observations in the sample (n):"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM7 - Estimation and Inference",
+        "text": "An analyst studying the Sharpe ratios of mutual funds globally uses only the data from the standard internal database, which covers 12 mutual funds. This sampling method is best described as:",
+        "options": [
+            "cluster sampling.",
+            "judgmental sampling.",
+            "convenience sampling."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in this method (convenience sampling), an element is selected from the population based on whether or not it is accessible to a researcher or on how easy it is for a researcher to access the element. Because the samples are selected conveniently, they are not necessarily representative of the entire population, and hence the level of the sampling accuracy could be limited. By choosing to use all the data from an internal database, the analyst is using convenience sampling."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM7 - Estimation and Inference",
+        "text": "The sampling distribution of a statistic must be constructed from samples that are:",
+        "options": [
+            "large.",
+            "of the same size.",
+            "from the same stratum."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the sampling distribution of a statistic is the distribution of all the distinct possible values that the statistic can assume when computed from samples of the same size randomly drawn from the same population."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM7 - Estimation and Inference",
+        "text": "A population has a lognormal distribution with a standard deviation of 50. Samples with a size of 100 are drawn from the population. The sampling distribution of the sample mean is most likely:",
+        "options": [
+            "skewed to the right with a standard deviation of 50.",
+            "approximately symmetric with a standard deviation of 5.",
+            "approximately symmetric with a standard deviation of 0.5."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because, according to the central limit theorem, given a population described by any probability distribution having mean μ and finite variance σ2, the sampling distribution of the sample mean X computed from samples of size n from this population will be approximately normal with mean μ (the population mean) and variance σ2/n (the population variance divided by n) when the sample size n is large. Since the sample size is large (n = 100), the sampling distribution of the sample mean is approximately normal, or symmetric, with a mean of 100 and standard deviation of 50/(100)^1/2 = 5."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM8 - Hypothesis Testing",
+        "text": "When testing a hypothesis, the power of a test is best described as the:",
+        "options": [
+            "same as the level of significance of the test.",
+            "probability of rejecting a true null hypothesis.",
+            "probability of correctly rejecting the null hypothesis."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the power of a test is the probability of correctly rejecting the null hypothesis—that is, the probability of rejecting the null when it is false."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM8 - Hypothesis Testing",
+        "text": "A nonparametric test is most appropriate when:",
+        "options": [
+            "comparing differences between means.",
+            "data are given in ranks.",
+            "data meet distributional assumptions."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. A nonparametric test is used under three circumstances:\n1. when the data do not meet distributional assumptions,\n2. when the data are given in ranks, and\n3. when the hypothesis does not concern a parameter."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM8 - Hypothesis Testing",
+        "text": "An analyst wants to test the mean difference between two normally distributed populations using dependent samples. If the population variances are unknown, the most appropriate hypothesis test is a:",
+        "options": [
+            "chi-square test.",
+            "paired comparisons t-test.",
+            "t-test with a pooled estimator of the common variance."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because when we want to conduct tests on two means based on samples that we believe are dependent, these methods apply. The t-test is based on data arranged in paired observations, and the test itself is sometimes called a paired comparisons test."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM8 - Hypothesis Testing",
+        "text": "Which of the following test statistics is used when testing the variance of a single normally distributed population?",
+        "options": [
+            "z-statistic",
+            "F-statistic",
+            "Chi-square statistic"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in tests concerning the variance of a single normally distributed population, we make use of a chi-square test statistic."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM8 - Hypothesis Testing",
+        "text": "All else being equal, if an analyst specifies a smaller significance level for a hypothesis test, the probability of a Type II error:",
+        "options": [
+            "decreases.",
+            "remains the same.",
+            "increases."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because all else equal, if we decrease the probability of a Type I error by specifying a smaller significance level (say, 1% rather than 5%), we increase the probability of making a Type II error because we will reject the null less frequently, including when it is false. A Type II error occurs when we fail to reject a false null hypothesis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM8 - Hypothesis Testing",
+        "text": "An analyst gathers the following information about a random sample of salaries:\n\n| Sample size | 64 |\n| Sample mean | $32,000 |\n| Sample standard deviation | $12,000 |\n\nTo test the hypothesis that the mean salary of the underlying population is greater than $11,000, the appropriate test statistic is closest to:",
+        "options": [
+            "1.8.",
+            "14.0.",
+            "21.3."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the population variance is not given and so must be assumed to be unknown. Also, the sample size of 64 can be considered large. In general, a sample size of 30 or more usually can be treated as a large sample and a sample size of 29 or less is treated as a small sample. In this case, the test statistic for hypothesis tests concerning a single population mean, μ, is tn – 1 = (X – μ0)/(s/√n), where tn – 1 = t-statistic with n – 1 degrees of freedom (n is the sample size), X = the sample mean, μ0 = the hypothesized value of the population mean, s = the sample standard deviation. Thus, the appropriate test statistic to test if the mean salary is greater than $11,000 is t63 = ($32,000 – $11,000)/($12,000/√64) = $21,000/$1,500 = 14.0."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM9 - Parametric and Non-Parametric Tests of Independence",
+        "text": "Which of the following is best referred to as a nonparametric hypothesis test concerning correlation? A test using the:",
+        "options": [
+            "Pearson correlation coefficient",
+            "bivariate correlation coefficient",
+            "Spearman rank correlation coefficient"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when we believe that the population under consideration meaningfully departs from normality, we can use a test based on the Spearman rank correlation coefficient. The Spearman rank correlation coefficient is essentially equivalent to the usual correlation coefficient but is calculated on the ranks of the two variables within their respective samples, and thus it is a nonparametric test."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM9 - Parametric and Non-Parametric Tests of Independence",
+        "text": "An analyst tabulates the ranks of four paired observations of random variables X and Y as follows:\n\n| Observation | Rank of X | Rank of Y |\n| :--- | :--- | :--- |\n| 1 | 1 | 2 |\n| 2 | 2 | 3 |\n| 3 | 3 | 4 |\n| 4 | 4 | 1 |\n\nThe Spearman rank correlation coefficient between X and Y is closest to:",
+        "options": [
+            "–0.2.",
+            "0.8.",
+            "1.0."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because with n as the sample size, the Spearman rank correlation is given by:\nrs = 1 – (6 Σdi2)/(n(n2 – 1)) = 1 – 6(12)/(4(42 – 1)) = 1 – 6/5 = –1/5 = –0.2, where the sum of squared differences in ranks Σdi2 = (2 – 1)2 + (3 – 2)2 + (4 – 3)2 + (1 – 4)2 = 1 + 1 + 1 + 9 = 12."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM9 - Parametric and Non-Parametric Tests of Independence",
+        "text": "An analyst builds a contingency table of stocks with two classifications: market capitalization (small, medium, large) and beta (high, medium, low). To test the relationship between size and beta using a test of independence, the number of degrees of freedom for the chi-square test statistic is:",
+        "options": [
+            "4",
+            "6",
+            "9"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because for a contingency table the independence test statistic has (r – 1)(c – 1) degrees of freedom, where r is the number of rows and c is the number of columns. For the contingency table in the stem, there are 3 rows and 3 columns as each classification has 3 groups. Hence, the number of degrees of freedom is equal to (r – 1)(c – 1) = (3 – 1)(3 – 1) = 4."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM9 - Parametric and Non-Parametric Tests of Independence",
+        "text": "For a hypothesis test concerning the correlation between two normally distributed variables with sample size n each, the number of degrees of freedom is:\nCorrect answer:",
+        "options": [
+            "n – 2.",
+            "n – 1.",
+            "2n – 2."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because if the two variables are normally distributed, we can test to determine whether the null hypothesis (H0: ρ = 0) should be rejected. This test statistic is t-distributed with n – 2 degrees of freedom, where ρ represents the population correlation coefficient."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM9 - Parametric and Non-Parametric Tests of Independence",
+        "text": "In a parametric test of the correlation between two variables with a sample size of 51 and sample correlation of 0.6, the t-statistic is closest to:",
+        "options": [
+            "0.07.",
+            "5.25.",
+            "6.64."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because for a Parametric Test of a Correlation if the two variables are normally distributed, we can test to determine whether the null hypothesis (H0: p = 0) should be rejected using the sample correlation, r. The formula for the t-test is\nr√(n – 2) / √(1 – r2) = (0.6)√(51 – 2) / √(1 – 0.36) = (0.6)(7)/0.8 = 5.25."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "Which of the following is an underlying assumption of the simple linear regression model? The regression residuals:",
+        "options": [
+            "are normally distributed.",
+            "have high correlations across observations.",
+            "have different variances across observations."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because one of the four key assumptions we need to make to be able to draw valid conclusions from a simple linear regression mode is that regression residuals are normally distributed."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "An analyst runs a simple linear regression to test whether the variation in the demand for corn explains the variation in the supply of wheat. In this model, the supply of wheat is a(n):",
+        "options": [
+            "indicator variable.",
+            "explained variable.",
+            "independent variable."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because variation in the demand for corn is being used to explain the variation in the supply of wheat. Therefore the variation in the supply of wheat is the dependent variable, or explained variable. We refer to the variable whose variation is being explained as the dependent variable, or the explained variable; it is typically denoted by Y."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "All else being equal, which of the following would most likely lead to a wider prediction interval for the dependent variable when re-estimating a linear regression model? An increase in the:",
+        "options": [
+            "sample size",
+            "level of significance",
+            "standard error of the estimate"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the prediction interval is equal to the predicted value of the dependent variable plus/minus the critical t-value times the standard error of the forecast. The better the fit of the regression model, the smaller the standard error of the estimate (se) and, therefore, the smaller standard error of the forecast. When the standard error of the estimate increases, the standard error of the forecast will increase, which will lead to a wider prediction interval if holding other things constant."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "An analyst performs a simple linear regression of a stock's monthly return on the monthly return of a market index (both in %) and gathers the following information:\n\n| Estimated slope | 1.0 |\n| Estimated intercept | 1.2% |\n| Standard error of the forecast | 1.4% |\n| Critical t-values at a 5% significance level | ±2.032 |\n\nThe 95% prediction interval for the stock's monthly return, given that the forecasted monthly return on the index is 3.5%, is closest to:",
+        "options": [
+            "0.7% to 6.3%.",
+            "1.9% to 7.5%.",
+            "3.3% to 6.1%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a forecasted value of the dependent variable, Yf, is determined using the estimated intercept and slope, as well as the expected or forecasted independent variable, Xf: Yf = b0 + b1Xf, where b0 and b1 are the estimated intercept and slope coefficients, respectively. Hence, Yf = 1.2% + 1.0 × 3.5% = 4.7%.\nNext, the prediction interval is Yf ± tcritical for α/2sf, where sf denotes the standard error of the forecast. Hence, the prediction interval is given by: 4.7% ± 1.4% × 2.032 ≈ (1.9%, 7.5%)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "In simple linear regression analysis, the total sum of squares best describes:",
+        "options": [
+            "a scatter plot.",
+            "the variation of the dependent variable.",
+            "a paired observation between variables."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the variation of Y (the dependent variable) is often referred to as the sum of squares total (SST), or the total sum of squares."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "The simple linear regression model in which only the independent variable is in logarithmic form is best described as the:",
+        "options": [
+            "log-lin model.",
+            "lin-log model.",
+            "log-log model."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the lin-log model is similar to the log-lin model, but only the independent variable is in logarithmic form."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "The null hypothesis for the F-distributed test statistic in a simple linear regression model tests whether the:",
+        "options": [
+            "slope is equal to zero.",
+            "intercept is equal to zero.",
+            "slope is not equal to zero."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in regression analysis, we can use an F-distributed test statistic to test whether the slopes in a regression are equal to zero, with the slopes designated as bi, against the alternative hypothesis that at least one slope is not equal to zero for simple linear regression, these hypotheses simplify to H0: b1 = 0. Ha: b1 ≠0."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "Which of the following best describes when a transformation of the data may be needed to enable the use of a simple linear regression model? When the:",
+        "options": [
+            "dependent variable is non-normally distributed.",
+            "pairs of the dependent and independent variables are uncorrelated with one another.",
+            "relationship between the independent variable and the dependent variable is non-linear."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because if the relationship between the independent variable and the dependent variable is not linear, we can often transform one or both of these variables to convert this relation to a linear form, which then allows the use of simple linear regression."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "With respect to simple linear regression, a residual is best described as the difference between the observed value of a dependent variable and:",
+        "options": [
+            "its mean.",
+            "its estimated value using a fitted regression line based on the sample.",
+            "its expected value based on the true underlying population relationship."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the residual for the ith observation, ei, is how much the observed value of Yi differs from the estimated [value] using the regression line. Further, the residual refers to the fitted linear relation based on the sample."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "An analyst estimates the following information from a simple linear regression:\n\n| Sum of squares error | 280 |\n| Sum of squares regression | 25 |\n| Number of paired observations | 30 |\n\nThe standard error of the estimate is closest to:",
+        "options": [
+            "2.5.",
+            "3.2.",
+            "10.0."
+        ],
+        "correctAnswer": 1,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM10 - Simple Linear Regression",
+        "text": "The standard error of the estimate in a simple linear regression is best described as:",
+        "options": [
+            "a relative measure of fit for the regression.",
+            "the percentage of the variation of the dependent variable that is explained by the independent variable.",
+            "a measure of the distance between the observed values of the dependent variable and those predicted from the estimated regression."
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM11 - Introduction to Big Data Techniques",
+        "text": "Which of the following is most likely used to detect sentiment shifts in an analyst's commentary?",
+        "options": [
+            "Tokenization",
+            "Data curation",
+            "Natural language processing"
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM11 - Introduction to Big Data Techniques",
+        "text": "The failure of machine learning models to accurately predict outcomes can be the result of:",
+        "options": [
+            "overfitting, but not underfitting.",
+            "underfitting, but not overfitting.",
+            "either overfitting or underfitting."
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM11 - Introduction to Big Data Techniques",
+        "text": "In its broadest sense, fintech is best described as:",
+        "options": [
+            "the vast amount of data being generated by the financial services industry.",
+            "the execution of investment strategies through computer-generated algorithms.",
+            "technological innovation in the design and delivery of financial services and products."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in its broadest sense, the term 'fintech' generally refers to technology-driven innovation occurring in the financial services industry. For the purposes of this reading, fintech refers to technological innovation in the design and delivery of financial services and products. Note, however, that in common usage, fintech can also refer to companies (often new, startup companies) involved in developing the new technologies and their applications, as well as the business sector that comprises such companies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM11 - Introduction to Big Data Techniques",
+        "text": "With respect to Big Data, which of the following is most likely classified as alternative data?",
+        "options": [
+            "Email communication data",
+            "Corporate regulatory filings",
+            "Data from derivative markets"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Big Data includes data generated from traditional sources—such as stock exchanges, companies, and governments—as well as non-traditional data types, also known as alternative data, arising from the use of electronic device. As the internet and the presence of such networked devices have grown, the use of non-traditional data sources, or alternative data sources—including social media (posts, tweets, and blogs), email and text communications and other electronic information sources—has risen."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Quantitative Methods",
+        "lm": "LM11 - Introduction to Big Data Techniques",
+        "text": "Which of the following is the most recent advancement in fintech? Applications that can:",
+        "options": [
+            "process data",
+            "automate tasks",
+            "make decisions"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because early forms of fintech included data processing and the automation of routine tasks. Fintech has since advanced into decision-making applications based on complex machine-learning logic, where computer programs are able to 'learn' how to complete tasks over time. Thus, advanced forms of fintech include applications that are capable of decision-making."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "An equally weighted portfolio is composed of two risky assets. If the correlation of asset returns is equal to zero, the portfolio standard deviation is:",
+        "options": [
+            "equal to zero.",
+            "equal to the weighted average of the assets' standard deviations.",
+            "less than the weighted average of the assets' standard deviations."
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "When creating a long-only portfolio, which of the following correlation coefficients between assets would be most effective at reducing portfolio risk?",
+        "options": [
+            "–0.5.",
+            "0",
+            "0.5."
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "For a risk-seeking investor, an investment in a risk-free asset generates utility that is:",
+        "options": [
+            "less than the utility generated for a risk-averse investor.",
+            "equal to the utility generated for a risk-averse investor.",
+            "greater than the utility generated for a risk-averse investor."
+        ],
+        "correctAnswer": 1,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "The Markowitz efficient frontier is best described as a curve that:",
+        "options": [
+            "lies above and to the left of the minimum-variance frontier.",
+            "connects the minimum-variance portfolios for all possible returns.",
+            "contains all portfolios of risky assets that rational, risk-averse investors will choose."
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "Long-term historical data on the risk–return trade-off of securities show that investors are most likely",
+        "options": [
+            "risk averse.",
+            "risk neutral.",
+            "risk seeking."
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "When evaluating the return distribution of an asset class, the probability of extreme returns is best assessed by the distribution's:",
+        "options": [
+            "kurtosis.",
+            "variance.",
+            "skewness."
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "With respect to capital market theory, which of the following statements is most accurate?",
+        "options": [
+            "The optimal risky portfolio is dependent on the risk-free rate.",
+            "The optimal risky portfolio is dependent on the investor's risk profile.",
+            "The investor's optimal portfolio must lie on the Markowitz efficient frontier."
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "Two investors have indifference curves that are tangent to the same capital allocation line (CAL). If Investor 1 is more risk averse than Investor 2, Investor 1's optimal portfolio is:",
+        "options": [
+            "to the left of Investor 2's optimal portfolio on the CAL.",
+            "at the same point on the CAL as Investor 2's optimal portfolio.",
+            "to the right of Investor 2's optimal portfolio on the CAL."
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "As the number of assets in an equally weighted portfolio becomes large, the portfolio's variance of returns most likely approaches:",
+        "options": [
+            "zero.",
+            "the average variance of the individual assets' returns.",
+            "the average covariance between the individual assets' returns."
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "The global minimum-variance portfolio is a portfolio that lies:",
+        "options": [
+            "anywhere along the minimum-variance frontier.",
+            "at the left-most point of the minimum-variance frontier.",
+            "at the upper right-most point of the minimum-variance frontier."
+        ],
+        "correctAnswer": 1,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "The correlation of returns between two securities with equal standard deviation of returns is 0.75. If the covariance of returns is 5.5%2, the standard deviation of returns for each security is closest to:",
+        "options": [
+            "2.7%.",
+            "3.7%.",
+            "7.3%."
+        ],
+        "correctAnswer": 0,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "A portfolio consisting of two securities has the following characteristics:\n\n| Security | Portfolio Weight | Standard Deviation |\n| :--- | :--- | :--- |\n| 1 | 40% | 15% |\n| 2 | 60% | 18% |\n\nIf the correlation of returns between the two securities is 0.20, the portfolio's standard deviation of returns is closest to:",
+        "options": [
+            "1.8%.",
+            "9.1%.",
+            "13.4%."
+        ],
+        "correctAnswer": 2,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "A risk-neutral investor most likely seeks to maximize:",
+        "options": [
+            "both risk and return.",
+            "return irrespective of risk.",
+            "return for a given level of risk."
+        ],
+        "correctAnswer": 1,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM1 - Portfolio Risk and Return: Part I",
+        "text": "Two assets have the following characteristics:\n\n| Variance of returns for Asset 1 | 0.05 |\n| Variance of returns for Asset 2 | 0.06 |\n| Correlation of returns between Asset 1 and Asset 2 | 0.75 |\n\nThe variance of returns for an equally weighted portfolio of the two assets is closest to:",
+        "options": [
+            "0.038.",
+            "0.048.",
+            ""
+        ],
+        "correctAnswer": 1,
+        "explanation": "Incorrect because it is the weighted average of the asset variances: (0.5)(0.05) + (0.5)(0.06) = 0.025 + 0.03 = 0.055. However, a weighted average calculation is only appropriate for the portfolio standard deviation (not variance) when the correlation among assets is 1."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information:\n\n| | Standard Deviation of Returns | Beta |\n| :--- | :--- | :--- |\n| Asset | 70% | 1.8 |\n| Market portfolio | 35% | 1.0 |\n\nThe covariance between the returns of the asset and the market is closest to:",
+        "options": [
+            "0.22.",
+            "0.40.",
+            "0.90."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because, given the beta of an asset (βi), the covariance between the asset returns (Ri) and the market portfolio returns (Rm) is given by: Cov(Ri,Rm) = βi × σm2 = 1.8 × 0.352 = 0.22."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The capital market line most likely consists of portfolios that:",
+        "options": [
+            "are fully diversified.",
+            "have zero systematic risk.",
+            "have nonsystematic risk equal to beta."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the capital market line (CML) does not apply to all securities or assets but only to portfolios on the efficient frontier. The efficient frontier gives optimal combinations of expected return and total risk. Total risk and systematic risk are equal only for efficient portfolios because those portfolios have no diversifiable risk remaining. Thus, the CML holds only for well-diversified portfolios."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An investor gathers the following information about a security and the market:\n\n| Security's beta | 0.35 |\n| Standard deviation of the security's returns | 12% |\n| Standard deviation of market returns | 18% |\n\nThe correlation between the security's returns and the market's returns is closest to:",
+        "options": [
+            "0.2.",
+            "0.5.",
+            "0.8."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because βi = ρi,m × σi/σm, where ρi,m denotes the correlation between the asset returns and the market returns, and σi and σm denote the standard deviation of the asset returns and the market returns, respectively. Thus, correlation ρi,m = βi × σm/σi = 0.35 × 0.18/0.12 = 0.525 ≈ 0.5."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An investor gathers the following information about a portfolio and the market:\n\n| | Return | Standard Deviation of Returns | Beta |\n| :--- | :--- | :--- | :--- |\n| Portfolio | 11% | 4% | 1.2 |\n| Market | 10% | 3% | 1.0 |\n\nIf the risk-free rate is 3%, Jensen's alpha for the portfolio is:",
+        "options": [
+            "–4.0%.",
+            "–0.4%.",
+            "0.4%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Jensen's alpha is calculated as:\nαp = Rp – [Rf + βp (Rm – Rf)]\nαp = 11% – [3% + 1.2 × (10% – 3%)]\nαp = 11% – 11.4% = –0.4%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst estimates the standard deviation of returns for the market portfolio to be 15% and the standard deviation of returns for a stock to be 25%. If the correlation of returns between the stock and the market portfolio is 0.6, the stock has:",
+        "options": [
+            "less systematic risk than the market portfolio.",
+            "the same systematic risk as the market portfolio.",
+            "more systematic risk than the market portfolio."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the amount of systematic risk for a company is measured by the stock's beta. β = ρi,m × σi / σm = 0.60 × 0.25 / 0.15 = 0.15 / 0.15 = 1. Since the company's beta equals the market portfolio's beta (the market portfolio's beta with itself equals 1), the company has the same level of systematic risk as the market portfolio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The intercept on the y-axis of the security characteristic line is:",
+        "options": [
+            "beta.",
+            "Jensen's alpha.",
+            "the risk-free rate of return."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the SCL is a plot of the excess return of the security on the excess return of the market. Jensen's alpha is the intercept and the beta is the slope."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information:\n\n| Risk-free rate | 4% |\n| Expected return on a security | 7% |\n| Expected return on the market | 14% |\n\nAccording to the CAPM, the security's beta is closest to:",
+        "options": [
+            "0.21.",
+            "0.30.",
+            "0.50."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because, according to the CAPM, the expected return [E(Ri)] for an asset is given by: E(Ri) = Rf + βi[E(Rm) – Rf].\nThe beta [βi] is then calculated using: βi = [E(Ri) – Rf]/[E(Rm) – Rf] = [7% – 4%]/[14% – 4%] = 0.30."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "A security with a beta of 1.5 has an expected return of 11% according to the CAPM. If the risk-free rate is 2%, the market risk premium is closest to:",
+        "options": [
+            "4.0%.",
+            "6.0%.",
+            "7.3%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because, according to the CAPM, the expected return of a security is E(Ri) = Rf + βi[E(Rm) – Rf], such that [E(Rm) – Rf ]= [E(Ri) – Rf]/βi = (0.11 – 0.02)/1.5 = 0.06 = 6%. The market risk premium is E(Rm) – Rf = 6%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information:\n\n| Risk-free rate | 2% |\n| Expected return of the market portfolio | 10% |\n| Standard deviation of the market portfolio | 20% |\n| Standard deviation of the security | 35% |\n| Correlation between the security and the market | 0.8 |\n\nAccording to the CAPM, the expected return of the security is closest to:",
+        "options": [
+            "5.7%.",
+            "13.2%.",
+            "16.0%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the expected return of the security can be calculated using the CAPM equation: E(Ri) = Rf + β[E(Rm) – Rf]. The beta of the security can be calculated using the equation β = (ρi,m × σi)/σm. Therefore, β = (0.8 × 35%)/20% = 1.4. Beta is the product of the asset's correlation with the market with a ratio of standard deviations of return (i.e., the ratio of the asset's standard deviation to the market's). Therefore, using the CAPM equation: E(Ri) = 2% + 1.4 × (10% – 2%) = 13.2%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The correlation between the risk-free asset and the optimal risky portfolio is expected to be:",
+        "options": [
+            "negative.",
+            "zero.",
+            "positive."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a combination of the risk-free asset and a risky asset can result in a better risk–return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset. The optimal risky portfolio is a risky asset, and thus has zero correlation with the risk-free asset."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "Which of the following performance measures is equal to the slope of the capital allocation line?",
+        "options": [
+            "M2",
+            "Sharpe ratio",
+            "Treynor ratio"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the Sharpe ratio, also called the reward-to-variability ratio, is simply the slope of the capital allocation line."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information about a portfolio and the market:\n\n| Portfolio's Sharpe ratio | 0.8 |\n| Volatility of portfolio returns | 19% |\n| Volatility of market returns | 10% |\n| Correlation between portfolio returns and market returns | 0.7 |\n\nThe portfolio's Treynor ratio is closest to:",
+        "options": [
+            "0.060.",
+            "0.114.",
+            "0.413."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because\nTR = (Rp – Rf)/βp = [(Rp – Rf)/σp] × (σp/βp) = SR × (σp/βp) = 0.8 × (0.19/1.33) = 0.114,\nwhere\nσm = standard deviation of market returns = 0.10 (given);\nσp = standard deviation of portfolio returns = 0.19 (given);\nρp,m = correlation between market and portfolio = 0.7 (given);\nβp = portfolio beta = ρp,m(σp/σm) = 0.7 × (0.19/0.1) = 1.33 (per βi = ρi,m(σi/σm));\nRp = portfolio's return;\nRf = risk-free rate of interest;\nTR = Treynor ratio;\nSR = Sharpe ratio, where SR = (Rp – Rf)/σp."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "Which of the following lines is plotted on a graph with the excess return of a security on the y-axis and the excess return of the market on the x-axis?",
+        "options": [
+            "Capital market line",
+            "Security market line",
+            "Security characteristic line"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because similar to the SML (security market line), we can draw a security characteristic line (SCL) for a security. The SCL is a plot of the excess return of the security on the excess return of the market. The security characteristic line can also be estimated by regressing the excess security return, Ri – Rf, on the excess market return, Rm – Rf."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information about the security market line (SML) and a stock:\n\n| Intercept of the SML | 2% |\n| Slope of the SML | 5% |\n| Stock's beta | 1.3 |\n\nAccording to capital market theory, if the analyst believes the stock will have a return of 7%, the stock is:",
+        "options": [
+            "undervalued.",
+            "properly valued.",
+            "overvalued."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. Using the same concept as the capital market line, the SML intersects the y-axis at the risk-free rate of return, and the slope of this line is the market risk premium, Rm – Rf . Potential investors can plot a security's expected return and beta against the SML and use this relationship to decide whether the security is overvalued or undervalued in the market. All securities that reflect the consensus market view are points directly on the SML (i.e., properly valued). If a point representing the estimated return of an asset is above the SML, the asset has a low level of risk relative to the amount of expected return and would be a good choice for investment. In contrast, if the point representing a particular asset is below the SML, the stock is considered overvalued. The asset will be on the SML if the forecasted return equals the expected return of 0.02 + 1.3 × 0.05 = 0.085 = 8.5%. Since the analyst forecasts the return of the asset to be 7%, which is lower than the expected return according to the CAPM, the security plots below the SML and should be considered overvalued."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The security market line applies:",
+        "options": [
+            "to all securities.",
+            "only to efficient securities.",
+            "only to securities that have idiosyncratic risk."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the security market line applies to any security, efficient or not. The security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The market has a return of 8% and a standard deviation of returns of 12%. The risk-free rate is 2%. If a portfolio has a Sharpe ratio of 0.8, the portfolio's M2 alpha is closest to:",
+        "options": [
+            "3.6%.",
+            "5.6%.",
+            "11.6%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because M2 provides a measure of portfolio return that is adjusted for the total risk of the portfolio and is computed as M2 = [E(Rp) – Rf](σm/σp) + Rf = SR × σm + Rf , where SR = Sharpe ratio, σm = market standard deviation of returns, and Rf = risk-free rate. Thus, M2 = 0.8 × 0.12 + 0.02 = 0.116. The difference between the risk-adjusted performance of the portfolio and the performance of the market is frequently referred to as M2 alpha. Thus, M2 alpha = 0.116 – 0.08 = 0.036 = 3.6%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "Which of the following measures is most appropriate to evaluate the performance of a portfolio that is not fully diversified?",
+        "options": [
+            "Sharpe ratio",
+            "Treynor ratio",
+            "Jensen's alpha"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because total risk is relevant for an investor when he or she holds a portfolio that is not fully diversified, which is not a desirable portfolio. In such cases, the Sharpe ratio and M2 are appropriate performance measures. The Sharpe ratio uses total risk as a measure of risk."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "Which of the following measures uses only systematic risk to evaluate portfolio performance?",
+        "options": [
+            "M2",
+            "Sharpe ratio",
+            "Jensen's alpha"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Jensen's alpha is based on systematic risk. The difference between the actual portfolio return and the calculated risk-adjusted return is a measure of the portfolio's performance relative to the market portfolio and is called Jensen's alpha."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information about a portfolio and the market:\n\n| Portfolio return | 7.0% |\n| Market return | 5.0% |\n| Risk-free return | 1.0% |\n| Portfolio beta | 1.2 |\n\nJensen's alpha for the portfolio is:",
+        "options": [
+            "0.0%.",
+            "1.2%.>",
+            "2.2%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Jensen's alpha is defined as the portfolio return less (the risk-free rate plus the portfolio beta times (the market return minus the risk-free rate)). Therefore, Jensen's alpha = Rp – [Rf + βp(Rm – Rf)] = 7% – (1% + 1.2 × (5% – 1%)) = 7.0% – 5.8% = 1.2%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "If all investors have homogeneous expectations, the total risk and expected return of portfolios consisting of the risk-free asset and the optimal risky portfolio are plotted on the:",
+        "options": [
+            "capital market line.",
+            "security market line.",
+            "security characteristic line."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the risk-free asset could be combined with a risky portfolio to create a capital allocation line (CAL). A specific CAL that uses the market portfolio as the optimal risky portfolio is known as the capital market line. When assuming homogeneous expectations, only one optimal portfolio exists. The capital market line is shown in Exhibit 3, where the standard deviation (σp), or total risk, is on the x-axis and expected portfolio return, E(Rp), is on the y-axis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An investor who can lend and borrow at the risk-free rate builds a portfolio using the risk-free asset and the market portfolio. The risk-free rate is 3% and the expected market return is 15%. If the expected portfolio return is 18%, the investor's portfolio is:",
+        "options": [
+            "a lending portfolio.",
+            "a leveraged portfolio.",
+            "the optimal risky portfolio."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a leveraged portfolio is a portfolio that has a negative investment in the risk-free asset.\nA portfolio's expected return, E(Rp), is calculated as: E(Rp) = w1Rf + (1 – w1)E(Rm), where w1 is the proportion invested in the risk-free asset, returning Rf, and E(Rm) is the expected return on the market portfolio.\nThus, 0.18 = w1 × 0.03 + (1 – w1) × 0.15\n0.18 – 0.15 = w1 × (0.03 – 0.15)\n0.03 = w1 × (–0.12)\nw1 = 0.03/(–0.12)\nw1 = –0.25\nA negative proportion invested in the risk-free rate implies a leveraged portfolio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information about three securities:\n\n| | Total Variance of Returns | Nonsystematic Variance of Returns |\n| :--- | :--- | :--- |\n| Security 1 | 0.20 | 0.05 |\n| Security 2 | 0.30 | 0.25 |\n| Security 3 | 0.35 | 0.22 |\n\nAccording to capital market theory, which security has the highest expected return?",
+        "options": [
+            "Security 1",
+            "Security 2",
+            "Security 3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to the capital market theory investors should not be compensated for taking on nonsystematic risk. In contrast, investors must be compensated for accepting systematic risk because that risk cannot be diversified away. In summary, systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Also, Total variance = Systematic variance + Nonsystematic variance. Thus,\nSecurity 1 has systematic variance = 0.20 – 0.05 = 0.15;\nSecurity 2 has systematic variance = 0.30 – 0.25 = 0.05;\nSecurity 3 has systematic variance = 0.35 – 0.22 = 0.13.\nSince only systematic variance (risk) is compensated with a higher expected return, Security 1 has the highest expected return."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The risk–return trade-off of a portfolio of only risky assets most likely improves when a risk-free asset is added to the portfolio because:",
+        "options": [
+            "the risk-free asset is uncorrelated with the other assets in the portfolio.",
+            "the lower return on the risk-free asset provides a diversification effect.",
+            "the correlations among the risky assets decrease, providing a diversification effect."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because an investor's portfolio improves if a risk-free asset is added to the mix. In other words, a combination of the risk-free asset and a risky asset can result in a better risk–return trade-off than an investment in only one type of asset because the risk-free asset has zero correlation with the risky asset."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst gathers the following information about an asset and the market:\n\n| Risk-free rate | 1% |\n| Market risk premium | 5% |\n| Asset's expected return | 5% |\n\nBased on the CAPM, the asset's beta is closest to:",
+        "options": [
+            "0.80.",
+            "1.00.",
+            "1.25."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the expected return of an asset is E(Ri) = Rf + βi[E(Rm) – Rf], where Ri, Rm, and Rf denote the return on the asset, the market, and the risk-free asset, respectively, βi is the asset's beta, and [E(Rm) – Rf ] is the market risk premium. Thus, βi = [E(Ri) – Rf] / [E(Rm) – Rf] = [5% – 1%] / 5% = 4%/5% = 0.8."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The slope of the security market line is most likely the:",
+        "options": [
+            "security's beta.",
+            "market risk premium.",
+            "market risk premium divided by the market standard deviation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the security market line (SML) is a graphical representation of the capital asset pricing model with beta, reflecting systematic risk, on the x-axis and expected return on the y-axis. The slope of this line is the market risk premium, Rm – Rf."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The market model is most likely used to estimate:",
+        "options": [
+            "market returns.",
+            "risk-free returns.",
+            "abnormal returns."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the market model is normally used for estimating beta risk and computing abnormal returns. These parameter estimates are then used to predict company-specific returns that a security may earn in a future period."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "Unsystematic risk is best described as:",
+        "options": [
+            "total risk.",
+            "diversifiable risk.",
+            "the variability in all risky assets caused by macroeconomic variables."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because unsystematic (nonsystematic) risk can be diversified away."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "An analyst estimates the market model for an asset and obtains the following parameters:\n\n| Intercept (α) | 1% |\n| Slope coefficient (β) | 0.5 |\n\nIf the market's expected return is 2%, the asset's expected return is:",
+        "options": [
+            "1.0%.",
+            "1.5%.",
+            "2.0%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the expected return of an asset according to the market model is calculated as: E(Ri) = α + β × E(Rm), where E(Rm) denotes the expected market return; 1% + 0.5 × 2% = 2%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "With respect to multi-factor return-generating models, a company's earnings are best classified as a:",
+        "options": [
+            "statistical factor.",
+            "fundamental factor.",
+            "macroeconomic factor."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a multi-factor model allows more than one variable to be considered in estimating returns and can be built using different kinds of factors, such as macroeconomic, fundamental, and statistical factors. Fundamental factor models analyze and use relationships between security returns and the company's underlying fundamentals, such as, for example, earnings."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM2 - Portfolio Risk and Return: Part II",
+        "text": "The market portfolio's level of systematic risk is most likely:",
+        "options": [
+            "less than its level of nonsystematic risk.",
+            "equal to its level of nonsystematic risk.",
+            "greater than its level of nonsystematic risk."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because systematic or non-diversifiable risk is priced and investors are compensated for holding assets or portfolios based only on that investment's systematic risk. Investors do not receive any return for accepting nonsystematic or diversifiable risk. Also, investors are capable of avoiding nonsystematic risk through diversification by forming a portfolio of assets that are not highly correlated with one another. Thus, for a market portfolio, there is only systematic risk because nonsystematic risk is diversified away."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "In an equally weighted portfolio, the diversification ratio is best described as a measure of the:",
+        "options": [
+            "relative level of risk between any two individual assets.",
+            "amount of risk an asset contributes to the portfolio's risk.",
+            "risk reduction benefit of investing in the portfolio versus a security from the portfolio."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the level of risk reduction from the portfolio approach to investing, relative to the risk of investing in a single security, can be measured by the diversification ratio. A simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the diversification ratio. The diversification ratio of the portfolio's standard deviation to the individual asset's standard deviation measures the risk reduction benefits of a simple portfolio construction method, equal weighting."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Which of the following is most likely part of the feedback step in the portfolio management process?",
+        "options": [
+            "Portfolio construction",
+            "Performance measurement",
+            "Developing the investment policy statement"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because performance measurement, along with portfolio monitoring and rebalancing, is part of the feedback step."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "The diversification ratio of a portfolio is best described as the ratio of the:",
+        "options": [
+            "standard deviation of the equally weighted portfolio's returns to the average standard deviation of the individual securities' returns.",
+            "standard deviation of the market-capitalization-weighted portfolio's returns to the standard deviation of the equally weighted portfolio's returns.",
+            "average standard deviation of the individual securities' returns to the standard deviation of the market-capitalization-weighted portfolio's returns."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a simple measure of the value of diversification is calculated as the ratio of the standard deviation of the equally weighted portfolio to the standard deviation of the randomly selected security. This ratio may be referred to as the diversification ratio. In the example of the 5-stock portfolio given, the equally weighted portfolio's standard deviation is approximately 71 percent of the average standard deviation of the 5 stocks (24.9%); i.e., the denominator is the average standard deviation of all individual securities in the portfolio and the numerator is the standard deviation of the equally weighted portfolio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "The portfolio approach to investing most likely:",
+        "options": [
+            "prevents portfolio losses during market downturns.",
+            "reduces the systematic risk of individual assets in a portfolio.",
+            "helps avoid disastrous investment outcomes during normal market conditions."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because portfolio diversification helps investors avoid disastrous investment outcomes. A main tenet of the portfolio approach to investing is diversification. A disastrous outcome can result from 'putting all your eggs into one basket' or investing everything into one stock whose value could then go to zero. A diversified portfolio holding many securities is likely to avoid this outcome. Although diversification may not prevent losses during market downturns, it does help avoid disastrous investment outcomes during normal market conditions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Which of the following statements about pension plans is most accurate?",
+        "options": [
+            "Defined benefit plans typically have a low risk tolerance.",
+            "Defined contribution plans typically have a low risk tolerance.",
+            "The sponsor of a defined benefit plan specifies the obligation owed to participants."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because defined benefit pension plans (DB plans) are company-sponsored plans that offer employees a predefined benefit on retirement. The future benefit is defined because the DB plan requires the plan sponsor to specify the obligation stated in terms of the retirement income benefits owed to participants."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Open-end mutual funds typically:",
+        "options": [
+            "are priced intraday.",
+            "have a fixed number of shares outstanding.",
+            "have a larger required minimum investment than ETFs."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the minimum required investment in ETFs is usually smaller than that of mutual funds."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Robo-advisers most likely:\n\nA. face high barriers to entry.\nB. cater to the demand from investors with lower levels of investable assets.\nC. prefer actively managed funds to index funds when constructing client portfolios.",
+        "options": [
+            "face high barriers to entry.",
+            "cater to the demand from investors with lower levels of investable assets.",
+            "prefer actively managed funds to index funds when constructing client portfolios."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because rapid growth in robo-advisory assets is based on several industry trends including growing demand from 'mass affluent' and younger investors. Traditional investment advice has often underserved younger and 'mass affluent' investors with lower relative levels of investable assets."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "In regard to the asset allocation process, a top-down analysis most likely begins with an examination of:",
+        "options": [
+            "macroeconomic growth.",
+            "a company's board of directors.",
+            "the expected growth of a company's competitors."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a top-down analysis begins with consideration of macroeconomic conditions. Based on the current and forecasted economic environment, analysts evaluate markets and industries with the purpose of investing in those that are expected to perform well. Finally, specific companies within these industries are considered for investment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Which of the following best describes a characteristic of defined contribution pension plans?",
+        "options": [
+            "The employee accepts the investment and inflation risk.",
+            "The employer is responsible for adequately funding the plan.",
+            "Defined contribution plans typically have a higher cost to the company than defined benefit plans."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the key to a defined contribution (DC) plan is that the employee accepts the investment and inflation risk and is responsible for ensuring that there are enough assets in the plan to meet their needs upon retirement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Which of the following statements about different types of investors is most accurate?",
+        "options": [
+            "For banks, the liquidity of their investments is a paramount concern.",
+            "For endowments, investment horizons are short due to their short-term spending needs.",
+            "For insurance companies, the risk tolerance of their general and surplus accounts is typically the same."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because liquidity is a paramount concern for banks that stand ready to meet depositor requests for withdrawals."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Relative to passive market-cap-weighted strategies, smart beta strategies typically have:",
+        "options": [
+            "lower management fees and higher portfolio turnover.",
+            "higher management fees and lower portfolio turnover.",
+            "higher management fees and higher portfolio turnover."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because typically, smart beta strategies feature somewhat higher management fees and higher portfolio turnover relative to passive market-cap weighted strategies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Exchange-traded funds (ETFs):",
+        "options": [
+            "are priced once a trading day.",
+            "usually pay out dividends to shareholders.",
+            "are generally structured as closed-end funds."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because dividends on ETFs are paid out to the shareholders whereas mutual funds usually reinvest the dividends."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Sovereign wealth funds are best described as investment funds:",
+        "options": [
+            "owned by governments.",
+            "traded as closed-end country funds.",
+            "restricted from investing in foreign securities."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because sovereign wealth funds (SWFs) are government-owned investment funds."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM3 - Portfolio Management: An Overview",
+        "text": "Which of the following funds is most likely to trade at a price furthest from its net asset value?",
+        "options": [
+            "Exchange-traded fund",
+            "Open-end mutual fund",
+            "Closed-end mutual fund"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in a closed-end mutual fund the number of outstanding shares does not change. One consequence of this fixed share base is that, unlike open-end funds in which new shares are created and sold at the current net asset value per share, closed-end funds can sell for a premium or discount to net asset value depending on the demand for the shares."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following sections of an investment policy statement (IPS) most likely explains how and when the IPS should be reviewed?",
+        "options": [
+            "Procedures",
+            "Investment Guidelines",
+            "Statement of Duties and Responsibilities"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the IPS should be reviewed on a regular basis to ensure that it remains consistent with the client's circumstances and requirements. The IPS should also be reviewed if the manager becomes aware of a material change in the client's circumstances, or on the initiative of the client when his or her objectives, time horizon, or liquidity needs change. The major components of an IPS include the following section: Procedures. This section explains the steps to take to keep the IPS current and the procedures to follow to respond to various contingencies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following is most likely a legal and regulatory constraint in an investment policy statement?",
+        "options": [
+            "A pension fund's decision to limit investments in real estate",
+            "A taxable investor's requirement to avoid investments in securities generating interest income",
+            "A public company director's restriction on trading the company's stock shortly before the publication of financial results"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when an individual has access to material nonpublic information about a particular security, this situation may also form a [legal and regulatory] constraint. For example, the directors of a public company may need to refrain from trading the company's stock at certain points of the year before financial results are published. The IPS should note this constraint so that the portfolio manager does not inadvertently trade the stock on the client's behalf."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following sections of an investment policy statement most likely provides guidance on obtaining feedback on investment results?",
+        "options": [
+            "Investment Guidelines",
+            "Evaluation and Review",
+            "Statement of Duties and Responsibilities"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the Evaluation and Review section provides guidance on obtaining feedback on investment results."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "With respect to an investment policy statement, which of the following is most closely linked to the client's distinctive needs?",
+        "options": [
+            "The evaluation and review section",
+            "The objectives and constraints sections",
+            "The statement of duties and responsibilities"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the sections that are most closely linked to the client's distinctive needs, and probably the most important from a planning perspective, are those dealing with investment objectives and constraints. An IPS [investment policy statement] focusing on these two elements has been called an IPS in an 'objectives and constraints' format."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following most likely affects a client's ability to take risk? The client's:",
+        "options": [
+            "utility function",
+            "degree of risk aversion",
+            "level of wealth relative to liabilities"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "The risk–return profile of a portfolio's strategic asset allocation is most likely determined by the expected returns and risks of the individual asset classes and the:",
+        "options": [
+            "correlations between those asset classes.",
+            "use of security selection for each of those asset classes.",
+            "allowable deviation of portfolio weights from policy weights for those asset classes."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the risk–return profile of the strategic asset allocation depends on the expected returns and risks of the individual asset classes, as well as the correlation between those asset classes."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "When defining asset classes for a strategic asset allocation, which of the following pairwise correlations between asset class returns is most preferable?",
+        "options": [
+            "0",
+            "0.5",
+            "1"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because when defining asset classes, a number of criteria apply. Intuitively, an asset class should contain relatively homogeneous assets while providing diversification relative to other asset classes. In statistical terms, risk and return expectations should be similar and paired correlations of assets should be relatively high within an asset class but should be lower versus assets in other asset classes. A between asset class correlation of zero would indicate better defined asset classes than higher correlations."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following sections of an investment policy statement for a pension plan most likely specifies the discretion that portfolio managers have with respect to executing the investment strategy?",
+        "options": [
+            "Procedures",
+            "Investment Constraints",
+            "Statement of Duties and Responsibilities"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the Statement of Duties and Responsibilities section details the duties and responsibilities of the client, the custodian of the client's assets, and the investment managers. In the case of an institution, such as a pension plan or university endowment, the IPS may set out the governance arrangements that apply to the investment funds. For example, this information could cover the investment committee's approach to appointing and reviewing investment managers for the portfolio, and the discretion that those managers have."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Information regarding the permissible use of derivatives in a portfolio is most likely found in which of the following sections of an investment policy statement?",
+        "options": [
+            "Procedures",
+            "Investment Guidelines",
+            "Statement of Duties and Responsibilities"
+        ],
+        "correctAnswer": 1,
+        "explanation": ""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "A client's time horizon is most appropriately used by an investment adviser to determine the client's:",
+        "options": [
+            "risk attitude.",
+            "ability to take risk.",
+            "willingness to take risk."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon, expected income, and the level of wealth relative to liabilities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following is most accurate regarding an investment policy statement (IPS)?",
+        "options": [
+            "Policies on sustainable investing require a separate IPS.",
+            "Investment constraints can be determined by the client or by the law.",
+            "Clients can specify different spending goals, but each goal must have the same risk tolerance and return objective."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the constraints may be internal (i.e., set by the client), or external (i.e., set by law or regulation)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "When defining asset classes, the paired correlations of assets within an asset class should be:",
+        "options": [
+            "negative.",
+            "zero.",
+            "positive."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when defining asset classes an asset class should contain relatively homogeneous assets and paired correlations of assets should be relatively high within an asset class."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following statements about asset allocation is most accurate?",
+        "options": [
+            "Investors should diversify their wealth between asset classes in order to eliminate systematic risk.",
+            "Investors with a below-average risk tolerance should have an above-average weight in alternative investments.",
+            "Adding asset classes with a low correlation to existing asset classes improves an investor's risk–return trade-off."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in general, adding assets classes with low correlation improves the risk–return trade-off (more return for similar risk)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "An adviser gathers the following information about a client's retirement income needs:\n• The current balance of the client's retirement fund is $150,000.\n• The client plans to retire in 15 years' time.\n• $500,000 in today's money is needed to fund retirement.\n• No further retirement fund contributions will be made.\nInflation is expected to average 2% per year over the next 15 years. Based only on the above information and ignoring taxes, the minimum annual rate of return required to meet the client's retirement income objective is closest to:",
+        "options": [
+            "6.2%.",
+            "8.4%.",
+            "10.5%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because, at 2% annual inflation, $500,000 in today's money equates to $500,00(1.02)15 = $672,934 in 15 years' time. Since no further contributions to the retirement fund will be made, the current savings of $150,000 must grow to at least $672,934 in 15 years' time to meet the individual's retirement income objective. Hence, the minimum required rate of return, r, satisfies $150,000(1 + r)15 = $672,934, giving r = [$672,934/$150,000]1/15 – 1 = 0.105 = 10.5%.\nCalculator solution: (1) N = 15; I/Y = 2%; PV = –500,000; compute FV = 672,934. (2) N = 15; PV = –150,000; FV = 672,934; compute I/Y = 10.5%.\nAlternatively, a candidate could compute the nominal required rate of return via $150,000(1 + r)15 = $500,000, giving r = [$500,000/$150,000]1/15 – 1 = 0.084 = 8.4%, and then adjust for inflation as follows: (1 + 0.084) × (1 + 0.02) – 1 = 0.105 = 10.5%. If a candidate adjusted for inflation by adding the expected inflation rate, they would also arrive at (approximately) the correct answer; 8.4% + 2.0% = 10.4%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "An investor has a 15-year time horizon but needs to withdraw funds from her portfolio in one year's time to pay for tuition fees. Which of the following investments is most suitable to cover the investor's liquidity requirement due to the tuition fees?",
+        "options": [
+            "Commercial paper",
+            "Private equity securities",
+            "Large-capitalization stocks"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because, although the investor has a time horizon of 15 years, she has liquidity needs in one year. When the client does have such a requirement, the manager should allocate part of the portfolio to cover the liability. This part of the portfolio will be invested in assets that are liquid—that is, easily converted to cash—and low risk at the point in time the liquidity need is actually present (e.g., a bond maturing at the time when private education expenses will be incurred), so that their value is known with reasonable certainty. Commercial paper is a short-term, negotiable, unsecured promissory note that represents a debt obligation of the issuer. Thus, commercial paper being a short-term investment, it is more suitable compared to private equity and large-capitalization stocks to be included in the portion of the investor's portfolio that has the short-term liquidity need."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following characteristics is most likely used to determine an investor's ability to take risk? The investor's:",
+        "options": [
+            "risk attitude.",
+            "self-confidence.",
+            "years until retirement."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the ability to bear risk is measured mainly in terms of objective factors, such as time horizon. For example, an investor with a 20-year time horizon can be considered to have a greater ability to bear risk, other things being equal, than an investor with a 2-year horizon."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "With regard to an investment policy statement, which of the following statements about return objectives is most accurate?",
+        "options": [
+            "A return objective cannot be a required rate of return.",
+            "Return objectives must be set independent of risk objectives.",
+            "When setting a relative return objective, a good benchmark should be investable."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a benchmark is used as a relative return objective and a good benchmark should be investable."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "Which of the following actions best describes tactical asset allocation?",
+        "options": [
+            "Providing exposure to different asset classes to meet long-term objectives",
+            "Underweighting an asset class relative to the policy weight for that asset class",
+            "Overweighting specific securities with higher expected returns than the benchmark"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because tactical asset allocation is the decision to deliberately deviate from the policy exposure to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes. Investing less in one asset class, for example, compared to the policy weight for that asset class is, therefore, a tactical asset allocation decision."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "With respect to portfolio construction, the decision to deliberately deviate from the policy exposures to systematic risk factors with the intent to add value based on forecasts of near-term returns of asset classes best describes:",
+        "options": [
+            "risk budgeting.",
+            "security selection.",
+            "tactical asset allocation."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "A change in an investor's risk aversion most likely results in a change in the investor's:",
+        "options": [
+            "efficient frontier only.",
+            "indifference curves only.",
+            "efficient frontier and indifference curves."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because both the efficient frontier and a range of indifference curves can be plotted in the risk–return space. The point where the efficient frontier intersects with the indifference curve with the highest utility attainable (i.e., the point of tangency) represents the optimal asset allocation for the client/investor. Should investment objectives or constraints change, the indifference curves will change their shape and location. This change will move the point of tangency, and hence change the asset allocation. An investor's level of risk aversion determines the slope of the indifference curves. The most risk-averse investor has an indifference curve with the greatest slope. The least risk-averse investor has an indifference curve with the least slope."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "If the weights of the asset classes in a portfolio deviate from the policy weights over time due to changes in market value, this is best described as:",
+        "options": [
+            "drift.",
+            "value at risk.",
+            "tracking error."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because as the portfolio is constructed and its value changes with the return of the asset classes and securities in which it is invested, the weights of the asset classes will gradually deviate from the policy weights in the strategic asset allocation. This process is referred to as drift."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "An IPS most likely specifies:",
+        "options": [
+            "only the tactical asset allocation target.",
+            "only the strategic asset allocation target.",
+            "both the tactical and the strategic asset allocation targets."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because once the IPS has been compiled, the investment manager can construct a suitable portfolio. Strategic asset allocation is a traditional focus of the first steps in portfolio construction. The strategic asset allocation (SAA) is the set of exposures to IPS-permissible asset classes that is expected to achieve the client's long-term objectives given the client's investment constraints. Said differently, the investment policy statement (IPS) permits investments in targeted proportions of the portfolio in various asset classes (set of exposures to IPS-permissible asset classes). Investment in these asset classes in the set proportions are expected to achieve the long-term risk and return objectives of the portfolio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "A portfolio manager's decision to temporarily invest more in equities than the policy weights prescribe is best described as:",
+        "options": [
+            "security selection.",
+            "tactical asset allocation.",
+            "strategic asset allocation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because tactical asset allocation is the decision to deliberately deviate from the policy exposures to systematic risk factors (i.e., the policy weights of asset classes) with the intent to add value based on forecasts of the near-term returns of those asset classes. For instance, an investor may decide to temporarily invest more of the portfolio in equities than the SAA (strategic asset allocation) prescribes if the investor anticipates that equities will deliver a higher return over the short term than other asset classes."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM4 - Basics of Portfolio Planning and Construction",
+        "text": "An asset manager evaluates the risk tolerance of three investors:\n\n| Investor | Ability to Take Risk | Willingness to Take Risk |\n| :--- | :--- | :--- |\n| 1 | Average | Average |\n| 2 | Above average | Below average |\n| 3 | Below average | Above average |\n\nWhich investor most likely has the highest overall risk tolerance?",
+        "options": [
+            "Investor 1",
+            "Investor 2",
+            "Investor 3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the prudent approach is to reach a conclusion about risk tolerance consistent with the lower of the two factors (ability and willingness). Therefore, Investor 1 has average risk tolerance, while the other two investors have below-average risk tolerance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following is most likely a consequence of the illusion of control bias?",
+        "options": [
+            "An investor's portfolio turnover is too low.",
+            "The investor's portfolio contains concentrated positions in companies.",
+            "An investor uses a simple forecasting model for portfolio construction."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because as a result of illusion of control bias, FMPs [financial market participants] may inadequately diversify portfolios. Research has found that some investors prefer to invest in companies that they feel they have control over, such as the companies they work for, leading them to hold concentrated positions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following best describes a potential consequence of the regret-aversion bias for financial market participants?",
+        "options": [
+            "Engaging in herding behavior",
+            "Borrowing excessively to finance present consumption",
+            "Misidentifying risk tolerances because of how questions about risk tolerance were framed"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because as a result of regret-aversion bias, FMPs [financial market participants] may engage in herding behavior. FMPs may feel safer in popular investments in order to limit potential future regret. Regret-aversion bias is an emotional bias in which people tend to avoid making decisions out of fear that the decision will turn out poorly."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following is most likely a consequence of overconfidence bias? Investors:",
+        "options": [
+            "holding poorly diversified portfolios.",
+            "continuing to hold classes of assets with which they are familiar.",
+            "holding investments in a loss position longer than justified, in the hope that they will return to breakeven."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because overconfidence bias is a bias in which people demonstrate unwarranted faith in their own abilities. As a result of overconfidence bias, FMPs [financial market participants] may hold poorly diversified portfolios, which may result in significant downside risk."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following can best be explained by overconfidence when predicting companies' earnings growth rates?",
+        "options": [
+            "Base-rate neglect",
+            "The value anomaly",
+            "The disposition effect"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a number of other studies have offered behavioral explanations for value anomalies, presenting the anomalies as mispricing rather than compensation for increased risk. These studies recognize the emotional factors involved in appraising stocks. Overconfidence can also be involved in predicting growth rates, potentially leading growth stocks to be overvalued, leading to the value anomaly."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Holding on to losers for too long and selling winners too quickly best characterizes which of the following?",
+        "options": [
+            "Hindsight bias",
+            "Disposition effect",
+            "Anchoring and adjustment bias"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the disposition effect pertains to loss-aversion bias. Loss-aversion bias refers to the tendency to strongly prefer avoiding losses to achieving gains. Rational FMPs (financial market participants) should accept more risk to increase gains, not to mitigate losses. Loss aversion leads FMPs to hold their losers to avoid recognizing losses and sell their winners to lock in profits. An important concept is what has been termed the disposition effect: the holding of investments that have experienced losses too long, and the selling of investments that have experienced gains too quickly (i.e., holding on to losers and selling winners)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following tendencies of financial market participants is most likely a consequence of endowment bias?",
+        "options": [
+            "Engaging in herding behavior",
+            "Saving insufficiently for the future",
+            "Continuing to hold classes of assets with which they are familiar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because endowment bias may lead FMPs (financial market participants) to do the following: Continue to hold classes of assets with which they are familiar. FMPs may believe they understand the characteristics of the investments they already own and may be reluctant to purchase assets with which they have less experience. Familiarity adds to owners' perceived value of a security."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following biases most likely contributes to the momentum effect in financial markets?",
+        "options": [
+            "Availability",
+            "Status quo",
+            "Prediction overconfidence"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because momentum can be partly explained by availability, hindsight, and loss aversion biases. Studies have identified faulty learning models within traders, in which reasoning is based on their recent experience. Behaviorally, this is availability bias. In this context, availability bias is also called the recency effect, which is the tendency to recall recent events more vividly and give them undue weight. In such models, if the price of an asset rises for a period of time, investors may simply extrapolate this rise to the future."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM5 - The Behavioral Biases of Individuals",
+        "text": "Which of the following statements about emotional biases is most accurate?",
+        "options": [
+            "They arise through conscious effort",
+            "They are caused by faulty cognitive reasoning",
+            "They are more difficult to correct than cognitive biases"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because cognitive errors can often be corrected or eliminated through better information, education, and advice. Emotional biases, on the other hand, are harder to correct because they stem from impulses and intuitions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "Which of the following is best classified as a non-financial risk?",
+        "options": [
+            "Credit risk",
+            "Liquidity risk",
+            "Accounting risk"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because although most risks have monetary consequences, there are a number of risks that are typically classified as non-financial in nature. These risks arise from a variety of sources, such as the relationship between the entity and counterparties, regulators, governments, the environment, suppliers, customers, and employees. The following three non-financial risks are related: regulatory risk, accounting risk, and tax risk. They could even be collectively referred to as compliance risk because they all deal with the matter of conforming to policies, laws, rules, and regulations as set forth by governments and authoritative bodies, such as accounting governing boards."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "In risk management, which of the following should be taken into account when determining an enterprise's risk tolerance?",
+        "options": [
+            "Management compensation",
+            "The enterprise's value at risk (VaR)",
+            "The government and regulatory landscape"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because, in the context of risk management, factors such as a company's goals, its expertise in certain areas, and its strategies will help a board determine which risks the company may pursue and with how much intensity. The government and regulatory landscape is important too, both in their ex ante demands on how companies approach risk and in the likely ex post reaction in the event of disasters."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "The risk management measure that captures the sensitivity of a derivative's delta to a change in the value of the underlying best describes:",
+        "options": [
+            "rho.",
+            "vega.",
+            "gamma."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the sensitivity of the derivative price to a small change in the value of the underlying asset is called the delta. Large changes are captured by the concept of gamma. Whereas delta is a first-order risk, gamma is considered a second-order risk because it reflects the risk of changes in delta. Gamma is a numerical measure of how sensitive an option's delta is to a change in the value of the underlying."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "A good risk management process should:",
+        "options": [
+            "predict when a crisis will occur.",
+            "consider the balance between expected returns and losses.",
+            "only consider losses occurring from events that have a high likelihood."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a good risk management process would include a deep discussion at the governance level about the balance between the likely returns and the unlikely—but sizable—losses and whether such losses are tolerable."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "A bank determines that its value at risk (VaR) is £5 million at 5% for one day. The bank is expecting a minimum loss of £5 million once every:",
+        "options": [
+            "5 business days.",
+            "13 business days.",
+            "20 business days."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Incorrect because with a probability of 5% and a measurement period of one day, we can interpret the bank's VaR as expecting a minimum loss of £5 million once every 20 business days. Based on a year with 250 to 260 business days, this should occur 12.5 to 13 times per year (roughly once per month)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "Which of the following metrics is most appropriate to estimate a bond's average extreme loss?",
+        "options": [
+            "VaR of loss",
+            "Standard deviation of loss",
+            "Expected loss given default"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the statistics used to estimate VaR can be used to gauge average extreme losses. Conditional VaR or CVaR is a common tail loss measure, defined as the weighted average of all loss outcomes in the statistical distribution that exceed the VaR loss. Another tail risk metric in the credit risk space that is analogous to CVaR is expected loss given default, which answers the question for a debt security, If the underlying company or asset defaults, how much do we lose on average?"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "The process of risk management is best described as the set of decisions that maximizes a company's value while:",
+        "options": [
+            "minimizing the risk taken.",
+            "bearing a tolerable level of risk.",
+            "predicting the potential risk correctly."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because risk management is the process by which an organization or individual defines the level of risk to be taken, measures the level of risk being taken, and adjusts the latter toward the former, with the goal of maximizing the company's or portfolio's value. Said differently, risk management comprises all the decisions and actions needed to best achieve organizational or personal objectives while bearing a tolerable level of risk."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "Which of the following is best classified as a financial risk?",
+        "options": [
+            "Tax risk",
+            "Credit risk",
+            "Accounting risk"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the risk management industry has come to classify three types of risks as primarily financial in nature and the second primary financial risk is credit risk."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "Which of the following is least consistent with effective risk governance?",
+        "options": [
+            "Taking an enterprise-wide view",
+            "Defining the enterprise's risk tolerance",
+            "Following a bottom-up process to direct risk management activities"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because risk governance is the top-down (not bottom-up) process and guidance that directs risk management activities to align with and support the overall enterprise."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Portfolio Management",
+        "lm": "LM6 - Introduction to Risk Management",
+        "text": "A benefit of risk budgeting is that it:",
+        "options": [
+            "forces risk trade-offs.",
+            "provides risk oversight.",
+            "defines an organization's risk tolerance."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because one major benefit of even the most basic risk budgeting is that it forces risk trade-offs and supports a culture in which risk is considered as a part of all key decisions."
     }
 ];
