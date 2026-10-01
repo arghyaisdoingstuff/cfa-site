@@ -576,8 +576,18 @@ const app = {
                         </div>` : ''}
 
                         <div class="flex flex-wrap gap-3 items-center">
-                            ${s1Qs.length > 0 ? `<button onclick="app.startMock('${mockEsc}', 1)" class="btn-primary text-sm py-2 px-5">${attempted ? 'Retry' : 'Start'} Session 1 (${s1Qs.length} Qs)</button>` : ''}
-                            ${s2Qs.length > 0 ? `<button onclick="app.startMock('${mockEsc}', 2)" class="btn-primary text-sm py-2 px-5">${attempted ? 'Retry' : 'Start'} Session 2 (${s2Qs.length} Qs)</button>` : ''}
+                            ${(function(){
+                                if (s1Qs.length === 0) return '';
+                                const hasSave = !!localStorage.getItem('cfa_mock_' + mock + '_1');
+                                const btnText = hasSave ? 'Resume Session 1' : (attempted ? 'Retry Session 1' : 'Start Session 1');
+                                return `<button onclick="app.startMock('${mockEsc}', 1)" class="btn-primary text-sm py-2 px-5 ${hasSave?'bg-blue-600':''}">${btnText} (${s1Qs.length} Qs)</button>`;
+                            })()}
+                            ${(function(){
+                                if (s2Qs.length === 0) return '';
+                                const hasSave = !!localStorage.getItem('cfa_mock_' + mock + '_2');
+                                const btnText = hasSave ? 'Resume Session 2' : (attempted ? 'Retry Session 2' : 'Start Session 2');
+                                return `<button onclick="app.startMock('${mockEsc}', 2)" class="btn-primary text-sm py-2 px-5 ${hasSave?'bg-blue-600':''}">${btnText} (${s2Qs.length} Qs)</button>`;
+                            })()}
                             ${attempted ? `<button onclick="app.resetMocks('${mockEsc}')" class="flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-red-600 dark:text-red-400 border border-red-200 dark:border-red-900 rounded-lg hover:bg-red-50 dark:hover:bg-red-950/40 transition-colors"><svg class='w-3 h-3' fill='none' stroke='currentColor' viewBox='0 0 24 24'><path stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15'/></svg>Reset</button>` : ''}
                         </div>
                     </div>
@@ -604,7 +614,6 @@ const app = {
         const allQ = await db.questions.toArray();
         let q = allQ.filter(q => q.mockName === mockName && q.session === session);
         
-        // Sort authentically by CFA Official Subject Order
         q.sort((a, b) => SUBJECT_LIST.indexOf(a.subject) - SUBJECT_LIST.indexOf(b.subject));
         
         this.quizMode = 'exam';
@@ -612,13 +621,31 @@ const app = {
         this.currentMockName = mockName;
         this.currentMockSession = session;
         this.quizQueue = q;
-        this.quizIndex = 0;
         this.sessionCorrect = 0;
         this.sessionTotal = 0;
-        this.examAnswers = new Array(this.quizQueue.length).fill(null);
         this.examConfidence = new Array(this.quizQueue.length).fill(null);
+
+        const stateKey = `cfa_mock_${mockName}_${session}`;
+        const saved = localStorage.getItem(stateKey);
         
-        // Hide sidebar on mobile if open
+        if (saved && confirm(`You have a saved session for ${mockName} (Session ${session}). Resume where you left off? (Click Cancel to start fresh)`)) {
+            try {
+                const s = JSON.parse(saved);
+                this.quizIndex = s.quizIndex || 0;
+                this.examAnswers = s.examAnswers || new Array(this.quizQueue.length).fill(null);
+                this.elapsedSeconds = s.elapsedSeconds || 0;
+            } catch (e) {
+                this.quizIndex = 0;
+                this.examAnswers = new Array(this.quizQueue.length).fill(null);
+                this.elapsedSeconds = 0;
+            }
+        } else {
+            this.clearMockProgress(mockName, session);
+            this.quizIndex = 0;
+            this.examAnswers = new Array(this.quizQueue.length).fill(null);
+            this.elapsedSeconds = 0;
+        }
+        
         if(window.innerWidth < 768) { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(s && o) { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } }
         
         await this.renderExamQuestion(document.getElementById('app-container'));
@@ -863,6 +890,7 @@ const app = {
         const q = this.quizQueue[this.quizIndex];
         this.currentQuestion = q;
         this.elapsedSeconds  = 0;
+        this.practiceSelectedIndex = null;
         this.startTimer();
         const progress = Math.round(this.quizIndex/this.quizQueue.length*100);
         const flagged  = isQuestionFlagged(q.id);
@@ -898,9 +926,12 @@ const app = {
                             <div class="prose prose-slate dark:prose-invert max-w-none text-slate-800 dark:text-white font-medium leading-relaxed text-base mb-6 prose-p:my-1 prose-table:my-4 prose-th:p-2 prose-td:p-2" id="question-text">${window.renderMarkdown(q.text)}</div>
                             <div id="options-container">
                                 ${(q.options||[]).map((opt,i)=>`
-                                    <button class="option-btn" onclick="app.submitPracticeAnswer(${i})">
+                                    <button class="option-btn practice-option" onclick="app.selectPracticeAnswer(${i})">
                                         <span class="option-letter">${String.fromCharCode(65+i)}</span>${opt}
                                     </button>`).join('')}
+                            </div>
+                            <div class="mt-4 text-right">
+                                <button id="submit-practice-btn" onclick="app.confirmPracticeAnswer()" class="btn-primary" disabled style="opacity:0.5;cursor:not-allowed">Submit Answer →</button>
                             </div>
                             <!-- Pause overlay -->
                             <div id="pause-overlay" class="quiz-paused-overlay" style="display:none;">
@@ -919,6 +950,30 @@ const app = {
         this.updatePauseBtn();
     },
 
+
+    selectPracticeAnswer: function(index) {
+        if (this.isPaused) return;
+        this.practiceSelectedIndex = index;
+        document.querySelectorAll('.practice-option').forEach((btn,i)=>{
+            btn.classList.toggle('selected-exam', i===index);
+            const letter = btn.querySelector('.option-letter');
+            if (letter) { letter.style.background = i===index?'#3b82f6':''; letter.style.color = i===index?'#fff':''; }
+        });
+        const submitBtn = document.getElementById('submit-practice-btn');
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.style.opacity = '1';
+            submitBtn.style.cursor = 'pointer';
+        }
+    },
+
+    confirmPracticeAnswer: function() {
+        if (this.practiceSelectedIndex === undefined || this.practiceSelectedIndex === null) return;
+        const submitBtn = document.getElementById('submit-practice-btn');
+        if (submitBtn) submitBtn.style.display = 'none';
+        this.submitPracticeAnswer(this.practiceSelectedIndex);
+    },
+
     submitPracticeAnswer: async function(selectedIndex) {
         if (this.isPaused) return;
         const timeTaken = this.getElapsedSeconds();
@@ -932,6 +987,9 @@ const app = {
 
         document.querySelectorAll('.option-btn').forEach((btn,idx)=>{
             btn.disabled=true;
+            btn.classList.remove('selected-exam');
+            const letter = btn.querySelector('.option-letter');
+            if (letter) { letter.style.background = ''; letter.style.color = ''; }
             if(idx===correctIndex)                      btn.classList.add('correct');
             else if(idx===selectedIndex && !isCorrect)  btn.classList.add('incorrect');
         });
@@ -1101,9 +1159,25 @@ const app = {
         </div>`;
     },
 
+    saveMockProgress: function() {
+        if (!this.isMock) return;
+        const stateKey = `cfa_mock_${this.currentMockName}_${this.currentMockSession}`;
+        const state = {
+            quizIndex: this.quizIndex,
+            examAnswers: this.examAnswers,
+            elapsedSeconds: this.getElapsedSeconds()
+        };
+        localStorage.setItem(stateKey, JSON.stringify(state));
+    },
+
+    clearMockProgress: function(mockName, session) {
+        localStorage.removeItem(`cfa_mock_${mockName}_${session}`);
+    },
+
     selectExamAnswer: function(index) {
         if (this.isPaused) return;
         this.examAnswers[this.quizIndex] = index;
+        this.saveMockProgress();
         document.querySelectorAll('.option-btn').forEach((btn,i)=>{
             btn.classList.toggle('selected-exam', i===index);
             const letter = btn.querySelector('.option-letter');
@@ -1124,6 +1198,7 @@ const app = {
     },
 
     examNavigate: async function(index) {
+        this.saveMockProgress();
         if (index < 0 || index > this.quizQueue.length) return;
         this.quizIndex = index;
         await this.renderExamQuestion(document.getElementById('app-container'));
@@ -1139,6 +1214,7 @@ const app = {
             }
         }
         this.stopTimer();
+        if (this.isMock) this.clearMockProgress(this.currentMockName, this.currentMockSession);
         // Save all attempts
         for (let i=0; i<this.quizQueue.length; i++) {
             const q = this.quizQueue[i];
@@ -1351,6 +1427,7 @@ const app = {
 
     stopTimer: function() {
         if (this.timerInterval) {
+            this.saveMockProgress();
             // Accumulate before stopping
             if (!this.isPaused && this.timerStartWall)
                 this.elapsedSeconds += (Date.now()-this.timerStartWall)/1000;
@@ -1373,6 +1450,7 @@ const app = {
                 this.elapsedSeconds += (Date.now()-this.timerStartWall)/1000;
             clearInterval(this.timerInterval); this.timerInterval=null;
             this.isPaused=true; this.timerStartWall=null;
+            this.saveMockProgress();
             const ol=document.getElementById('pause-overlay'); if(ol)ol.style.display='flex';
         }
         this.updatePauseBtn();
