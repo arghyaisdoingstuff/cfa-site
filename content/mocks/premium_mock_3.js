@@ -1,6 +1,6 @@
 window.ALL_QUESTIONS.push(...[
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 5: [Beginning of this question is not present in the uploaded PDF.] Prakash discloses to her client that withdrawals from the tax-deferred account will attract a penalty of $15,000 but assures the client that the cost can be recovered through better investment returns from TXM's fund. Prakash has violated the Standard(s) relating to:",
@@ -11,11 +11,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 6: According to the GIPS standards, which of the following statements is most accurate? Verification:",
@@ -26,11 +26,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 7: John Smith, CFA, was hired by the Dunlap Investment Consulting Group to manage equity investments for the Allied Company Defined Benefit Pension Plan. Smith is required to report quarterly performance results to Allied Company's board. Smith owes a primary duty of loyalty, prudence, and care to:",
@@ -41,11 +41,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 8: Shika Agarwal is a Level I candidate in the CFA program. Immediately after taking the exam, Agarwal posts in a social media group for CFA candidates arguing that the move to computer-based testing would have an adverse impact on the quality of the CFA program. She also states how surprised she was that the exam did not have quantitative questions on portfolio management. Has Agarwal violated the Standards?",
@@ -56,11 +56,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 9: Regarding ethical standards in the investment industry, which of the following is most accurate? CFA Institute:",
@@ -71,11 +71,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 10: Jorge Fernandez, CFA, is an equity analyst at a brokerage company. He suspects his colleague is trading on shares prior to his research reports being distributed to clients. When Fernandez asks his colleague about it, he is told to mind his own business. To comply with the Standard relating to knowledge of law, Fernandez should most likely:",
@@ -86,11 +86,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 11: Century Investment Management, Inc., (CIM), promotes Pierre Ash, CFA, to a supervisory position. Ash cannot discharge his supervisory responsibilities because CIM\u2019s compliance system is inadequate. Ash declines in writing to accept the supervisory responsibility. Has Ash violated the Standards?",
@@ -101,11 +101,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 12: Maria Perez, CFA, is a portfolio manager for an advisory firm that utilizes external mutual funds. The firm has a committee that selects external funds, using an analytical model to determine their choices. Although Perez has no reason to question the committee's research process, she does not like the committee's choice for a bond fund because it is not appropriate for all her clients. She researches and selects a different bond fund that better meets her clients' needs, but her manager tells her that she is not permitted to make independent fund purchase decisions. She then invests in the fund chosen by the committee for all of her clients. Has Perez most likely violated the Standards?",
@@ -116,11 +116,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 13: For Nidhi Mehta, CFA, a fund manager at XYZ Investments, Mehta's fund delivers excellent returns for the year. A large investor in the fund offers Mehta cash compensation along with free tickets to the opening night of a sold-out opera as a reward for the fund's performance. Firm policy requires employees to inform supervisors about monetary compensation received from clients. Mehta does not inform her supervisor as she only accepts the tickets and not the cash compensation. Has Mehta violated the Standards?",
@@ -131,11 +131,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 14: Which of the following is a recommended procedure for compliance with the Standard relating to diligence and reasonable basis? Members should encourage their firms to:",
@@ -146,11 +146,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 15: Faiza Hassan, CFA, is an equity analyst specializing in social media companies. Recently, she placed a \u201cbuy\u201d rating on WeGab Corp. Following her initial report on the company, Hassan\u2019s brother has purchased a large amount of WeGab stock. Hassan has no beneficial ownership in her brother\u2019s account. Hassan has been asked to write a follow-up report on WeGab because of strong takeover rumors relating to the company. Will Hassan violate the Standards if she writes the follow-up report without disclosing her brother's shareholding in the company?",
@@ -161,11 +161,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 16: Asset owners most likely benefit from a firm being GIPS compliant because it:",
@@ -176,11 +176,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 17: Which of the following policy recommendations is consistent with the Standards?\n\n| Recommendation | Policy |\n|---|---|\n| 1 | Investment banking personnel should approve any changes in investment recommendations from the research side. |\n| 2 | Firewall should separate reporting structures for personnel on the research side and personnel on the investment banking side. |\n| 3 | Compensation arrangements should link research analyst remuneration directly to investment banking assignments in which analysts may participate as team members. |",
@@ -191,11 +191,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 18: A member receives referral fees for recommending third-party services to clients. Before entering into an agreement with a new client, which of the following must the member disclose to the new client?",
@@ -206,11 +206,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 19: For a retail client's account to be included in a GIPS-compliant firm\u2019s composite, it will most likely be in a composite:",
@@ -221,11 +221,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 20: Feng Liu, CFA, is an investment manager. Liu organizes nonviolent demonstrations on weekends to fight climate change. After repeated demonstrations, Liu is arrested and convicted for obstructing public transit which is considered an act of civil disobedience in her country. Has Liu violated the Standards?",
@@ -236,11 +236,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 21: Meghna Shah, CFA, manages a small-cap fund. Applying mosaic theory, Shah concludes that AK Tech (AKT) is overpriced and sells the fund's significant holding in AKT for a profit. Shah is aware that her transaction could impact AKT's price because the position is large enough to require disclosure to stock exchanges. A blog tracking stock exchange news reports Shah's transaction, which leads to an 8% decline in AKT's price, causing losses to other investors. Has Shah violated the Standards?",
@@ -251,11 +251,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 22: Frank Schneider, CFA, a securities analyst, applies for a new position. In his application, he makes two statements:\n\nStatement 1: I passed all three CFA examinations in three consecutive attempts.\nStatement 2: Based on my success in the CFA Program, I have a superior ability to analyze stocks compared to my peers.\n\nSchneider has most likely violated the Standards by making:",
@@ -266,11 +266,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 23: Sue Kim, CFA, a US citizen, works as an analyst for a subsidiary of a US investment firm on a small island that attracts offshore investment accounts. Local securities laws allow insider trading. While having dinner with the CEO of a local company, Kim learns that the firm is in negotiations to be acquired for a substantial premium. Would Kim most likely comply with the CFA Institute Standards if she purchased the company\u2019s shares for her client accounts?",
@@ -281,11 +281,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 24: A member works in a country where there is no regulation relating to investment performance standards. In the absence of any regulatory guidance, the member is required to communicate investment performance information to her clients in accordance with:",
@@ -296,11 +296,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 25: According to the Standard relating to preservation of confidentiality, if local laws require investment personnel to maintain confidentiality, is a member permitted to share confidential client information?",
@@ -311,11 +311,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 26: Which of the following member actions most likely violates the Standard relating to fair dealing?",
@@ -326,11 +326,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Ethical & Professional Standards",
         "lm": "",
         "text": "Question 27: Sara Perkin, CFA, sends a stock recommendation in capsule form to clients and adds that additional information is available upon request. Perkin\u2019s colleague, Tom Miller, CFA, uses a return forecasting model which has delivered positive results for his equity fund in each of the last seven years. Miller provides the model output in a marketing brochure and notes: \u201cThe fund will continue to deliver a positive return next year.\u201d Has the Standard relating to communication with clients and prospective clients been violated?",
@@ -341,11 +341,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 28: An inventory system that reduces average inventory without affecting sales will most likely reduce the:",
@@ -356,11 +356,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 29: With respect to fintech, which of the following statements is most accurate?",
@@ -371,11 +371,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 30: In calculating basic and diluted EPS, if the numerators are the same but the denominators are different, the company:",
@@ -386,11 +386,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 31: Which of the following is most likely a feature of sole proprietorships?",
@@ -401,11 +401,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 32: A risky project has an initial cash outflow followed by cash inflows only. If the project's IRR is zero, the project's NPV is most likely:",
@@ -416,11 +416,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 33: Which of the following is a common pitfall in Capital allocation analysis?",
@@ -431,11 +431,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 34: Which of the following best reflects good corporate governance?",
@@ -446,11 +446,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 35: Which of the following disclosures about intangible assets is required under US GAAP?",
@@ -461,11 +461,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 36: An analyst forecasts the following results for a company:\n\n| Item | Value |\n|---|---:|\n| Net profit margin | 18% |\n| Depreciation | $6 million |\n| Decrease in working capital | $1.5 million |\n| Increase in fixed capital | $6 million |\n| Market share | 9% |\n\nIf total industry sales are forecasted to be $3.3 billion and the company has no interest expense, the company's forecasted free cash flow to the firm is closest to:",
@@ -476,11 +476,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 37: Which of the following would best mitigate an analyst's confirmation bias when forecasting a firm's financial statements?",
@@ -491,11 +491,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 38: Because of a problem with the production process, a manufacturer produced a batch of defective finished goods with a total cost of $18,000. The sales value of this batch in its current condition is $6,000. With $3,000 of additional processing, however, the batch could be sold for $11,000. The value of the unsold inventory is closest to:",
@@ -506,11 +506,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 39: A common market has a higher degree of economic integration than a(n):",
@@ -521,11 +521,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 40: An analyst runs a simple linear regression using 35 months of data to assess a country's short-term interest rate as a function of its inflation rate, with the following results:\n\n| Source | Degrees of Freedom | Sum of Squares | Mean Square |\n|---|---:|---:|---:|\n| Regression | 1 | 17.3009 | 17.3009 |\n| Error | 33 | 20.2299 | 0.6130 |\n| Total | 34 | 37.5308 | |\n\nThe percentage of the variation in the short-term interest rate that is explained by the inflation rate is closest to:",
@@ -536,11 +536,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 41: An asset management firm generated the following annual returns in their US large-cap equity portfolio:\n\n| Year | Net Return (%) |\n|---|---:|\n| 2008 | -34.8 |\n| 2009 | 32.2 |\n| 2010 | 11.1 |\n| 2011 | -1.4 |\n\nThe 2012 return needed to achieve a trailing five-year geometric mean annualized return of 5% when calculated at the end of 2012 is closest to:",
@@ -551,11 +551,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 42: A central bank most likely:",
@@ -566,11 +566,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 43: A lessee entering into a long-term lease most likely:",
@@ -581,11 +581,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 44: An analyst gathers the following information about a company:\n\n| Item | Value |\n|---|---:|\n| ROE | 6% |\n| ROA | 4% |\n| Average total assets | \u20ac600,000 |\n\nBased only on this information, average total liabilities are:",
@@ -596,11 +596,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 45: In contrast to non-probability sampling, probability sampling:",
@@ -611,11 +611,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 46: In which phase of the business cycle is actual output most likely below potential output?",
@@ -626,11 +626,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 47: An analyst gathers the following information about a company that uses only common equity and debt in its capital structure:\n\n| Item | Value |\n|---|---:|\n| Cost of equity | 9.8% |\n| Cost of debt, estimated by yield to maturity | 5.1% |\n| Percent of capital from debt | 40.0% |\n\nIf the company's marginal tax rate is 25%, the WACC is closest to:",
@@ -641,11 +641,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 48: The 'box' in a box and whisker plot represents the:",
@@ -656,11 +656,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 49: An analyst gathers the following information (in \u00a3 thousands) about equipment owned by a company:\n\n| Item | Amount |\n|---|---:|\n| Carrying amount prior to impairment | 36 |\n| Fair value | 34 |\n| Selling costs | 4 |\n| Undiscounted expected future cash flows | 38 |\n| Discounted expected future cash flows | 32 |\n\nThe equipment is considered impaired under:",
@@ -671,11 +671,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 50: The reversal of a prior fiscal year inventory write-down is:",
@@ -686,11 +686,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 51: The structural budget deficit is the deficit that exists if the economy:",
@@ -701,11 +701,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 52: Two populations are normally distributed with unknown variances that are assumed to be equal. If a large independent random sample is drawn from each population, the most appropriate test statistic for testing the difference between the population means is the:",
@@ -716,11 +716,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 53: An analyst gathers the following information about a company's 3-year contract to produce computers:\n\n| Item | Value |\n|---|---:|\n| Total sales price | \u20ac200,000 |\n| Estimated total costs | \u20ac100,000 |\n| Actual costs incurred in Year 1 | \u20ac50,000 |\n| Total contracted number of computers to be produced | 100 units |\n| Total number of computers produced in Year 1 | 30 units |\n\nThe output method provides an appropriate measure of progress towards completing the contract and performance obligations are satisfied over time. Assuming it is highly probable that revenue will not be subsequently reversed, revenue recognized in Year 1 is closest to:",
@@ -731,11 +731,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 54: An analyst gathers the following USD/GBP exchange rate information:\n\n| Item | Value |\n|---|---:|\n| USD/GBP spot rate | 1.11721 |\n| USD/GBP 1-year forward rate | 1.11851 |\n\nUSD/GBP is the amount of USD per 1 GBP. The 1-year forward points are closest to:",
@@ -746,11 +746,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 55: Which of the following statements about financial reporting is most accurate?",
@@ -761,11 +761,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 56: A mining company has received government approval for the development of a mining property and has also consulted with members of the local community regarding the project assessment process. The latter action is best described as an example of:",
@@ -776,11 +776,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 57: Under US GAAP, material income items that are unusual and infrequent are shown as part of:",
@@ -791,11 +791,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 58: A deferred tax liability could arise when:",
@@ -806,11 +806,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 59: Using long-term debt or equity to finance working capital needs most likely:",
@@ -821,11 +821,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 60: An analyst gathers the following information about a company:\n\n| Item | Value |\n|---|---:|\n| Average variable cost per unit | $12.50 |\n| Selling price per unit | $37.50 |\n| Total fixed costs | $900,000 |\n\nThe minimum production level needed to continue operations over the long run is most likely:",
@@ -836,11 +836,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 61: For an analyst estimating a company's target capital structure, which of the following methods is most appropriate?",
@@ -851,11 +851,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 62: Which of the following statements about kurtosis is most accurate?",
@@ -866,11 +866,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 63: An analyst gathers the following information about a company:\n\n| Item | Year 2 | Year 1 |\n|---|---:|---:|\n| Revenue | \u20ac725,000 | \u20ac720,000 |\n| EBIT | \u20ac93,500 | \u20ac91,500 |\n| Net income | \u20ac57,500 | \u20ac58,000 |\n| Weighted average common shares outstanding during the year | 650,000 | 635,000 |\n\nWhich of the following increased from Year 1 to Year 2?",
@@ -881,11 +881,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 64: Monetary policy:",
@@ -896,11 +896,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 65: An analyst examines the following quarterly returns for a client's portfolio:\n\n| Quarter | Return (%) |\n|---|---:|\n| 1 | 8 |\n| 2 | 3 |\n| 3 | -2 |\n| 4 | 10 |\n| 5 | 8 |\n| 6 | 0 |\n| 7 | -3 |\n| 8 | 12 |\n\nIf the target return is 5% per quarter, the target downside deviation is closest to:",
@@ -911,11 +911,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 66: An increase in a central bank's policy rate most likely leads to:",
@@ -926,11 +926,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 67: If an auditor is experiencing some scope limitation, but can still issue an opinion, the auditor most likely issues a(n):",
@@ -941,11 +941,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 68: An account has a stated annual interest rate of 3.6% with monthly compounding. The number of years it will take for an initial investment in the account to double is closest to:",
@@ -956,11 +956,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 69: Whenever Variable X increases by four units, Variable Y increases by one unit. The correlation between X and Y is:",
@@ -971,11 +971,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 70: The F-statistic for the test of fit of a simple linear regression is given by the:",
@@ -986,11 +986,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 71: An analyst gathers the following information (in \u20ac thousands) about a company:\n\n|  | Year 2 | Year 1 |\n|---|---:|---:|\n| Revenue | 2,400 | 2,000 |\n| Cost of sales | 1,800 | 1,400 |\n| Ending accounts receivable | 240 | 160 |\n\nThe number of days of sales outstanding for Year 2, based on a 365-day year, is closest to:",
@@ -1001,11 +1001,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 72: With respect to national security, a country focusing on domestic economic factors most likely focuses on:",
@@ -1016,11 +1016,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 73: Nationalization of industries is an example of which type of geopolitical tool?",
@@ -1031,11 +1031,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 74: With respect to the statement of cash flows under the indirect method, which of the following will increase net cash provided by operating activities compared to net income? An increase in:",
@@ -1046,11 +1046,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 75: A company's ability to support debt most likely improves with a(n):",
@@ -1061,11 +1061,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 76: According to Modigliani-Miller propositions, if a profitable company uses more debt in the presence of taxes, firm value will:",
@@ -1076,11 +1076,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 77: Capital restrictions most likely:",
@@ -1091,11 +1091,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 78: A test of independence is based on the data in a contingency table with 5 rows and 4 columns. Using a nonparametric test statistic that is chi-square distributed, the number of degrees of freedom is:",
@@ -1106,11 +1106,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 79: The demand curve of a perfectly competitive firm is:",
@@ -1121,11 +1121,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 80: All else being equal, in periods of decreasing prices and constant inventory quantities, the FIFO inventory valuation method results in a higher:",
@@ -1136,11 +1136,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 81: The Herfindahl-Hirschman index (HHI) is more responsive than the concentration ratio to:",
@@ -1151,11 +1151,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 82: A company uses both debt and equity financing as part of its capital structure. If the government reduces the corporate tax rate, the company's WACC will:",
@@ -1166,11 +1166,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 83: Selling a product at a discount in order to build scale best describes:",
@@ -1181,11 +1181,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Quantitative Methods",
         "lm": "",
         "text": "Question 84: An investor plans to purchase an annuity for $1,500,000 in exactly 20 years to fund his retirement. The investor wants to save for that purchase by making 20 annual deposits into an account, starting today. If the account earns 4% per year, the annual deposit required to meet the investor's retirement goal is closest to:",
@@ -1196,11 +1196,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 85: The liquidity premium is 2% and the real risk-free interest rate is 4%. According to economic theory, the rate that only reflects the time preferences of individuals for current versus future real consumption is:",
@@ -1211,11 +1211,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 86: To increase liquidity, a central bank most likely implements an interest rate policy that is:",
@@ -1226,11 +1226,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 87: A company reporting under US GAAP has production facilities with a net book value of $28.4 million. Recently, several competitors have entered its market, and the company now estimates that its production facilities will be able to generate cash flows of only $3 million per year for the next seven years. The firm has a cost of capital of 10%. Based on these recent events related to its production facilities, the company\u2019s financial statements will most likely report a:",
@@ -1241,11 +1241,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 88: An analyst gathers the following information (in \u20ac millions) about three companies operating in the same industry:\n\n|  | Company 1 | Company 2 | Company 3 |\n|---|---:|---:|---:|\n| PP&E | 100 | 150 | 120 |\n| Total liabilities and shareholders\u2019 equity | 600 | 1,000 | 800 |\n| Total shareholders\u2019 equity | 200 | 500 | 200 |\n\nApplying vertical common-size balance sheet analysis, which company has the highest PP&E?",
@@ -1256,11 +1256,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 89: A potential benefit of effective corporate governance is:",
@@ -1271,11 +1271,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Financial Statement Analysis",
         "lm": "",
         "text": "Question 90: With respect to the cash flow statement, under US GAAP, interest paid is reported as a(n):",
@@ -1286,11 +1286,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 1
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 1: Two years ago, a homeowner took out a $1 million home mortgage from a bank. The current principal on the loan is $750,000, and the homeowner has defaulted on the loan. Following foreclosure proceedings, the bank sells the property for $600,000 and is only entitled to use these funds to satisfy the loan obligation. The homeowner most likely had a:",
@@ -1301,11 +1301,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 2: Valuing private equity investments using estimated prices rather than market prices most likely causes an:",
@@ -1316,11 +1316,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 3: A greenfield infrastructure investment is best described as an asset that has:",
@@ -1331,11 +1331,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 4: Which of the following statements is most accurate? US commercial paper typically:",
@@ -1346,11 +1346,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 5: All else being equal, which of the following would lower a company's sustainable growth rate? A(n):",
@@ -1361,11 +1361,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 6: Which of the following statements about real estate investments is most accurate?",
@@ -1376,11 +1376,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 7: In the binomial model, if the probability of a downward movement in an underlying increases, the value of a call option:",
@@ -1391,11 +1391,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 8: Which of the following is best classified as financial risk?",
@@ -1406,11 +1406,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 9: For portfolio managers of active funds, market indexes are least useful as:",
@@ -1421,11 +1421,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 10: Which of the following is most likely an element of industry and competitive analysis?",
@@ -1436,11 +1436,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 11: Duration is most accurate as a measure of interest rate risk for a bond portfolio when the slope of the yield curve:",
@@ -1451,11 +1451,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 12: Which of the following most likely exhibits negative convexity?",
@@ -1466,11 +1466,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 13: If a security\u2019s return is plotted to the right of the market portfolio on the security market line, the security has a:",
@@ -1481,11 +1481,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 14: Emotional biases:",
@@ -1496,11 +1496,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 15: Which of the following is most advantageous to the general partner of a private equity fund assuming no clawback provision?",
@@ -1511,11 +1511,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 16: An investor buys a stock for $108 on margin by posting 40% of the initial stock price as equity. If the maintenance margin requirement for the position is 20%, a margin call first occurs when the share price falls below:",
@@ -1526,11 +1526,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 17: Which of the following derivative contracts most likely requires an upfront payment by the buyer at contract initiation?",
@@ -1541,11 +1541,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 18: Making a minority equity investment in a mature company that plans to expand operations best describes:",
@@ -1556,11 +1556,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 19: Arbitrage is best described as an opportunity to earn:",
@@ -1571,11 +1571,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Corporate Issuers",
         "lm": "",
         "text": "Question 20: Which of the following transactions is most likely to affect a company\u2019s financial leverage ratio?",
@@ -1586,11 +1586,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 21: All else being equal, non-cumulative preference shares most likely:",
@@ -1601,11 +1601,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 22: As one moves to the right along an investor\u2019s efficient frontier, a set increase in risk is most likely to lead to:",
@@ -1616,11 +1616,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 23: Risk-averse investors make investment decisions that maximize:",
@@ -1631,11 +1631,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 24: Which of the following is most likely a factor that results in different credit ratings for debt issued by a subsidiary and debt issued by its parent company?",
@@ -1646,11 +1646,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 25: An analyst gathers the following information about an index with a starting value of 1,000:\n\n| Year | Price Return | Dividend Return |\n|---|---:|---:|\n| 1 | 4% | 2% |\n| 2 | 6% | 3% |\n\nThe ending index value is closest to:",
@@ -1661,11 +1661,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 26: An analyst gathers the following information about three bonds:\n\n| Bond | Payment Frequency | Principal Amortization |\n|---|---|---|\n| 1 | Monthly | Yes |\n| 2 | Quarterly | Yes |\n| 3 | Monthly | No |\n\nAll else being equal, the bond with the greatest reinvestment risk is most likely:",
@@ -1676,11 +1676,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 27: In an equally weighted portfolio of many assets, an increase in the correlation between the assets' returns most likely decreases the portfolio's:",
@@ -1691,11 +1691,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 28: Which of the following best describes an advantage of the EV/EBITDA multiple for valuing equity? An advantage is that:",
@@ -1706,11 +1706,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 29: The value of a swap contract at initiation is most likely equal to:",
@@ -1721,11 +1721,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 30: All else being equal, a cash dividend most likely has the same effect on shareholders\u2019 wealth as:",
@@ -1736,11 +1736,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 31: An arbitrage opportunity most likely exists if the price of a put option is less than the combined cost of:",
@@ -1751,11 +1751,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 32: An analysis of the competitive positioning such as Porter's five forces is typically included in:",
@@ -1766,11 +1766,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 33: With respect to private equity funds, quartile rankings:",
@@ -1781,11 +1781,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 34: In a semi-strong-form efficient market, which of the following is reflected in prices?",
@@ -1796,11 +1796,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 35: If a quarterly pay bond has an effective annual rate of 10%, the semiannual bond equivalent yield for this bond is closest to:",
@@ -1811,11 +1811,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 36: Which of the following positions requires the investor to satisfy an obligation upon option exercise?",
@@ -1826,11 +1826,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 37: Which of the following statements concerning a security market index is most accurate?",
@@ -1841,11 +1841,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 38: Which of the following best characterizes an interest rate swap?",
@@ -1856,11 +1856,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 39: Which of the following is best classified as a nonsystematic risk?",
@@ -1871,11 +1871,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 40: An analyst gathers the following information about a company's preferred shares:\n\n| Item | Value |\n|---|---:|\n| Par value | $100.00 |\n| Annual dividend per share | $6.00 |\n| Current market price | $85.71 |\n| Maturity | 10 years |\n\nIf the required rate of return is 7% and the company's marginal tax rate is 30%, the preferred shares are most likely:",
@@ -1886,11 +1886,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 41: Which of the following transactions poses the risk of losing the greatest dollar amount?",
@@ -1901,11 +1901,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 42: When securitizing a corporation\u2019s loans, a special purpose entity most likely:",
@@ -1916,11 +1916,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 43: All else being equal, which of the following securities is the most risky for an investor?",
@@ -1931,11 +1931,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 44: An investor analyzes the stock market of a specific country and discovers that the stock prices are very slow to reflect new information. The investor can best profit from this situation using a(n):",
@@ -1946,11 +1946,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 45: If a bond has a modified duration of 7.1 and convexity of 49.2, the percentage change in price for a 50 basis point increase in yield is closest to:",
@@ -1961,11 +1961,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 46: An analyst gathers the following information about a portfolio:\n\n| Security | Standard Deviation | Portfolio Weight |\n|---|---:|---:|\n| A | 16% | 60% |\n| B | 27% | 40% |\n\nIf the portfolio's standard deviation of returns is 20.4%, the correlation between the securities is closest to:",
@@ -1976,11 +1976,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 47: The capital asset pricing model (CAPM) is based on the assumption that investors are risk:",
@@ -1991,11 +1991,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 48: A buy-and-hold investor purchases a fixed-rate bond at issuance and holds it until maturity. With respect to interest rate risk, this investor is exposed to:",
@@ -2006,11 +2006,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 49: The value effect anomaly:",
@@ -2021,11 +2021,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 50: A bond's price sensitivity to a non-parallel shift in the benchmark yield curve is best measured by:",
@@ -2036,11 +2036,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 51: Which of the following instruments is most likely to offer investors some protection against increases in the market interest rate?",
@@ -2051,11 +2051,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 52: An investor gathers the following information about a portfolio and the risk-free asset:\n\n| Item | Value |\n|---|---:|\n| Average portfolio return | 8.50% |\n| Portfolio standard deviation of returns | 16.00% |\n| Portfolio beta | 1.10 |\n| Risk-free asset return | 1.75% |\n\nThe portfolio's Sharpe ratio is closest to:",
@@ -2066,11 +2066,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 53: Which of the following types of investors most likely has a long-term investment time horizon and high liquidity needs?",
@@ -2081,11 +2081,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 54: All else being equal, which of the following bonds most likely has the lowest price?",
@@ -2096,11 +2096,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 55: Using the rating scale from Standard & Poor's or Fitch, the lowest rating for an investment-grade bond is:",
@@ -2111,11 +2111,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 56: If a risk-free asset is added to a portfolio of risky assets, the highest achievable return for a given level of risk most likely:",
@@ -2126,11 +2126,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 57: Which of the following statements best describes the relationship between the net costs of carry and the forward price?",
@@ -2141,11 +2141,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 58: A European call option is in the money whenever the value of the underlying is:",
@@ -2156,11 +2156,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 59: Compared to trading an underlying directly, trading a derivative on the underlying most likely involves:",
@@ -2171,11 +2171,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 60: Which of the following statements about alternative investments\u2019 compensation structures is most accurate?",
@@ -2186,11 +2186,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 61: According to put-call forward parity, a long put is equal to:",
@@ -2201,11 +2201,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 62: An analyst gathers the following information about a margin transaction:\n\n| Item | Value |\n|---|---:|\n| Initial stock price | $80 |\n| Leverage ratio | 2.5 |\n\nIf the first margin call occurs at a stock price below $60, the maintenance margin is closest to:",
@@ -2216,11 +2216,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 63: An analyst uses a valuation model to estimate the value of an option-free bond at 92.733 to yield 11%. If the value is 94.474 for a 60 bps decrease in yield and 91.041 for a 60 bps increase in yield, the approximate modified duration of the bond is closest to:",
@@ -2231,11 +2231,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 64: A hedge fund that implements trades based on a top-down analysis of expected movements in economic variables most likely uses a(n):",
@@ -2246,11 +2246,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 65: An analyst gathers the following information about three bonds:\n\n| Bond | Issuer Credit Rating | Total Issuer Debt Outstanding ($ Billions) |\n|---|---|---:|\n| 1 | B | 1 |\n| 2 | BB | 1 |\n| 3 | BB | 30 |\n\nAll else being equal, the bond with the greatest market liquidity risk is most likely:",
@@ -2261,11 +2261,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 66: Four years ago, a 5% coupon, annual-pay bond with a 10-year maturity was issued at par. If the current market discount rate is 7%, the price of the bond per 100 of par value is closest to:",
@@ -2276,11 +2276,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 67: In an investment policy statement, which of the following investment constraints most likely outlines a client's preference for environmentally sustainable investments?",
@@ -2291,11 +2291,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 68: For an institutional investor, the investment committee's approach to appointing and reviewing investment managers for the portfolio is most likely set out during the:",
@@ -2306,11 +2306,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 69: All else being equal, for option-free bonds, the percentage price change for a given yield change is most likely greater for a bond:",
@@ -2321,11 +2321,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 70: Which of the following statements is most accurate? Smart beta strategies:",
@@ -2336,11 +2336,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 71: An analyst gathers the following information about a hedge fund:\n\n| Item | Value |\n|---|---:|\n| Beginning-of-year AUM | \u00a3200,000,000 |\n| Management fee (based on end-of-year AUM before fees) | 2% |\n| Incentive fee | 10% |\n| Soft hurdle rate | 5% |\n| Annual return before fees | 20% |\n\nIf the incentive fee is calculated independently of the management fee, total fees for the year are:",
@@ -2351,11 +2351,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Economics",
         "lm": "",
         "text": "Question 72: Which of the following is most likely one of the main functions of the financial system?",
@@ -2366,11 +2366,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 73: Which of the following is most likely a distinction between futures and forward contracts? Futures contracts are:",
@@ -2381,11 +2381,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 74: Which of the following is most likely a long-term benefit of adding alternative investments to a portfolio of traditional investments?",
@@ -2396,11 +2396,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 75: In the event of a default, which of the following mortgage structures exposes a lender to the greatest risk of loss?",
@@ -2411,11 +2411,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 76: Which of the following statements about infrastructure investing is most accurate? Infrastructure:",
@@ -2426,11 +2426,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 77: An investor uses the following data and Gordon\u2019s constant growth dividend discount model to evaluate a company\u2019s common stock. To estimate the growth rate, she uses the average value of the compounded annual dividend growth rate over the period of Year 1 to Year 6, and the dividend payout ratio for Year 6:\n\n| Year | Earnings per Share | Dividend per Share | Return on Equity |\n|---|---:|---:|---:|\n| 6 | $3.20 | $1.92 | 12% |\n| 5 | $3.60 | $1.85 | 17% |\n| 4 | $2.44 | $1.74 | 13% |\n| 3 | $2.08 | $1.62 | 15% |\n| 2 | $2.76 | $1.35 | 11% |\n| 1 | $2.25 | $1.25 | 9% |\n\nIf her required return is 15%, the stock\u2019s intrinsic value is closest to:",
@@ -2441,11 +2441,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 78: Which of the following is least likely a component of yield spread?",
@@ -2456,11 +2456,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 79: The earnings multiplier for a stock increases with a decrease in the:",
@@ -2471,11 +2471,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 80: The most appropriate measure of interest rate risk for a bond to a parallel shift in the benchmark yield curve is:",
@@ -2486,11 +2486,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 81: A successful portfolio risk budget will most likely:",
@@ -2501,11 +2501,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 82: In an order-driven market, if the trade price is determined by the limit price of an order, the market most likely operates under the:",
@@ -2516,11 +2516,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 83: An investor sells a European put option with the following characteristics:\n\n| Item | Value |\n|---|---:|\n| Put price | 50 |\n| Exercise price | 1,640 |\n\nIf the price of the underlying at expiration is 1,670, the profit for the seller is:",
@@ -2531,11 +2531,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Equity Investments",
         "lm": "",
         "text": "Question 84: Validity instructions indicate:",
@@ -2546,11 +2546,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Derivatives",
         "lm": "",
         "text": "Question 85: When the forward price of a commodity exceeds the spot price, the commodity market is most likely in:",
@@ -2561,11 +2561,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 86: Which of the following is private debt funding used by companies that are in the seed stage of their life cycle?",
@@ -2576,11 +2576,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 0,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Fixed Income",
         "lm": "",
         "text": "Question 87: For a fixed-rate bond, Macaulay duration is:",
@@ -2591,11 +2591,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Portfolio Management",
         "lm": "",
         "text": "Question 88: With respect to portfolio construction, combining long-term capital market expectations with the objectives and constraints from the investment policy statement determines a portfolio's:",
@@ -2606,11 +2606,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 89: The correlation of cryptocurrencies with traditional assets has been:",
@@ -2621,11 +2621,11 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 2,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     },
     {
-        "source": "Mock: ",
+        "source": "Mock: Mock Exam 3",
         "subject": "Alternative Investments",
         "lm": "",
         "text": "Question 90: An investment has initial capital of $100 million, a return at the end of one year of 12%, a management fee based on assets under management of 1%, and an incentive fee based on the return net of the management fee of 10%. Assume management fees are calculated using end-of-period valuation. The investor\u2019s net return given this fee structure is closest to:",
@@ -2636,7 +2636,7 @@ window.ALL_QUESTIONS.push(...[
         ],
         "correctAnswer": 1,
         "explanation": "",
-        "mockName": "",
+        "mockName": "Mock Exam 3",
         "session": 2
     }
 ]);

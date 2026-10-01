@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v50-mock3-4';
+        const SEED_VERSION = 'v51-fix-mock34';
         const seeded = localStorage.getItem('cfaSeedVersion');
 
         if (seeded !== SEED_VERSION) {
@@ -281,7 +281,7 @@ const app = {
             // User-uploaded questions (not in staticSources and no mockName from static mocks) are preserved.
             const allExisting = await db.questions.toArray();
             const toDeleteIds = allExisting
-                .filter(q => staticSources.has(q.source || 'Unknown') || staticMockNames.has(q.mockName))
+                .filter(q => staticSources.has(q.source || 'Unknown') || staticMockNames.has(q.mockName) || q.source === 'Mock: ')
                 .map(q => q.id);
 
             if (toDeleteIds.length > 0) await db.questions.bulkDelete(toDeleteIds);
