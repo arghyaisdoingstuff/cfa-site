@@ -497,20 +497,22 @@ const app = {
         const days = [...new Set(attempts.map(a=>new Date(a.timestamp).toDateString()))].sort((a,b)=>new Date(b)-new Date(a));
         let streak=1;
         for (let i=1;i<days.length;i++) {
-            if ((new Date(days[i-1])-new Date(days[i]))/86400000===1) streak++; else break;
+            if (Math.round((new Date(days[i-1])-new Date(days[i]))/86400000)===1) streak++; else break;
         }
         return streak;
     },
     renderBarChart: function(bySub) {
         const ctx=document.getElementById('subjectChart')?.getContext('2d'); if(!ctx)return;
+        if (this._barChart) this._barChart.destroy();
         const labels=Object.keys(bySub), data=labels.map(l=>Math.round(bySub[l].c/bySub[l].t*100)), colors=labels.map(l=>subjectChartColor(l));
-        new Chart(ctx,{type:'bar',data:{labels,datasets:[{label:'Accuracy %',data,backgroundColor:colors.map(c=>c+'33'),borderColor:colors,borderWidth:2,borderRadius:8}]},
+        this._barChart = new Chart(ctx,{type:'bar',data:{labels,datasets:[{label:'Accuracy %',data,backgroundColor:colors.map(c=>c+'33'),borderColor:colors,borderWidth:2,borderRadius:8}]},
             options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},
                 scales:{y:{beginAtZero:true,max:100,ticks:{callback:v=>v+'%',font:{size:11}},grid:{color:'#f1f5f9'}},x:{ticks:{font:{size:9},maxRotation:30},grid:{display:false}}}}});
     },
     renderDonutChart: function(correct,incorrect) {
         const ctx=document.getElementById('donutChart')?.getContext('2d'); if(!ctx)return;
-        new Chart(ctx,{type:'doughnut',data:{labels:['Correct','Incorrect'],datasets:[{data:[correct,incorrect],backgroundColor:['#22c55e','#f87171'],borderWidth:0}]},
+        if (this._donutChart) this._donutChart.destroy();
+        this._donutChart = new Chart(ctx,{type:'doughnut',data:{labels:['Correct','Incorrect'],datasets:[{data:[correct,incorrect],backgroundColor:['#22c55e','#f87171'],borderWidth:0}]},
             options:{responsive:true,maintainAspectRatio:false,cutout:'68%',plugins:{legend:{position:'bottom',labels:{font:{size:12},padding:12}}}}});
     },
 
@@ -851,6 +853,7 @@ const app = {
     },
 
     startQuizSession: async function() {
+        this.isMock = false;
         const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
         let q = this.applyFilters(allQ);
         if (!q.length) { showToast('No questions match your filters','error'); return; }
@@ -1064,7 +1067,14 @@ const app = {
     // EXAM MODE
     // ══════════════════════════════════════════
     renderExamQuestion: async function(c) {
-        if (this.quizIndex >= this.quizQueue.length) { await this.submitExam(c, true); return; }
+        if (this.quizIndex >= this.quizQueue.length) { 
+            const submitted = await this.submitExam(c, false); 
+            if (!submitted) {
+                this.quizIndex = this.quizQueue.length - 1;
+                await this.renderExamQuestion(c);
+            }
+            return; 
+        }
         const q       = this.quizQueue[this.quizIndex];
         this.currentQuestion = q;
         if (!this.timerInterval && !this.isPaused) this.startTimer();
@@ -1076,7 +1086,7 @@ const app = {
                 <!-- Question -->
                 <div class="flex-1 min-w-0">
                     <div class="flex items-center justify-between mb-3">
-                        <button onclick="(app.sessionTotal>0&&!confirm('Abandon this session?'))||app.navigate('quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to setup</button>
+                        <button onclick="app.navigate(app.isMock ? 'mocks' : 'quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to ${this.isMock ? 'Mocks' : 'setup'}</button>
                         <span class="text-sm text-slate-400 dark:text-zinc-500">${this.examAnswers.filter(a=>a!==null).length}/${this.quizQueue.length} answered</span>
                     </div>
                     <div class="stat-card relative" id="question-card">
@@ -1113,7 +1123,7 @@ const app = {
                     <div class="flex justify-between mt-4">
                         <button onclick="app.examNavigate(${this.quizIndex-1})" ${this.quizIndex===0?'disabled':''} class="px-4 py-2 text-sm font-semibold border border-slate-200 dark:border-zinc-800 rounded-xl hover:bg-slate-50 dark:bg-zinc-900 disabled:opacity-40 disabled:cursor-not-allowed">← Prev</button>
                         <button onclick="app.examNavigate(${this.quizIndex+1})" class="px-4 py-2 text-sm font-semibold border border-slate-200 dark:border-zinc-800 rounded-xl hover:bg-slate-50 dark:bg-zinc-900">
-                            ${this.quizIndex+1<this.quizQueue.length?'Next →':'Skip to Review →'}
+                            ${this.quizIndex+1<this.quizQueue.length?'Next →':'Submit Exam →'}
                         </button>
                     </div>
                 </div>
@@ -1198,19 +1208,19 @@ const app = {
     },
 
     examNavigate: async function(index) {
-        this.saveMockProgress();
         if (index < 0 || index > this.quizQueue.length) return;
         this.quizIndex = index;
+        this.saveMockProgress();
         await this.renderExamQuestion(document.getElementById('app-container'));
     },
 
     submitExam: async function(c, auto) {
-        if (this._submitting) return; this._submitting = true;
+        if (this._submitting) return false; this._submitting = true;
         const unanswered = this.examAnswers.filter(a=>a===null).length;
         if (!auto && unanswered > 0) {
             if (!confirm(`You have ${unanswered} unanswered question${unanswered>1?'s':''}. Submit anyway?`)) {
                 this._submitting = false;
-                return;
+                return false;
             }
         }
         this.stopTimer();
@@ -1329,6 +1339,8 @@ const app = {
                 <!-- Detail panel -->
                 <div id="review-detail"></div>
             </div>`;
+        this._submitting = false; // Release lock in case of re-entry
+        return true;
     },
 
     showExamReviewQ: function(i) {
@@ -1506,7 +1518,7 @@ const app = {
                 const idx  = optionMap[k];
                 const btns = document.querySelectorAll('.option-btn');
                 if (btns.length > idx && !btns[idx].disabled) {
-                    if (this.quizMode==='practice') this.submitPracticeAnswer(idx);
+                    if (this.quizMode==='practice') this.selectPracticeAnswer(idx);
                     else this.selectExamAnswer(idx);
                 }
                 return;
@@ -1515,7 +1527,18 @@ const app = {
             // Navigation
             if (k==='arrowright' || k==='enter') {
                 if (this.quizMode==='exam') { this.examNavigate(this.quizIndex+1); return; }
-                const nb=document.getElementById('next-btn'); if(nb && nb.style.display!=='none') nb.click();
+                
+                // If practice mode and ready to submit
+                const sb = document.getElementById('submit-practice-btn');
+                if (sb && sb.style.display !== 'none' && !sb.disabled && k==='enter') {
+                    sb.click(); return;
+                }
+                
+                // If practice mode and ready for next
+                const nb = document.getElementById('next-btn');
+                if (nb && nb.style.display !== 'none') {
+                    nb.click();
+                }
             }
             if (k==='arrowleft' && this.quizMode==='exam') this.examNavigate(this.quizIndex-1);
         });
@@ -1875,6 +1898,15 @@ Return ONLY a valid JSON array (no markdown). Each element:
         const toDelete = await db.attempts.toArray();
         const ids = toDelete.filter(a => targetIds.has(a.questionId)).map(a => a.id);
         for (const id of ids) await db.attempts.delete(id);
+        
+        // Also wipe saved progress for this mock
+        if (mockName) {
+            this.clearMockProgress(mockName, 1);
+            this.clearMockProgress(mockName, 2);
+        } else {
+            Object.keys(localStorage).forEach(k => { if (k.startsWith('cfa_mock_')) localStorage.removeItem(k); });
+        }
+        
         showToast(`Cleared ${ids.length} attempt${ids.length!==1?'s':''} for ${label}`, 'success');
         await this.renderMocks(document.getElementById('app-container'));
     },
@@ -1883,6 +1915,7 @@ Return ONLY a valid JSON array (no markdown). Each element:
         if(!confirm('Delete ALL questions and attempts? Cannot be undone!')) return;
         await db.questions.clear(); await db.attempts.clear();
         localStorage.removeItem('flaggedQuestions');
+        Object.keys(localStorage).forEach(k => { if (k.startsWith('cfa_mock_')) localStorage.removeItem(k); });
         localStorage.removeItem('cfaSeedVersion');
         await this.seedSampleQuestions(); showToast('Database cleared','info');
         await this.renderSettings(document.getElementById('app-container'));
