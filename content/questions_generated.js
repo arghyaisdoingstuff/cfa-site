@@ -1939,7 +1939,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Fixed Income Securitization",
         "text": "In the securitization process, the trustee most likely:",
         "options": [
             "sells the underlying collateral.",
@@ -1952,7 +1952,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Mortgage-Backed Securities",
         "text": "The coupon of a residential mortgage-backed security is the:",
         "options": [
             "pass-through rate.",
@@ -1965,7 +1965,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield Measures",
         "text": "The stated annual yield to maturity on a semiannual bond basis is 3.66%. The effective \nannual yield is closest to:",
         "options": [
             "3.63%.",
@@ -1978,7 +1978,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Fixed Income Securitization",
         "text": "In a securitization, the purchase agreement between the seller of the collateral and \nthe special purpose entity most likely provides:",
         "options": [
             "a description of the transaction structure.",
@@ -1991,7 +1991,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "An analyst gathers the following information about a bond: \n \nThe approximate convexity of this bond is closest to:",
         "options": [
             "521.",
@@ -2004,7 +2004,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield Measures",
         "text": "A break-even reinvestment rate is most likely equivalent to a(n):",
         "options": [
             "par rate.",
@@ -2017,7 +2017,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Pricing and Yields on Fixed-Income Securities",
         "text": "A bond trading at its no-arbitrage value is priced at a premium. The sum of the \npresent value of the bond's cash flows discounted at spot rates is:",
         "options": [
             "less than the sum of the present values of the bond's cash flows discounted at \nits yield to maturity. \n\nFixed Income: Practice Pack \nFaculty: Vikas Vohra                                                                                   Page 3 of 35",
@@ -2030,7 +2030,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Market Structure, Risks, and Returns",
         "text": "An analyst gathers the following information about a company that only has senior \nunsecured debt: \n \nIn a bankruptcy scenario, if the priority of claims is enforced, it is most likely that:",
         "options": [
             "fixed-rate bond is repaid first because it matures earlier.",
@@ -2043,7 +2043,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "All else being equal, reinvestment risk is greatest for:",
         "options": [
             "putable bonds.",
@@ -2056,7 +2056,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Portfolio Management",
         "text": "An analyst is concerned that a bond might be downgraded one category by Standard \n& Poor's and become non-investment grade. The current rating of this bond is most \nlikely:",
         "options": [
             "A–.",
@@ -2069,7 +2069,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Issuance and Trading",
         "text": "A corporation with a holding company structure has debt at both its parent holding \ncompany and operating subsidiaries. Debt at the operating level must be serviced \nbefore funds can be upstreamed to pay debt at the holding company. This \narrangement best describes:",
         "options": [
             "structural subordination.",
@@ -2082,7 +2082,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "For an option-free fixed-rate bond trading at a premium, as the coupon payment date \napproaches, Macaulay duration most likely:",
         "options": [
             "decreases.",
@@ -2095,7 +2095,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Portfolio Management",
         "text": "Using the rating scale from Standard & Poor's or Fitch, the lowest rating for an \ninvestment-grade bond is:",
         "options": [
             "BBB–.",
@@ -2108,7 +2108,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis for Debt Securities",
         "text": "The EBITDA/interest expense ratio is best classified as a:",
         "options": [
             "leverage ratio.",
@@ -2121,7 +2121,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Issuance and Trading",
         "text": "Which of the following statements is most accurate? US commercial paper typically:",
         "options": [
             "requires the issuer to pledge collateral.",
@@ -2134,7 +2134,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Return Measures",
         "text": "The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of $100 \nand currently priced at $85.70 is closest to:",
         "options": [
             "4.50%.",
@@ -2147,7 +2147,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Structured Finance",
         "text": "Which of the following types of collateralized debt obligations (CDOs) are most likely \nbacked by asset-backed securities?",
         "options": [
             "Structured finance CDOs",
@@ -2160,7 +2160,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "An analyst gathers the following information about a 6% coupon bond currently \ntrading at par: \n \nThe bond's effective duration is closest to:",
         "options": [
             "3.75.",
@@ -2173,7 +2173,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "An analyst gathers the following information about a pension plan's liabilities: \n \nIf interest rates are currently 1.0%, the effective duration of the liabilities is \nclosest to:",
         "options": [
             "6.5.",
@@ -2186,7 +2186,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "Which of the following is a curve duration measure?",
         "options": [
             "Modified duration",
@@ -2199,7 +2199,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Overview of Fixed Income Securities",
         "text": "Bonds issued in the Eurobond market are most likely:",
         "options": [
             "denominated only in euros.",
@@ -2212,7 +2212,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Return Measures",
         "text": "For a coupon bond with a negative yield, compounding more frequently within the year \nresults in a yield-to-maturity that is:",
         "options": [
             "more negative.",
@@ -2225,7 +2225,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Risk and Return",
         "text": "All else being equal, expected loss for a debt instrument:",
         "options": [
             "is independent of the recovery rate.",
@@ -2238,7 +2238,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Fixed Income Valuation",
         "text": "Matrix pricing is most likely used to estimate the price of a bond that:",
         "options": [
             "is highly liquid.",
@@ -2251,7 +2251,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Asset-Backed Securities",
         "text": "All else being equal, the risk of a strategic default for a non-recourse mortgage is \nmost likely:",
         "options": [
             "lower than for a recourse mortgage.",
@@ -2264,7 +2264,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "For bonds with embedded options, the most appropriate measure of price sensitivity \nto interest rate changes is:",
         "options": [
             "effective duration.",
@@ -2277,7 +2277,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "For a bond with an embedded option, effective duration is the most appropriate \nmeasure of interest rate risk because the bond's:",
         "options": [
             "future cash flows are uncertain.",
@@ -2290,7 +2290,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Fixed Income Valuation",
         "text": "An analyst gathers the following information about a spot curve: \n \nIf the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is closest \nto:",
         "options": [
             "97.28.",
@@ -2303,7 +2303,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "The price of an option-free bond increases by 7% when the yield to maturity \ndecreases by 100 basis points. If the price of this bond decreases by 7%, the yield \nto maturity most likely increases by:",
         "options": [
             "less than 100 basis points.",
@@ -2316,7 +2316,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield-Based Bond Duration",
         "text": "All else being equal, the absolute value of the percentage price change for an option-\nfree bond is most likely:",
         "options": [
             "less when the market discount rate decreases than when it increases by the same \namount.",
@@ -2329,7 +2329,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "An analyst gathers the following information about three option-free bonds: \n \nAll else being equal, if the market discount rate decreases by 50 basis points, the \nbond most likely to experience the greatest percentage price change is:",
         "options": [
             "Bond 1.",
@@ -2342,7 +2342,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "Implied forward rates are best defined as the:",
         "options": [
             "geometric average of spot rates.",
@@ -2355,7 +2355,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "Effective duration is the most appropriate measure of interest rate risk for a bond \nwith an embedded option because the bond does not have a well-defined:",
         "options": [
             "effective convexity.",
@@ -2368,7 +2368,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Securitization",
         "text": "When interest rates increase, mortgage-backed securities most likely exhibit \nincreased:",
         "options": [
             "extension risk.",
@@ -2381,7 +2381,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis",
         "text": "Tightening corporate bond yield spreads are most likely associated with:",
         "options": [
             "issuersÕ deteriorating creditworthiness.",
@@ -2394,7 +2394,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Fixed Income Valuation",
         "text": "In a repurchase agreement:",
         "options": [
             "only the lender of funds is exposed to credit risk.",
@@ -2407,7 +2407,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "With respect to a bond with an embedded option, for parallel shifts in the benchmark \nyield curve, effective duration most likely indicates the same interest rate sensitivity \nas:",
         "options": [
             "key rate durations.",
@@ -2420,7 +2420,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Securitization",
         "text": "In a securitization, a senior/subordinated structure is most likely a form of:",
         "options": [
             "time tranching.",
@@ -2433,7 +2433,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "Modified duration is the most appropriate measure of interest rate risk for which of \nthe following securities?",
         "options": [
             "Callable bond",
@@ -2446,7 +2446,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "The percentage price change for a bond, given a change in its yield to maturity, is \nbest estimated by:",
         "options": [
             "effective duration.",
@@ -2459,7 +2459,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "An analyst gathers the following information about an annual-pay bond: \n \nIf the yield to maturity decreases by 100 basis points, the expected percentage \nchange in the bondÕs price is closest to:",
         "options": [
             "9.43%.",
@@ -2472,7 +2472,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Issuance and Trading",
         "text": "Which of the following is most likely a negative covenant?",
         "options": [
             "The issuer must comply with all laws and regulations.",
@@ -2485,7 +2485,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "An analyst gathers the following information about a 4% annual-payment bond with a \ncurrent yield-to-maturity of 4.0%: \n \nThe bondÕs annualized Macaulay duration is closest to:",
         "options": [
             "4.28.",
@@ -2498,7 +2498,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis",
         "text": "An analyst gathers the following information about a company (in $ millions): \n \nInterest coverage using EBIT is closest to:",
         "options": [
             "7x.",
@@ -2511,7 +2511,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Risks",
         "text": "Which of the following duration statistics best measures the sensitivity of a bond Õs \nprice to a flattening of the yield curve?",
         "options": [
             "Key rate duration",
@@ -2524,7 +2524,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis for Debt Securities",
         "text": "All else being equal, an investment-grade bond issuer most likely has:",
         "options": [
             "less market liquidity risk than a below-investment-grade issuer.",
@@ -2537,7 +2537,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "An analyst gathers the following information about an option-free bond: \n \nIf yields are expected to decrease by 50 basis points, the expected price change for \nthe bond is closest to:",
         "options": [
             "$11,000.",
@@ -2550,7 +2550,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "The price value of a basis point (PVBP) for a bond with a full price of 103.50 and a \nmodified duration of 6.2 is closest to:",
         "options": [
             "0.0642.",
@@ -2563,7 +2563,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Maturity and Interest Rate Risk",
         "text": "An analyst gathers the following details about a bond portfolio: \n \nIf each bond has a par value of £25 million, the modified duration of this bond \nportfolio is closest to:",
         "options": [
             "5.8.",
@@ -2576,7 +2576,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis for Debt Securities",
         "text": "With respect to the credit rating agencies' practice of notching, the size of a \nnotching adjustment:",
         "options": [
             "is larger for higher-rated credits.",
@@ -2589,7 +2589,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis for Debt Securities",
         "text": "Which of the following is most likely a key factor in the credit analysis of revenue-\nbacked non-sovereign government bonds?",
         "options": [
             "Per capita income",
@@ -2602,7 +2602,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Arbitrage-Free Valuation",
         "text": "An analyst observes the following yields to maturity on zero-coupon government \nbonds: \n \nThe 2y1y implied forward rate is closest to:",
         "options": [
             "4.5%.",
@@ -2615,7 +2615,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "An analyst gathers the following information: \n \nBased only on this information, the estimated market discount rate for a 5-year bond \nwith similar credit quality is:",
         "options": [
             "4.2%.",
@@ -2628,7 +2628,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "Compared to an otherwise similar option-free bond, investors require a higher yield \nfor a corporate bond with a:",
         "options": [
             "put provision.",
@@ -2641,7 +2641,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "The price of a bond issued in the United Kingdom by a US-based company and \ndenominated in British pounds most likely changes when:",
         "options": [
             "US interest rates change only.",
@@ -2654,7 +2654,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "A floating-rate note makes semiannual interest payments and has a coupon rate equal \nto the six-month market reference rate plus 45 basis points. The interest payments \nare made in June and December. If the six-month market reference rate was 1.95% \nin June and 2.25% in December of the same year, the coupon rate paid in December \nof that year was closest to:",
         "options": [
             "2.40%.",
@@ -2667,7 +2667,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Maturity and Interest Rate Risk",
         "text": "An analyst observes the following price-yield relationship for an option-free bond: \n \nIf the bond trades at 101.80 per 100 of par value, its approximate modified duration \nis closest to:",
         "options": [
             "1.72.",
@@ -2680,7 +2680,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Maturity and Interest Rate Risk",
         "text": "An analyst gathers the following information about a bond which is currently trading \nat 95.35 per 100 par: \n \nThe effective duration of the bond is closest to:",
         "options": [
             "6.5.",
@@ -2693,7 +2693,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "An analyst gathers the following information about a bond: \n \nIf the market discount rate is 4.75% for the holding period, the future value of \nreinvested coupons at the end of the holding period is closest to:",
         "options": [
             "15.05.",
@@ -2706,7 +2706,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "Bonds are quoted using the:",
         "options": [
             "full price and settled using the flat price.",
@@ -2719,7 +2719,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Pricing and Valuation: Bonds",
         "text": "Which of the following does not depend on the market discount rate? A bond's:",
         "options": [
             "flat price",
@@ -2732,7 +2732,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "An investor determines the following information about the price sensitivity of an \noption-free bond: \n \nIf the current price is 106, the duration of this bond is closest to:",
         "options": [
             "2.1. \n\nFixed Income: Practice Pack \nFaculty: Vikas Vohra                                                                                   Page 13 of 35",
@@ -2745,7 +2745,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Issuance and Trading",
         "text": "The number of common shares a convertible bond can be converted into is the:",
         "options": [
             "conversion ratio.",
@@ -2758,7 +2758,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Asset-Backed Securities",
         "text": "A credit card receivable asset-backed security most likely:",
         "options": [
             "faces high prepayment risk.",
@@ -2771,7 +2771,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "An analyst gathers the following information about a bond currently trading at par: \n \nThe effective duration of this bond is closest to:",
         "options": [
             "2.5.",
@@ -2784,7 +2784,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "The Term Structure of Interest Rates",
         "text": "An analyst gathers the following spot and forward rates: \n \nThe 2-year forward rate, four years from today is closest to:",
         "options": [
             "2%.",
@@ -2797,7 +2797,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis for Bonds",
         "text": "A bond issuer has a credit rating of BBB. Based only on this information, the rating \nof a senior unsecured bond from this issuer is most likely to be:",
         "options": [
             "lower than BBB.",
@@ -2810,7 +2810,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "An analyst gathers the following information about a zero-coupon bond: \n \nIf the yield decreases by 1%, the bond's percentage change in price is closest to:",
         "options": [
             "4.76%.",
@@ -2823,7 +2823,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "The Macaulay duration of a zero-coupon bond is most likely:",
         "options": [
             "less than the time to maturity.",
@@ -2836,7 +2836,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Markets: Overview",
         "text": "US municipal bonds are best described as:",
         "options": [
             "agency bonds.",
@@ -2849,7 +2849,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "A bond portfolio consists of the following option-free annual-pay coupon bonds: \n \nThe modified duration of this portfolio is closest to:",
         "options": [
             "5.9.",
@@ -2862,7 +2862,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "The Term Structure of Interest Rates",
         "text": "An analyst gathers the following information about forward rates: \n \nUsing only this information, the price per 100 of par value of a 3-year, 1% annual \ncoupon bond is closest to:",
         "options": [
             "84.05.",
@@ -2875,7 +2875,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "With respect to interest rate risk, an investor who sells a fixed-rate bond after the \nfirst coupon is received and before its maturity is exposed to:",
         "options": [
             "market price risk, only.",
@@ -2888,7 +2888,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "For an option-free fixed-rate corporate bond, the duration and convexity statistics \nare most likely relevant for a change in:",
         "options": [
             "the credit spread only.",
@@ -2901,7 +2901,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Price Measures",
         "text": "An analyst gathers the following information about a callable bond that pays interest \nannually: \n \nThis bond's yield to worst is the:",
         "options": [
             "yield to maturity.",
@@ -2914,7 +2914,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "An analyst gathers the following information about three option-free bonds, each \ntrading at a premium: \n \nAll else being equal, the bond with the lowest Macaulay duration is most likely:",
         "options": [
             "Bond 1.",
@@ -2927,7 +2927,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "An analyst gathers the following information about a bond: \n \n\n                                                                                    \n \nThe bond's money duration (per 100 of par value) is closest to:",
         "options": [
             "553.67.",
@@ -2940,7 +2940,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "Effective duration is:",
         "options": [
             "a useful interest rate risk measure only for bonds with embedded options.",
@@ -2953,7 +2953,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "An investor gathers the following information about a bond portfolio comprised of \ntwo option-free bonds: \n \nThe duration of the portfolio is closest to:",
         "options": [
             "4.33.",
@@ -2966,7 +2966,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Pricing and Yields",
         "text": "An analyst gathers the following information about a bond that pays interest annually: \n \nIf the market discount rate is 5%, the market value of this bond is closest to:",
         "options": [
             "$89,839.",
@@ -2979,7 +2979,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Asset-Backed Securities",
         "text": "Which of the following mortgage features most likely benefits the lender?",
         "options": [
             "Non-recourse loan",
@@ -2992,7 +2992,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Credit Analysis",
         "text": "With respect to the notching process adopted by credit rating agencies, a \ncorporate's subordinated debt is most likely:",
         "options": [
             "notched up from the corporate's junior subordinated debt.",
@@ -3005,7 +3005,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed Income Markets: Issuance, Trading, and Funding",
         "text": "Money market yields are:",
         "options": [
             "annualized and compounded.",
@@ -3018,7 +3018,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Pricing and Yields",
         "text": "A portfolio manager gathers the following information about an option-free bond that \nwas held to maturity: \n \nThe yield to maturity at purchase was most likely:",
         "options": [
             "less than 4.2%.",
@@ -3031,7 +3031,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Duration Statistics",
         "text": "A three-year, semiannual-pay bond with a $100 par value and a 5% coupon rate is \npurchased for $108. One year later, if the yield to maturity has decreased by 100 \nbasis points, the change in the value of this bond is closest to:",
         "options": [
             "$0.57.",
@@ -3044,7 +3044,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and the Yield Curve",
         "text": "The yield spread of a specific bond over the standard swap rate in that currency of \nthe same tenor best describes the:",
         "options": [
             "I-spread.",
@@ -3057,7 +3057,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Risks Associated with Fixed-Income Investments",
         "text": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested \ncoupon payments most likely:",
         "options": [
             "decreases and the market price of the bond increases.",
@@ -3070,7 +3070,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Fixed Income Valuation",
         "text": "Which of the following debt categories has the highest ranking in terms of priority \nof payment?",
         "options": [
             "Second lien debt",
@@ -3083,7 +3083,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and the Yield Curve",
         "text": "The yield spread over an interpolated sovereign bond is best described as a(n):",
         "options": [
             "I-spread.",
@@ -3096,7 +3096,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Introduction to Asset-Backed Securities",
         "text": "In a securitization, time tranching most likely refers to differences in:",
         "options": [
             "default risk.",
@@ -3109,7 +3109,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "For a floating-rate note, the specified yield spread over the reference rate best \ndefines the:",
         "options": [
             "coupon.",
@@ -3122,7 +3122,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Return Measures for Fixed-Income Securities",
         "text": "An investor holds a bond with the following characteristics: \n \nIf the duration gap is zero, the investment horizon is closest to:",
         "options": [
             "6.8 years.",
@@ -3135,7 +3135,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Securities: Defining Elements",
         "text": "All else being equal, when the market interest rate falls below a bond's coupon \nrate, potential price appreciation is most limited for a:",
         "options": [
             "putable bond.",
@@ -3148,7 +3148,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Asset-Backed Security and Mortgage-Backed Security Basics",
         "text": "Callable bonds exhibit:",
         "options": [
             "positive convexity only.",
@@ -3161,7 +3161,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Return Measures for Fixed-Income Securities",
         "text": "An investors sells a fixed-rate bond originally purchased at a discount. The \nresulting capital gain or loss should be measured by comparing the bond's selling price \nwith its:",
         "options": [
             "par value.",
@@ -3174,7 +3174,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Yield and Return Measures for Fixed-Income Securities",
         "text": "An investor gathers the following information about an investment in a bond with \na 10-year tenor: \n \nIf the holding period was seven years, the horizon yield is closest to:",
         "options": [
             "2.29%.",
@@ -3187,7 +3187,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Markets: Issuance, Trading, and Funding",
         "text": "A commercial paper has the following characteristics: \n \nFor a 365-day year, the discount rate is closest to:",
         "options": [
             "6.2%.",
@@ -3200,7 +3200,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Risk and Return",
         "text": "Two par bonds have the same duration but different convexity. All else being \nequal, if yields to maturity increase by 10 basis points, it is most likely that:",
         "options": [
             "the more convex bond underperforms the less convex bond.",
@@ -3213,7 +3213,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
-        "lm": "LM - Fixed Income",
+        "lm": "Fixed-Income Valuation",
         "text": "A bond has the following characteristics: \n \nFor a yield to maturity of 4%, the price of the bond per 100 of par value is closest \nto:",
         "options": [
             "122.20.",
@@ -3226,7 +3226,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Private Wealth Management",
         "text": "Venture capital is best classified as a sub-category of:",
         "options": [
             "real estate.",
@@ -3239,7 +3239,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "The market has a return of 8% and a standard deviation of returns of 12%. The risk-\nfree rate is 2%. If a portfolio has a Sharpe ratio of 0.8, the portfolio's M square \nalpha is closest to:",
         "options": [
             "3.6%.",
@@ -3252,7 +3252,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Finance",
         "text": "Which of the following is most likely a consequence of overconfidence bias? \nInvestors:",
         "options": [
             "holding poorly diversified portfolios.",
@@ -3265,7 +3265,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Finance",
         "text": "Failing to act in pursuit of long-term goals in favor of short-term satisfaction best \ndescribes which of the following emotional biases?",
         "options": [
             "Self-control bias",
@@ -3278,7 +3278,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "When creating a long-only portfolio, which of the following correlation coefficients \nbetween assets would be most effective at reducing portfolio risk?",
         "options": [
             "–0.5.",
@@ -3291,7 +3291,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Finance",
         "text": "Which of the following can best be explained by overconfidence when predicting \ncompanies' earnings growth rates?",
         "options": [
             "Base-rate neglect",
@@ -3304,7 +3304,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following is most likely developed by combining a client's investment \nobjectives and constraints with long-term capital market expectations?",
         "options": [
             "Risk budget",
@@ -3317,7 +3317,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The diversification ratio of a portfolio is best described as the ratio of the:",
         "options": [
             "standard deviation of the equally weighted portfolio's returns to the average \nstandard deviation of the individual securities' returns.",
@@ -3330,7 +3330,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "In regard to the asset allocation process, a top-down analysis most likely begins with \nan examination of:",
         "options": [
             "macroeconomic growth.",
@@ -3343,7 +3343,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Biases",
         "text": "Which of the following is most likely a consequence of the illusion of control bias?",
         "options": [
             "An investor's portfolio turnover is too low.",
@@ -3356,7 +3356,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Basics of Portfolio Planning and Construction",
         "text": "Which of the following is best classified as a non-financial risk?",
         "options": [
             "Credit risk",
@@ -3369,7 +3369,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Portfolio rebalancing is best described as a process aimed at:",
         "options": [
             "generating alpha.",
@@ -3382,7 +3382,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The risk–return trade-off of a portfolio of only risky assets most likely improves \nwhen a risk-free asset is added to the portfolio because:",
         "options": [
             "the risk-free asset is uncorrelated with the other assets in the portfolio.",
@@ -3395,7 +3395,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Biases",
         "text": "Which of the following best describes a potential consequence of the regret-aversion \nbias for financial market participants?",
         "options": [
             "Engaging in herding behaviour",
@@ -3408,7 +3408,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Biases",
         "text": "Cognitive errors:",
         "options": [
             "stem from impulses and intuition.",
@@ -3421,7 +3421,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "Exchange-traded funds (ETFs):",
         "options": [
             "are priced once a trading day.",
@@ -3434,7 +3434,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "Two assets have the following characteristics: \n \nThe variance of returns for an equally weighted portfolio of the two assets is closest \nto:",
         "options": [
             "0.038.",
@@ -3447,7 +3447,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "With respect to return-generating models, statistical factor models:",
         "options": [
             "only include factors that have economic meaning.",
@@ -3460,7 +3460,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following statements about asset allocation is most accurate?",
         "options": [
             "Investors should diversify their wealth between asset classes in order to \neliminate systematic risk.",
@@ -3473,7 +3473,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "An analyst gathers the following information about a portfolio and the market: \n \nJensen’s alpha for the portfolio is:",
         "options": [
             "0.0%.",
@@ -3486,7 +3486,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Biases",
         "text": "Which of the following behavioral biases is most likely the hardest to correct?",
         "options": [
             "Hindsight bias",
@@ -3499,7 +3499,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Construction",
         "text": "Momentum, defined as relative past stock returns, is most likely a factor in:",
         "options": [
             "fundamental factor models.",
@@ -3512,7 +3512,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Performance Evaluation",
         "text": "Which of the following measures uses only systematic risk to evaluate portfolio \nperformance?",
         "options": [
             "M square",
@@ -3525,7 +3525,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning",
         "text": "When evaluating the return distribution of an asset class, the probability of extreme \nreturns is best assessed by the distribution's:",
         "options": [
             "kurtosis.",
@@ -3538,7 +3538,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Fintech in Investment Management",
         "text": "Robo-advisers most likely:",
         "options": [
             "face high barriers to entry.",
@@ -3551,7 +3551,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Behavioral Biases",
         "text": "Which of the following is most closely associated with representativeness bias?",
         "options": [
             "Momentum",
@@ -3564,7 +3564,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning",
         "text": "Which of the following statements about different types of investors is most \naccurate?",
         "options": [
             "For banks, the liquidity of their investments is a paramount concern.",
@@ -3577,7 +3577,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Construction",
         "text": "Which of the following is most likely undertaken during the risk budgeting process?",
         "options": [
             "Assessing risk appetite",
@@ -3590,7 +3590,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning",
         "text": "The portfolio approach to investing most likely:",
         "options": [
             "prevents portfolio losses during market downturns.",
@@ -3603,7 +3603,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning",
         "text": "A client's time horizon is most appropriately used by an investment adviser to \ndetermine the client's:",
         "options": [
             "risk attitude.",
@@ -3616,7 +3616,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning",
         "text": "Which of the following sections of an investment policy statement most likely \nprovides guidance on obtaining feedback on investment results?",
         "options": [
             "Investment Guidelines",
@@ -3629,7 +3629,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "The security market line plots the expected return of a portfolio against a measure \nof the portfolio's:",
         "options": [
             "total risk.",
@@ -3642,7 +3642,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "An analyst estimates the standard deviation of returns for the market portfolio to \nbe 15% and the standard deviation of returns for a stock to be 25%. If the \ncorrelation of returns between the stock and the market portfolio is 0.6, the stock \nhas:",
         "options": [
             "less systematic risk than the market portfolio.",
@@ -3655,7 +3655,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "Risk-averse investors make investment decisions that maximize:",
         "options": [
             "both return and risk.",
@@ -3668,7 +3668,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning",
         "text": "Sovereign wealth funds are best described as investment funds:",
         "options": [
             "owned by governments.",
@@ -3681,7 +3681,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Performance Evaluation",
         "text": "Which of the following lines is plotted on a graph with the excess return of a security \non the y-axis and the excess return of the market on the x-axis?",
         "options": [
             "Capital market line",
@@ -3694,7 +3694,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "According to capital market theory, the only type of risk that is priced is:",
         "options": [
             "systematic risk.",
@@ -3707,7 +3707,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "Which of the following is most accurate regarding an investment policy statement \n(IPS)?",
         "options": [
             "Policies on sustainable investing require a separate IPS.",
@@ -3720,7 +3720,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "An investor's ability to take risk:",
         "options": [
             "is a function of risk tolerance.",
@@ -3733,7 +3733,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The capital market line most likely consists of portfolios that:",
         "options": [
             "are fully diversified.",
@@ -3746,7 +3746,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The Markowitz efficient frontier is best described as a curve that:",
         "options": [
             "lies above and to the left of the minimum-variance frontier.",
@@ -3759,7 +3759,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following most likely affects a client’s ability to take risk? The client’s:",
         "options": [
             "utility function",
@@ -3772,7 +3772,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The expected return for a security is equal to the market’s risk premium. If the risk-\nfree rate is positive and the CAPM holds, the beta of the security is:",
         "options": [
             "less than 1.",
@@ -3785,7 +3785,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following characteristics is most likely used to determine an investor's \nability to take risk? The investor's:",
         "options": [
             "risk attitude.",
@@ -3798,7 +3798,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "An analyst gathers the following information: \n \nAccording to the CAPM, the expected return of the security is closest to:",
         "options": [
             "5.7%.",
@@ -3811,7 +3811,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "The correlation of returns between two securities with equal standard deviation of \nreturns is 0.75. If the covariance of returns is 5.5%2, the standard deviation of \nreturns for each security is closest to:",
         "options": [
             "2.7%.",
@@ -3824,7 +3824,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "An analyst gathers the following information about an asset and the market: \n \nBased on the CAPM, the asset's beta is closest to:",
         "options": [
             "0.80.",
@@ -3837,7 +3837,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "Long-term historical data on the risk–return trade-off of securities show that \ninvestors are most likely:",
         "options": [
             "risk averse.",
@@ -3850,7 +3850,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Information regarding the permissible use of derivatives in a portfolio is most likely \nfound in which of the following sections of an investment policy statement?",
         "options": [
             "Procedures",
@@ -3863,7 +3863,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "In the portfolio management process, the feedback step most likely involves:",
         "options": [
             "rebalancing the portfolio.",
@@ -3876,7 +3876,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following investment principles best explains the use of strategic asset \nallocation in portfolio construction?",
         "options": [
             "Returns on similar assets reflect exposures to certain sets of systematic factors.",
@@ -3889,7 +3889,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "In the investment policy statement of a pension fund, a countrywide limit on the \nproportion of high-risk assets that can be held in long-term pension portfolios is most \nlikely a:",
         "options": [
             "liquidity constraint.",
@@ -3902,7 +3902,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "The global minimum-variance portfolio is a portfolio that lies:",
         "options": [
             "anywhere along the minimum-variance frontier.",
@@ -3915,7 +3915,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following principles best explains the focus on a strategic asset \nallocation when constructing a client's IPS?",
         "options": [
             "Adding assets with high correlation improves the risk–return trade-off.",
@@ -3928,7 +3928,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following sections of an investment policy statement (IPS) most likely \nexplains how and when the IPS should be reviewed?",
         "options": [
             "Procedures",
@@ -3941,7 +3941,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "Which of the following best describes a characteristic of defined contribution \npension plans?",
         "options": [
             "The employee accepts the investment and inflation risk.",
@@ -3954,7 +3954,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The market model is most likely used to predict:",
         "options": [
             "market returns in a future period.",
@@ -3967,7 +3967,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "Open-end mutual funds typically:",
         "options": [
             "are priced intraday.",
@@ -3980,7 +3980,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "A portfolio consists of two securities with the following characteristics: \n \nIf the portfolio has an expected return of 12.6% and the returns of the two \nsecurities are uncorrelated, the portfolio's standard deviation is closest to:",
         "options": [
             "13.4%.",
@@ -3993,7 +3993,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "An equally weighted portfolio is composed of two risky assets. If the correlation of \nasset returns is equal to zero, the portfolio standard deviation is:",
         "options": [
             "equal to zero.",
@@ -4006,7 +4006,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "If all investors have homogeneous expectations, the total risk and expected return \nof portfolios consisting of the risk-free asset and the optimal risky portfolio are \nplotted on the:",
         "options": [
             "capital market line.",
@@ -4019,7 +4019,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "The risk–return profile of a portfolio's strategic asset allocation is most likely \ndetermined by the expected returns and risks of the individual asset classes and the:",
         "options": [
             "correlations between those asset classes.",
@@ -4032,7 +4032,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "A portfolio has an annual return of 15.2% and a standard deviation of returns of \n11.7%. If the risk-free rate is 3.1%, the portfolio's Sharpe ratio is closest to:",
         "options": [
             "1.03.",
@@ -4045,7 +4045,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Basics of Portfolio Planning and Construction",
         "text": "Which of the following is best classified as a financial risk?",
         "options": [
             "Tax risk",
@@ -4058,7 +4058,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The risk management measure that captures the sensitivity of a derivative’s delta to \na change in the value of the underlying best describes:",
         "options": [
             "rho.",
@@ -4071,7 +4071,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The intercept on the y-axis of the security characteristic line is:",
         "options": [
             "beta.",
@@ -4084,7 +4084,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "With respect to an investment policy statement, which of the following is most closely \nlinked to the client’s distinctive needs?",
         "options": [
             "The evaluation and review section \nPortfolio Management: Practice Pack \nFaculty: Vikas Vohra                                                                        Page 12 of 30",
@@ -4097,7 +4097,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "The slope of the security market line is most likely the:",
         "options": [
             "security's beta.",
@@ -4110,7 +4110,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "Which of the following performance measures is equal to the slope of the capital \nallocation line?",
         "options": [
             "M-square",
@@ -4123,7 +4123,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following sections of an investment policy statement for a pension plan \nmost likely specifies the discretion that portfolio managers have with respect to \nexecuting the investment strategy?",
         "options": [
             "Procedures",
@@ -4136,7 +4136,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "Which of the following measures is most appropriate to evaluate the performance of \na portfolio that is not fully diversified?",
         "options": [
             "Sharpe ratio",
@@ -4149,7 +4149,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Basics of Portfolio Management",
         "text": "Which of the following metrics is most appropriate to estimate a bond's average \nextreme loss?",
         "options": [
             "VaR of loss",
@@ -4162,7 +4162,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "An analyst gathers the following information about the security market line (SML) \nand a stock: \n \nAccording to capital market theory, if the analyst believes the stock will have a \nreturn of 7%, the stock is:",
         "options": [
             "undervalued.",
@@ -4175,7 +4175,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "Relative to passive market-cap-weighted strategies, smart beta strategies typically \nhave:",
         "options": [
             "lower management fees and higher portfolio turnover.",
@@ -4188,7 +4188,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "When defining asset classes for a strategic asset allocation, which of the following \npairwise correlations between asset class returns is most preferable?",
         "options": [
             "0.0",
@@ -4201,7 +4201,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "According to capital market theory, an efficient market does not reward investors \nfor taking on:",
         "options": [
             "market risk.",
@@ -4214,7 +4214,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "Which of the following is most likely a legal and regulatory constraint in an investment \npolicy statement?",
         "options": [
             "A pension fund's decision to limit investments in real estate",
@@ -4227,7 +4227,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "When defining asset classes, the paired correlations of assets within an asset class \nshould be:",
         "options": [
             "negative.",
@@ -4240,7 +4240,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "An investor gathers the following information about a security and the market: \n \nThe correlation between the security's returns and the market's returns is closest \nto:",
         "options": [
             "0.2.",
@@ -4253,7 +4253,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Basics of Portfolio Management",
         "text": "A bank determines that its value at risk (VaR) is £5 million at 5% for one day. The \nbank is expecting a minimum loss of £5 million once every:",
         "options": [
             "5 business days.",
@@ -4266,7 +4266,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Basics of Portfolio Management",
         "text": "A good risk management process should:",
         "options": [
             "predict when a crisis will occur.",
@@ -4279,7 +4279,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "A portfolio consisting of two securities has the following characteristics: \n \nIf the correlation of returns between the two securities is 0.20, the portfolio's \nstandard deviation of returns is closest to:",
         "options": [
             "1.8%.",
@@ -4292,7 +4292,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "An investor has a 15-year time horizon but needs to withdraw funds from her \nportfolio in one year's time to pay for tuition fees. Which of the following \ninvestments is most suitable to cover the investor's liquidity requirement due to the \ntuition fees?",
         "options": [
             "Commercial paper",
@@ -4305,7 +4305,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "With respect to capital market theory, which of the following statements is most \naccurate?",
         "options": [
             "The optimal risky portfolio is dependent on the risk-free rate.",
@@ -4318,7 +4318,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "A security with a beta of 1.5 has an expected return of 11% according to the CAPM. \nIf the risk-free rate is 2%, the market risk premium is closest to:",
         "options": [
             "4.0%.",
@@ -4331,7 +4331,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "An analyst gathers the following information about a portfolio and the market: \n \nThe portfolio's Treynor ratio is closest to:",
         "options": [
             "0.060.",
@@ -4344,7 +4344,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part I",
         "text": "For an equally weighted portfolio, an increase in the correlations between asset \nreturns most likely decreases the:",
         "options": [
             "portfolio's expected return.",
@@ -4357,7 +4357,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Management: An Overview",
         "text": "In risk management, which of the following should be taken into account when \ndetermining an enterprise’s risk tolerance?",
         "options": [
             "Management compensation",
@@ -4370,7 +4370,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Risk and Return: Part II",
         "text": "Two investors have indifference curves that are tangent to the same capital \nallocation line (CAL). If Investor 1 is more risk averse than Investor 2, Investor 1's \noptimal portfolio is:",
         "options": [
             "to the left of Investor 2's optimal portfolio on the CAL.",
@@ -4383,7 +4383,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Digital Assets",
         "text": "Which of the following forms of digital asset investment most likely involves the use \nof a cryptocurrency wallet?",
         "options": [
             "Direct investment",
@@ -4396,7 +4396,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Digital Assets",
         "text": "The correlation of cryptocurrencies with traditional assets has been:",
         "options": [
             "decreasing.",
@@ -4409,7 +4409,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Digital Assets",
         "text": "Which of the following is most likely a major driver of bitcoin returns?",
         "options": [
             "Increased market adoption",
@@ -4422,7 +4422,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Digital Assets",
         "text": "Cryptocurrencies can be issued by:",
         "options": [
             "individuals only.",
@@ -4435,7 +4435,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Digital Assets",
         "text": "Compared to traditional financial assets, digital assets:",
         "options": [
             "can be invested in through indirect investment vehicles such as ETFs.",
@@ -4448,7 +4448,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
-        "lm": "LM - Portfolio Management",
+        "lm": "Portfolio Planning and Construction",
         "text": "A measure that restricts new investors in a hedge fund from redeeming their capital \nfor a set amount of time in order to implement the fund's investment strategy is \nknown as a:",
         "options": [
             "gate.",
@@ -4461,7 +4461,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Digital Assets",
         "text": "Which of the following statements is most accurate? Cryptocurrencies:",
         "options": [
             "exhibit low volatility.",
@@ -4474,7 +4474,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to loyalty, prudence, and care? Members should:",
         "options": [
             "eliminate all actual and potential conflicts of interest.",
@@ -4487,7 +4487,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standards, a member who is asked to produce an issuer -paid \nresearch report is required to:",
         "options": [
             "avoid cash compensation.",
@@ -4500,7 +4500,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Ann Jules, CFA, discovered that her employer, Plutus Investments Inc. (PII), inflates \ninvestment performance in PII's marketing brochure. In accordance with firm policy, \nJules uses PII’s marketing brochure to present to prospective clients. In addition, \nJules emails stock recommendations to her clients in capsule form and offers \nadditional information only upon request. Jules has most likely violated the \nStandards:",
         "options": [
             "by emailing stock recommendations to her clients in capsule form.",
@@ -4513,7 +4513,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Maria Jennings, CFA, overhears the CEO of United Retail saying that the quarterly \nreport to be released next week will miss analysts' expectations. Jennings \nimmediately calls her brother who owns the stock to tell him what she overheard. \nOne week later, Jennings writes a report on another company, KTD retail. She uses \npublic and nonmaterial nonpublic information for her analysis to issue a \"buy\" \nrecommendation. Has Jennings most likely violated the Standards?",
         "options": [
             "No",
@@ -4526,7 +4526,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standards, which of the following is most likely considered material \nnonpublic information?",
         "options": [
             "The recent execution of a large buy order from a hedge fund.",
@@ -4539,7 +4539,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to fair dealing, when members disseminate \ninvestment recommendations, they are most likely required to make every effort to \ntreat individual clients in a(n):",
         "options": [
             "fair and equal manner.",
@@ -4552,7 +4552,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedure for compliance with the Standard relating \nto fair dealing, a member who works in a large firm should:",
         "options": [
             "offer different levels of service to clients selectively based on the clients' \ninvestment needs.",
@@ -4565,7 +4565,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Which of the following statements is accurate according to the Standards? \nStatement 1: A member, prior to leaving his current employer, may contact potential \nclients for purposes of soliciting their business for their new employer. \nStatement 2: A member, while still employed, is free to make arrangements outside \nof normal working hours to apply for a license with the local regulator to set up a \ncompeting business.",
         "options": [
             "Statement 1 only.",
@@ -4578,7 +4578,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to disclosure of conflicts, buy-side members \nshould disclose to clients their:",
         "options": [
             "beneficial ownership in any security.",
@@ -4591,7 +4591,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Michael Mak, CFA, is a portfolio manager at an investment firm. After comprehensive \nresearch, Mak buys Advance One Tech's (AOT) stock for all his clients for whom the \ninvestment is suitable. He then buys AOT shares for his brother's fee -paying \naccount, in which Mak has beneficial ownership. AOT's stock price declines \nsignificantly after a month, resulting in substantial losses for all his clients. Are \nMak's actions consistent with the Standards?",
         "options": [
             "Yes",
@@ -4604,7 +4604,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "With respect to the GIPS standards, which of the following statements is most \naccurate? Verification:",
         "options": [
             "of GIPS compliance is mandatory if the firm claims GIPS compliance.",
@@ -4617,7 +4617,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards VII",
         "text": "Which of the following is a violation of the Standard relating to conduct as \nparticipants in CFA Institute Programs? A candidate:",
         "options": [
             "discusses broad topic areas covered in the curriculum in an online forum.",
@@ -4630,7 +4630,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Johny Lumunon, CFA, shows prospective clients the investment performance of an \naccount with \"balanced\" investment objectives and highlights how account has \noutperformed the benchmark in the last 10 years. He does not disclose that this is \nthe best performing account, and that half of the accounts with “balanced” \ninvestment objectives managed by his firm underperformed the benchmark during \nthe same period. Lumunon has most likely violated the Standard(s) relating to:",
         "options": [
             "only misrepresentation.",
@@ -4643,7 +4643,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Jordan Kope, CFA, is an analyst with a hedge fund and works closely with Deepa Bose \nwho earned her CFA designation 15 years ago. Kope becomes aware that Bose uses \nher CFA designation even though she no longer pays her membership dues. During \nseveral meetings that Bose and Kope have with the firm’s clients, Bose emphasizes \nthat all her team members, including herself, are CFA charterholde rs. To be \nconsistent with the Standards, Kope should:",
         "options": [
             "only dissociate himself from activities involving Bose. \nEthical and Professional Standards \nFaculty: Vikas Vohra                                                                        Page 5 of 58",
@@ -4656,7 +4656,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto responsibilities of supervisors, a firm's code of ethics should:",
         "options": [
             "only be written in plain language.",
@@ -4669,7 +4669,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the Standard relating to diligence and reasonable basis, a member is \nrequired to:",
         "options": [
             "exercise diligence, independence, and thoroughness in analyzing investments.",
@@ -4682,7 +4682,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "After completing Level II of the CFA exam, Aashi Banerjee posts several comments \non an online chatroom for CFA program candidates. Which of the following comments \nviolate the Standard relating to conduct as participants in CFA Institute programs? \nComment 1: CFA Institute must revise the topic area weights on the exam. \nComment 2: There were no questions on GIPS standards.",
         "options": [
             "Comment 1 only",
@@ -4695,7 +4695,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Which of the following activities violates the Standard relating  to market \nmanipulation? \nActivity 1: A member secures a dominant position in futures contracts to influence \nthe price of the underlying. The transaction results in large losses for the member. \nActivity 2: A member frequently trades a stock in multiple client accounts with an \nintent to increase the volume of the stock. The transactions result in large gains for \nthe clients.",
         "options": [
             "Activity 1 only",
@@ -4708,7 +4708,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following statements regarding the GIPS standards is accurate?",
         "options": [
             "All fee-paying client portfolios must be included in at least one composite.",
@@ -4721,7 +4721,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Claus Holm, CFA, directs most of his clients' trades to RRT Company (RRT), despite \nRRT's higher-than-average commissions. In return, RRT refers individual clients to \nHolm for asset management services. Holm does not disclose the arrangement to his \nclients or prospective clients. Holm has most likely violated the Standard(s) relating:",
         "options": [
             "only to referral fees.",
@@ -4734,7 +4734,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Emma Fischer, CFA, is an analyst covering the banking sector. She has declared \nbankruptcy due to large unpaid personal medical bills. On weekends, she participates \nin public protests for climate protection. She was recently arrested for trespassing \nduring a protest, which is an act of civil disobedience in her country. Has Fischer \nviolated the Standards?",
         "options": [
             "No",
@@ -4747,7 +4747,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to independence and objectivity? Members should encourage their firms to:",
         "options": [
             "prohibit any employee participation in equity-related IPOs.",
@@ -4760,7 +4760,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the recommended procedure for compliance with the Standard relating \nto misconduct, members should encourage their firms to disseminate a list of \npotential violations and associated disciplinary sanctions to:",
         "options": [
             "all clients only.",
@@ -4773,7 +4773,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto misconduct, members should encourage their firms to:",
         "options": [
             "conduct background checks of all employees at least annually.",
@@ -4786,7 +4786,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the guidance for the Standard relating to loyalty, prudence, and care, \nwhich of the following statements is most accurate?",
         "options": [
             "Voting proxies is necessary in all instances.",
@@ -4799,7 +4799,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the guidance for the Standards, which of the following statements are \naccurate? \nStatement 1: Employees must place employer interests ahead of personal interests \nin all matters. \nStatement 2: Senior management of a member's firm should create financial \ncompensation structures that do not drive unethical behavior.",
         "options": [
             "Statement 1 only.",
@@ -4812,7 +4812,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "A member believes a colleague is participating in unethical activities at work. The \nmember does not disassociate himself from the activities of his colleague. The \nmember has most likely violated:",
         "options": [
             "only the Standard relating to knowledge of the law.",
@@ -4825,7 +4825,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the Standard relating to loyalty, members must:",
         "options": [
             "place their employer's interest above their personal interests in all matters.",
@@ -4838,7 +4838,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Andrew Milton, CFA, is an advisor working with individual clients. Milton is careful to \nrecommend investments for his clients that are consistent with their overall \nobjectives and risk tolerance. His firm gives its advisors a bonus for recommending \nthe firm's proprietary products. If all other variables are equal in an investment \nchoice, Milton uses the proprietary products. Milton does not inform the clients of \nthis bonus. Has Milton most likely violated the Standards?",
         "options": [
             "No.",
@@ -4851,7 +4851,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Which of the following are among the recommended procedures for compliance with \nthe Standard relating to independence and objectivity? \nProcedure 1: Impose limits on investment personnel acquiring securities in private \nplacements. \nProcedure 2: Prohibit employees from receiving reimbursement from corporate \nissuers for air transportation when attending meetings at the issuers' headquarters. \n                                                                         \n \nProcedure 3: Remove a company from the restricted list if the firm is unwilling to \npermit dissemination of adverse opinions about the company.",
         "options": [
             "Procedure 1 and Procedure 2",
@@ -4864,7 +4864,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Vinod Shah, CFA, is a fund manager for the employee pension plan of Jupiter \nCorporation, a publicly traded company. Shah owes a primary duty of loyalty, \nprudence, and care to the:",
         "options": [
             "shareholders of Jupiter.",
@@ -4877,7 +4877,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Min Joon, CFA, works in the client services department at an investment firm. Joon \nhas been short-selling stocks on his personal account in anticipation of a significant \ndecline in the market. His transactions do not disadvantage his firm's clients. \nFollowing a dramatic rise in the markets, Joon is unable to cover his short positions \nand is forced to declare personal bankruptcy. Has Joon violated the Standards?",
         "options": [
             "No",
@@ -4890,7 +4890,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "A member secures a controlling, dominant position in an option on a stock in order to \nbenefit from trading the stock. The option trades are reported by the exchange and \nthe increased option trading volume leads other traders to take positions in the option \nand in the underlying stock. The member has violated the Standards:",
         "options": [
             "by engaging in transaction-based manipulation only.",
@@ -4903,7 +4903,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to performance presentation? When presenting performance, members \nshould:",
         "options": [
             "exclude terminated accounts.",
@@ -4916,7 +4916,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Mary Rein, CFA, makes a brief presentation about her firm's performance to a group \nof current and prospective clients. According to the Standard relating to \nperformance presentation, is Rein required to make available the detailed information \nsupporting her presentation to clients upon request?",
         "options": [
             "No.",
@@ -4929,7 +4929,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to suitability, a member who manages a mutual \nfund is required:",
         "options": [
             "only to invest in a manner consistent with the fund's stated mandate.",
@@ -4942,7 +4942,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Richard Hicks, CFA, is an investment advisor. A friend asks Hicks to share client \ncontacts in order to solicit charitable donations. Hicks responds that he is unable to \nshare current clients' contact details and instead provides e -mail addresses of \nseveral former clients. The next day, Hicks finds out that one of his colleagues, \nClaudia Moll, a Level III candidate in the CFA Program, has failed to inform her \nsupervisor about her personal bankruptcy resulting from large medical bills. Have the \nStandards most likely been violated?",
         "options": [
             "No.",
@@ -4955,7 +4955,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Tom Dixon, CFA, provides a brief summary of his investment performance to his \nclients. He indicates that further information is available upon request. He tells his \nclients they can expect a return of 5% in the next three years based on his strong \ntrack record. Has Dixon most likely violated the Standards?",
         "options": [
             "No.",
@@ -4968,7 +4968,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to additional compensation arrangements, a \nmember who is offered additional compensation from a third party for services that \nconflict with his employer’s interest:",
         "options": [
             "is prohibited from accepting the additional compensation in all cases.",
@@ -4981,7 +4981,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "John Run, CFA, manages client accounts for an investment firm. A client says to Run: \n“For every year my portfolio beats the benchmark by 5%, you can use my beach home \nfor a week.” Run also serves on the board of Core Air Ltd. (Core). He does not receive \ncash payments from Core for board services but Core sends Run a family voucher for \na flight. Run accepts both offers and does not inform his firm about the beach home \noffer or the flight voucher. Has Run most likely violated the Standard relating to \nadditional compensation arrangements?",
         "options": [
             "No. \nEthical and Professional Standards \nFaculty: Vikas Vohra                                                                        Page 10 of 58",
@@ -4994,7 +4994,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Johanna Ayers, CFA, is a portfolio manager. She has a new client and develops an \ninvestment policy statement (IPS) that addresses the client's risk and return \nobjectives and constraints. The client does not disclose assets managed by other \nfirms and Ayers agrees to only manage the portion of the client's assets disclosed to \nher. In a separate document, Ayers develops an investment program and strategic \nasset allocation for the portion of client assets she manages. Has Ayers most likely \nviolated the Standard relating to suitability?",
         "options": [
             "No.",
@@ -5007,7 +5007,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "A member most likely violates the Standard relating to responsibilities of supervisors \nif she:",
         "options": [
             "accepts supervisory duties before ensuring the firm has adopted a codes of \nethics.",
@@ -5020,7 +5020,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to loyalty, in the absence of a noncompete \nagreement and without employer consent, a member is permitted to:",
         "options": [
             "email himself a list of his clients when leaving his employer.",
@@ -5033,7 +5033,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "To use a quantitative model in her investment research, a member is required by the \nStandards to:",
         "options": [
             "have developed or co-developed the model.",
@@ -5046,7 +5046,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Tim Newman, CFA, is an investment manager. One of his clients directs Newman to \nuse Mercer brokerage to execute trades. Newman believes Mercer does not offer \nbest execution, but uses the brokerage commissions to purchase research services \nfor his client. Newman informs the client that he may not be getting best execution. \n                                                                         \n \nAre Newman’s actions consistent with the Standard relating to loyalty, prudence, and \ncare?",
         "options": [
             "Yes.",
@@ -5059,7 +5059,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "After thorough analysis, Algiris Vasilis, CFA, prepares a \"buy\" recommendation on a \ncompany's stock. In the report he writes: \"The company will beat analysts' earnings \nprojections next month.\" Vasilis first shares the recommendation with all clients by \nemail. He then calls each of his clients by phone to present the recommendation. Has \nVasilis violated the Standards?",
         "options": [
             "No",
@@ -5072,7 +5072,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Melissa Kon, CFA, is an equity analyst. She recently left her job at Hamm Capital (HC) \nto join Eagle Investments (EI). Kon obtains the express consent of HC to take one of \nher historical research reports with her. At EI, she diligently updates and publishes \nthe report. Afterwards, she re-creates supporting records from memory for record \nkeeping purposes. Has Kon violated the Standards?",
         "options": [
             "No.",
@@ -5085,7 +5085,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Amy Joy, CFA, works at Parklane Investments Ltd. (PIL). When presenting to PIL’s \nprospective clients, Joy uses a brief investment performance summary and makes \navailable detailed supporting information only upon client request. Has Joy violated \nthe Standards?",
         "options": [
             "No.",
@@ -5098,7 +5098,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Hannah Hostettler, CFA, is a portfolio manager at a wealth management firm. \nHostettler has an arrangement with a lawyer, whereby she refers clients who need \nlegal advice to the lawyer, who in turn refers clients to Hostettler. Because no \nreferral fees are involved, Hostettler does not disclose this arrangement to her \nexisting or prospective clients. Has Hostettler most likely violated the Standards?",
         "options": [
             "No.",
@@ -5111,7 +5111,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Thomas Huang, CFA, is an investment advisor for Newline Partners (NP). NP has an \nagreement with brokerage firm Ridge Capital (RC). Huang refers clients to RC in \nexchange for compensation. RC pays a cash fee to NP for referrals. Before entering \ninto formal agreements for services, Huang makes the following disclosure to NP's \nclients: \"Please note that Newline Partners receives an annual cash percentage fee \nfrom Ridge Capital for the referral of clients.\" Huang omits disclosure of the \nestimated dollar value of the referrals. Has Huang violated the Standards?",
         "options": [
             "No.",
@@ -5124,7 +5124,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to preservation of confidentiality? \nProcedure 1: Members should convey to clients that not all firm -sponsored \ncommunication methods may be suitable for transmitting confidential information. \nProcedure 2: Members should encourage their firms to provide periodic training on \nconfidentiality procedures to all clients. \nProcedure 3: Members should become experts in information technology security in \norder to protect client confidentiality.",
         "options": [
             "Procedure 1",
@@ -5137,7 +5137,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Marianne Lynn is registered for the CFA Level I exam. A few weeks after \nregistration, she realizes that she is unable to prepare for the exam due to work \ncommitments, so she informs CFA Institute that she declines to sit for the exam. \nAfterwards, shortly before the exam date, she posts on social media that she is a \nCFA candidate. Separately, Thomas Petrov, CFA, posts his investment views \nanonymously on social media and tags his post using \"#CFAcharter.\" Who has violated \nthe Standards?",
         "options": [
             "Lynn only",
@@ -5150,7 +5150,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Melinda Jacobs, CFA, is a portfolio manager with SFM Asset Managers (SFM). Jacobs \nteaches an investment course at a business school on weekends for a fee. Jacobs is \nplanning to leave SFM and has begun to develop marketing materials for a new \nbusiness that will compete with SFM. Has Jacobs most likely violated the Standards?",
         "options": [
             "No",
@@ -5163,7 +5163,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Which of the following individuals can refer to themselves as a candidate in the CFA \nProgram? \nIndividual 1: Has passed Level II and expects to register for Level III in a couple of \nmonths \nIndividual 2: Has failed Level I and expects to retake the exam in its next \nadministration \nIndividual 3: Is awaiting results of the Level III exam",
         "options": [
             "Individual 1",
@@ -5176,7 +5176,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Kelvin Lee, CFA, is a portfolio manager at an investment firm. His social media profile \nreads: \"Kelvin Lee passed all three CFA examinations in three consecutive years. As \na CFA charterholder, Lee achieves better investment performance results.\" Has Lee \nviolated the Standards?",
         "options": [
             "No",
@@ -5189,7 +5189,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "According to the Standards, which of the following statements relating to a member \nin a supervisory position is accurate? \nStatement 1: The member must make reasonable efforts to ensure that anyone \nsubject to her supervision complies with the Code and Standards. \nStatement 2: The member must adopt the CFA Institute Code of Ethics to substitute \nfor lack of compliance procedures until the firm adopts reasonable procedures to \nallow adequate exercise of supervisory responsibility.",
         "options": [
             "Statement 1 only",
@@ -5202,7 +5202,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Emma Berkstein, CFA, uses third-party data to prepare a report on a company. \nBerkstein does not check the validity of this data herself, but instead relies on her \nsenior colleagues to conduct due diligence. Another analyst at the same firm, Jimmy \nBrooks, CFA, prepares an industry report with a group of colleagues. After thorough \nresearch, the group agrees to issue a report with a positive outlook for the industry. \nBrooks disagrees with this conclusion, but leaves his name in the report. Has the \nStandard relating to diligence and reasonable basis most likely been violated?",
         "options": [
             "No.",
@@ -5215,7 +5215,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Tania Watt, CFA, issues \"buy\" recommendations for several bonds to her clients \nwithout providing further details. She notifies the clients that additional information \nis available upon request. One week later, the prices of all recommended bonds decline \nbecause of an unexpected increase in interest rates. Watt's clients suffer large \nlosses as a result. Has Watt most likely violated the Standards?",
         "options": [
             "No",
@@ -5228,7 +5228,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, a firm:",
         "options": [
             "must include non-discretionary portfolios in the firm’s composites.",
@@ -5241,7 +5241,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following is not a key concept of the GIPS standards? The GIP S \nstandards for firms:",
         "options": [
             "require the use of composites.",
@@ -5254,7 +5254,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping \ncompany. Kite concludes that the stock of a company is a good investment and decides \nto put a \"buy\" recommendation on the stock. According to the recommended \nprocedures for compliance, Kite should communicate the recommendation:",
         "options": [
             "within the firm first and then to customers.",
@@ -5267,7 +5267,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Hugh Matthew, CFA, covers several companies within a sector. After thorough \nanalysis of each company, he issues \"buy\" recommendations for each company. In each \nreport, Matthew discloses the assumptions, methodology and risk factors used in his \nresearch. Two weeks later, an unexpected event occurs that negatively impacts the \nsector. As a result, all the companies Matthew covers experience significant losses. \nHas Matthew most likely violated the Standards?",
         "options": [
             "No",
@@ -5280,7 +5280,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto diligence and reasonable basis, members should encourage their firms to:",
         "options": [
             "evaluate the adequacy of external advisors by customizing the evaluation criteria \nfor each advisor. \nEthical and Professional Standards \nFaculty: Vikas Vohra                                                                        Page 15 of 58",
@@ -5293,7 +5293,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "A member works for an investment firm. There are no applicable laws relating to \nrecord retention. The firm's policy requires staff to retain records for five years. A \nlocal investment association recommends retaining records for eight years. At a \nrecent client briefing, some of the firm's largest clients expressed a preference for \nthe firm to retain records for at least ten years. To be consistent with the \nStandards, records should be retained for:",
         "options": [
             "5 years.",
@@ -5306,7 +5306,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto priority of transactions, members should:",
         "options": [
             "discourage clients from trading during blackout periods.",
@@ -5319,7 +5319,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "A member keeps all records supporting his decisions to buy or sell securities, but \ndiscards the records not leading to changes in positions. The member keeps some \nrecords in hard copy but others in electronic form. The member has most likely \nviolated the Standard relating to record retention:",
         "options": [
             "only by discarding the records not leading to changes in positions.",
@@ -5332,7 +5332,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Mary Lorraine, CFA, is a portfolio manager. She adds new factors to her stock \nselection process which affects all existing clients. She omits providing her clients \nwith a written update regarding this change. Instead, Lorraine explains the change \nto her clients over the phone. Has Lorraine violated the Standards?",
         "options": [
             "No",
@@ -5345,7 +5345,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "A member claims a professional designation she has not earned. This action most \nlikely violates the Standard(s) relating to:",
         "options": [
             "loyalty only.",
@@ -5358,7 +5358,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Sharon Chan, CFA, is an analyst at an investment firm. Chan issues a \"buy\" rating on \na company in which her brother holds shares. Chan does not disclose her brother's \nholdings in her report as she has no beneficial ownership in her brother's account. \nHas Chan violated the Standards?",
         "options": [
             "No",
@@ -5371,7 +5371,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Jane Macmara, CFA, has just passed Level III of the CFA exam. In her blog, Macmara \nshares her views: “CFA exams are outrageously difficult,” and “Thankfully, the CAPM \nwas not tested.” Macmara has most likely violated the Standards:",
         "options": [
             "only by writing “Thankfully, the CAPM was not tested.”",
@@ -5384,7 +5384,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Donovan Jones, CFA, works at Grae Investments (GI). GI's main product invests in \nliquid and illiquid assets. Prices for its illiquid holdings are determined by an \nindependent valuation firm. Jones markets performance of the GI product without \nproviding a comparison benchmark. Jones also switches to a different independent \nvaluation firm because of the firm's reputation for giving illiquid assets higher \nvaluations. Jones has most likely violated the Standard relating to misrepresentation:",
         "options": [
             "only by switching valuation firms.",
@@ -5397,7 +5397,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following can claim compliance with the GIPS standards?",
         "options": [
             "Consultants who advise investment firms that manage discretionary client assets.",
@@ -5410,7 +5410,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following statements is most accurate? In countries where regulations \nconflict with, or contradict, the GIPS standards, firms that claim compliance are \nrequired to comply with:",
         "options": [
             "local regulations with full disclosure of the conflict.",
@@ -5423,7 +5423,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, a firm must include a terminated composite on the \nfirm's list of composite descriptions for at least:",
         "options": [
             "5 years after the composite termination date.",
@@ -5436,7 +5436,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, verification is:",
         "options": [
             "performed with respect to an entire firm.",
@@ -5449,7 +5449,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for complying with the Standard \nrelating to preservation of confidentiality? \nProcedure 1: Disclose to authorized fellow employees only information that will \nimprove service to the client \nProcedure 2: Encourage the adoption of standard confidentiality procedures utilized \nby leading firms in the industry",
         "options": [
             "Procedure 1 only",
@@ -5462,7 +5462,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to recommended procedures for compliance with the Standard relating to \nmaterial nonpublic information, firms should:",
         "options": [
             "review employee trading through the maintenance of watch lists.",
@@ -5475,7 +5475,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Tim Howley, CFA, “pumps up” the price of a security by s preading misleading \ninformation and later “dumps” the security after the price reaches an artificially high \nlevel. Howley has most likely violated the Standard relating to:",
         "options": [
             "market manipulation.",
@@ -5488,7 +5488,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following entities can claim compliance with the GIPS standards?",
         "options": [
             "A pension fund that manages investments for its beneficiaries",
@@ -5501,7 +5501,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Timothy Charles, CFA, applies for a role as an investment analyst. In his resume he \nstates, \"CFA charterholders achieve better performance results.\" He adds, \"As a \n                                                                         \n \nCFA charterholder, I am the most qualified to manage client investments.\" Charles \nhas most likely violated the Standards:",
         "options": [
             "only by stating, \"CFA charterholders achieve better performance results.\"",
@@ -5514,7 +5514,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "David Bravoria, CFA, is an independent financial advisor for a high-net-worth client \nwith whom he had not had contact in more than two years. During a recent brief \ntelephone conversation, the client states that he wants to increase his risk exposure. \nBravoria subsequently recommends and invests in several high-risk venture capital \nfunds on behalf of the client. Bravoria continues, as he has done in the past, to send \nto his client monthly, detailed, itemized investment statements. Did Bravoria most \nlikely violate any CFA Standards?",
         "options": [
             "No.",
@@ -5527,7 +5527,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following is most accurate? GIPS compliance:",
         "options": [
             "eliminates investors' need for in-depth due diligence of the GIPS-compliant firm \nonly.",
@@ -5540,7 +5540,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following statements is most accurate? Compliance with the GIPS \nstandards:",
         "options": [
             "by firms eliminates the need for in-depth due diligence by investors.",
@@ -5553,7 +5553,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "A firm claiming compliance with GIPS standards is required to:",
         "options": [
             "perform verification of the firm's claim of compliance.",
@@ -5566,7 +5566,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Anita Delgado is a candidate in the CFA Program. After taking the Level II \nexamination, Delgado posts on a social networking website that she found the exam \nto be very difficult and that in her opinion, the CFA Program and CFA Institute were \nlosing credibility with the public. Has Delgado most likely violated the Standards?",
         "options": [
             "No",
@@ -5579,7 +5579,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "A member manages two fee-paying family accounts at her firm. The member has the \npower to vote on the shares held in Account 1 and the discretion to sell shares held \nin Account 2. According to the Standards, is the member considered a beneficial \nowner of the shares held in her family accounts?",
         "options": [
             "No",
@@ -5592,7 +5592,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Which of the following comments concerning composites meeting the requirements \nof the GIPS standards is correct?",
         "options": [
             "A firm's claim of compliance requires all fee-paying accounts managed by the firm \nbe included in at least one composite.",
@@ -5605,7 +5605,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "A member most likely violates the Standard relating to market manipulation if he:",
         "options": [
             "secures a dominant position in a stock to win a proxy vote.",
@@ -5618,7 +5618,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "The objectives of the GIPS standards include:",
         "options": [
             "promoting financial regulators' interests.",
@@ -5631,7 +5631,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to knowledge of the law? Members should encourage their firms to:",
         "options": [
             "distribute summaries of applicable security laws to clients at least annually.",
@@ -5644,7 +5644,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Stella Murphy, CFA, a portfolio manager, meets with a client who is concerned about \na security recently added to the portfolio. Murphy review s with the client the \ndecision for buying the security and the risks associated with the company and stock. \nThe following week, the company announces it is buying a company in a non-related \nindustry and the stock falls sharply. The client accuses Murphy of not disclosing all \nthe risks associated with holding the security.  Murphy explains the company's \nacquisition was unexpected and not factored into the forecast. Has Murphy most \nlikely violated the Standards?",
         "options": [
             "No",
@@ -5657,7 +5657,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Which of the following member actions most likely violates the Standard relating to \nmarket manipulation?",
         "options": [
             "Selling one security and buying another to minimize tax liability",
@@ -5670,7 +5670,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Elana Paralova, a Level I CFA candidate working at an asset management firm, wants \nto make a good impression on a prospective client. She tells the prospect: \"Getting \nthe CFA Charter will show I am serious about protecting the interests of my clients \nand it will boost my reputation. Once I get the Charter, I also hope to make more \nmoney by getting promoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \n\"Study all subjects for each exam, you never know what will be included. The three \nexams will be the most difficult exams you will ever take. Any promotion and pay raise \nwill reflect your enhanced skills.\" Did either Paralova or Klemmer violate the \nStandards?",
         "options": [
             "No.",
@@ -5683,7 +5683,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Amanda Covington, CFA, works for McJan Investment Management. McJan \nemployees must receive prior clearance of their personal investments in accordance \nwith McJan’s compliance procedures. To obtain prior clearance, McJan employees \nmust provide a written request identifying the security, the quantity of the security \nto be purchased, and the name of the broker through which the transaction will be \nmade. Pre-cleared transactions are approved only for that trading day. As indicated \nbelow, Covington received prior clearance. \n \nTwo days after she received prior clearance, the price of Stock B had decreased, so \nCovington decided to purchase 250 shares of Stock B only. In her decision to \n\n                                                                         \n \npurchase 250 shares of Stock B only, did Covington violate any CFA Institute \nStandards of Professional Conduct?",
         "options": [
             "No.",
@@ -5696,7 +5696,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Cecilia Foster, CFA, starts a job as director of research for Sisyphus \nInvestments (SI). In her new job, Foster oversees a small team analysts. Foster \ndiscovers the compliance system at SI is not up to her expectations and tells her \nsupervisor the system needs improvement. The supervisor tells Foster that the firm \nwill consider compliance system improvements in four months, at the start of the \nnext fiscal year. To comply with the Standards, Foster most likely should initially:",
         "options": [
             "resign her new position.",
@@ -5709,7 +5709,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Wang Dazong, CFA, is a sole proprietor investment advisor. Dazong believes in \nputting his money at risk along with his clients and trades the same securities as his \nclients. In order to ensure fair treatment of all accounts, he rotates trade allocations \nso that each account has an equal likelihood of receiving a fill on their orders. This \nallocation procedure also applies to Dazong's own account. According to the CFA CFA \nInstitute Code of Ethics and Standards of Professional Conduct, the allocation \nprocedure used by Dazong:",
         "options": [
             "complies with the Standards.",
@@ -5722,7 +5722,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Ken Kawasaki, CFA, shares a building with a number of other professionals who \nare also involved in the investment management business. Kawasaki makes \narrangements with several of these professionals, including accountants and lawyers, \nto refer clients to each other. An informal score is kept on the expectation the \nreferrals will equal out over time, eliminating the need for any cash payments. \nKawasaki never mentions this arrangement to clients or prospective clients. Does \nKawasaki's agreement with the other building occupants most likely violate any CFA \nInstitute Standards of Professional Conduct?",
         "options": [
             "No.",
@@ -5735,7 +5735,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "François Bernod, CFA, wrote questions for the Level I CFA exam for sev eral \nyears. After leaving the exam writing team, Bernod issues new marketing material for \nhis investment firm, in which he states: “As someone who helped write CFA exams, I \nhave learned unique insights into portfolio management that will be valuable for my \nfirm's clients.” However, in his public blog, Bernod makes several negative statements \n                                                                         \n \nabout certain policies of CFA Institute. Bernod has most likely violated the \nStandards:",
         "options": [
             "only by expressing negative opinions regarding CFA Institute policies.",
@@ -5748,7 +5748,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Ethics Application",
         "text": "Disclosure of confidential CFA exam information will most likely be detected by \nthe Professional Conduct staff through:",
         "options": [
             "monitoring online and social media.",
@@ -5761,7 +5761,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to independence and objectivity:",
         "options": [
             "a gift from a client could be considered supplementary compensation.",
@@ -5774,7 +5774,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Shirin Regali, CFA, is a well-respected, sell-side analyst covering the biotech \nsector. While researching the market prospects for a drug being trialed by BioHeal \nInc., Regali interviews industry experts who are not affiliated with the trials or \nBioHeal. These experts express confidence that the drug will pass the trials and be \na market success. After thorough analysis and based on these experts' insights, \nRegali issues a \"buy\" recommendation for BioHeal and distributes it to her clients and \nnot to the public. Has Regali most likely violated the Standard relating to material \nnonpublic information?",
         "options": [
             "No",
@@ -5787,7 +5787,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Which of the following member actions most likely violates the Standard relating \nto material nonpublic information? \nAction 1: An analyst buys call options on a stock after learning from the company's \nCEO that the company will report earnings exceeding analyst expectations. \nAction 2: An analyst buys an oil company stock after speaking to a well-known industry \nexpert who believes oil prices will rise due to geopolitical risk.",
         "options": [
             "Action 1 only",
@@ -5800,7 +5800,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "David Andrews, CFA, is an investment manager with Aldona Investments. Aldona \nsecures a block of stock in an oversubscribed initial public offering. Andrews decides \nto prorate the issue to all fee-paying accounts for which it is appropriate, including \nthe fee-paying accounts of his immediate family members. Has Andrews violated the \nStandard relating to fair dealing?",
         "options": [
             "No.",
@@ -5813,7 +5813,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "John Lee, CFA, manages portfolios for several individuals, including his brother. \nAll of Lee's clients are standard fee-paying clients. Lee subscribes to an IPO for only \nthose clients for whom the IPO is suitable, which includes his brother. Lee does not \nreceive the number of shares requested by his clients and allocates shares of the \nIPO pro-rata to those clients, including his brother. Are Lee's actions most likely \nconsistent with the Standards?",
         "options": [
             "Yes",
@@ -5826,7 +5826,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-IV",
         "text": "Which of the following most likely violates the Standard relating to preservation of \nconfidentiality?",
         "options": [
             "Recommending a former client as a potential donor for a local charity",
@@ -5839,7 +5839,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Linda Barr, CFA, a portfolio manager, receives an unsolicited stock order from a \nclient. She discusses the order with her firm's analysts to determine how it will \nimpact that client's portfolio. The analysts determine the stock to be highly \nundervalued and suitable for many of Barr's clients. Barr calls clients for whom the \nstock is suitable to recommend the stock. She then executes a single block trade for \nthe original client as well as other clients for whom the stock is suitable. Barr most \nlikely violated the Standards:",
         "options": [
             "only by executing the single block trade.",
@@ -5852,7 +5852,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "A member works for a large investment firm. CFA Institute contacts the member \nto request support for a professional conduct investigation. In his response, the \nmember discloses the requested information regarding client activities. Applicable \nlaw requires to maintain client confidentiality. Has the member most likely violated \nthe Standards?",
         "options": [
             "No. \nEthical and Professional Standards \nFaculty: Vikas Vohra                                                                        Page 24 of 58",
@@ -5865,7 +5865,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Iris Hadid, CFA, works as an investment banking analyst. She builds a financial \nmodel to value Ski Mountain Lodge (SML). Hadid's friend, Peter Jackson, CFA, works \nfor a different advisory firm. Hadid shares with Jackson details about her analysis \nto receive his feedback on her valuation of SML. Based on this information, Jackson \nbuys call options on SML. Who has violated the Standards?",
         "options": [
             "Hadid only",
@@ -5878,7 +5878,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Which statement regarding market manipulation is consistent with the \nStandards? Members must refrain from:",
         "options": [
             "inducing trading by disseminating verifiable information.",
@@ -5891,7 +5891,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "To comply with the Standards, if applicable law requires members to maintain \nconfidentiality of client information, confidentiality must be maintained unless:",
         "options": [
             "the client has died.",
@@ -5904,7 +5904,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Grace Lee, CFA, is an investment advisor. The investment policy statement of one \nof her clients specifies an equal-weighted portfolio of consumer durables, clean \nenergy, and technology stocks. Over time, the portfolio has become significantly \nover-weighted toward technology stocks due to their superior performance. Lee \nexpects technology stocks to outperform for another year and decides  not to \nrebalance the portfolio. Has Lee violated the Standards?",
         "options": [
             "No.",
@@ -5917,7 +5917,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "According to the Standards, members are required to obtain permission from \ntheir employer before accepting additional compensation from:",
         "options": [
             "clients only.",
@@ -5930,7 +5930,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Frank Taylor, CFA, manages a portfolio for a football club. The club’s chairman is \npleased with Taylor’s work and offers him a front-row ticket to an upcoming, sold-out \nmatch. Taylor accepts the ticket without informing his employer. The chairman also \nprovides Taylor with a performance-based cash incentive for which he receives \npermission from his employer to accept. Has Taylor most likely violated the \nStandards?",
         "options": [
             "No.",
@@ -5943,7 +5943,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Applying standardized criteria for the selection of external managers is a \nrequirement of the Standard relating to:",
         "options": [
             "suitability.",
@@ -5956,7 +5956,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "The Standard relating to disclosure of conflicts requires a member to:",
         "options": [
             "avoid all actual and potential conflicts of interest.",
@@ -5969,7 +5969,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "A member uses his firm's composite to show performance to a prospective client. \nThe member states \"Our composite shows that we have outperformed the benchmark \nover the last five years, gross of fees.\" Has the member most likely violated the \nStandards?",
         "options": [
             "No.",
@@ -5982,7 +5982,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Belen Zapata, CFA, is the owner of Kawah Investments. Kawah promises investors \nreturns of up to 12% per year and claims to achieve this by investing in non -\ninvestment-grade bonds and other fixed-income instruments. Over the next 12 \nmonths, bond market yields reach unprecedented lows, and Zapata finds it impossible \nto achieve the returns she expected. No investments are ever made by Kawah, and \nclients are completely paid back all of their original investment. Zapata most likely \nviolated the CFA Institute Standards of Professional Conduct because of the:",
         "options": [
             "return of capital.",
@@ -5995,7 +5995,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Introduction to the Global Investment Performance Standards",
         "text": "The GIPS standards:",
         "options": [
             "allow the use of a representative account to present the firm's overall investment \nresults.",
@@ -6008,7 +6008,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Introduction to the Global Investment Performance Standards",
         "text": "The GIPS standards were created to:",
         "options": [
             "promote fair, global competition among investment firms.",
@@ -6021,7 +6021,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I–VII",
         "text": "Jan Loots, CFA, quit his job as a portfolio manager at an investment firm with \nwhich he had a non-solicitation agreement he signed several years ago. Loots received \npermission to take his investment performance history with him and also took a copy \nof the firm’s software-trading platform. Subsequently, Loots sent out messages on \nsocial media sites announcing he was looking for clie nts for his new investment \nmanagement firm. Access to Loots’ social media sites is restricted to friends, family, \nand former clients. Loots least likely violated the CFA Institute Standards of \nProfessional Conduct concerning his:",
         "options": [
             "trading software.",
@@ -6034,7 +6034,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to misrepresentation? Firms can help prevent misrepresentation \nby:",
         "options": [
             "specifically designating which employees are authorized to speak on behalf of the \nfirm.",
@@ -6047,7 +6047,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to priority of transactions? Investment personnel should:",
         "options": [
             "examine all personal trades for possible conflicts immediately after execution of \nthe trades.",
@@ -6060,7 +6060,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to suitability? \nProcedure 1: An investor's objectives and constraints should be reviewed annually \nunless there is a reason that dictates more frequent review. \nProcedure 2: A member in an investment advisory relationship with clients should take \ninto consideration performance measurement benchmarks in formulating an \ninvestment policy statement.",
         "options": [
             "Procedure 1 only.",
@@ -6073,7 +6073,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "According to the Standard related to independence and objectivity, a member \nmust:",
         "options": [
             "refuse all business-related gifts.",
@@ -6086,7 +6086,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "A member most likely violates the Standard relating to knowledge of the law if \nshe fails to:",
         "options": [
             "dissociate from unethical conduct.",
@@ -6099,7 +6099,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Recommended procedures for compliance with the Standard relating to \nresponsibilities of supervisors include:",
         "options": [
             "encouraging employers to provide a copy of the firm's code of ethics to clients.",
@@ -6112,7 +6112,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, verification must be performed:",
         "options": [
             "with respect to an entire firm.",
@@ -6125,7 +6125,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "A member leaves her employer to start at a new firm. According to the Standards, \nat her new firm, the member is permitted to recreate supporting records of her work \nat her previous employer from:",
         "options": [
             "memory.",
@@ -6138,7 +6138,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, verification:",
         "options": [
             "is performed on a firm-wide basis.",
@@ -6151,7 +6151,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Global Investment Performance Standards",
         "text": "Verification provides assurance that which of the following have been designed in \ncompliance with the GIPS standards?",
         "options": [
             "Only the calculation and presentation of the firm's performance.",
@@ -6164,7 +6164,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Sue Yong, CFA, is an analyst at a large investment firm. After thorough research, \nshe issues a \"buy\" rating on a company and submits her report to her firm's \ninvestment committee for review. The committee disagrees with Yong's assumptions \nin the report. As a result, the report is changed to a \"neutral\" rating. The final report \nis issued and Yong agrees to leave her name on the report. Has Yong violated the \nStandards?",
         "options": [
             "No.",
@@ -6177,7 +6177,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "According to the Standard relating to independence and objectivity, which of the \nfollowing is accurate? \nStatement 1: A member should encourage her firm to remove a covered company from \na restricted list if the firm is unwilling to permit dissemination of an adverse opinion \nabout the company. \nStatement 2: A member is prohibited from accepting benefits from corporate issuers \nin the form of allocation of shares in oversubscribed IPOs suitable for firm's clients.",
         "options": [
             "Statement 1 only",
@@ -6190,7 +6190,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Rita Melmo, CFA, is an analyst at a Greensky Investment (GI). On weekends, she \nworks as a paid employee of a local charity where she negotiates purchase \nagreements. Melmo does not disclose the charity employment to GI. Melmo is asked \nto purchase a new truck for the charity and she negotiates a purchase agreement \nwith a local truck dealership. In the purchase agreement, the charity is charged $500 \nmore than the truck's normal sale price. In return, Melmo receives retail vouchers \nworth $500 from the dealership for her private use. Melmo has most likely violated \nthe Standards:",
         "options": [
             "only by failing to disclose the charity employment to GI.",
@@ -6203,7 +6203,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "According to the Standard relating to disclosure of conflicts, a member should:",
         "options": [
             "reject a board position in a company on which the member's firm is planning to \ninitiate a research report.",
@@ -6216,7 +6216,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to priority of transactions? \nProcedure 1: Members should disclose personal transactions relating to shares in \ntheir firm's research universe to clients upon request. \nProcedure 2: Members should establish blackout periods prior to trades for clients. \nProcedure 3: Members should treat fee-paying family accounts in which they have \nbeneficial ownership in the same manner as they would treat their personal accounts.",
         "options": [
             "Procedure 1",
@@ -6229,7 +6229,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Susana Garcia, CFA, is a widely respected analyst covering the transportation \nsector. She completes a new recommendation for a company. The next morning, she \nemails the recommendation to her firm's largest client. After lunch, she emails the \nrecommendation to all other firm clients. One hour later, she calls the largest client \nto discuss the recommendation in detail. Garcia has violated the Standard relating to \nfair dealing:",
         "options": [
             "only by calling the largest client to discuss the recommendation in detail.",
@@ -6242,7 +6242,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "In the absence of regulatory guidance or firm policies, CFA Institute recommends \nmaintaining records for at least:",
         "options": [
             "three years.",
@@ -6255,7 +6255,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "The Standards require a member to inform which of the following parties of any \nbenefit received for referrals of clients?",
         "options": [
             "Only his employer.",
@@ -6268,7 +6268,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Introduction to the Global Investment Performance Standards",
         "text": "Asset managers are most likely required to do which of the following as part of \ntheir adherence to the GIPS standards?",
         "options": [
             "Adhere to certain calculation methodologies",
@@ -6281,7 +6281,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "A member employed by an investment firm carries out research at the request of \na client. The records of that research are the property of the:",
         "options": [
             "client.",
@@ -6294,7 +6294,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Guidance for Standards I-VII",
         "text": "Ann Macharia, CFA, is an independent consultant hired by MK Investment (MKI) \nto review its proposal to manage a large pension fund. While reviewing a draft of the \ndocument, Macharia notices a large section of material has been added to the \nproposal by MKI's CIO. The additional material looks exactly like what Macharai \nwrote for a previous client, describing the client's proprietary investment process. \nMacharia is most likely required to:",
         "options": [
             "remove the added material and report her suspicions to MKI.",
@@ -6307,7 +6307,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Introduction to the Global Investment Performance Standards",
         "text": "Which of the following statements describe the key concepts of the GIPS \nstandards? \nStatement 1: The GIPS standards are ethical standards to ensure full disclosure of \ninvestment performance. \nStatement 2: The GIPS standards require firms to maintain composites for all \nstrategies for which the firm manages discretionary and nondiscretionary accounts. \nStatement 3: The GIPS standards address all aspects of performance measurement.",
         "options": [
             "Statement 1",
@@ -6320,7 +6320,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Hypothesis Testing",
         "text": "Which of the following factors is not used in the calculation of a confidence interval?",
         "options": [
             "Point estimate",
@@ -6333,7 +6333,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Linear Regression",
         "text": "An analyst performs a simple linear regression of a stock's monthly return on the \nmonthly return of a market index (both in %) and gathers the following information: \n \nThe 95% prediction interval for the stock's monthly return, given that the \nforecasted monthly return on the index is 3.5%, is closest to:",
         "options": [
             "0.7% to 6.3%.",
@@ -6346,7 +6346,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Rates and Returns",
         "text": "An investor purchases a stock for $100. Immediately after receiving a dividend of \n$7, the investor sells the stock for $107. The holding period return of the investment \nis closest to:",
         "options": [
             "0%.",
@@ -6359,7 +6359,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Nonparametric Methods",
         "text": "For a sample of 50 observations, in which of the following situations is a \nnonparametric test least likely to be appropriate? The data:",
         "options": [
             "contain outliers.",
@@ -6372,7 +6372,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
-        "lm": "LM - Ethical and Professional Standards",
+        "lm": "Hypothesis Testing",
         "text": "Which of the following test statistics is most appropriate for a hypothesis test \nconcerning the mean difference between two normally distributed populations?",
         "options": [
             "t-statistic",
@@ -6385,7 +6385,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Introduction to Alternative Investments",
         "text": "A leveraged loan is best defined as a loan:",
         "options": [
             "that is itself levered.",
@@ -6398,7 +6398,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Wealth Management",
         "text": "From the perspective of a private equity firm, an advantage of exiting a portfolio \ncompany through a special purpose acquisition company (SPAC) most likely include:",
         "options": [
             "floating valuation.",
@@ -6411,7 +6411,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Equity",
         "text": "With respect to private equity, the growth capital strategy is also known as:",
         "options": [
             "venture capital.",
@@ -6424,7 +6424,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Due Diligence for Alternative Investments",
         "text": "Which of the following hedge fund investments require the highest level of scrutiny \nand due diligence?",
         "options": [
             "Level 1 assets",
@@ -6437,7 +6437,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "Hedge funds are most likely to place restrictions on:",
         "options": [
             "redemptions.",
@@ -6450,7 +6450,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Crude oil is categorized as:",
         "options": [
             "a soft commodity.",
@@ -6463,7 +6463,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Compared with direct investing, co-investing in alternative investments most likely \noffers:",
         "options": [
             "reduced control over the investment selection process.",
@@ -6476,7 +6476,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Which of the following methods of investing in alternative investments provides the \nmost flexibility to the investor?",
         "options": [
             "Co-investing",
@@ -6489,7 +6489,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Which of the following is best classified as a commodity?",
         "options": [
             "Livestock",
@@ -6502,7 +6502,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate and Infrastructure",
         "text": "Investors in greenfield infrastructure projects typically:",
         "options": [
             "rely on the assets' financial and operating history.",
@@ -6515,7 +6515,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "An analyst gathers the following information about a hedge fund: \n \nThe incentive fee (in $ millions) based on returns net of management fees is closest \nto:",
         "options": [
             "7.2.",
@@ -6528,7 +6528,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "A hedge fund strategy that seeks to influence a company's policies through the \npurchase of equity is best described as a(n):",
         "options": [
             "activist strategy.",
@@ -6541,7 +6541,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "Event-driven hedge fund strategies are most likely:",
         "options": [
             "long biased.",
@@ -6554,7 +6554,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate and Infrastructure",
         "text": "Which of the following are best categorized as social infrastructure assets?",
         "options": [
             "Airports",
@@ -6567,7 +6567,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Which of the following statements is most accurate? Alternative investments:",
         "options": [
             "tend to be more efficiently priced than traditional investments.",
@@ -6580,7 +6580,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "An analyst gathers the following information about a hedge fund: \n• $200 million in assets under management at the beginning of year \n• a 2% management fee based on year-end assets under management \n• a 20% incentive fee calculated net of the management fee \nIf the fund's gross return is 25% during the year, the total fees earned by the fund \nmanager are:",
         "options": [
             "$11 million.",
@@ -6593,7 +6593,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "Management fees are most likely based on assets under management for:",
         "options": [
             "hedge funds only.",
@@ -6606,7 +6606,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "A leveraged private investment vehicle that employs both long and short positions is \nmost likely a:",
         "options": [
             "hedge fund.",
@@ -6619,7 +6619,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Strategies",
         "text": "A feature that protects hedge fund clients from paying twice for the same \nperformance is most likely a:",
         "options": [
             "discount.",
@@ -6632,7 +6632,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "A joint venture is an alternative investment structure that is most likely used for:",
         "options": [
             "infrastructure investment.",
@@ -6645,7 +6645,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Regarding distribution methods in alternative investments, which of the following is \nmost advantageous to the limited partners? A(n):",
         "options": [
             "American waterfall.",
@@ -6658,7 +6658,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Strategies",
         "text": "Which of the following hedge fund mechanisms is most likely used to impose a \ntemporary restriction on redemptions if needed?",
         "options": [
             "Gate",
@@ -6671,7 +6671,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Infrastructure",
         "text": "Which of the following infrastructure investments most likely have the highest risk?",
         "options": [
             "Brownfield investments with the majority of their return from current yield.",
@@ -6684,7 +6684,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Which of the following methods of investing in alternative investments requires the \nleast amount of investment expertise?",
         "options": [
             "Co-investing",
@@ -6697,7 +6697,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Infrastructure",
         "text": "The benefits of adding investments in infrastructure assets to a portfolio most likely \ninclude:",
         "options": [
             "inflation protection only.",
@@ -6710,7 +6710,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "In co-investing, the investor invests in alternative assets indirectly through a fund \nbut also has the:",
         "options": [
             "right to invest directly in the same assets alongside the fund.",
@@ -6723,7 +6723,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate",
         "text": "A disadvantage of direct real estate investing is:",
         "options": [
             "a lack of control.",
@@ -6736,7 +6736,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Debt",
         "text": "Which of the following statements about private debt is most accurate? Mezzanine \ndebt:",
         "options": [
             "is subordinated to equity in a borrower's capital structure.",
@@ -6749,7 +6749,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Equity",
         "text": "Which of the following statements about private equity performance evaluation is \nmost accurate?",
         "options": [
             "Private equity fund management fees are based on capital called.",
@@ -6762,7 +6762,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Equity",
         "text": "Which of the following is most likely a primary exit strategy for a company held by a \nprivate equity fund's portfolio?",
         "options": [
             "IPO",
@@ -6775,7 +6775,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Strategies",
         "text": "A hedge fund that seeks to profit from a view on overall market direction as \ninfluenced by economic trends best describes a:",
         "options": [
             "macro hedge fund.",
@@ -6788,7 +6788,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate",
         "text": "Which of the following is best categorized as core real estate?",
         "options": [
             "A high-quality office building in a rural area",
@@ -6801,7 +6801,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Compared with fund investing in alternative investments, the co-investing method \nmost likely has:",
         "options": [
             "lower management fees.",
@@ -6814,7 +6814,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Strategies",
         "text": "Which of the following is best described as a relative value hedge fund strategy?",
         "options": [
             "Short biased",
@@ -6827,7 +6827,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate",
         "text": "Which of the following statements about real estate assets is most accurate?",
         "options": [
             "Real estate assets are heterogeneous",
@@ -6840,7 +6840,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Strategies",
         "text": "Which of the following hedge funds most likely have a beta close to zero?",
         "options": [
             "Short-biased funds",
@@ -6853,7 +6853,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Structures and Fees",
         "text": "A hedge fund has the following characteristics: \n \n\n                                                                         \n \nIf the performance fee is calculated net of the management fee and there were no \ncapital contributions or withdrawals, the net annual return to the investor is closest \nto:",
         "options": [
             "16.3%.",
@@ -6866,7 +6866,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Structures and Fees",
         "text": "An analyst collects the following information about a hedge fund: \n \nIf the incentive fee is calculated on returns in excess of a 6% hurdle rate, total \nannual fees earned by the fund manager are closest to:",
         "options": [
             "$34,800,000.",
@@ -6879,7 +6879,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Structures and Fees",
         "text": "What is the most likely effect of a redemption fee on the returns of the remaining \ninvestors in a hedge fund? A redemption fee:",
         "options": [
             "reduces investor returns.",
@@ -6892,7 +6892,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Commodities",
         "text": "If a commodity's storage cost is equal to its convenience yield, its futures prices will \nbe greater than its spot price if the risk-free rate is:",
         "options": [
             "negative.",
@@ -6905,7 +6905,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Fund Structures and Fees",
         "text": "An analyst gathers the following information about a hedge fund: \n \nIf the incentive fee is based on returns net of management fees, total fees for the \nyear are closest to:",
         "options": [
             "€6.8 million.",
@@ -6918,7 +6918,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Debt",
         "text": "In the private debt market, venture debt:",
         "options": [
             "entails buying the debt of mature companies in financial difficulty.",
@@ -6931,7 +6931,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Natural Resources",
         "text": "Timberland investments offer:",
         "options": [
             "an income stream only.",
@@ -6944,7 +6944,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate",
         "text": "Which of the following real estate investing strategies is most likely to focus on \nmodest redevelopment or upgrades, the leasing of vacant space, and the repositioning \nof underlying properties to earn a higher return?",
         "options": [
             "Core-plus",
@@ -6957,7 +6957,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Commodities",
         "text": "All else being equal, when a commodity futures market is in contango, the forward \ncurve is most likely:",
         "options": [
             "downward sloping.",
@@ -6970,7 +6970,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Infrastructure",
         "text": "With respect to infrastructure investments, a take-or-pay arrangement is most likely \nused to mitigate:",
         "options": [
             "demand risk.",
@@ -6983,7 +6983,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Overview of Alternative Investments",
         "text": "Which of the following is most appropriately categorized as a traditional investment?",
         "options": [
             "Gold",
@@ -6996,7 +6996,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Real Estate",
         "text": "Which of the following is most likely a characteristic of private real estate markets?",
         "options": [
             "Transaction costs are high",
@@ -7009,7 +7009,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Alternative Investment Features",
         "text": "Alternative investments:",
         "options": [
             "include tangible assets only. \nAlternative Investments: Practice Pack \nFaculty: Vikas Vohra                                                                        Page 9 of 18",
@@ -7022,7 +7022,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Equity",
         "text": "In alternative investments, a clawback provision represents the right of:",
         "options": [
             "limited partners to reclaim performance losses.",
@@ -7035,7 +7035,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "Which of the following is the most conservative approach to valuing a hedge fund's \nunderlying positions?",
         "options": [
             "Using bid prices for long positions and ask prices for short positions",
@@ -7048,7 +7048,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Private Debt",
         "text": "All else being equal, which of the following types of private debt is most likely to have \nthe lowest level of risk?",
         "options": [
             "Mezzanine debt",
@@ -7061,7 +7061,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Hedge Funds",
         "text": "An analyst gathers the following information about a hedge fund: \n \nAn investor's net return is:",
         "options": [
             "13.60%.",
@@ -7074,7 +7074,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Equity Valuation",
         "text": "A firm reports negative earnings for the year just ended. The price multiple of the \nfirm’s stock that is least likely to be meaningful is:",
         "options": [
             "trailing price to earnings.",
@@ -7087,7 +7087,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Basics of Derivative Pricing and Valuation",
         "text": "Which of the following dates in the dividend chronology can fall on a weekend?",
         "options": [
             "The payment date.",
@@ -7100,7 +7100,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Basics of Derivative Pricing and Valuation",
         "text": "An investor writes a put option on FTSE 100 Index futures. Which of the following \nbest describes the investor’s position with respect to the put contract and her \nexposure to the underlying index future, respectively?",
         "options": [
             "Long, short",
@@ -7113,7 +7113,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Financial Analysis Techniques",
         "text": "Which of the following financial intermediaries is most likely to provide liquidity \nservice to its clients?",
         "options": [
             "Brokers",
@@ -7126,7 +7126,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Market Organization and Structure",
         "text": "The value effect market-pricing anomaly most likely occurs when stocks that have \nbelow-average price-to-earnings and market-to-book ratios, as well as above-average \ndividend yields, consistently outperform:",
         "options": [
             "large-cap stocks.",
@@ -7139,7 +7139,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Financial Statement Analysis",
         "text": "Depreciation expense is best used in forecasting:",
         "options": [
             "growth capital expenditure only.",
@@ -7152,7 +7152,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
-        "lm": "LM - Alternative Investments",
+        "lm": "Financial Statement Analysis",
         "text": "Which of the following forecast objects for a bank's revenue is best classified as a \ntop-down driver?",
         "options": [
             "Net interest income",
@@ -7165,7 +7165,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Financial Statement Analysis",
         "text": "Which of the following would most likely be included on a company's \"financial\" \nbalance sheet?",
         "options": [
             "Short-term debt obligations",
@@ -7178,7 +7178,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Guidance for Standards I-VII",
         "text": "[Question is incorrect on CFA Website] Which of the following is a recommended \nprocedure for complying with the Standard relating to preservation of \nconfidentiality? \n• Procedure 1: Disclose to authorized fellow employees only information that will \nimprove service to the client \n• Procedure 2: Encourage the adoption of standard confidentiality procedures \nutilized by leading firms in the industry",
         "options": [
             "tiered pricing.",
@@ -7191,7 +7191,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "Which of the following is a pull on a company's liquidity?",
         "options": [
             "Obsolete inventory",
@@ -7204,7 +7204,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Pricing Strategies",
         "text": "Which of the following pricing models is most likely used when a firm willingly \nsacrifices margins to build market share?",
         "options": [
             "Dynamic pricing",
@@ -7217,7 +7217,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Business Models and Types",
         "text": "The sequence of processes involved in the creation of a product, both within and \nexternal to a firm, is best referred to as a:",
         "options": [
             "value chain.",
@@ -7230,7 +7230,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Business Models and Types",
         "text": "A company manufacturing and selling a product using someone else's brand name in \nreturn for a royalty most likely operates:",
         "options": [
             "under a franchise model.",
@@ -7243,7 +7243,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Analysis of Corporate Issuers",
         "text": "When analyzing a company, analysts should:",
         "options": [
             "ignore the company’s business model.",
@@ -7256,7 +7256,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "Which of the following is best categorized as a drag on liquidity?",
         "options": [
             "Insufficient credit lines",
@@ -7269,7 +7269,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "Which of the following combination of factors most likely increases a company's \nability to support debt in its capital structure?",
         "options": [
             "High revenue, low cash flow volatility, and a low level of fungible assets",
@@ -7282,7 +7282,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "According to the Modigliani–Miller propositions, if a company's debt-to-equity ratio \nincreases, which of the following costs is most likely to exhibit the largest increase?",
         "options": [
             "WACC",
@@ -7295,7 +7295,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "At which stage in its life cycle would a typical company most likely have more debt \nthan equity in its capital structure?",
         "options": [
             "Start-up stage",
@@ -7308,7 +7308,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "With respect to a publicly listed company, a conflict of interest due to information \nasymmetry is most likely to occur between shareholders and:",
         "options": [
             "creditors.",
@@ -7321,7 +7321,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "Compared to going concern projects, expansion projects most likely involve:",
         "options": [
             "greater uncertainty only.",
@@ -7334,7 +7334,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Cost of Capital",
         "text": "From the perspective of a corporate issuer, which of the following is a benefit of \nissuing debt rather than equity as a source of capital? Debt is most likely:",
         "options": [
             "cheaper. \nCorporate Issuers: Practice Pack \nFaculty: Vikas Vohra                                                                                   Page 4 of 20",
@@ -7347,7 +7347,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "An improvement in corporate governance structure most likely results in:",
         "options": [
             "lower cost of debt borrowing.",
@@ -7360,7 +7360,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "An analyst gathers the following information about a company's capital investment: \n• Initial cash outlay $90 million \n• Annual before-tax cash flows (year-end) for Year 1 to Year 6 $50 million \n• Marginal tax rate 15% \n• Required rate of return 12% \nThe net present value of the investment is closest to:",
         "options": [
             "$85 million.",
@@ -7373,7 +7373,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Business Models and Types",
         "text": "Which of the following is most likely a feature of sole proprietorships?",
         "options": [
             "Existence of a legal identity",
@@ -7386,7 +7386,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Cost of Capital",
         "text": "The source of capital that most likely benefits from a tax shield is:",
         "options": [
             "debt.",
@@ -7399,7 +7399,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "Which of the following mature companies is most likely to use the greatest amount \nof leverage in its capital structure?",
         "options": [
             "Mining company",
@@ -7412,7 +7412,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "A company should exercise the abandonment option on an investment if the present \nvalue of the cash flows from continuing the investment is:",
         "options": [
             "lower than the cash flow from abandoning the investment.",
@@ -7425,7 +7425,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "Consider the following information about a company: \n \nBased on the Modigliani-Miller propositions, the company's cost of equity is closest \nto:",
         "options": [
             "10.4%.",
@@ -7438,7 +7438,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "All else being equal, a company most likely has a reduced debt capacity when its:",
         "options": [
             "current ratio increases.",
@@ -7451,7 +7451,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "According to the Modigliani–Miller Proposition I without taxes, when a firm increases \nthe proportion of debt in its capital structure, the firm value:",
         "options": [
             "decreases.",
@@ -7464,7 +7464,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "With respect to liquidity management, which of the following activities most likely \nprovides access to a primary source of liquidity?",
         "options": [
             "Liquidating obsolete assets",
@@ -7477,7 +7477,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Which of the following company stakeholders is most likely exposed to the greatest \ninformation asymmetry when compared to the company's management?",
         "options": [
             "A bank lender",
@@ -7490,7 +7490,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "According to Modigliani and Miller's Proposition II without taxes:",
         "options": [
             "the cost of bankruptcy is high.",
@@ -7503,7 +7503,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "According to the Modigliani and Miller Proposition I with taxes, the value of a levered \ncompany is greater than the value of the unlevered company by an amount equal to \nthe:",
         "options": [
             "value of the debt.",
@@ -7516,7 +7516,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "In a limited partnership, business operations are the responsibility of:",
         "options": [
             "the general partner only.",
@@ -7529,7 +7529,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "Which of the following is considered a capital allocation pitfall? Basing investment \ndecisions on:",
         "options": [
             "opportunity costs.",
@@ -7542,7 +7542,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Measures of Leverage",
         "text": "Which of the following is defined as the sensitivity of a firm’s operating profit to a \nchange in its revenues?",
         "options": [
             "Total leverage",
@@ -7555,7 +7555,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Proxy voting is best described as permitting:",
         "options": [
             "different voting rights for multiple share classes.",
@@ -7568,7 +7568,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Owners have limited liability in a:",
         "options": [
             "corporation.",
@@ -7581,7 +7581,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "Which of the following statements about sources of liquidity is most accurate?",
         "options": [
             "Filing for bankruptcy is considered a secondary source of liquidity.",
@@ -7594,7 +7594,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "Subsequent to making a capital investment, a company reacts to poor financial results \nfrom the project by abandoning it. This action alone best exemplifies the exercise of \na:",
         "options": [
             "sizing option.",
@@ -7607,7 +7607,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "A measure of how effectively capital is converted into after-tax operating profits is \nthe:",
         "options": [
             "hurdle rate.",
@@ -7620,7 +7620,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Which of the following statements about corporations is most accurate?",
         "options": [
             "Upside return potential is unlimited for both equity holders and debtholders",
@@ -7633,7 +7633,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "With respect to ESG implementation, which of the following is most likely a social \nfactor?",
         "options": [
             "Board composition",
@@ -7646,7 +7646,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Double taxation of profits is most likely a concern for owners in:",
         "options": [
             "corporations.",
@@ -7659,7 +7659,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "Which of the following is an example of a secondary source of liquidity for a company?",
         "options": [
             "Short-term funds",
@@ -7672,7 +7672,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Which of the following committees of a board of directors oversees the development \nof the company's conflict of interest policy?",
         "options": [
             "Risk committee",
@@ -7685,7 +7685,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "A company with a required rate of return of 12% is considering a capital project with \nthe following cash flows (in millions): \n \nThe expected IRR for this project is most likely:",
         "options": [
             "less than 12%.",
@@ -7698,7 +7698,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Cost of Capital",
         "text": "All else being equal, if interest on debt is tax deductible, an increase in the company's \nmarginal tax rate will:",
         "options": [
             "decrease the company's WACC.",
@@ -7711,7 +7711,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "A company increases its debt from 20% to 60% of its capital structure. Based on the \nModigliani and Miller proposition (without taxes) regarding capital structure, the \nWACC of the company:",
         "options": [
             "decreases.",
@@ -7724,7 +7724,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "The NPV of a new project is expected to be –$0.20 million. An incremental investment \nof $0.40 million would give management the flexibility to switch to a lower cost input \nin the future. If this option has an estimated value of $0.80 million, the value of the \nproject including the option is:",
         "options": [
             "$0.20 million.",
@@ -7737,7 +7737,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "According to the pecking order theory, company managers most likely prefer to:",
         "options": [
             "issue debt as the last resort.",
@@ -7750,7 +7750,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Structure",
         "text": "Which of the following is most accurate?",
         "options": [
             "Risk appetites are similar among private lenders",
@@ -7763,7 +7763,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "The potential for conflict between debtholders and shareholders is:",
         "options": [
             "lower for long-term debt than for short-term debt.",
@@ -7776,7 +7776,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "A corporation's stakeholders most likely include:",
         "options": [
             "shareholders only.",
@@ -7789,7 +7789,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "In a corporation, which of the following stakeholder groups is the principal in a \nprincipal–agent relationship?",
         "options": [
             "Shareholders",
@@ -7802,7 +7802,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Cost of Capital",
         "text": "An analyst gathers the following information about a company: \n \nIf the company's marginal tax rate is 40%, its weighted average cost of capital is \nclosest to:",
         "options": [
             "9.7%.",
@@ -7815,7 +7815,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Covenants are most likely to exist between a company and its:",
         "options": [
             "creditors.",
@@ -7828,7 +7828,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Cost of Capital",
         "text": "If a company's debt-to-equity ratio is 0.5, the weight of equity applied in estimating \nthe company's WACC is closest to:",
         "options": [
             "0.33.",
@@ -7841,7 +7841,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "Compared to those of public companies, share issuances of private companies most \nlikely:",
         "options": [
             "raise larger amounts of capital.",
@@ -7854,7 +7854,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "Tiered pricing is best described as:",
         "options": [
             "charging different prices at different times.",
@@ -7867,7 +7867,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "A company is deciding whether to invest in one of two mutually exclusive projects \nwith positive NPVs. If Project 1 has a higher NPV but a lower IRR than Project 2, the \ncompany should:",
         "options": [
             "prefer Project 1.",
@@ -7880,7 +7880,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "Compared to private corporations, which of the following is a typical characteristic \nof public corporations?",
         "options": [
             "A government is a shareholder",
@@ -7893,7 +7893,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "When choosing between mutually exclusive projects, an analyst should:",
         "options": [
             "accept the project with the highest IRR.",
@@ -7906,7 +7906,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "An electric vehicle manufacturer invests in a new technology to meet new safety \nstandards. This project is best classified as a(n):",
         "options": [
             "expansion project.",
@@ -7919,7 +7919,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Working Capital Management",
         "text": "The flow of finished goods from manufacturer to wholesaler, retailer, and finally to \nthe end customer best describes a(n):",
         "options": [
             "direct sales strategy.",
@@ -7932,7 +7932,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Capital Budgeting",
         "text": "A company is evaluating the following mutually exclusive capital projects: \n \nIf the hurdle rate is 8%, the company should invest in:",
         "options": [
             "Project 1 only.",
@@ -7945,7 +7945,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Derivative Markets and Instruments",
         "text": "All, else held equal, the value of a European call option is best characterized as having \na:",
         "options": [
             "negative relationship with the price of the underlying.",
@@ -7958,7 +7958,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Derivative Markets and Instruments",
         "text": "All else being equal, which of the following European put options on the same \nunderlying most likely has the highest value? \nParticulars Time to Expiration Exercise Price \nOption 1 2 months $52 \nOption 2 4 months $52 \nOption 3 4 months $58",
         "options": [
             "Option 1",
@@ -7971,7 +7971,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Derivative Markets and Instruments",
         "text": "The value of a European put is directly related to the:",
         "options": [
             "risk-free rate.",
@@ -7984,7 +7984,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "An investor gathers the following information about a call option: \nOption premium $5 \nExercise price $25 \nPrice of the underlying at initiation $15 \nAt expiration, if the price of the underlying is $30, the value of the call option to the \ncall seller is:",
         "options": [
             "−$5.",
@@ -7997,7 +7997,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
-        "lm": "LM - Corporate Issuers",
+        "lm": "Corporate Governance and Stakeholder Management",
         "text": "An analyst gathers the following information: \nCall price $10 \nStock price $40 \nExercise price $60 \nInterest rate 3% \nTime to expiry 1 year \nAccording to put-call parity, the price of the put is closest to:",
         "options": [
             "$28.25.",
@@ -8010,7 +8010,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Working Capital Management",
         "text": "An analyst gathers the following information about a company: \n \n\n                                                                         \n \nIf all purchases and sales were made on credit, the cash conversion cycle (based on \na 360-day year) is:",
         "options": [
             "less than the utility generated for a risk-averse investor.",
@@ -8023,7 +8023,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Fintech in Investment Management",
         "text": "The failure of machine learning models to accurately predict outcomes can be the \nresult of:",
         "options": [
             "overfitting, but not underfitting.",
@@ -8036,7 +8036,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Fintech in Investment Management",
         "text": "Which of the following is most likely an advantage of traditional financial advisers \nover fully automated digital wealth managers?",
         "options": [
             "Lower account minimums",
@@ -8049,7 +8049,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "To test whether a population's mean, µ, is greater than zero, the alternative \nhypothesis should be formulated as:",
         "options": [
             "µ ≤ 0.",
@@ -8062,7 +8062,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "A test of independence is based on the data in a contingency table with 5 rows and 4 \ncolumns. Using a nonparametric test statistic that is chi-square distributed, the \nnumber of degrees of freedom is:",
         "options": [
             "7.",
@@ -8075,7 +8075,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "In a parametric test of the correlation between two variables with a sample size of \n51 and sample correlation of 0.6, the t-statistic is closest to:",
         "options": [
             "0.07.",
@@ -8088,7 +8088,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "If a unimodal return distribution is negatively skewed, which of the following most \nlikely has the highest value?",
         "options": [
             "Mean",
@@ -8101,7 +8101,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Management",
         "text": "A portfolio manager will invest €100,000 and is presented with the following \ninformation about three portfolios with normally distributed returns: \n \nIf the manager wants to withdraw €5,000 in one year without invading initial capital, \nthe safety-first optimal portfolio is:",
         "options": [
             "Portfolio 1.",
@@ -8114,7 +8114,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "Which of the following best describes when a transformation of the data may be \nneeded to enable the use of a simple linear regression model? When the:",
         "options": [
             "dependent variable is non-normally distributed",
@@ -8127,7 +8127,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "For a continuous positively skewed unimodal distribution:",
         "options": [
             "both the mode and the median are less than the mean.",
@@ -8140,7 +8140,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Fintech in Investment Management",
         "text": "In its broadest sense, fintech is best described as:",
         "options": [
             "the vast amount of data being generated by the financial services industry.",
@@ -8153,7 +8153,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "An analyst estimates the following information from a simple linear regression: \n \nThe standard error of the estimate is closest to:",
         "options": [
             "2.5.",
@@ -8166,7 +8166,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "An analyst draws samples from an original sample to estimate the standard error of \na population mean. Which of the following best describes this sampling procedure?",
         "options": [
             "Bootstrap method",
@@ -8179,7 +8179,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "The null hypothesis for the F-distributed test statistic in a simple linear regression \nmodel tests whether the:",
         "options": [
             "slope is equal to zero.",
@@ -8192,7 +8192,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Probability Concepts",
         "text": "An analyst estimates the probabilities of three possible economic scenarios and the \nprobabilities of a stock having a positive or a negative return in each scenario. These \nscenarios are best represented by a:",
         "options": [
             "tree-map.",
@@ -8205,7 +8205,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Organizing, Visualizing, and Describing Data",
         "text": "Which of the following is most likely used to detect sentiment shifts in an analyst's \ncommentary?",
         "options": [
             "Tokenization",
@@ -8218,7 +8218,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Organizing, Visualizing, and Describing Data",
         "text": "Which of the following visualizations is most appropriate for interpreting the \ncorrelation between two variables?",
         "options": [
             "Tree-map",
@@ -8231,7 +8231,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Common Probability Distributions",
         "text": "Roy's safety-first criterion:",
         "options": [
             "evaluates only downside risk.",
@@ -8244,7 +8244,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "All else being equal, when compared to non-probability sampling, probability sampling \nmost likely yields:",
         "options": [
             "a less representative sample.",
@@ -8257,7 +8257,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "An analyst examines 30 paired monthly returns for two stock indexes. To determine \nif the mean difference of the returns is zero, the number of degrees of freedom of \nthe t-test is:",
         "options": [
             "28.",
@@ -8270,7 +8270,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Organizing, Visualizing, and Describing Data",
         "text": "An analyst calculates the following statistics for a sample with 100 observations: \n \nThe interquartile range of the sample is equal to:",
         "options": [
             "31.",
@@ -8283,7 +8283,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "The probability of correctly rejecting a null hypothesis is best defined as the:",
         "options": [
             "p-value.",
@@ -8296,7 +8296,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Organizing, Visualizing, and Describing Data",
         "text": "Ranked in ascending order, the 19th observation in a sample of 75 is in the second:",
         "options": [
             "decile.",
@@ -8309,7 +8309,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "Sampling error is the difference between the observed value of a:",
         "options": [
             "random variable and the respective statistic.",
@@ -8322,7 +8322,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "The central limit theorem:",
         "options": [
             "requires that the population be approximately normally distributed.",
@@ -8335,7 +8335,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Probability Concepts",
         "text": "An analyst assumes that a company's future EPS will be either $2.00, $2.20, or \n$2.40. If each scenario is equally likely, the variance [in $2] of the company's future \nEPS is closest to:",
         "options": [
             "0.03.",
@@ -8348,7 +8348,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Organizing, Visualizing, and Describing Data",
         "text": "An analyst observes the following EPS for four companies: –£0.50, £0.50, £2.50, and \n£5.50. The 50th percentile of the EPS values is closest to:",
         "options": [
             "£1.50.",
@@ -8361,7 +8361,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "The standard error of the estimate in a simple linear regression is best described as:",
         "options": [
             "a relative measure of fit for the regression.",
@@ -8374,7 +8374,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "Which of the following measures best quantifies the amount of risk per unit of mean \nreturn?",
         "options": [
             "Sharpe ratio",
@@ -8387,7 +8387,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "An analyst gathers the following returns for seven funds: \n \nThe second quartile return is:",
         "options": [
             "4%.",
@@ -8400,7 +8400,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "The correlation coefficient:",
         "options": [
             "ranges from 0 to 1.",
@@ -8413,7 +8413,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "If the covariance between two positively correlated random variables remains the \nsame but the variance of both variables increases, the correlation between the two \nvariables:",
         "options": [
             "decreases.",
@@ -8426,7 +8426,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "The correlation between two variables measures:",
         "options": [
             "only their linear relationship.",
@@ -8439,7 +8439,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "Which of the following is required to compute the standard error of a sample mean \nusing the bootstrap resampling method?",
         "options": [
             "The mean of each resample",
@@ -8452,7 +8452,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Probability Concepts",
         "text": "A tree diagram contains the following information about the dividend per share \npayable by a company under two scenarios: \n \nThe expected dividend per share under the favorable scenario is closest to:",
         "options": [
             "$1.14.",
@@ -8465,7 +8465,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "The simple linear regression model in which only the independent variable is in \nlogarithmic form is best described as the:",
         "options": [
             "log-lin model.",
@@ -8478,7 +8478,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Probability Concepts",
         "text": "An analyst produces the following joint probability function for the returns on two \ncompanies, X and Y: \n \nThe expected returns of companies X and Y are 14% and 9%, respectively. The \ncovariance of returns between X and Y (in percent squared) is closest to:",
         "options": [
             "0.",
@@ -8491,7 +8491,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "An analyst gathers the following sample returns for a security: \n \nThe mean absolute deviation of the sample returns is:",
         "options": [
             "less than the sample standard deviation.",
@@ -8504,7 +8504,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Mathematics",
         "text": "An equally weighted portfolio consists of two securities, each with a standard \ndeviation of 3%. If the two securities' returns are uncorrelated, the portfolio's \nstandard deviation is closest to:",
         "options": [
             "0.0%.",
@@ -8517,7 +8517,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "The probability of correctly rejecting a false null hypothesis is best described as one \nminus the:",
         "options": [
             "test statistic's p-value.",
@@ -8530,7 +8530,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "All else being equal, which of the following would most likely lead to a wider prediction \ninterval for the dependent variable when re-estimating a linear regression model? An \nincrease in the:",
         "options": [
             "sample size",
@@ -8543,7 +8543,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Introduction to Linear Regression",
         "text": "With respect to simple linear regression, a residual is best described as the \ndifference between the observed value of a dependent variable and:",
         "options": [
             "its mean.",
@@ -8556,7 +8556,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts",
         "text": "A portfolio has a mean return of 1.0% and a standard deviation of returns of 2.7%. \nIf the specified minimum target return is 1.0%, the sample target semideviation is:",
         "options": [
             "less than 2.7%.",
@@ -8569,7 +8569,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts and Market Returns",
         "text": "An analyst discards the lowest 2.5% and the highest 2.5% of values in a sample, and \ncomputes the mean of the remaining 95% of values. The resulting mean is best \ndescribed as a:",
         "options": [
             "trimmed mean.",
@@ -8582,7 +8582,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Common Probability Distributions",
         "text": "If a stock's continuously compounded return is normally distributed, the future stock \nprice is most likely:",
         "options": [
             "normally distributed.",
@@ -8595,7 +8595,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "An analyst considers the population of all existing stocks and selects those where the \ncompany name starts with the letter P. This sampling procedure is most likely an \nexample of:",
         "options": [
             "systematic sampling.",
@@ -8608,7 +8608,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Common Probability Distributions",
         "text": "The lognormal distribution:",
         "options": [
             "is unbounded.",
@@ -8621,7 +8621,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Simple Linear Regression",
         "text": "In simple linear regression analysis, the total sum of squares best describes:",
         "options": [
             "a scatter plot.",
@@ -8634,7 +8634,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Fintech: Innovations in Investment Management",
         "text": "The process of representing ownership rights to physical assets on a distributed \nledger is referred to as:",
         "options": [
             "tokenization.",
@@ -8647,7 +8647,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Fintech: Innovations in Investment Management",
         "text": "Which of the following statements about distributed ledger technology is most  \naccurate?",
         "options": [
             "Bitcoin uses a permissioned network.",
@@ -8660,7 +8660,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Simple Linear Regression",
         "text": "Which of the following is an underlying assumption of the simple linear regression \nmodel? The regression residuals:",
         "options": [
             "are normally distributed.",
@@ -8673,7 +8673,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts and Market Returns",
         "text": "For a set of return observations, the coefficient of variation is best described as a \nmeasure of:",
         "options": [
             "risk per unit of mean return.",
@@ -8686,7 +8686,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "An analyst performs a hypothesis test concerning the difference between the mean \nreturns of two portfolios, assuming normally distributed populations with unknown but \nequal variances. If the analyst decides to change the hypothesized difference in mean \nreturns from 0% to 1%, which of the following will change?",
         "options": [
             "The value of the test statistic",
@@ -8699,7 +8699,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Correlation and Regression",
         "text": "An analyst tabulates the ranks of four paired observations of random variables X and \nY as follows: \n \nThe Spearman rank correlation coefficient between X and Y is closest to:",
         "options": [
             "–0.2.",
@@ -8712,7 +8712,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Simple Linear Regression",
         "text": "An analyst runs a simple linear regression to test whether the variation in the demand \nfor corn explains the variation in the supply of wheat. In this model, the supply of \nwheat is a(n):",
         "options": [
             "indicator variable.",
@@ -8725,7 +8725,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts and Market Returns",
         "text": "A return distribution with negative skew and a mean of zero most likely has:",
         "options": [
             "frequent small gains and a few extreme losses.",
@@ -8738,7 +8738,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Simple Linear Regression",
         "text": "If the relationship between the dependent variable and independent variable is linear, \nthe regression residuals when plotted against the independent value should appear \nto:",
         "options": [
             "be linear.",
@@ -8751,7 +8751,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "In which of the following cases is cluster sampling most likely used? When:",
         "options": [
             "conducting a market survey",
@@ -8764,7 +8764,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "Samples are drawn from a population that follows a binomial distribution with a \nprobability of success on a trial of 0.3. According to the central limit theorem, as the \nsample size increases, the distribution of the sample mean approaches a:",
         "options": [
             "negatively skewed distribution.",
@@ -8777,7 +8777,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Statistical Concepts and Market Returns",
         "text": "A graphical depiction of a continuous distribution shows the left tail to be longer than \nthe right tail. The distribution is best described as having:",
         "options": [
             "negative skewness.",
@@ -8790,7 +8790,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "A nonparametric test is most appropriate when:",
         "options": [
             "comparing differences between means.",
@@ -8803,7 +8803,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Sampling and Estimation",
         "text": "Grouping all publicly traded US firms by sector and then randomly selecting \nsubsamples of firms from each sector according to the sector's proportion in the \ntotal population is an example of:",
         "options": [
             "cluster sampling.",
@@ -8816,7 +8816,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Hypothesis Testing",
         "text": "In hypothesis testing, which of the following best describes a Type II error?",
         "options": [
             "Rejecting a true null hypothesis",
@@ -8829,7 +8829,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Corporate Issuers",
         "text": "Which of the following statements about pension plans is most accurate?",
         "options": [
             "Defined benefit plans typically have a low risk tolerance.",
@@ -8842,7 +8842,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Management",
         "text": "The process of risk management is best described as the set of decisions that \nmaximizes a company's value while:",
         "options": [
             "minimizing the risk taken.",
@@ -8855,7 +8855,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Management",
         "text": "Which of the following is least consistent with effective risk governance?",
         "options": [
             "Taking an enterprise-wide view",
@@ -8868,7 +8868,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Management",
         "text": "With regard to an investment policy statement, which of the following statements \nabout return objectives is most accurate?",
         "options": [
             "A return objective cannot be a required rate of return.",
@@ -8881,7 +8881,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Management",
         "text": "The correlation between the risk-free asset and the optimal risky portfolio is \nexpected to be:",
         "options": [
             "negative.",
@@ -8894,7 +8894,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
-        "lm": "LM - Quantitative Methods",
+        "lm": "Portfolio Management",
         "text": "An investor who can lend and borrow at the risk-free rate builds a portfolio using the \nrisk-free asset and the market portfolio. The risk-free rate is 3% and the expected \nmarket return is 15%. If the expected portfolio return is 18%, the investor's \nportfolio is:",
         "options": [
             "a lending portfolio.",
@@ -8907,7 +8907,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Portfolio Management",
         "text": "Which of the following statements about scenario analysis is most accurate?",
         "options": [
             "Scenario analysis provides a point estimate forecast",
@@ -8920,7 +8920,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Corporate Issuers",
         "text": "Which financial statement forecasting approach is best suited for companies in highly \ncyclical industries?",
         "options": [
             "Historical results",
@@ -8933,7 +8933,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Portfolio Management",
         "text": "Downside and upside risk factors are most likely included in:",
         "options": [
             "an initial company research report only.",
@@ -8946,7 +8946,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Corporate Issuers",
         "text": "A natural resources company having access to cheap energy most likely will be able to \nsell its output:",
         "options": [
             "at market price.",
@@ -8959,7 +8959,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "[Question is incorrect] An investor considers the following certificates of deposit \n(CDs) available for purchase at face value: \n \nIf each CD has the same maturity and default risk, the opportunity cost of investing \nin CD 1 is closest to:",
         "options": [
             "Debt issuances",
@@ -8972,7 +8972,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "Clearing instructions for an order most likely indicate:",
         "options": [
             "how to fill the order.",
@@ -8985,7 +8985,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Company Analysis and Forecasting",
         "text": "Which of the following statements about forecasting selling, general and \nadministrative (SG&A) expenses is most accurate?",
         "options": [
             "General corporate costs are mostly variable costs",
@@ -8998,7 +8998,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Preference shares most likely rank above common shares with respect to:",
         "options": [
             "voting rights.",
@@ -9011,7 +9011,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "A free-cash-flow-to-equity model is a(n):",
         "options": [
             "multiplier model.",
@@ -9024,7 +9024,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "An analyst gathers the following information about an equal-weighted index composed \nof three securities: \n \nThe price return of the index is closest to:",
         "options": [
             "20%.",
@@ -9037,7 +9037,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "A limit order book (in € per share) has the following order prices: \n \nA sell order is behind the market at a price of:",
         "options": [
             "€47.70.",
@@ -9050,7 +9050,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "All else being equal, the preference share with the lowest certainty of future cash \nflows and the greatest potential risk for investors is most likely:",
         "options": [
             "putable with non-cumulative dividends.",
@@ -9063,7 +9063,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "The index weighting method that underrepresents securities that constitute the \nlargest fraction of the target market value is most likely the:",
         "options": [
             "price-weighting method. \n\nEquity Investments: Practice Pack \nFaculty: Vikas Vohra                                                                        Page 4 of 43",
@@ -9076,7 +9076,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers the following information about a company: \n \nIf the investor's required rate of return is 10%, the company's ROE is closest to:",
         "options": [
             "6.9%.",
@@ -9089,7 +9089,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Company Analysis and Forecasting",
         "text": "Which of the following is least likely to directly affect a company's book value?",
         "options": [
             "Changes in the company's net income",
@@ -9102,7 +9102,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "With respect to behavioral biases, when investors tend to be slow to react to new \ninformation and continue to maintain their prior views, this is best described as:",
         "options": [
             "conservatism.",
@@ -9115,7 +9115,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "If a stock index's constituents make no distributions to their shareholders, the total \nreturn of the index is:",
         "options": [
             "less than its price return.",
@@ -9128,7 +9128,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "A trader gathers the following limit order information about a stock: \n \nIf the trader submits a fill or kill buy order for 20 shares at a limit price of $76.00, \nthe trader's average price per share for this trade will be closest to:",
         "options": [
             "$75.80.",
@@ -9141,7 +9141,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "An instruction that indicates when an order may be filled is most likely a(n):",
         "options": [
             "validity instruction.",
@@ -9154,7 +9154,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Corporate Actions",
         "text": "A stock dividend:",
         "options": [
             "is relevant for valuation of a company.",
@@ -9167,7 +9167,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "Common shares that are tradeable on different stock exchanges in different \ncurrencies are best described as:",
         "options": [
             "global registered shares.",
@@ -9180,7 +9180,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "A sell order that instructs the broker to obtain the best price immediately available \nwithout specifying a minimum price is a:",
         "options": [
             "stop order.",
@@ -9193,7 +9193,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Corporate Actions",
         "text": "All else being equal, a reverse stock split results in:",
         "options": [
             "a decrease in the number of shares and an increase in the share price.",
@@ -9206,7 +9206,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Corporate Actions",
         "text": "All else being equal, which of the following has the same effect on shareholders' \nwealth as a cash dividend?",
         "options": [
             "A stock split",
@@ -9219,7 +9219,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "Sponsored depository receipts most likely differ from unsponsored ones in terms of \nwhether:",
         "options": [
             "investors have voting rights.",
@@ -9232,7 +9232,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Corporate Actions",
         "text": "All else being equal, which of the following are equivalent to stock dividends in terms \nof the economic effect on the company and shareholders?",
         "options": [
             "Stock splits",
@@ -9245,7 +9245,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Return Concepts",
         "text": "Asset-based valuation most likely uses estimates of the company's:",
         "options": [
             "assets only.",
@@ -9258,7 +9258,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "The dividend discount model assumes that dividends are paid:",
         "options": [
             "quarterly.",
@@ -9271,7 +9271,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers the following information about a company and its common stock: \n \nUsing the Gordon growth model, the company's dividend payout ratio is closest to:",
         "options": [
             "8%.",
@@ -9284,7 +9284,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Return Concepts",
         "text": "Asset-based valuation models are most appropriate for companies with a high \nproportion of:",
         "options": [
             "illiquid assets.",
@@ -9297,7 +9297,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "Both equity and fixed income indexes can be categorized according to the:",
         "options": [
             "currency of payments.",
@@ -9310,7 +9310,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Trading by arbitrageurs most likely:",
         "options": [
             "reduces liquidity.",
@@ -9323,7 +9323,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "A feature of an efficient market is that:",
         "options": [
             "the market reflects all past and present information.",
@@ -9336,7 +9336,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Decreased market efficiency is most likely associated with an increase in:",
         "options": [
             "transaction costs.",
@@ -9349,7 +9349,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Which of the following is most likely a demographic influence on industry growth?",
         "options": [
             "Lifestyle",
@@ -9362,7 +9362,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Index Construction",
         "text": "Fixed-income indexes most likely:",
         "options": [
             "are more easily replicated than equity indexes.",
@@ -9375,7 +9375,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Index Construction",
         "text": "As time passes after inception, the value of the price version of an index is:",
         "options": [
             "less than the value of the total return version.",
@@ -9388,7 +9388,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "With respect to behavioral finance, which of the following is least likely a behavioral \nbias used to explain pricing anomalies?",
         "options": [
             "Risk aversion",
@@ -9401,7 +9401,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Companies issue equity securities for which of the following purpose(s)?",
         "options": [
             "Making acquisitions only",
@@ -9414,7 +9414,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "The voting method that allows shareholders to cast all their votes for a single \ncandidate is best described as:",
         "options": [
             "proxy voting.",
@@ -9427,7 +9427,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Convertible preference shares most likely:",
         "options": [
             "are riskier than the underlying common shares for investors.",
@@ -9440,7 +9440,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Industries whose revenues and profits are least affected by fluctuations in the \noverall economy are most likely:",
         "options": [
             "growth industries.",
@@ -9453,7 +9453,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization",
         "text": "If it is difficult to find a buyer or a seller for an asset, the asset most likely trades \non:",
         "options": [
             "brokered markets.",
@@ -9466,7 +9466,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "A disadvantage of using price multiples to value stocks is that:",
         "options": [
             "multiples are not easily calculated.",
@@ -9479,7 +9479,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Valuation",
         "text": "All else being equal, an increase in which of the following most likely increases a \ncompany's enterprise value?",
         "options": [
             "Book value of debt",
@@ -9492,7 +9492,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "The Global Industry Classification Standard (GICS) classifies industries based on:",
         "options": [
             "statistical similarities.",
@@ -9505,7 +9505,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Index Construction",
         "text": "Which of the following indexes is composed of futures contracts?",
         "options": [
             "Commodity index",
@@ -9518,7 +9518,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "External factors affecting an industry's growth most likely include:",
         "options": [
             "cost structures.",
@@ -9531,7 +9531,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Which of the following is most likely used to raise funds for a capital project?",
         "options": [
             "Equity issuance only",
@@ -9544,7 +9544,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "In dividend payment chronology, the ex-dividend date most likely comes after the:",
         "options": [
             "record date.",
@@ -9557,7 +9557,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers the following information about an industry and three comparable \ncompanies within the industry: \n \nBased only on this information, the most overvalued company is:",
         "options": [
             "Company 1.",
@@ -9570,7 +9570,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Which of the following industries or sectors is most likely classified as cyclical?",
         "options": [
             "Utilities",
@@ -9583,7 +9583,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "An increase in shares held by controlling shareholders most likely impacts the \nconstituent weightings of a(n):",
         "options": [
             "price-weighted index.",
@@ -9596,7 +9596,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Free Cash Flow Valuation",
         "text": "Free-cash-flow-to-equity is equal to cash flow from operations:",
         "options": [
             "less fixed capital investment less net borrowing.",
@@ -9609,7 +9609,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "Over time, which of the following indexes most likely has portfolio weights that shift \naway from securities that have increased in relative value and toward securities that \nhave fallen in relative value? A:",
         "options": [
             "price-weighted index",
@@ -9622,7 +9622,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market-Based Valuation: Price and Enterprise Value Multiples",
         "text": "An analyst gathers the following data for three companies in the same industry (in \nmillions): \n \nBased on enterprise value multiples, which of the three companies is likely the most \nundervalued?",
         "options": [
             "Company 1",
@@ -9635,7 +9635,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "Which of the following statements best describes hedge fund indexes?",
         "options": [
             "Index constituents are regulated entities",
@@ -9648,7 +9648,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "A market where security prices fully reflect all publicly known and available \ninformation, but not private information, is:",
         "options": [
             "weak-form efficient.",
@@ -9661,7 +9661,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "In a highly efficient market, a passive investment strategy most likely has:",
         "options": [
             "higher transaction costs than an active strategy.",
@@ -9674,7 +9674,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Fundamental analysis most likely:",
         "options": [
             "uses stock price patterns to trade.",
@@ -9687,7 +9687,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Which of the following is considered an external influence on industry growth?",
         "options": [
             "Social trends",
@@ -9700,7 +9700,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "In a weak-form efficient market, which of the following information is reflected in \nsecurity prices?",
         "options": [
             "Historical prices only",
@@ -9713,7 +9713,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "Security market indices most likely serve as proxies for:",
         "options": [
             "nonsystematic risk.",
@@ -9726,7 +9726,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "When constructing an equity index, each company's weight in the index is dependent \non its number of shares outstanding if the index is:",
         "options": [
             "price weighted.",
@@ -9739,7 +9739,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "All else being equal, which of the following preference shares pays the lowest \ndividend?",
         "options": [
             "Putable",
@@ -9752,7 +9752,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Primary and Secondary Markets",
         "text": "When an investment bank guarantees the sale of an entire issue at a negotiated \noffering price, this best describes a(n):",
         "options": [
             "rights offering.",
@@ -9765,7 +9765,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Management is more likely to focus on short-term results instead of long-term \nearnings growth if a company raises equity through:",
         "options": [
             "venture capital.",
@@ -9778,7 +9778,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "An analyst gathers the following information about a security index: \n \nIf the index's value is 100 at the beginning of Period 1, the index's value at the end \nof Period 3 is closest to:",
         "options": [
             "103.",
@@ -9791,7 +9791,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "If the cost to fill trades increases, the market's informational efficiency most likely:",
         "options": [
             "decreases.",
@@ -9804,7 +9804,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers the following information about a company and the economy: \n \nThe best estimate of the company's dividend growth rate is:",
         "options": [
             "5.8%.",
@@ -9817,7 +9817,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Primary and Secondary Markets",
         "text": "Financial intermediaries that help their clients arrange seasoned securities offerings \nare best known as:",
         "options": [
             "investment banks.",
@@ -9830,7 +9830,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Over the long run, if a market is semi-strong-form efficient, which of the following \ninvestment strategies should result in the highest return to investors? A(n):",
         "options": [
             "passive investment strategy",
@@ -9843,7 +9843,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "A multi-market index is most appropriately used as a benchmark:",
         "options": [
             "for a single country ETF.",
@@ -9856,7 +9856,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An investor gathers the following information about a company and its common stock: \n \nIf the required rate of return is 10%, using the Gordon growth model, the intrinsic \nvalue per share of the stock is closest to:",
         "options": [
             "$14.56.",
@@ -9869,7 +9869,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "According to the efficient market hypothesis, if market prices reflect private \ninformation, the market is most likely:",
         "options": [
             "strong-form efficient.",
@@ -9882,7 +9882,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "The Global Industry Classification Standard's broadest level of classification is a(n):",
         "options": [
             "sector.",
@@ -9895,7 +9895,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "In which of the following forms of market efficiency are investors able to \nconsistently outperform the market using fundamental analysis?",
         "options": [
             "Weak-form market efficiency",
@@ -9908,7 +9908,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "Which of the following indexes are regularly rebalanced by the index provider?",
         "options": [
             "Price-weighted indexes only",
@@ -9921,7 +9921,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Which of the following best describes an industry-level force in a thorough industry \nanalysis?",
         "options": [
             "Threat of new entrants",
@@ -9934,7 +9934,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Indices",
         "text": "An analyst gathers the following information about a price-weighted index composed \nof three stocks: \n \nThe index's price return is closest to:",
         "options": [
             "5.6%.",
@@ -9947,7 +9947,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry Analysis",
         "text": "Commercial industry classification systems are most likely updated:",
         "options": [
             "less frequently than government classification systems.",
@@ -9960,7 +9960,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Return Concepts",
         "text": "A company's net income available to ordinary shareholders divided by the average \ntotal book value of equity is best described the:",
         "options": [
             "company's intrinsic value.",
@@ -9973,7 +9973,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Indices",
         "text": "A world equity index is most likely considered a:",
         "options": [
             "style index.",
@@ -9986,7 +9986,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "All else being equal, which of the following preference share characteristics may \ncontain provisions that entitle shareholders to an additional distribution of the \ncompany's assets upon liquidation, above the par value?",
         "options": [
             "Callable",
@@ -9999,7 +9999,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "A three-stage dividend discount model is most appropriate for valuing a company that \nis:",
         "options": [
             "mature.",
@@ -10012,7 +10012,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Company Analysis",
         "text": "A company's management is most likely able to directly influence the company's:",
         "options": [
             "book value.",
@@ -10025,7 +10025,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Equity Valuation: Concepts and Basic Tools",
         "text": "In contrast to the market value of an equity security, intrinsic value is most likely:",
         "options": [
             "not known with certainty.",
@@ -10038,7 +10038,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Types of Securities and Markets",
         "text": "Short sellers are most likely exposed to:",
         "options": [
             "unlimited gains and limited losses.",
@@ -10051,7 +10051,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Types of Securities and Markets",
         "text": "In which markets are government bills most likely traded?",
         "options": [
             "Money markets",
@@ -10064,7 +10064,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Equity Valuation: Concepts and Basic Tools",
         "text": "Enterprise value is most likely associated with:",
         "options": [
             "multiplier models.",
@@ -10077,7 +10077,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Types of Securities and Markets",
         "text": "A characteristic of real assets is that they most likely:",
         "options": [
             "trade in liquid markets.",
@@ -10090,7 +10090,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Types of Securities and Markets",
         "text": "If a European investor believes the US equity market will decline in the next three \nmonths, the transaction most likely to allow the investor to profit from this view is \nthe purchase of a:",
         "options": [
             "put option.",
@@ -10103,7 +10103,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization",
         "text": "If the ability of clients to identify competent agents increases, the need for \nregulation most likely:",
         "options": [
             "decreases.",
@@ -10116,7 +10116,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Equity Valuation: Concepts and Basic Tools",
         "text": "An analyst gathers the following book value information about a company and its \ncommon shares: \n \nThe analyst estimates the market value of net fixed assets to be 125% of book value \nand the market value of inventories to be 90% of book value. If the stock is currently \ntrading at €19.50 per share, the asset-based value per share is most likely:",
         "options": [
             "less than the market price.",
@@ -10129,7 +10129,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Return on Investment and Valuation",
         "text": "The book value of a company's equity is:",
         "options": [
             "the present value of its future cash flows.",
@@ -10142,7 +10142,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Return on Investment and Valuation",
         "text": "A company's ROE most likely decreases if shareholders' equity increases at:",
         "options": [
             "a lower rate than net income.",
@@ -10155,7 +10155,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Equity Market Indices",
         "text": "An equity index representing groups of securities classified on the basis of \nmarket capitalization is most likely a:",
         "options": [
             "style index.",
@@ -10168,7 +10168,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers the following information about common shares: \n \nIf the investor's required rate of return is 9%, the company's justified forward P/E \nis:",
         "options": [
             "less than the peer group's justified forward P/E.",
@@ -10181,7 +10181,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "An analyst gathers the following information about a company's shares: \n \nAll else being equal, at the beginning of trading on 20 August, the company's shares \nwill most likely trade at:",
         "options": [
             "$28.50.",
@@ -10194,7 +10194,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "An analyst gathers the following information about a company's dividend payment \nchronology: \n \nThe last date an investor can purchase the company's stock and be entitled to receive \nthe dividend is most likely:",
         "options": [
             "1 August.",
@@ -10207,7 +10207,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "The January effect is an example of:",
         "options": [
             "loss aversion.",
@@ -10220,7 +10220,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An investor gathers the following data regarding three stocks: \n \nAll else being equal, the investor should purchase:",
         "options": [
             "Stock 1.",
@@ -10233,7 +10233,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Behavioral finance:",
         "options": [
             "suggests that behavioral biases only affect novice investors.",
@@ -10246,7 +10246,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers and estimates the following information about a company's \nstock: \n \nIf the estimated stock value using the Gordon growth model is $92 per share, the \nrequired return on this stock is closest to:",
         "options": [
             "8.35%.",
@@ -10259,7 +10259,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "The first date that a share trades without the declared dividend is the:",
         "options": [
             "ex-date.",
@@ -10272,7 +10272,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "A $25 par value non-callable, non-convertible preferred share pays an annual \ndividend rate of 5%. If the required rate of return is 4%, the preferred share's \nintrinsic value is closest to:",
         "options": [
             "$25.25.",
@@ -10285,7 +10285,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Types and Characteristics of Equity Securities",
         "text": "An investor buys a security on margin posting 50% of the initial price as equity. \nAll else being equal, if the price declines 25%, the investor's new leverage ratio is \nclosest to:",
         "options": [
             "2.",
@@ -10298,7 +10298,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Price-to-Earnings Multiples in Valuation",
         "text": "When using a multiplier model, the fundamental variable is stated on:",
         "options": [
             "a trailing basis only.",
@@ -10311,7 +10311,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Types and Characteristics of Equity Securities",
         "text": "For a security position purchased on margin, the leverage ratio is the ratio of the \nvalue of the position to:",
         "options": [
             "the value of equity in the position.",
@@ -10324,7 +10324,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "A non-callable, non-convertible perpetual preferred share pays a level dividend of \n$1.20 with a current market price of $20. If an investor has a required rate of return \nof 6%, the preferred shares are most likely:",
         "options": [
             "undervalued.",
@@ -10337,7 +10337,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "Broker 1 has a minimum margin requirement of 62.5% and Broker 2 has a maximum \nleverage ratio of 1.6. The maximum financial leverage possible with Broker 1 is:",
         "options": [
             "less than the maximum financial leverage with Broker 2.",
@@ -10350,7 +10350,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "If securities are purchased on margin with a maximum leverage ratio of 1.75, the \nminimum margin requirement is closest to:",
         "options": [
             "43%.",
@@ -10363,7 +10363,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Which of the following market anomalies is best described as a time -series \nanomaly?",
         "options": [
             "Size effect",
@@ -10376,7 +10376,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Price-to-Earnings Multiples",
         "text": "An analyst gathers the following information about a company: \n \nThe justified forward P/E ratio for the company's stock is closest to:",
         "options": [
             "5.7.",
@@ -10389,7 +10389,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "A trader uses margin to purchase a stock for $50 by posting 30% equity. If the \nfirst margin call occurs when the price falls below $43.75, the maintenance margin \nrequirement is closest to:",
         "options": [
             "13%.",
@@ -10402,7 +10402,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "A trader buys a stock on margin with the following conditions: \n \nIf the share price declines, the highest price at which the trader will receive a margin \ncall is closest to:",
         "options": [
             "$12.50.",
@@ -10415,7 +10415,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "The observation that a large-capitalization company's stock price is inflated after \nthe company releases unexpected good news at year end is most likely related to the:",
         "options": [
             "value effect.",
@@ -10428,7 +10428,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "Order matching rules in order-driven trading systems are used to:",
         "options": [
             "match buy orders to sell orders.",
@@ -10441,7 +10441,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "Which of the following is an objective of market regulation?",
         "options": [
             "Controlling agency problems only",
@@ -10454,7 +10454,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Price-to-Earnings Multiples",
         "text": "An analyst gathers the following information about a company and its historical \nprice multiples: \n \nBased only on this information, if the share price is $30, the company's shares are \nmost likely overvalued based on:",
         "options": [
             "P/B.",
@@ -10467,7 +10467,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Porter's five determinants of the intensity of competition in an industry do not \ninclude the:",
         "options": [
             "power of buyers.",
@@ -10480,7 +10480,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "A trader reports the following information about an equity investment which was \nsold after 1 year: \n \nThe trader's equity value as a result of the trade is closest to:",
         "options": [
             "$460.",
@@ -10493,7 +10493,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "If a security’s intrinsic value is $55 per share and is currently selling for $50 per \nshare, the security is:",
         "options": [
             "undervalued.",
@@ -10506,7 +10506,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Convertible preference shares:",
         "options": [
             "are popular in financing venture capital and private equity transactions.",
@@ -10519,7 +10519,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "If the price of a stock bought on 30% margin increases by 40%, the return on \nequity to the buyer is closest to:",
         "options": [
             "52%.",
@@ -10532,7 +10532,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "The size effect anomaly results when it is observed that on a risk-adjusted basis \nsmall cap companies tend to:",
         "options": [
             "underperform equities of large-cap companies.",
@@ -10545,7 +10545,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Within Porter’s five forces framework, the power of buyers within an industry is \nmost likely influenced by the:",
         "options": [
             "industry concentration.",
@@ -10558,7 +10558,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "An investor purchases 1,000 shares of a non-dividend paying stock on margin and \nsells them after one year as follows: \n \nIgnoring commissions, the investor's holding period return is closest to:",
         "options": [
             "–45%.",
@@ -10571,7 +10571,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "An analyst gathers the following information about a market -capitalization-\nweighted index and one of its four constituent stocks: \n \nIf the stock price is $30 per share and the index value is 100, the stock's weight in \nthe index is closest to:",
         "options": [
             "25%.",
@@ -10584,7 +10584,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "The beginning value for an index is 1540 and the ending value is 1575. If the \nincome for the period is 55, the total return of the index is closest to:",
         "options": [
             "1.3%.",
@@ -10597,7 +10597,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "If investors can successfully predict future asset prices based on past prices, \nmarkets are most likely:",
         "options": [
             "inefficient.",
@@ -10610,7 +10610,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "A company's current dividend (D0) of $3 per share is expected to grow 20% per \nyear for three years, then 5% per year thereafter. If the required rate of return is \n10%, using a multistage dividend discount model, the intrinsic value of the stock at \nthe end of Year 3 is closest to:",
         "options": [
             "$81.79.",
@@ -10623,7 +10623,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "A disadvantage of an equal-weighted index is that:",
         "options": [
             "maintaining equal weights requires frequent reconstitution of the index.",
@@ -10636,7 +10636,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "An analyst gathers the following information about a company's non-callable, non-\nconvertible preferred stock: \n \nIf the stock's intrinsic value is €125, the company's semi-annual dividend on the \npreferred stock is closest to:",
         "options": [
             "€6.62.",
@@ -10649,7 +10649,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "In contrast to a public company, a company that has gone private most likely:",
         "options": [
             "faces greater regulatory costs.",
@@ -10662,7 +10662,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "An analyst gathers the following information about an equal -weighted index \ncomposed of three stocks: \n \nIf there is a 2% return from dividends for each of the three stocks, the total return \nof the index is:",
         "options": [
             "0%.",
@@ -10675,7 +10675,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Efficiency",
         "text": "Which of the following factors would most likely increase market efficiency? \nLimits on:",
         "options": [
             "short selling",
@@ -10688,7 +10688,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Security Market Indexes",
         "text": "Which of the following index weighting schemes most likely causes a bias in the \nindex when high-priced stocks split?",
         "options": [
             "Price weighted",
@@ -10701,7 +10701,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "In the secondary market, funds flow from:",
         "options": [
             "traders to traders.",
@@ -10714,7 +10714,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "When issuers sell securities to investors:",
         "options": [
             "they trade in the primary market.",
@@ -10727,7 +10727,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Market Organization and Structure",
         "text": "In a well-functioning financial system, changes in asset prices primarily reflect \nchanges in:",
         "options": [
             "execution costs.",
@@ -10740,7 +10740,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "When a company raises common equity capital in the public market, the company \nmost likely:",
         "options": [
             "moves money from the present to the future.",
@@ -10753,7 +10753,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Preference shares are less risky than common shares because preference shares \nhave:",
         "options": [
             "fixed dividends.",
@@ -10766,7 +10766,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "The Gordon growth model assumes a dividend growth rate:",
         "options": [
             "less than the required rate of return.",
@@ -10779,7 +10779,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Private equity securities most likely:",
         "options": [
             "are listed on public exchanges.",
@@ -10792,7 +10792,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Discounted Dividend Valuation",
         "text": "The Gordon growth model is most appropriate for valuing the equity of a dividend-\npaying:",
         "options": [
             "electric utility firm.",
@@ -10805,7 +10805,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "If a corporation is financed with both debt and equity, which of the following must \nthe corporation pay?",
         "options": [
             "Interest only",
@@ -10818,7 +10818,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "A company that produces goods to be marketed by other firms is best described as \nhaving a:",
         "options": [
             "value added reseller business model.",
@@ -10831,7 +10831,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "\"Economic\" profit is best described as the return to a firm's owners:",
         "options": [
             "in the form of retained earnings and distributions to the owners.",
@@ -10844,7 +10844,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "The purchase of which of the following shares most likely requires investors to be \naccredited?",
         "options": [
             "Public company shares only",
@@ -10857,7 +10857,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "Which best describes business growth that attracts more customers and merchants, \ncontributing to further growth in the business?",
         "options": [
             "Crowdsourcing",
@@ -10870,7 +10870,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Overview of Equity Securities",
         "text": "Private companies most likely have:",
         "options": [
             "less share price transparency compared to public companies.",
@@ -10883,7 +10883,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
-        "lm": "LM - Equity Investments",
+        "lm": "Industry and Company Analysis",
         "text": "The business model of a knowledge aggregation company that allows its users to \ncontribute directly to online content is best referred to as a:",
         "options": [
             "platform business model.",
@@ -10896,7 +10896,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Overview of Fixed Income Securities",
         "text": "A bond that allows the issuer to pay interest in the form of additional amounts of the \nexisting bond issue rather than a cash payment best describes a:",
         "options": [
             "step-up coupon bond.",
@@ -10909,7 +10909,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "In the event of default, investors in covered bonds most likely have recourse against:",
         "options": [
             "the issuer only.",
@@ -10922,7 +10922,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Valuation",
         "text": "An investor takes a long position in a risk-free bond and in a forward contract on a \nnon-dividend-paying stock. The forward contract is priced at £50. The annual risk-\nfree rate is 10%. A nine-month put option on the stock with an exercise price of £47 \ntrades at £4. The price of a nine-month call option on the stock with an exercise \nprice of £47 is closest to:",
         "options": [
             "£6.79.",
@@ -10935,7 +10935,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Which of the following is most accurate?",
         "options": [
             "A forward contract is traded on an organized exchange.",
@@ -10948,7 +10948,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "A commodities producer selling its inventory forward in anticipation of lower prices \nin the future is an example of a:",
         "options": [
             "fair value hedge.",
@@ -10961,7 +10961,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Valuation",
         "text": "Which of the following is equal to the greater of zero or the present value of the \nexercise price minus the spot price?",
         "options": [
             "The lower bound of a put option",
@@ -10974,7 +10974,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Which of the following most likely has an embedded derivative in its structure?",
         "options": [
             "A put option",
@@ -10987,7 +10987,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Which of the following derivatives most likely requires a payment to be made at the \ninitiation of the contract? A(n):",
         "options": [
             "swap",
@@ -11000,7 +11000,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Forward and Futures Markets",
         "text": "Basis risk is best described as a(n):",
         "options": [
             "investor's inability to meet a margin call due to a lack of funds.",
@@ -11013,7 +11013,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Which of the following derivative contracts is best described as a contingent claim?",
         "options": [
             "A swap contract",
@@ -11026,7 +11026,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Valuation",
         "text": "An investor buys a call option for $4 that has an exercise price of $27. At expiration, \nif the stock price is $22, the call option payoff is:",
         "options": [
             "negative.",
@@ -11039,7 +11039,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Valuation",
         "text": "Which of the following derivatives have a non-linear payoff?",
         "options": [
             "Contingent claims only",
@@ -11052,7 +11052,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "The potential divergence between the expected value of a derivative instrument \nversus an underlying or hedged transaction best describes:",
         "options": [
             "basis risk.",
@@ -11065,7 +11065,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "With respect to hedge accounting designation types, a:",
         "options": [
             "foreign exchange forward to hedge forecasted sales is an example of a fair value \nhedge.",
@@ -11078,7 +11078,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Which of the following statements about derivatives is most accurate?",
         "options": [
             "Derivatives reduce the efficiency of price discovery for the underlying",
@@ -11091,7 +11091,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Forward and Futures Markets",
         "text": "Which of the following asset classes is most likely to have a convenience yield?",
         "options": [
             "Commodities",
@@ -11104,7 +11104,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Counterparty default risk is most likely lowest for which of the following types of \nderivatives?",
         "options": [
             "Swaps",
@@ -11117,7 +11117,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Markets and Contracts",
         "text": "When the strike price of a call option is lower, the likelihood of the option expiring \nin-the-money is:",
         "options": [
             "lower.",
@@ -11130,7 +11130,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Principles of Derivative Pricing and Valuation",
         "text": "Derivatives are typically priced by forming a hedge involving the underlying asset and \na derivative such that the combination must pay the:",
         "options": [
             "risk-free rate.",
@@ -11143,7 +11143,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "The potential divergence between the cash flow timing of a derivative instrument \nversus its underlying best describes:",
         "options": [
             "basis risk.",
@@ -11156,7 +11156,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Markets and Contracts",
         "text": "Before expiration, if the price of the underlying is above the exercise price, the \nEuropean put option has a positive:",
         "options": [
             "time value.",
@@ -11169,7 +11169,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Arbitrage, Replication, and Put-Call Parity",
         "text": "According to put-call-forward parity, the payoff on a fiduciary call is equivalent to \nthe payoff on a portfolio consisting of:",
         "options": [
             "a long call and a short risk-free bond.",
@@ -11182,7 +11182,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Compared to over-the-counter derivatives, exchange-traded derivatives:",
         "options": [
             "are less standardized.",
@@ -11195,7 +11195,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Swaps",
         "text": "A series of forward rate agreements and an interest rate swap contract covering the \nsame periods and using the same market reference rate will most likely have the \nsame:",
         "options": [
             "fixed rates.",
@@ -11208,7 +11208,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "The value of a forward contract at initiation is most likely equal to:",
         "options": [
             "zero.",
@@ -11221,7 +11221,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Swaps",
         "text": "Which of the following derivatives realize a gain as the market reference rate rises \nabove the initial fixed rate?",
         "options": [
             "Long forward rate agreements only",
@@ -11234,7 +11234,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "In the over-the-counter derivatives market, most transactions occur between end \nusers and:",
         "options": [
             "dealers.",
@@ -11247,7 +11247,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Swaps",
         "text": "Which of the following statements is most accurate? A standard interest rate swap \nhas:",
         "options": [
             "a symmetric payoff profile.",
@@ -11260,7 +11260,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Option Markets and Contracts",
         "text": "The upper bound of a call price is the:",
         "options": [
             "exercise price.",
@@ -11273,7 +11273,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "The following portfolios contain a company's stock and a derivative on the stock: \n \nThe portfolio containing a derivative acting as a firm commitment to hedge the stock \nis most likely:",
         "options": [
             "Portfolio 1.",
@@ -11286,7 +11286,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "A futures contract’s:",
         "options": [
             "mark-to-market is not settled until maturity.",
@@ -11299,7 +11299,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "If the net cost of carry is zero, the forward price of a commodity is most likely:",
         "options": [
             "less than the commodity's spot price compounded at the risk-free rate over the \nlife of the contract.",
@@ -11312,7 +11312,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "Long futures contracts are more attractive than long forward positions for the same \nunderlying and maturity when futures prices and interest rates are:",
         "options": [
             "negatively correlated.",
@@ -11325,7 +11325,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "The differential between forward and futures prices is determined by which of the \nfollowing?",
         "options": [
             "Interest rate volatility only",
@@ -11338,7 +11338,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Interest Rate Swaps",
         "text": "From the fixed-rate receiver's perspective, if the market reference rate increases, \nthe value of a swap contract:",
         "options": [
             "decreases.",
@@ -11351,7 +11351,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "An analyst gathers the following information: \nThe current spot price of crude oil is $120 per barrel. \nThe risk-free rate is 3% with annual compounding. \nA futures contract has 182 days until settlement. \nThe storage cost is $5 per barrel, payable at the end of the futures contract. \nBased on 365 days per year, the futures price per barrel of crude oil is closest to:",
         "options": [
             "$126.78.",
@@ -11364,7 +11364,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Most derivatives pricing models are established on the foundation that:",
         "options": [
             "arbitrage opportunities exist.",
@@ -11377,7 +11377,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "Which of the following is most accurate regarding a call option replication strategy?",
         "options": [
             "The strategy requires adjustment over the life of the option contract based on \nthe likelihood of exercise",
@@ -11390,7 +11390,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "An analyst collects the following information: \n \nBased on a one-period binomial pricing model, which of the following has the largest \npayoff?",
         "options": [
             "Put option following an up move",
@@ -11403,7 +11403,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Interest Rate Swaps",
         "text": "A $10 million interest rate swap with annual payments has a fixed swap rate of 1.95%. \nThe implied forward rates are: \n \nThe periodic settlement value in Year 3 for the fixed-rate payer is expected to be \nclosest to:",
         "options": [
             "–$95,000.",
@@ -11416,7 +11416,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "Which of the following best describes put–call–forward parity?",
         "options": [
             "The present value of the exercise price plus the call price equals the put price \nplus the underlying price.",
@@ -11429,7 +11429,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "Consider a put option selling for $2 in which the exercise price is $45. What is the \nprofit for a put buyer if the price of the underlying at expiration is $41?",
         "options": [
             "–$2",
@@ -11442,7 +11442,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "Based on put-call parity, which of the following is equivalent to a long position in the \nunderlying asset?",
         "options": [
             "Long call, long put, and short bond",
@@ -11455,7 +11455,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "Which of the following factors affects the option price when using a binomial model? \nThe:",
         "options": [
             "risk-free rate.",
@@ -11468,7 +11468,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "An end user seeking to hedge a specific underlying exposure having non-standard size \nand settlement dates would most likely trade on a(n):",
         "options": [
             "futures market.",
@@ -11481,7 +11481,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "A forward agreement has the following terms: \n \nAt expiration, if the spot price is $282, the value to the seller is:",
         "options": [
             "–$6,000.",
@@ -11494,7 +11494,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "A trader sells a call option on a stock index with a strike price of 2,400 for $25. The \nvalue of a one-point move in the index is $1. At expiration, the stock index is trading \nat 2,450. The trader's profit is:",
         "options": [
             "−$50.",
@@ -11507,7 +11507,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "An investor buys a call for $5.75 that has a strike price of $130. If the value at \nexpiration for this call is $17.80, the price of the underlying at expiration is closest \nto:",
         "options": [
             "$112.20.",
@@ -11520,7 +11520,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "An investor sells a European put option with the following characteristics: \n \nIf the price of the underlying at expiration is 1,340, the profit for the seller is:",
         "options": [
             "10.",
@@ -11533,7 +11533,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "An analyst gathers the following information about three portfolios each consisting \nof two derivatives on the same underlying: \n \nAll else being equal, which portfolio will benefit from an increase in price of the \nunderlying?",
         "options": [
             "Portfolio 1",
@@ -11546,7 +11546,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Forward Commitments and Contingent Claims",
         "text": "All else being equal, the cost of carry on a dividend-paying stock is:",
         "options": [
             "lower than the cost of carry on a stock with no dividends.",
@@ -11559,7 +11559,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "An investor collects the following information about a put option: \nStock price at initiation $220 \nStrike price $210 \nOption premium $9 \nAt expiration, if the price of the stock is $200, the investor's profit from buying \nthe put is:",
         "options": [
             "–$19.",
@@ -11572,7 +11572,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "Which of the following interest rate derivatives most likely has the largest convexity \nbias?",
         "options": [
             "Forward rate agreement on a 1-month market reference rate",
@@ -11585,7 +11585,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Valuation of Contingent Claims",
         "text": "The upper bound of a call value is the:",
         "options": [
             "underlying's price.",
@@ -11598,7 +11598,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Derivative Markets and Instruments",
         "text": "Which party in an option contract has the right to sell the underlying stock at the \nexercise price?",
         "options": [
             "The buyer of a call option",
@@ -11611,7 +11611,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Pricing and Valuation of Forward Commitments",
         "text": "All else being equal, if the risk-free rate increases immediately after the inception \nof a forward contract, the value of the contract to the forward buyer will:",
         "options": [
             "decrease.",
@@ -11624,7 +11624,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Fixed-Income Issuance and Trading",
         "text": "If an issuer is required to retire a specified portion of the bondÕs principal each year, \nthe bond most likely:",
         "options": [
             "is callable.",
@@ -11637,7 +11637,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Yield and Return Measures",
         "text": "A five-year semiannual bond has a yield to maturity of 8%. Converted to a quarterly \nperiodicity, the yield to maturity is closest to:",
         "options": [
             "1.98%.",
@@ -11650,7 +11650,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Maturity and Duration",
         "text": "The key rate duration best measures a bond's sensitivity to a change in the:",
         "options": [
             "level of the yield-to-maturity.",
@@ -11663,7 +11663,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Yield and Return Measures",
         "text": "A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic \nof –212. If the market yield increases by 75 basis points, the price of this bond is \nclosest to:",
         "options": [
             "93.7.",
@@ -11676,7 +11676,7 @@ const SAMPLE_QUESTIONS = [
     {
         "source": "Vikas Vohra",
         "subject": "Derivatives",
-        "lm": "LM - Derivatives",
+        "lm": "Yield and Return Measures",
         "text": "If interest rates rise over the holding period, the total return of a coupon bond held \nuntil maturity is most likely to be:",
         "options": [
             "less than the yield to maturity at purchase.",
