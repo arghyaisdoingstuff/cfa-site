@@ -269,7 +269,7 @@ const app = {
 
     seedSampleQuestions: async function () {
         // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v30-force-cache-clear';
+        const SEED_VERSION = 'v31-confidence-fix';
         const seeded = localStorage.getItem('cfaSeedVersion');
         if (seeded !== SEED_VERSION) {
             // Clear ALL existing questions and attempts so we start fresh with the new set
@@ -849,13 +849,20 @@ const app = {
     },
 
     saveAttempt: async function(selectedIndex, timeTaken, confidence) {
-        const pa = this._pendingAttempt; if(!pa) return;
-        await db.attempts.add({ ...pa, confidence });
-        this._pendingAttempt = null;
-        // Disable confidence buttons and show next
-        document.querySelectorAll('.confidence-btn').forEach(b=>b.disabled=true);
-        document.getElementById('next-btn').style.display='inline-flex';
-        await this.updateSidebarStats();
+        if(!this._pendingAttempt) return;
+        this._pendingAttempt.confidence = confidence;
+        
+        // Update visual selection state
+        document.querySelectorAll('.confidence-btn').forEach(b => {
+            b.classList.remove('ring-2', 'ring-offset-2', 'ring-blue-500', 'opacity-100');
+            b.classList.add('opacity-50');
+            if (b.classList.contains(confidence)) {
+                b.classList.remove('opacity-50');
+                b.classList.add('ring-2', 'ring-offset-2', 'ring-blue-500', 'opacity-100');
+            }
+        });
+        
+        document.getElementById('next-btn').style.display = 'inline-flex';
     },
 
     skipPracticeQuestion: function() {
@@ -866,8 +873,11 @@ const app = {
         this.renderPracticeQuestion(document.getElementById('app-container'));
     },
     nextPracticeQuestion: async function() {
-        // If confidence not selected yet, save without it
-        if (this._pendingAttempt) { await db.attempts.add(this._pendingAttempt); this._pendingAttempt=null; }
+        if (this._pendingAttempt) {
+            await db.attempts.add(this._pendingAttempt);
+            this._pendingAttempt = null;
+            await this.updateSidebarStats();
+        }
         this.quizIndex++;
         await this.renderPracticeQuestion(document.getElementById('app-container'));
     },
