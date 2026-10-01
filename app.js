@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v44-remove-mocks';
+        const SEED_VERSION = 'v45-fix-navigator';
         const seeded = localStorage.getItem('cfaSeedVersion');
         
         if (seeded !== SEED_VERSION) {
@@ -555,7 +555,7 @@ const app = {
     // ══════════════════════════════════════════
 
     renderMocks: async function(c) {
-        const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
+        const allQ = window._quizAllQ || await db.questions.toArray();
         const mockQs = allQ.filter(q => q.mockName);
         const mocks = [...new Set(mockQs.map(q => q.mockName))];
         
@@ -584,7 +584,8 @@ const app = {
     },
     
     startMock: async function(mockName, session) {
-        const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
+        this.quizMode = 'exam';
+        const allQ = window._quizAllQ || await db.questions.toArray();
         let q = allQ.filter(q => q.mockName === mockName && q.session === session);
         
         // Sort authentically by CFA Official Subject Order
@@ -612,6 +613,7 @@ const app = {
             return;
         }
         window._quizAllQ = allQ;
+        this.quizMode = 'practice';
 
         // Pre-compute attempt data for status filtering
         const attempts    = await db.attempts.toArray();
@@ -630,21 +632,6 @@ const app = {
                 <div class="stat-card">
                     <h3 class="font-bold text-slate-800 dark:text-white text-lg mb-1">Configure Your Session</h3>
                     <p class="text-slate-400 dark:text-zinc-500 text-sm mb-6">Choose a mode, filter by source/topic, then start.</p>
-
-                    <!-- Mode -->
-                    <div class="mb-6">
-                        <label class="block text-xs font-semibold text-slate-500 dark:text-zinc-400 dark:text-zinc-500 uppercase tracking-wide mb-2">Mode</label>
-                        <div class="flex gap-3">
-                            <button onclick="app.setMode('practice')" id="mode-practice" class="mode-tab ${this.quizMode==='practice'?'active':''}">
-                                📝 Practice Mode
-                                <p class="text-xs font-normal opacity-70 mt-0.5">Instant feedback after each answer</p>
-                            </button>
-                            <button onclick="app.setMode('exam')" id="mode-exam" class="mode-tab ${this.quizMode==='exam'?'active':''}">
-                                🎯 Exam Mode
-                                <p class="text-xs font-normal opacity-70 mt-0.5">Answer all, review at end</p>
-                            </button>
-                        </div>
-                    </div>
 
                     <!-- Status filter -->
                     <div class="mb-5">
@@ -874,7 +861,7 @@ const app = {
                 </div>
                 <div class="flex items-center gap-2 mb-2">
                     <span class="text-sm text-slate-500 dark:text-zinc-400 dark:text-zinc-500 font-medium">Q${this.quizIndex+1} of ${this.quizQueue.length}</span>
-                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div><button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-500 dark:text-zinc-400 dark:text-zinc-500 bg-slate-200 hover:bg-slate-300 hover:text-slate-700 dark:text-zinc-200 rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
+                    <div class="flex-1 progress-bar-track"><div class="progress-bar-fill" style="width:${progress}%"></div></div><button id="skip-btn" onclick="app.skipPracticeQuestion()" class="ml-1 px-3 py-1 text-xs font-semibold text-slate-600 bg-slate-200 hover:bg-slate-300 hover:text-slate-800 dark:bg-zinc-800 dark:text-zinc-300 dark:hover:bg-zinc-700 dark:hover:text-white rounded-md transition-colors whitespace-nowrap active:scale-95 flex items-center gap-1"><svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 5l7 7-7 7M5 5l7 7-7 7"/></svg> Skip</button>
                 </div>
 
                 <!-- Question card (relative for pause overlay) -->
