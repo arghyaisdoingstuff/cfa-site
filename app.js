@@ -1133,7 +1133,10 @@ const app = {
         if (this._submitting) return; this._submitting = true;
         const unanswered = this.examAnswers.filter(a=>a===null).length;
         if (!auto && unanswered > 0) {
-            if (!confirm(`You have ${unanswered} unanswered question${unanswered>1?'s':''}. Submit anyway?`)) return;
+            if (!confirm(`You have ${unanswered} unanswered question${unanswered>1?'s':''}. Submit anyway?`)) {
+                this._submitting = false;
+                return;
+            }
         }
         this.stopTimer();
         // Save all attempts
