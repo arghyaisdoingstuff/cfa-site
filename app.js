@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v49-clean-seed';
+        const SEED_VERSION = 'v50-mock3-4';
         const seeded = localStorage.getItem('cfaSeedVersion');
 
         if (seeded !== SEED_VERSION) {
