@@ -9,8 +9,8 @@ body { overflow: hidden; }
 }
 
 /* ── Sidebar ── */
-.nav-link.active { background: rgba(255,255,255,0.12); color: #fff; font-weight: 600; }
-.nav-link.active svg { color: #f5c842; }
+.nav-link.active { background: #f1f5f9; color: #0f172a; font-weight: 600; }
+.nav-link.active svg { color: #3b82f6; }
 
 /* ── Option Buttons ── */
 .option-btn {
