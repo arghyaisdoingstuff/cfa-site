@@ -19680,5 +19680,3099 @@ const SAMPLE_QUESTIONS = [
         ],
         "correctAnswer": 0,
         "explanation": "5. A is correct because 𝑆\" + 𝑃\" = 𝐶\" + X / (1+r)^T. This relationship is known as put-call \nparity. Here 𝑆\" is the spot price, 𝑃\" is the put premium, X is the strike price and r is \nthe interest rate. \n𝑆\" + 𝑃\" = 𝐶\" + X / (1+r)^T \n40 + p0 = 10 + 60 / 1.03^1 \np0 = 10 + 60 / 1.03 - 40 \n= 28.25242718 = 28.25"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM1 - Introduction to Financial Statement Analysis",
+        "text": "Which of the following is most likely found in the management commentary?",
+        "options": [
+            "Forward-looking disclosures",
+            "Basis of preparation for the financial statements",
+            "Reasonable assurance whether the financial statements as a whole are free from material misstatement"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the management commentary, or MD&A, is a good starting place for understanding information in the financial statements. In particular, the forward-looking disclosures, such as those about planned capital expenditures, new store openings, or divestitures, can be useful in projecting a company's future performance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM1 - Introduction to Financial Statement Analysis",
+        "text": "Which of the following is most appropriately issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented?",
+        "options": [
+            "Adverse opinion",
+            "Qualified opinion",
+            "Disclaimer of opinion"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because \"[a]n adverse audit opinion is issued when an auditor determines that the financial statements materially depart from accounting standards and are not fairly presented.\""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM1 - Introduction to Financial Statement Analysis",
+        "text": "Which of the following statements is most accurate? The role of financial statement analysis is to:",
+        "options": [
+            "provide assurance that the audited financial statements are free from material error.",
+            "provide information about a company's performance, financial position, and changes in financial position.",
+            "evaluate the performance and financial position of a company for making investment, credit, and other economic decisions."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the role of financial statement analysis is to use financial reports prepared by companies, combined with other information, to evaluate the past, current, and potential performance and financial position of a company for the purpose of making investment, credit, and other economic decisions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM1 - Introduction to Financial Statement Analysis",
+        "text": "Common-size statements are most likely the output of which of the following phases of the financial statement analysis framework?",
+        "options": [
+            "Process data",
+            "Analyze/interpret the processed data",
+            "Develop and communicate conclusions and recommendations"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because common-size statements are an output of the \"process data\" phase of the financial statement analysis framework."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM1 - Introduction to Financial Statement Analysis",
+        "text": "Earnings calls are most likely sourced from:",
+        "options": [
+            "issuers.",
+            "public third parties.",
+            "proprietary third parties."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because \"earnings calls\" are considered to be from \"issuer sources\"."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "A company establishes a plan to dispose of one of its material lines of business and will have no further involvement in its operation. The income statement most likely reports the results of this line of business as: Mahakali Book Centre",
+        "options": [
+            "discontinued operations.",
+            "unusual or infrequent items.",
+            "continuing operations until the actual sale is performed."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because when a company disposes of or establishes a plan to dispose of one of its component operations and will have no further involvement in the operation, the income statement reports separately the effect of this disposal as a \"discontinued\" operation under both IFRS and US GAAP. Financial standards provide various criteria for reporting the effect separately, which are generally that the discontinued component must be separable both physically and operationally."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "The adjustments related to changes in the estimated residual value of a long-lived asset should be:",
+        "options": [
+            "handled prospectively.",
+            "shown separately on the income statement.",
+            "handled retrospectively unless impractical to do so."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in contrast to changes in accounting policies (such as whether to expense the cost of employee stock options), companies sometimes make changes in accounting estimates (such as the useful life of a depreciable asset). Changes in accounting estimates are handled prospectively, with the change affecting the financial statements for the period of change and future periods. No adjustments are made to prior statements, and the adjustment is not shown on the face of the income statement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "Which of the following may be reported using the modified retrospective method?",
+        "options": [
+            "Corrections of prior period errors",
+            "Changes in estimated useful life of PP&E",
+            "Changes in accounting policies based on the new revenue recognition standard"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because at times, standard setters issue new standards that require companies to change accounting policies. Depending on the standard, companies may be permitted to adopt the standards prospectively (in the future) or retrospectively (restate financial statements as though the standard existed in the past) while the new revenue recognition standard also offered companies the option of using a \"modified retrospective\" method of adoption. Under the modified retrospective approach, companies were not required to revise previously reported financial statements. Instead, they adjusted opening balances of retained earnings (and other applicable accounts) for the cumulative impact of the new standard."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "According to the converged standards for revenue recognition, a receivable is recognized on the seller's balance sheet when:",
+        "options": [
+            "a contract is signed.",
+            "all performance obligations have been met except for payment.",
+            "consideration is received in advance of transferring goods or services."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because it is only at the point when all performance obligations have been met except for payment that a receivable appears on the seller's balance sheet."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "For a company reporting on a calendar year basis, the receipt of a payment from a client in Year 1 for the delivery of services in Year 2 most likely increases:",
+        "options": [
+            "net income for Year 1.",
+            "liabilities as of 31 December of Year 1.",
+            "cash flow from operating activities for Year 2."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because there are situations when a company receives cash in advance and actually delivers the product or service later, perhaps over a period of time. In this case, the company would record a liability for unearned revenue when the cash is initially received, and revenue would be recognized as being earned over time as products and services are delivered."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "An analyst gathers the following information (in € millions) about a manufacturing company:\n\n| Cost of sales | 150 |\n| :--- | :--- |\n| Gross profit | 100 |\n| Selling, general, and administrative expenses | 30 |\n\nBased only on this information, applying vertical common-size analysis to the income statement, selling, general, and administrative expenses are:",
+        "options": [
+            "12%.",
+            "20%.",
+            "30%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a vertical common-size income statement divides each income statement item by revenue. Gross profit is the amount of revenue available after subtracting the costs of delivering goods or services. Accordingly, based only on this information, under vertical common-size analysis, selling, general, and administrative expenses can be expressed as = Selling, general, and administrative expenses / Revenue = Selling, general, and administrative expenses / (Gross profit + Cost of sales) = 30 / (100 + 150); or = 30 / 250 = 12%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "According to the converged accounting standards for revenue recognition, which of the following is the first of five steps in recognizing revenue?",
+        "options": [
+            "Determine the transaction price",
+            "Identify the contract with the customer",
+            "Identify the distinct performance obligations in the contract"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because this is the first of five steps in recognizing revenue according to the converged accounting standard for revenue recognition. The converged accounting standard for revenue recognition describes the application of five steps in recognizing revenue:\n1. Identify the contract(s) with a customer\n2. Identify the separate or distinct performance obligations in the contract\n3. Determine the transaction price\n4. Allocate the transaction price to the performance obligations in the contract\n5. Recognize revenue when (or as) the entity satisfies a performance obligation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "According to the converged standards for revenue recognition, which of the following might indicate that a seller has transferred control of an asset to a buyer at a point in time? The seller has:",
+        "options": [
+            "legal title of the asset.",
+            "a present right to payment for the asset.",
+            "significant risks and rewards of ownership related to the asset."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the entity (seller) will recognize revenue when it is able to satisfy the performance obligation by transferring control to the customer. Factor to consider when assessing whether the customer has obtained control of an asset at a point in time: Entity has a present right to payment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "A company entered into a 5-year construction contract with a total sales price of £3,000,000. The estimated total costs are £2,000,000 and the company incurred £500,000 actual costs in the first year. The company has extensive experience with similar types of contracts. Costs incurred provide an appropriate measure of progress toward completing the contract. Assuming it is highly probable that revenue will not be subsequently reversed, revenue recognized under the contract in Year 1 is most likely:",
+        "options": [
+            "£500,000.",
+            "£600,000.",
+            "£750,000."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the standard states that for performance obligations satisfied over time (e.g., where there is a long-term contract), revenue is recognized over time by measuring progress toward satisfying the obligation. The standard refers to performance obligations satisfied over time and requires that progress toward complete satisfaction of the performance obligation be measured based on input method such as the one illustrated here (recognizing revenue based on the proportion of total costs that have been incurred in the period) or an output method (recognizing revenue based on units produced or milestones achieved). Accordingly, the company has incurred 25% of the total expected costs (£0.5m / £2.0m); and will thus recognize £0.75m (25% × £3.0m) in revenue in Year 1."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "An analyst gathers the following information about two companies (in ¥ thousands):\n\n| | Company 1 | Company 2 |\n| :--- | :--- | :--- |\n| Revenue | 7,586,000 | 9,445,000 |\n| Cost of goods sold | 3,413,700 | 4,533,600 |\n| Research and development expense | 1,800,000 | 1,800,000 |\n| Advertising expense | 531,020 | 755,600 |\n\nBased only on the companies' common-size income statements, it appears that:",
+        "options": [
+            "Company 1 spent more on advertising than Company 2.",
+            "both companies spent equally on research and development.",
+            "Company 1 has a higher gross profit margin than Company 2."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because common-size analysis of the income statement can be performed by stating each line item on the income statement as a percentage of revenue. Accordingly, Company 1's gross profit margin = (7,586,000 –3,413,700) ÷ 7,586,000 = 55%, being higher than Company 2's gross profit margin of (9,445,000 –4,533,600)÷ 9,445,000 = 52%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "An analyst gathers the following information about a company's fiscal year ended 31 December:\n\n| Net income | €2,500,000 |\n| :--- | :--- |\n| Weighted average common shares outstanding during the year | 2,000,000 |\n| Convertible preferred shares outstanding | 1,000,000 |\n| Dividend per convertible preferred share | €1 |\n\nOne convertible preferred share is convertible into two common shares. If the tax rate is 40% and there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to:",
+        "options": [
+            "€0.38.",
+            "€0.48.",
+            "€0.63."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when a company has convertible preferred stock outstanding, diluted EPS is calculated using the if-converted method. The formula to calculate diluted EPS using the if-converted method for preferred stock is: Diluted EPS = Net income ÷ (Weighted average number of shares outstanding + New common shares that would have been issued at conversion). Therefore, Diluted EPS = €2,500,000 ÷ (2,000,000 + 2 × 1,000,000) = €2,500,000 ÷ 4,000,000 = €0.625 ≈ €0.63. However, diluted EPS, by definition, is always equal to or less than basic EPS. Basic EPS = (Net income – Preferred dividends) ÷ (Weighted average number of shares outstanding) = (€2,500,000 – 1,000,000 × €1) ÷ 2,000,000 = €1,500,000 ÷ 2,000,000 = €0.75. Therefore the convertible preferred stocks are dilutive and diluted EPS = €0.63."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "An analyst gathers the following information about a company for its fiscal year ended 31 December:\n\n| Net income | $1,250,000 |\n| :--- | :--- |\n| Preferred dividends declared and paid | $120,000 |\n| Par value of 8% convertible bonds | $750,000 |\n| Weighted average common shares outstanding | 500,000 |\n| Income tax rate | 30% |\n\nIf the bonds are convertible into 30,000 common shares and there are no other potentially dilutive securities outstanding, reported diluted EPS is closest to:",
+        "options": [
+            "$2.21.",
+            "$2.25.",
+            "$2.34."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because when a company has convertible debt outstanding, the diluted EPS calculation also uses the if-converted method. Diluted EPS is calculated as if the convertible debt had been converted at the beginning of the period. Diluted EPS = (Net Income + After-tax interest on convertible debt – Preferred Dividends) / (Weighted average number of shares outstanding + Additional common shares that would have been issued at conversion); or = [$1,250,000 + ($750,000 × 8% × (1 – 0.30)) – $120,000] / (500,000 + 30,000); or = [$1,250,000 + $42,000 – $120,000] / (500,000 + 30,000); or = $1,172,000 / 530,000 = $2.21. In addition, it is possible that some potentially convertible securities are antidilutive (i.e., their inclusion in the computation would result in an EPS higher than the company's basic EPS). Under IFRS and US GAAP, antidilutive securities are not included in the calculation of diluted EPS. Basic EPS = (Net income – Preferred dividends) / Weighted average number of shares outstanding = ($1,250,000 – $120,000) / 500,000 = $2.26. Because the diluted EPS is less than basic EPS, the securities (options) are not antidilutive and are included in the calculation of diluted EPS. Accordingly, reported diluted EPS is $2.21."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "An analyst gathers the following information about a company's fiscal year which ends on 31 December:\n\n| Net income | €445,000 |\n| :--- | :--- |\n| Cash dividends declared and paid on common shares | €35,000 |\n| Cash dividends declared and paid on preferred shares | €15,000 |\n| Weighted average number of common shares outstanding during the year | 41,000 |\n| Number of common shares outstanding on 31 December | 43,000 |\n\nBasic EPS for the year is closest to:",
+        "options": [
+            "€9.63.",
+            "€10.00.",
+            "€10.49."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because basic EPS = (Net income – Preferred dividends) / Weighted average number of shares outstanding; or = (€445,000 – €15,000) / 41,000 = €430,000 / 41,000 = €10.488 ≈ €10.49."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "An analyst gathers the following information about a company for the fiscal year ending 31 December:\n\n| Net income | $252 million |\n| :--- | :--- |\n| Cash dividends declared and paid on preferred shares | $8 million |\n| Cash dividends declared and paid on common shares | $16 million |\n| Weighted average number of common shares outstanding | 400 million |\n\nBasic EPS for the year is:",
+        "options": [
+            "$0.57.",
+            "$0.59.",
+            "$0.61."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Basic EPS = (Net income – Preferred dividends) / Weighted average number of shares outstanding = (252 – 8) / 400 = 0.61 (pp. 101-102, Example 6)"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "Stock options issued by a company must be antidilutive when the:",
+        "options": [
+            "options are outstanding for the entire fiscal year.",
+            "options' exercise price is less than the average market price of the stock during the period.",
+            "options' exercise proceeds could purchase more shares than would be issued through option exercise."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because for stock options, diluted EPS = (Net income – Preferred dividends) / [Weighted average number of shares outstanding + (New shares that would have been issued at option exercise – Shares that could have been repurchased upon exercise) × (Proportion of the year during which the financial instruments were outstanding)]. If option proceeds purchase more shares in the market than what were issued by stock options, it indicates the exercise price is greater than the market price. As a result, the denominator decreases, increasing calculated diluted EPS to be above basic EPS."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "Which of the following defines a security as antidilutive? If included in the calculation of diluted EPS, it results in a: Mahakali Book Centre",
+        "options": [
+            "higher computed EPS than the basic EPS calculation.",
+            "higher pretax income compared to the basic EPS calculation.",
+            "lower number of shares outstanding compared to the basic EPS calculation."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a security is antidilutive if its inclusion in the diluted EPS computation would result in an EPS higher than the company's basic EPS."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM2 - Analyzing Income Statements",
+        "text": "A company's diluted EPS calculation including a potentially dilutive security outstanding equals $2.53. Assuming basic EPS of $2.50, the company should report in its financial statements:",
+        "options": [
+            "basic EPS of $2.53.",
+            "basic EPS and diluted EPS of $2.50.",
+            "basic EPS of $2.50 and diluted EPS of $2.53."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because companies are required to report both basic and diluted EPS. Under IFRS and US GAAP, antidilutive securities are not included in the calculation of diluted EPS. Diluted EPS should reflect the maximum potential dilution from conversion or exercise of potentially dilutive financial instruments. Diluted EPS will always be less than or equal to basic EPS. Using the if-converted method resulted in diluted EPS of 2.53, which is greater than basic EPS of 2.50, therefore the securities are anti-dilutive and the effect of their conversion would not be included in diluted EPS. Therefore basic and diluted EPS is 2.50."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM3 - Analyzing Balance Sheets",
+        "text": "An analyst gathers the following information (in € millions) about a company:\n\n| Cash and cash equivalents | 40 |\n| :--- | :--- |\n| Total current assets | 125 |\n| Total non-current assets | 35 |\n| Revenue | 200 |\n\nApplying vertical common-size analysis to the company's balance sheet, cash and cash equivalents are:",
+        "options": [
+            "20%.",
+            "25%.",
+            "32%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because vertical common-size analysis involves stating each balance sheet item as a percentage of total assets. Accordingly, Cash and cash equivalents is stated as a percentage of Total assets = Cash and cash equivalents / (Total current assets + Total non-current assets) = 40 / (125 + 35) = 40 / 160 = 25%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM3 - Analyzing Balance Sheets",
+        "text": "Accounting goodwill arising from acquisitions is:",
+        "options": [
+            "expensed in the period it arises.",
+            "capitalized and amortized over a finite period.",
+            "capitalized and tested for impairment annually."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Incorrect because under both IFRS and US GAAP, accounting goodwill arising from acquisitions is capitalized. Goodwill is not amortised but is tested for impairment annually. If goodwill is deemed to be impaired, an impairment loss is charged against income in the current period."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM3 - Analyzing Balance Sheets",
+        "text": "A company reporting under US GAAP purchases an equity security issued by another company. If the equity security represents less than 1% of the outstanding equity of the issuing company and the acquiring company owns no other equity stake in the issuing company, the investment is most likely carried on the acquiring company's balance sheet at:",
+        "options": [
+            "amortized cost.",
+            "fair value with any unrealized holding gains/losses recognized in the income statement.",
+            "fair value with any unrealized holding gains/losses recognized in other comprehensive income."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because under US GAAP, all investments in equity securities (other than investments giving rise to ownership positions that confer significant influence over the investee) are measured at fair value with unrealized holding gains or losses recognized in the income statement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM3 - Analyzing Balance Sheets",
+        "text": "A copyright, for which an active market exists, has a set finite life and is used in a company's operations over more than one fiscal period. Under U.S. GAAP, this copyright is reported using:",
+        "options": [
+            "only the cost model.",
+            "only the revaluation model.",
+            "either the cost or the revaluation model."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because, under US GAAP, companies are required to use the cost model to value intangible assets. IFRS allow companies to value intangible assets under a cost model or under a revaluation model. The revaluation model can only be selected when there is an active market for an intangible asset."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM3 - Analyzing Balance Sheets",
+        "text": "Which of the following is not classified as a liability or equity on the balance sheet?",
+        "options": [
+            "Deferred revenue",
+            "Noncontrolling interest",
+            "Allowance for doubtful accounts"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the allowance for doubtful accounts is called a contra account because it is netted against (i.e., reduces) the balance of accounts receivable, which is an asset account. The allowance for doubtful accounts reflects the company's estimate of the amount of receivables that will ultimately be uncollectible."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "On the statement of cash flows, interest payments may be classified as a financing cash flow under:",
+        "options": [
+            "IFRS only.",
+            "US GAAP only.",
+            "both IFRS and US GAAP."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the cash paid for interest is included in operating cash flows under US GAAP and may be included in operating or financing cash flows under IFRS and US GAAP classify interest expense as an operating activity, even though the principal amount of the debt issued is classified as a financing activity. IFRS allows companies to classify interest expense as either an operating activity or a financing activity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathers the following information (in € thousands) about a company:\n\n| Revenue | 5,000 |\n| :--- | :--- |\n| Cash balance, beginning of year | 2,000 |\n| Cash balance, end of year | 2,000 |\n| Increase in accounts receivable | 1,200 |\n\nCash received from customers (in € thousands) is:",
+        "options": [
+            "3,800.00",
+            "5,000.00",
+            "6,200.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because if revenue reported using accrual accounting is higher than the cash actually collected, the result will typically be an increase in accounts receivable. Also, Beginning accounts receivable Plus: Revenues Minus: Cash collected from customers Equals: Ending accounts receivable restated as:\nCash collected from customers = Beginning accounts receivable + Revenue – Ending accounts receivable; or = Revenue – Increase in accounts receivable = 5,000 – 1,200 = 3,800."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathers the following information about a company's equipment base:\n\n| Beginning balance accumulated depreciation | €7,000,000 |\n| :--- | :--- |\n| Ending balance accumulated depreciation | €8,000,000 |\n| Depreciation expense of equipment | €4,000,000 |\n\nThe company sold equipment having a historical cost of €5,000,000 and reported a loss on sale of €250,000. The cash received from the sale of equipment is:",
+        "options": [
+            "€750,000.00",
+            "€1,750,000.00",
+            "€4,750,000.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because selling price (cash inflow) minus book value equals gain or loss on sale; therefore, gain or loss on sale plus book value equals selling price (cash inflow).\nAccumulated depreciation on the equipment sold = Beginning balance accumulated depreciation + Depreciation expense – Ending balance accumulated depreciation; or = €7,000,000 + €4,000,000 – €8,000,000 = €3,000,000.\nBook value of the equipment sold = Historical cost of equipment sold – Accumulated depreciation on equipment sold; or = €5,000,000 – €3,000,000 = €2,000,000. Cash received from sale of equipment = Book value of the equipment sold – Loss on sale = €2,000,000 – €250,000 = €1,750,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "When calculating cash paid to suppliers based on income statement and balance sheet data, cost of sales is adjusted for changes in:",
+        "options": [
+            "inventory only.",
+            "accounts payable only.",
+            "both inventory and accounts payable."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because there are two pieces to this calculation: the amount of inventory purchased and the amount paid for it. To determine purchases from suppliers, cost of goods sold is [cost of sales] adjusted for the change in inventory. Therefore, once purchases have been determined, cash paid to suppliers can be calculated by adjusting purchases for the change in accounts payable."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "On the statement of cash flows, cash dividends paid may be classified as an operating activity under:",
+        "options": [
+            "IFRS only.",
+            "US GAAP only.",
+            "both IFRS and US GAAP."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because US GAAP classify dividends paid to stockholders as a financing activity, whereas IFRS allow companies to classify dividends paid as either an operating activity or a financing activity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "On the statement of cash flows, interest paid should be classified as:",
+        "options": [
+            "a financing cash flow only.",
+            "an operating cash flow only.",
+            "either a financing or an operating cash flow."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because IFRS allows more flexibility in the reporting of such items as interest paid. IFRS allows companies to classify interest expense as either an operating activity or a financing activity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "Under the indirect method of reporting cash flow from operating activities, a decrease in deferred income tax liabilities is: Mahakali Book Centre",
+        "options": [
+            "ignored.",
+            "added back to net income.",
+            "subtracted from net income."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a decrease in deferred tax liability would be subtracted from net income under the indirect method of reporting cash flow from operations."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathers the following information about a company's fiscal year ended 31 December:\n\n| Interest payable on 1 January | £45,000 |\n| :--- | :--- |\n| Cash interest paid during the year | £15,000 |\n| Interest expense during the year | £50,000 |\n\nInterest payable on 31 December is:",
+        "options": [
+            "£30,000.",
+            "£80,000.",
+            "£95,000."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Ending interest payable = Beginning interest payable + Interest expense – Cash paid for interest. Accordingly, Ending interest payable = Beginning interest payable + Interest expense – Cash paid for interest = £45,000 + £50,000 – £15,000 = £80,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathers the following information (in £ millions) about a company:\n\n| Other operating expenses | 4,500 |\n| :--- | :--- |\n| Decrease in prepaid expenses | 200 |\n| Increase in other accrued liabilities | 300 |\n\nCash paid for other operating expenses (in £ millions) is:\nCorrect answer:",
+        "options": [
+            "4,000.00",
+            "4,400.00",
+            "4,600.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because to determine the cash paid for other operating expenses, it is necessary to adjust the other operating expenses amount on the income statement by the net changes in prepaid expenses and accrued expense liabilities for the year. Accordingly, Cash paid for other operating expenses = Other operating expenses – Decrease in prepaid expenses – Increase in other accrued liabilities = 4,500 – 200 – 300 = 4,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "A company with positive net income could report negative cash flow from operating activities if the company:",
+        "options": [
+            "retires outstanding bonds.",
+            "recognizes significant depreciation expense.",
+            "realizes a gain from the sale of a fixed asset."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a gain from the sale of a fixed asset increases net income but does not increase operating cash flow. Therefore, it does not appear in the operating cash flow section under the direct method and is deducted from net profit in calculating cash flow from operating activities under the indirect method."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathers the following information (in € millions) about a company:\n\n| Cash received from customers | 800 |\n| :--- | :--- |\n| Purchases from suppliers | 700 |\n| Increase in inventory | 50 |\n| Increase in accounts receivable | 60 |\n\nIf all purchases and sales were made on credit, gross profit (in € millions) is:",
+        "options": [
+            "90",
+            "110",
+            "210"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Revenue = Cash received from customers + Increase in accounts receivable; or = €800 + €60 = €860; and Beginning inventory + Purchases = Cost of Sales + Ending inventory; or Cost of sales = Purchases – Increase in inventory; or = €700 – €50 = €650. Therefore, Gross profit = Revenue – Cost of Sales; or = €860 – €650 = €210."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "The following information relates to a fixed asset that has been sold:\n\n| Historical cost | ¥10 million |\n| :--- | :--- |\n| Accumulated depreciation | ¥4 million |\n| Selling price | ¥8 million |\n\nThe transaction is reported on the statement of cash flows as an:",
+        "options": [
+            "investing cash inflow of ¥2 million.",
+            "investing cash inflow of ¥8 million.",
+            "operating cash inflow of ¥8 million."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the entire proceeds from the sale of a fixed asset are an investing cash inflow, regardless of whether there was a gain or loss from the sale of the asset. Therefore, the selling price of ¥8 million is an investing cash inflow."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathers the following information about a company for a fiscal year:\n\n| Revenues | $36,000 |\n| :--- | :--- |\n| Beginning accounts receivable | $1,500 |\n| Ending accounts receivable | $2,500 |\n\nUnder the direct method of computing cash flow from operating activities, cash received from customers for the year is closest to:",
+        "options": [
+            "$33,500.00",
+            "$35,000.00",
+            "$37,000.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because cash collected from customers is equal to revenue ($36,000) less the increase in accounts receivable ($2,500 – $1,500 = $1,000) or $36,000 – $1,000 = $35,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM4 - Analyzing Statements of Cash Flows I",
+        "text": "An analyst gathered the following information (in £ thousands) about a company's fiscal year:\n\n| | Year 2 | Year 1 |\n| :--- | :--- | :--- |\n| Net income | 112,000 | 188,100 |\n| Depreciation expense | 14,000 | 12,500 |\n| Accounts receivable | 330,000 | 375,000 |\n| Inventory | 335,000 | 280,000 |\n| Accounts payable | 172,000 | 136,000 |\n| Amortization of bond discount | 7,400 | 7,900 |\n\nCash flow from operating activities (in £ thousands) on the Year 2 statement of cash flows should be:",
+        "options": [
+            "107,400.00",
+            "144,600.00",
+            "159,400.00"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because cash flow from operating activities calculated using the indirect method begins with net income and makes adjustments for non-cash operating activities, non-cash operating expenses and changes in operating working capital items. Depreciation is a non-cash operating expense and is added back; amortization of bond discount is a non-cash operating expense and is added back; the decrease in accounts receivable of 45,000 (375,000 – 330,000) is added back; the increase in inventory of 55,000 (335,000 – 280,000) is subtracted; and the increase in accounts payable of 36,000 (172,000 – 136,000) is added back to net income.\nTherefore the calculation becomes 112,000 + 14,000 + 7,400 + 45,000 – 55,000 + 36,000 = 159,400."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "One appropriate method of preparing a common-size cash flow statement is to show each line item:",
+        "options": [
+            "of revenue and expense as a percentage of net revenue.",
+            "on the cash flow statement as a percentage of net revenue.",
+            "on the cash flow statement as a percentage of total cash outflows."
+        ],
+        "correctAnswer": 1,
+        "explanation": "B is correct. An appropriate method to prepare a common-size cash flow statement is to show each line item on the cash flow statement as a percentage of net revenue. An alternative way to prepare a statement of cash flows is to show each item of cash inflow as a percentage of total inflows and each item of cash outflows as a percentage of total outflows."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "Which of the following is an appropriate method of computing free cash flow to the firm?",
+        "options": [
+            "Add operating cash flows to capital expenditures and deduct after-tax interest payments.",
+            "Add operating cash flows to after-tax interest payments and deduct capital expenditures.",
+            "Deduct both after-tax interest payments and capital expenditures from operating cash flows"
+        ],
+        "correctAnswer": 1,
+        "explanation": "B is correct. Free cash flow to the firm can be computed as operating cash flows plus after-tax interest expense less capital expenditures."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "The first step in cash flow statement analysis should be to:\n\nA. evaluate consistency of cash flows.\nB. determine operating cash flow drivers.\nC. identify the major sources and uses of cash.\nC is correct. An overall assessment of the major sources and uses of cash should be the first step in evaluating a cash flow statement.",
+        "options": [
+            "evaluate consistency of cash flows.",
+            "determine operating cash flow drivers.",
+            "identify the major sources and uses of cash."
+        ],
+        "correctAnswer": 2,
+        "explanation": "C is correct. An overall assessment of the major sources and uses of cash should be the first step in evaluating a cash flow statement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "An analyst has calculated a ratio using as the numerator the sum of operating cash flow, interest, and taxes and as the denominator the amount of interest. What is this ratio, what does it measure, and what does it indicate?",
+        "options": [
+            "This ratio is an interest coverage ratio, measuring a company's ability to meet its interest obligations and indicating a company's solvency.",
+            "This ratio is an effective tax ratio, measuring the amount of a company's operating cash flow used for taxes and indicating a company's efficiency in tax management.",
+            "This ratio is an operating profitability ratio, measuring the operating cash flow generated accounting for taxes and interest and indicating a company's liquidity."
+        ],
+        "correctAnswer": 0,
+        "explanation": "A is correct. This ratio is an interest coverage ratio, measuring a company's ability to meet its interest obligations and indicating a company's solvency. This coverage ratio is based on cash flow information; another common formulation of the interest coverage ratio uses EBITDA based on the income statement as the numerator."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "The following financial statement data are available for a company:\n\n| Metric | $ thousands |\n| :--- | :--- |\n| Operating income | 3,390 |\n| Net income | 2,210 |\n| Operating assets | 3,850 |\n| Change in cash and cash equivalents | 1,010 |\n| Change in cash from operating activities | 1,750 |\n| Free cash flow to the firm | 2,240 |\n\nThe company's cash-to-income ratio is closest to:",
+        "options": [
+            "0.79.",
+            "0.66.",
+            "0.52."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct.\nCash to income = Cash flow from operating activities (CFO)/Operating income\n= (1,750/3,390)\n= 0.52"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "A firm reported the following financial statement items:\n\n| | € millions |\n| :--- | :--- |\n| Net income | 2,100 |\n| Non-cash charges | 400 |\n| Interest expense | 300 |\n| Capital expenditures | 210 |\n| Working capital expenditures | 0 |\n| Net borrowing | 1,600 |\n| Tax rate | 40% |\n\nThe free cash flow to the firm (FCFF) is closest to:",
+        "options": [
+            "€2,110.00",
+            "€2,470.00",
+            "€2,590.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct.\nFCFF = NI + NCC + Int(1 – t) – FCInv – WCInv\n\n| | Cash Flow Item | Amount (€ millions) |\n| :--- | :--- | :--- |\n| NI | Net income | 2,100 |\n| NCC | Plus non-cash charges | 400 |\n| Int(1 – t) | Plus interest expense (1 – tax rate) = 300 (1 – 0.40) | 180 |\n| FCInv | Less capital expenditures | (210) |\n| WCInv | Less working capital expenditures | 0 |\n| FCFF | Free cash flow to the firm | €2,470 |"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "The following common-size cash flow statement is available for a company:\nCash Flow Statement for the Years Ended 31 December\n\n| Inflows | Percentage of Total Inflows 2016 | Percentage of Total Inflows 2015 |\n| :--- | :--- | :--- |\n| Cash received from customers | 88.1 | 97.4 |\n| Proceeds from disposal of property, plant, and equipment | 0.3 | 0.3 |\n| Proceeds from issuance of bonds | 11.6 | 2.3 |\n| Total | 100.0 | 100.0 |\n| **Outflows** | **Percentage of Total Outflows 2016** | **Percentage of Total Outflows 2015** |\n| Cash paid to suppliers and employees | 71.0 | 70.7 |\n| Payments for investments in property, plant, and equipment | 10.5 | 10.6 |\n| Payments made for financial instruments not included under cash equivalents | 2.0 | 0.2 |\n| Payments for investments in companies, net of cash and cash equivalents | 0.1 | 2.9 |\n| Transactions with equity holders | 8.8 | 9.0 |\n| Repayments of loans, borrowings, and promissory notes | 7.6 | 6.6 |\n| Total | 100.0 | 100.0 |\n\nCompared with 2015, which of the following statements about 2016 is most accurate? The company: Mahakali Book Centre",
+        "options": [
+            "had a positive net operating cash flow.",
+            "directed a larger portion of cash outflows to investing activities.",
+            "relied more heavily on financing activities to generate cash inflows."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct. The cash inflows from financing activities in 2016 are 11.6% from bonds, which is greater than the 2.3% in 2015. Therefore, the company did rely more heavily on financing activities to generate cash inflows in 2016. Because the actual total inflows and outflows are not known, the relative size of the inflows and outflows from each activity cannot be compared on an absolute basis. Therefore, it is not possible to conclude whether operating cash flows were positive or negative. Investing outflows includes payments on PP&E, financial instruments, and investments in other companies. For 2016, this calculation is 10.5 + 2.0 + 0.1 = 12.6%, and for 2015, it is 10.6 + 0.2 + 2.9 = 13.7%. Therefore, the portion of outflows spent on investing activities decreased."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "The following partial common-size cash flow statement and coverage ratio information is available for a company:\nCash Flow Statement for the Year Ended 31 December of Year 2\n\n| Cash flows from operating activities | Percentage of Net Revenues Year 2 |\n| :--- | :--- |\n| Cash received from customers | 118.7% |\n| Cash paid to suppliers and employees | (81.4) |\n| Dividends received | 0.2 |\n| Net interest and other financial expenses paid | (3.8) |\n| Taxes paid | (5.2) |\n| Net cash from operating activities | 28.5 |\n| **Cash paid for long-term assets** | **(13.4)** |\n| Other investing activities | (3.1) |\n| Net cash used in investing activities | (16.5) |\n| **Dividends paid** | **(8.5)** |\n| Other financing activities | 3.8 |\n| Net cash flow used in financing activities | (4.7) |\n| Net change in cash | 7.3% |\n\nCash Flow Coverage Ratios (Year 1):\nDividend payment: 3.69\nInvesting and financing: 0.82\nReinvestment: 2.18\n\nCompared with Year 1, the most appropriate conclusion an analyst can make about Year 2 is that the company's ability to use operating cash flows to:",
+        "options": [
+            "acquire assets improved.",
+            "pay dividends decreased.",
+            "acquire assets, pay debts, and make distributions to owners decreased."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. The company's dividend payment coverage ratio worsened; therefore, the company was less able to pay dividends from operating cash flows. Calculations are as follows:\n\n| Coverage Ratio | Definition and Calculation | Year 2 | Year 1 | Interpretation |\n| :--- | :--- | :--- | :--- | :--- |\n| Dividend payment | Cash flow from operations ÷ Dividends paid = 28.5 ÷ 8.5 | 3.35 | 3.69 | Ability to pay dividends decreased |\n| Investing and financing | Cash flow from operations ÷ Cash outflows for investing and financing = 28.5 ÷ (16.5 + 4.7) | 1.34 | 0.82 | Ability to acquire assets, pay debts and make distributions improved |\n| Reinvestment | Cash flow from operations ÷ Cash paid for long term assets = 28.5 ÷ 13.4 | 2.13 | 2.18 | Ability to acquire assets decreased |"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM5 - Analyzing Statements of Cash Flows II",
+        "text": "An analyst gathers the following information (in € thousands) about a company:\n\n| Cash flow from operating activities | 120 |\n| :--- | :--- |\n| Capital expenditures | 50 |\n| Depreciation | 15 |\n| Interest paid and expensed | 4 |\n\nIf interest paid is classified as a cash flow from financing activities and the income tax rate is 25%, FCFF (in € thousands) is:",
+        "options": [
+            "70",
+            "73",
+            "85"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because, while FCFF = CFO + Int(1 – Tax rate) – FCInv, if interest paid is included in financing activities, then CFO does not have to be adjusted for Int(1 – Tax rate). Accordingly, for this company, FCFF = CFO – FCInv; or = 120 – 50 = 70."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "An analyst gathers the following information (in € millions) relating to a company's merchandise inventory as of 31 December of Year 1: Mahakali Book Centre\n\n| Cost | 65 |\n| :--- | :--- |\n| Net realizable value | 60 |\n| Current replacement cost | 58 |\n\nOn 31 December of Year 2, the net realizable value of the inventory is €7 million higher than its carrying value. Under US GAAP, the amount (in € millions) of the reversal of the prior write-down is:",
+        "options": [
+            "0",
+            "5",
+            "7"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct as U.S. GAAP prohibit the reversal of write-downs."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "In an environment of steadily increasing prices and quantities, reported ending inventory most closely reflects current replacement value under the:",
+        "options": [
+            "FIFO method using a periodic inventory system.",
+            "LIFO method using a periodic inventory system.",
+            "LIFO method using a perpetual inventory system."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because FIFO assumes that the oldest inventory items are sold first, leaving the most recently purchased inventory on the balance sheet. The carrying amount of inventories under FIFO will more closely reflect current replacement values because inventories are assumed to consist of the most recently purchased items. Companies typically record changes to inventory using either a periodic inventory system or a perpetual inventory system. Under either system, the allocation of goods available for sale to cost of sales and ending inventory is the same if the inventory valuation method used is either specific identification or FIFO."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "An analyst gathers the following information (in € thousands) about a manufacturing company's inventory:\n\n| Cost of ending inventory | 750 |\n| :--- | :--- |\n| Estimated selling price in the ordinary course of business | 1,100 |\n| Estimated costs necessary to sell the inventory | 50 |\n| Estimated costs to get the inventory in condition for sale | 50 |\n\nThe net realizable value of the inventory (in € thousands) is:",
+        "options": [
+            "750",
+            "850",
+            "1,000.00"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the net realizable value is the estimated selling price in the ordinary course of business less the estimated costs necessary to make the sale and estimated costs to get the inventory in condition for sale. Accordingly, the net realizable value = 1,100 – 50 – 50 = 1,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "Under US GAAP and all else being equal, in a period of stable inventory quantities and rising inventory unit costs, which inventory valuation method is least likely to incur inventory write-downs?",
+        "options": [
+            "FIFO",
+            "LIFO",
+            "Weighted average cost"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because companies that use specific identification, weighted average cost, or FIFO methods are more likely to incur inventory write-downs than companies that use the LIFO method. Under the LIFO method, the oldest costs are reflected in the inventory carrying amount on the balance sheet. Given increasing inventory costs, the inventory carrying amounts under the LIFO method are already conservatively presented at the oldest and lowest costs. Thus, it is far less likely that inventory write-downs will occur under LIFO—and if a write-down does occur, it is likely to be of a lesser magnitude."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "Which of the following is an inventory-related financial statement disclosure required under US GAAP?\nCorrect answer:",
+        "options": [
+            "The carrying amount of inventories carried at fair value less costs to sell.",
+            "The circumstances or events that led to the reversal of a prior-year write-down of inventories.",
+            "The amount of reversal of any prior-year write-down of inventories that is recognized as a reduction in cost of sales in the current period."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because IFRS require eight financial statement disclosures concerning inventory, including (i) the carrying amount of inventories carried at fair value less costs to sell; (ii) the amount of any reversal of any write-down that is recognised as a reduction in cost of sales in the period; and (iii) the circumstances or events that led to the reversal of a write-down of inventories. Inventory-related disclosures under US GAAP are very similar to the disclosures above, except that requirements (ii) and (iii) are not relevant because US GAAP do not permit the reversal of prior-year inventory write-downs."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "An analyst gathers the following information (in € millions) about an automobile manufacturer's inventory:\n\n| | Year 2 | Year 1 |\n| :--- | :--- | :--- |\n| Cost of goods sold | 600 | 700 |\n| Cost of inventory | 100 | 90 |\n| Net realizable value of inventory | 120 | 80 |\n\nThe inventory turnover (calculated using average inventory) in Year 2 is closest to:",
+        "options": [
+            "6.0.",
+            "6.3.",
+            "6.7."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because IFRS state that inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realisable value. Accordingly, Year 1 inventory = 80 (being lower of 90 and 80) and Year 2 inventory = 100 (being lower of 100 and 120). Inventory turnover in Year 2 = Cost of sales or cost of goods sold / Average inventory = 600 / [(100 + 80) / 2] = 600 / 90 ≈ 6.7."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "Under US GAAP, which of the following is a required financial statement disclosure concerning inventory?",
+        "options": [
+            "Only the material amount of income resulting from the liquidation of LIFO inventory",
+            "Only the amount of any reversal of any write-down that is recognized as a reduction in cost of goods sold in the period",
+            "Both the material amount of income resulting from the liquidation of LIFO inventory, and the amount of any reversal of any write-down that is recognized as a reduction in cost of goods sold in the period"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because disclosures are useful when analyzing a company. IFRS requires eight financial statement disclosures concerning inventory, three of which are:\n• the accounting policies adopted in measuring inventories, including the cost formula (inventory valuation method) used;\n• the amount of any reversal of any write-down that is recognized as a reduction in cost of sales in the period;\n• the circumstances or events that led to the reversal of a write-down of inventories.\nInventory-related disclosures under US GAAP are very similar to the disclosures above, except that requirements for the second and third are not relevant because US GAAP does not permit the reversal of prior-year inventory write-downs. US GAAP also requires disclosure of significant estimates applicable to inventories and of any material amount of income resulting from the liquidation of LIFO inventory."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "All else being equal, in a period of declining inventory unit costs and constant inventory quantities, which of the following inventory valuation methods most likely allocates a higher amount of the total cost of goods available for sale to cost of sales on the income statement?",
+        "options": [
+            "FIFO",
+            "LIFO",
+            "Weighted average cost"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in an environment of declining inventory unit costs and constant or increasing inventory quantities, FIFO (in comparison with weighted average cost or LIFO) will allocate a higher amount of the total cost of goods available for sale to cost of sales on the income statement and a lower amount to ending inventory on the balance sheet. Accordingly, because cost of sales will be higher under FIFO, a company's gross profit, or operating profit, and income taxes will be lower."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "All else being equal, in a period of stable inventory quantities and declining inventory unit costs, using the LIFO inventory valuation method will result in a lower:",
+        "options": [
+            "gross profit than if the FIFO inventory valuation method had been used.",
+            "current ratio than if the FIFO inventory valuation method had been used.",
+            "inventory turnover ratio than if the FIFO inventory valuation method had been used."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because if purchase prices of inventory are declining, using the LIFO method of inventory valuation will result in a higher ending inventory and a lower cost of sales compared to other inventory valuation methods. Inventory turnover is defined as cost of sales ÷ average inventory. Since cost of sales will be lower under LIFO as compared to FIFO and average inventory will be higher under LIFO as compared to FIFO in a period of declining unit costs, inventory turnover will be lower under LIFO than FIFO in a period of declining inventory unit costs."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "Which of the following ratios will most likely increase as a result of an inventory write-down in the current year?",
+        "options": [
+            "Quick ratio",
+            "Current ratio",
+            "Working capital turnover ratio"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the working capital turnover ratio is calculated as Revenue/Average working capital. Working capital is defined as current assets minus current liabilities. Inventory is a current asset. An inventory write-down will have no effect on revenue and will decrease average working capital as any write-down to market value or net realizable value reduces the value of inventory, and the loss in value (expense) is generally reflected in the income statement in cost of goods sold. Therefore, the numerator is not affected and the denominator is reduced leading to a higher working capital turnover ratio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "An analyst gathers the following information (in £ millions) about a retailer's inventory:\n\n| Original cost | 250 |\n| :--- | :--- |\n| Net realizable value | 255 |\n| Net realizable value less a normal profit margin | 240 |\n\nThe carrying amount (in £ millions) of ending inventory is:",
+        "options": [
+            "240",
+            "250",
+            "255"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because IFRS state that inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realizable value. In the event that the value of inventory declines below the carrying amount on the balance sheet, the inventory carrying amount must be written down to its net realizable value and the loss (reduction in value) recognized as an expense on the income statement. Because the original cost of 250 is lower than the net realizable value of 255, the carrying amount of ending inventory is 250."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "If inventory that was written down in a previous period subsequently increases in value, the amount of the original write-down may be reversed under:",
+        "options": [
+            "IFRS only.",
+            "US GAAP only.",
+            "both IFRS and US GAAP."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because under IFRS, if inventory that was written down in a previous period subsequently increases in value, the amount of the original write-down is reversed. Subsequent reversal of an inventory write-down is not permitted under US GAAP. Under IFRS, in each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. The reversal of any write-down of inventories is recognized as a reduction in cost of sales (reduction in the amount of inventories recognized as an expense)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "An electronics manufacturer measures its inventories at the lower of cost and:",
+        "options": [
+            "replacement cost.",
+            "net realizable value.",
+            "estimated selling price."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because IFRS state that inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realizable value. Net realizable value is the estimated selling price in the ordinary course of business less the estimated costs necessary to make the sale and estimated costs to get the inventory in condition for sale."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "All else being equal, an inventory write-down by an electronics manufacturing company results in a higher: Mahakali Book Centre",
+        "options": [
+            "gross profit margin than if the write-down had not occurred.",
+            "total asset turnover ratio than if the write-down had not occurred.",
+            "days of inventory on hand than if the write-down had not occurred."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because an inventory write-down reduces both profit and the carrying amount of inventory on the balance sheet and thus has a negative effect on profitability, liquidity, and solvency ratios. However, activity ratios (for example, inventory turnover and total asset turnover) will be positively affected by a write-down because the asset base (denominator) is reduced. Accordingly, Total asset turnover ratio (Revenue / Average total assets) will be higher as Inventory (Average total assets) will be lower, the numerator, being revenue will not be impacted."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM6 - Analysis of Inventories",
+        "text": "An analyst gathers the following information (in € thousands) about an item in a company's merchandise inventory:\n\n| Original cost | 18 |\n| :--- | :--- |\n| Net realizable value at 31 December of Year 1 | 15 |\n| Net realizable value at 31 December of Year 2 | 20 |\n\nThe inventory item (in € thousands) is carried on the 31 December of Year 2 balance sheet at:",
+        "options": [
+            "15",
+            "18",
+            "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because, under IFRS, inventories shall be measured (and carried on the balance sheet) at the lower of cost and net realizable value. In each subsequent period, a new assessment of net realizable value is made. Reversal (limited to the amount of the original write-down) is required for a subsequent increase in value of inventory previously written down. Accordingly, the company reports on 31 December of Year 1 a merchandise inventory of €15,000. The net realizable value at 31 December of Year 2 is €20,000; however, as the reversal is limited to the amount of the original write-down (being €3,000), the company reports on 31 December of Year 2 a merchandise inventory (in € thousands) of €18,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in € thousands) about equipment:\n\n| Carrying amount prior to testing for impairment | 10,000 |\n| :--- | :--- |\n| Fair value | 9,000 |\n| Present value of expected future cash flows | 7,000 |\n| Costs to sell | 200 |\n\nThe equipment's carrying amount (in € thousands) after impairment is:",
+        "options": [
+            "7,000.00",
+            "8,800.00",
+            "9,000.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the carrying amount after the impairment charge is equal to the recoverable amount. Under IAS 36, an impairment loss is measured as the excess of carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as 'the higher of its fair value less costs to sell (9,000 – 200 = 8,800) and its value in use (7,000). Value in use is based on the present value of expected future cash flows. Max[(FV-C), PVCF]) ⇔ Max[(8,800; 7,000)] = 8,800."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in € thousands) about a company's sale of equipment:\n\n| Selling price | 58 |\n| :--- | :--- |\n| Historical cost | 50 |\n| Accumulated depreciation | 5 |\n\nThe gain on the sale (in € thousands) is:",
+        "options": [
+            "3",
+            "8",
+            "13"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value (i.e., the historical cost minus accumulated depreciation). The carrying amount of the equipment = historical cost – accumulated depreciation = 50 – 5 = 45, and the gain on the sale = selling price – carrying amount = 58 – 45 = 13."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in € thousands) about a company's equipment:\n\n| Purchase price of the equipment | 1,000 |\n| :--- | :--- |\n| Accumulated depreciation | 250 |\n| Gain on sale of the equipment | 400 |\n\nIgnoring taxes, proceeds from sale of the equipment (in € thousands) is:",
+        "options": [
+            "750",
+            "1,150.00",
+            "1,400.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value (i.e., the historical cost minus accumulated depreciation). Cash flow from the sale of the equipment = sale proceeds = carrying amount of the equipment + gain on sale of the equipment = (1,000 – 250) + 400 = 1,150."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "Which of the following disclosures is required for each class of PP&E carried under the cost model?",
+        "options": [
+            "Remaining useful life",
+            "Gross carrying amount",
+            "Fair value and details of how it was obtained"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because under IFRS, for each class of property, plant, and equipment, a company must disclose the measurement bases, the depreciation method, the useful lives (or, equivalently, the depreciation rate) used, the gross carrying amount and the accumulated depreciation at the beginning and end of the period, and a reconciliation of the carrying amount at the beginning and end of the period. In addition, disclosures of restrictions on title and pledges as security of property, plant, and equipment and contractual agreements to acquire property, plant, and equipment are required."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "Which of the following financial statement disclosures concerning PP&E is required under US GAAP?",
+        "options": [
+            "The balances of major classes of depreciable assets",
+            "The date of revaluation under the revaluation model",
+            "A reconciliation of carrying amount at the beginning and end of the period"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the disclosure requirements under US GAAP are less exhaustive. A company must disclose the depreciation expense for the period, the balances of major classes of depreciable assets, accumulated depreciation by major classes or in total, and a general description of the depreciation method(s) used in computing depreciation expense with respect to the major classes of depreciable assets."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in € millions) about a manufacturing company's land reported under the revaluation model:\n\n| Purchase price and fair value on 1 January Year 1 | 20 |\n| :--- | :--- |\n| Fair value at initial revaluation on 31 December Year 1 | 26 |\n\nAll else being equal and ignoring taxes, the revaluation at 31 December Year 1 leads to a:",
+        "options": [
+            "higher quick ratio.",
+            "higher total asset turnover.",
+            "lower debt-to-assets ratio."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the upward asset revaluation decreases the debt-to-asset ratio and therefore improves the debt-to-asset ratio / solvency ratio of the company. Debt-to-assets ratio = total debt / total assets. Under the revaluation model, whether an asset revaluation affects earnings depends on whether the revaluation initially increases or decreases an asset class' carrying amount. If a revaluation initially increases the carrying amount of the asset class, the increase in the carrying amount of the asset class bypasses the income statement and goes directly to equity under the heading of revaluation surplus. As this revaluation initially increases the carrying amount of the asset class, the effect is an increase of total assets and total equity. Total debt remains unchanged. Unchanged numerator (total debt) over an increased denominator (total asset) decreases the ratio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in € thousands) about a company's equipment reported under the cost model:\n\n| Carrying amount before impairment | 2,000 |\n| :--- | :--- |\n| Undiscounted expected future cash flows | 1,800 |\n| Fair value | 1,700 |\n| Value in use | 1,500 |\n| Costs to sell | 50 |\n\nThe impairment loss (in € thousands) is:",
+        "options": [
+            "300",
+            "350",
+            "500"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because under IAS 36, an impairment loss is measured as the excess of carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell and its value in use. Value in use is a discounted measure of expected future cash flows. As the recoverable amount = MAX (Fair value less costs to sell, Value in use) = MAX[(1,700 – 50); 1,500] = 1,650, the impairment loss = carrying amount - recoverable amount = 2,000 – 1,650 = 350."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information about a company's equipment:\n\n| Carrying value prior to impairment | €20,000 |\n| :--- | :--- |\n| Undiscounted expected future cash flows | €22,000 |\n| Value in use | €17,400 |\n| Fair value if sold | €19,100 |\n| Costs to sell | €1,900 |\n\nThe carrying value of the equipment should be:",
+        "options": [
+            "€17,200.00",
+            "€17,400.00",
+            "€20,000.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because it is the value of the asset in use. Under IFRS, the company would compare the carrying value (€20,000) with the higher of its fair value less cost to sell (€19,100 – €1,900 = €17,200), and its value in use (€17,400). Under IFRS, the carrying value is €17,400."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in £ thousands) about equipment currently in use:\n\n| Carrying amount prior to impairment | 600 |\n| :--- | :--- |\n| Present value of expected future cash flows | 400 |\n| Fair value if sold | 350 |\n| Cost to sell | 20 |\n\nThe carrying amount (in £ thousands) of the equipment after impairment is:",
+        "options": [
+            "330",
+            "350",
+            "400"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because IFRS requires the new carrying value to be written down to the higher of its fair value less costs to sell (£330,000 = £350,000 – £20,000) and its value in use (£400,000). The equipment would be written down to the recoverable amount of £400,000, which would be the new carrying amount under IFRS. Under IAS 36, an impairment loss is measured as the excess of carrying amount over the recoverable amount of the asset. The recoverable amount of an asset is defined as the higher of its fair value less costs to sell and its value in use. Value in use is a discounted measure of expected future cash flows."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "Ignoring income taxes, acquiring an intangible asset would most likely result in:\n\nA. a lower net operating cash flow than internally developing the intangible asset.\nB. the same net operating cash flow than internally developing the intangible asset.\nC. a higher net operating cash flow than internally developing the intangible asset.",
+        "options": [
+            "a lower net operating cash flow than internally developing the intangible asset.",
+            "the same net operating cash flow than internally developing the intangible asset.",
+            "a higher net operating cash flow than internally developing the intangible asset."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because acquiring an intangible asset is an investing activity whereas internally developing an intangible asset can be a combination of operating and investing activities. On the statement of cash flows, costs of internally developing intangible assets are classified as operating cash outflows whereas costs of acquiring intangible assets are classified as investing cash outflows. IFRS require that expenditures on research (or during the research phase of an internal project) be expensed rather than capitalised as an intangible asset. IFRS allow companies to recognise an intangible asset arising from development (or the development phase of an internal project) if certain criteria are met, including a demonstration of the technical feasibility of completing the intangible asset and the intent to use or sell the asset."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "A company acquires a 5-year license for a product it plans to continue selling for the foreseeable future. The license can be renewed at minimal cost. The license should be:",
+        "options": [
+            "carried on the balance sheet at historical cost.",
+            "amortised using the straight-line method over its estimated useful life.",
+            "amortised using the units-of-production method over its estimated useful life."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the license has an indefinite life and is not amortised. Only those intangible assets assumed to have finite useful lives are amortised over their useful lives, following the pattern in which the benefits are used up. Examples of intangible assets with indefinite useful lives include an acquired license that, although it has a specific expiration date, can be renewed at little or no cost and an acquired trademark that, although it has a specific expiration, can be renewed at a minimal cost and relates to a product that a company plans to continue selling for the foreseeable future. Intangible assets with indefinite lives are not amortised. Instead, they are carried on the balance sheet at historical cost but are tested at least annually for impairment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "A company incurred the following expenditures (in € millions) to internally develop intangible asset:\n\n| Costs incurred during the research phase | 900 |\n| :--- | :--- |\n| Costs incurred during the development phase | 600 |\n\nIf the recognition criteria for an intangible asset have been met, the maximum amount of capitalized costs (in € millions) is:",
+        "options": [
+            "600",
+            "900",
+            "1,500.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because €600 million represents the costs incurred during the development phase which should be capitalized. Costs incurred in the development stage can be capitalized as intangible assets if certain criteria are met, including technological feasibility, the ability to use or sell the resulting asset, and the ability to complete the project."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information (in € thousands) about a company's non-depreciable asset:\n\n| Historical cost | 50 |\n| :--- | :--- |\n| Carrying value after impairment, 31 December of Year 1 | 40 |\n| Recoverable amount, 31 December of Year 2 | 60 |\n\nThe maximum allowable carrying amount (in € thousands) on the Year 2 balance sheet is:",
+        "options": [
+            "40",
+            "50",
+            "60"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in recognizing the impairment loss in Year 1, carrying cost was reduced from €50,000 to €40,000, so an impairment loss of $10,000 was reported. A reversal can only be taken for the previous carrying amount; not the full recoverable amount. Therefore with the reversal, carrying cost returns to its previous level of €50,000. Note that IFRS permit the reversal of impairment losses only. IFRS do not permit the revaluation to the recoverable amount if the recoverable amount exceeds the previous carrying amount."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "An analyst gathers the following information about a company's non-depreciable asset reported under the revaluation model:\n\n| Original cost | €25,000 |\n| :--- | :--- |\n| Reported value after initial revaluation | €27,500 |\n| Reported value after second revaluation | €22,500 |\n\nThe revaluation surplus after the second revaluation is:",
+        "options": [
+            "–€2,500.",
+            "€0.00",
+            "€2,500.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because if a revaluation initially increases the carrying amount of the asset class, the increase in the carrying amount of the asset class bypasses the income statement and goes directly to equity under the heading of revaluation surplus. Any subsequent decrease in the asset's value first decreases the revaluation surplus and then goes to income. As a result, the €2,500 (= €27,500 – €25,000) increase in the value of the asset during the first year is recorded in the revaluation surplus account in equity, and out of the –€5,000 (= €22,500 – €27,500) decrease in fair value recorded in the second year, –€2,500 is used to decrease the revaluation account and the remaining –€2,500 flows to the income statement. Therefore, the balance in the revaluation surplus account is zero."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM7 - Analysis of Long-Term Assets",
+        "text": "If a company sold PP&E with a carrying amount of £75,000 and reported a gain of £2,000, cash flow from investing activities is:",
+        "options": [
+            "£0.",
+            "£73,000.",
+            "£77,000."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the gain or loss on the sale of long-lived assets is computed as the sales proceeds minus the carrying amount of the asset at the time of sale. An asset's carrying amount is typically the net book value (i.e., the historical cost minus accumulated depreciation), unless the asset's carrying amount has been changed to reflect impairment and/or revaluation, as previously discussed. Ignoring taxes, the cash flow from the sale would appear as a cash inflow from investing. Thus, gain on sale of long lived asset = sales proceeds – carrying amount. Rearranging, sales proceeds = gain on sale of long lived asset + carrying amount = 2 + 75 = 77."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM8 - Topics in Long-Term Liabilities and Equity",
+        "text": "For leases with a term of twelve months or less, the lessee:\nCorrect answer:",
+        "options": [
+            "may recognize lease payments on a straight-line basis.",
+            "must report at lease inception a \"right-of-use\" asset and a lease liability, which are both equal to the present value of future lease payments.",
+            "must report at lease inception a \"right-of-use\" asset and a lease liability, which are both equal to the undiscounted value of future lease payments."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because for lessees, there are lease accounting exemptions for certain lease contracts: If its term is 12 months or less (IFRS and US GAAP) or it is for a \"low-value asset,\" up to $5,000 in sales price (IFRS only), then the lessee can elect to simply expense the lease payments on a straight-line basis. These exemptions are not available to lessors."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM8 - Topics in Long-Term Liabilities and Equity",
+        "text": "Under which of the following classifications of leases will a lessor derecognize the leased asset and recognize a lease receivable on the balance sheet at lease inception?",
+        "options": [
+            "Only a finance lease under IFRS",
+            "Only an operating lease under US GAAP",
+            "Both a finance lease under IFRS and an operating lease under US GAAP"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the accounting for lessors is substantially identical under IFRS and US GAAP. Under both accounting standards, lessors classify leases as finance or operating leases, which determines the financial reporting. At finance lease inception, the lessor recognizes a lease receivable asset equal to the present value of future lease payments and de-recognizes the leased asset, simultaneously recognizing any difference as a gain or loss."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM8 - Topics in Long-Term Liabilities and Equity",
+        "text": "Compared to purchasing an asset using debt, leasing an asset is most likely to:",
+        "options": [
+            "have a higher financing cost.",
+            "require a greater down payment.",
+            "reduce lessee's exposure to obsolescence."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because there are several advantages to leasing an asset compared with purchasing it: Convenience and lower risks associated with asset ownership, such as obsolescence."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM8 - Topics in Long-Term Liabilities and Equity",
+        "text": "Under US GAAP, in the second year of a multi-year lease, a lessee with an operating lease most likely reports a:",
+        "options": [
+            "higher interest expense than it would if the lease were a finance lease.",
+            "lower depreciation expense than it would if the lease were a finance lease.",
+            "greater financing cash outflow than it would if the lease were a finance lease."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because for operating leases, the lessee recognizes a single lease expense and no depreciation expense; whereas under a finance lease the lessee records depreciation expense on the right-of-use asset. Under IFRS, there is a single accounting model for both finance and operating leases for lessees. At lease inception, the lessee records a lease payable liability and a \"right-of-use\" (ROU) asset on its balance sheet, both equal to the present value of future lease payments. The following shows how the transaction under IFRS affects the financial statements: Interest expense on the lease liability and the amortization expense related to the ROU asset are reported separately on the income statement. The following shows how the operating lease transaction under US GAAP appears on the financial statements: Interest expense on the lease liability and the amortization expense related to the ROU asset are reported as a single line titled \"lease expense\" as an operating expense on the income statement. The interest and amortization components are not reported separately, nor are they grouped with other types of interest and amortization expense (e.g., interest on a bond, amortization of an intangible asset)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM8 - Topics in Long-Term Liabilities and Equity",
+        "text": "Which of the following could motivate a lessee to lease a high-value, long-lived asset rather than to purchase it? Lease contracts:",
+        "options": [
+            "usually require little, if any, down payment.",
+            "are reported as off-balance sheet financing structures.",
+            "do not require the recognition of a liability on the balance sheet."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because there are several advantages to leasing an asset compared with purchasing it: Less cash is needed up front. Leases typically require little, if any, down payment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM8 - Topics in Long-Term Liabilities and Equity",
+        "text": "Which of the following components of change in the net pension asset or liability of a defined-benefit pension plan is recognized in other comprehensive income?",
+        "options": [
+            "Employees' service costs",
+            "Actuarial gains and losses",
+            "Net interest expense or income accrued on the beginning net pension asset or liability"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because under IFRS, the change in the net pension asset or liability each period is viewed as having three general components. Two of the components of this change are recognised as pension expense in profit and loss: (1) employees' service costs, and (2) the net interest expense or income accrued on the beginning net pension asset or liability. The third component of the change in the net pension asset or liability during a period – \"remeasurements\"– is recognised in other comprehensive income. Remeasurements are not amortised into profit or loss over time. Remeasurements include (a) actuarial gains and losses."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM9 - Analysis of Income Taxes",
+        "text": "Deferred tax assets could arise when:\n\nA. taxable income is greater than accounting profit.\nB. the carrying amount of an asset exceeds its tax base.\nC. the carrying amount of a liability is lower than its tax base.",
+        "options": [
+            "taxable income is greater than accounting profit.",
+            "the carrying amount of an asset exceeds its tax base.",
+            "the carrying amount of a liability is lower than its tax base."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because \"[d]eferred tax assets, which appear on the balance sheet, arise when an excess amount is paid for income taxes (taxable income higher than accounting profit) and the company expects to recover the difference during the course of future operations.\""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM9 - Analysis of Income Taxes",
+        "text": "A company incurred research costs which were all expensed in the current fiscal year for financial reporting purposes. Applicable tax laws require research costs to be expensed over a 5-year period. If taxable profit will be available against which the deductible temporary differences can be utilized, in the current fiscal year the company will most likely record:",
+        "options": [
+            "a deferred tax asset.",
+            "a deferred tax liability.",
+            "neither a deferred tax asset nor a deferred tax liability."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the carrying amount is zero due to the full amount having been expensed for financial accounting, while the tax base of the asset was only reduced by one-fifth of the total cost in the first year. In addition, taxable profit will be available against which the deductible temporary differences can be utilized. As the asset carrying amount is less than the tax base, it will result in a deferred tax asset."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM9 - Analysis of Income Taxes",
+        "text": "Which of the following statements about the acquisition of a target company with tax loss carryforwards is most accurate? If the acquirer is profitable: Mahakali Book Centre",
+        "options": [
+            "its current tax rate will have no impact on the acquisition price.",
+            "the acquirer would theoretically be willing to pay more than another acquirer with a lower tax rate.",
+            "the acquirer would theoretically be willing to pay more than another acquirer with a higher tax rate."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because if an acquiring company is profitable, it may be able to use MU's tax loss carryforwards to offset its own tax liabilities. The value to an acquirer would be the present value of the carryforwards, based on the acquirer's tax rate and expected timing of realization. The higher the acquiring company's tax rate, and the more profitable the acquirer, the sooner it would be able to benefit. Therefore, an acquirer with a high current tax rate would theoretically be willing to pay more than an acquirer with a lower tax rate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM9 - Analysis of Income Taxes",
+        "text": "The carrying amount of an asset being higher than its tax base may be considered a:",
+        "options": [
+            "temporary difference resulting in a deferred tax asset.",
+            "permanent difference resulting in a deferred tax asset.",
+            "temporary difference resulting in a deferred tax liability."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the carrying amount of an asset being higher than its tax base is considered to be a temporary difference that results in a deferred tax liability. Deferred tax liabilities, which also appear on the balance sheet, arise when a deficit amount is paid for income taxes and the company expects to eliminate the deficit over the course of future operations."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM9 - Analysis of Income Taxes",
+        "text": "A deferred tax asset has been previously recognized. At the current balance sheet date, the criteria for economic benefits are not met but the tax differences are still expected to be temporary. As a result:",
+        "options": [
+            "the existing deferred tax asset should be reversed.",
+            "a valuation allowance account should be established.",
+            "the existing deferred tax asset should be reclassified as equity."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because if a deferred tax asset or liability resulted in the past, but the criteria of economic benefits is not met on the current balance sheet date, then, under IFRS, an existing deferred tax asset or liability related to the item will be reversed."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM9 - Analysis of Income Taxes",
+        "text": "A deferred tax liability could arise when:",
+        "options": [
+            "the tax base of an asset is greater than its carrying amount.",
+            "the carrying amount of a liability is greater than its tax base.",
+            "financial accounting income tax expense exceeds income taxes payable."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because deferred tax liabilities arise when a financial accounting income tax expense exceeds income taxes payable."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM10 - Financial Reporting Quality",
+        "text": "Which of the following might indicate that a company uses aggressive accounting choices to increase its reported performance and financial position in the current period?",
+        "options": [
+            "Increasing the estimated salvage values of PP&E",
+            "Changing the depreciation method from straight-line to double-declining balance",
+            "Changing from weighted average to FIFO inventory valuation method in a period of declining inventory prices and constant inventory quantities"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because increasing the estimated salvage values is an example of a non-conservative (or aggressive) accounting policy. Depreciation expense is affected by another set of choices and estimates regarding the salvage value of the assets being depreciated. A salvage value of zero will always increase depreciation expense under any method compared with the choice of a non-zero salvage value."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM10 - Financial Reporting Quality",
+        "text": "Which of the following is most accurate with respect to inherent limitations of audits?",
+        "options": [
+            "An audit opinion is based on a review of information only prepared by the auditor",
+            "An audit is based on an exhaustive review of all transactions during a financial year",
+            "An expectations gap may exist between the auditor's role and the public's expectation of auditors"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because although audit opinions provide discipline for financial reporting quality, inherent limitations exist. An \"expectations gap\" may exist between the auditor's role and the public's expectation of auditors. An audit is not typically intended to detect fraud; it is intended to provide assurance that the financial reports are fairly presented."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM10 - Financial Reporting Quality",
+        "text": "A company was previously considered to have high financial reporting quality. If operating profit dramatically increases, primarily due to foreign exchange rate movements, the company most likely demonstrates: Mahakali Book Centre",
+        "options": [
+            "low financial reporting quality and high earnings quality.",
+            "high financial reporting quality and low earnings quality.",
+            "high financial reporting quality and high earnings quality."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because an increase in earnings that is due to foreign exchange rate movements represents high reporting quality yet low earnings quality. As an example, consider a company that exports most of its products; if its domestic currency weakens, the company's exports would become less expensive on the international market, driving international sales and profit. On the financial statements, these profits would be registered in a way that conforms to the generally accepted accounting principles (GAAP) of the jurisdiction, such as International Financial Reporting Standards (IFRS), US GAAP, or other home-country GAAP.s. Thus, the increase in profits would represent high reporting quality. However, this earnings increase would be considered low quality, because it is not a sustainable source of profits in the long-term, given that such a decrease in currency will not occur every year."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about three companies (in $ millions):\n\n| | Company 1 | Company 2 | Company 3 |\n| :--- | :--- | :--- | :--- |\n| Total assets | 100 | 200 | 400 |\n| Total debt | 20 | 50 | 80 |\n| Total equity | 80 | 150 | 320 |\n| Earnings before interest and taxes (EBIT) | 8 | 10 | 12 |\n| Interest payments | 4 | 4 | 4 |\n\nBased on this information, which company is most solvent?",
+        "options": [
+            "Company 1",
+            "Company 2",
+            "Company 3"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the ability to meet long-term debt obligations is defined as solvency, which can be measured using leverage and coverage ratios. Generally, the higher the leverage ratio, the higher the financial risk and thus the weaker the solvency. A higher interest coverage ratio indicates stronger solvency. Using the information given, leverage and coverage ratios are:\n\n| | Company 1 | Company 2 | Company 3 |\n| :--- | :--- | :--- | :--- |\n| Debt-to-assets ratio | 0.20 | 0.25 | 0.20 |\n| Debt-to-equity ratio | 0.25 | 0.33 | 0.25 |\n| Debt-to-capital | 0.20 | 0.25 | 0.20 |\n| Financial leverage ratio | 1.25 | 1.33 | 1.25 |\n| Interest coverage ratio | 2.00 | 2.50 | 3.00 |\n\nCompany 3 and Company 1 have the lowest leverage ratios (debt-to-assets, debt-to-equity, debt-to-capital, and financial leverage), but Company 3 has a higher interest coverage ratio than Company 1. Company 3 has the least debt (proportionately) along with the highest coverage ability of the three companies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "Which of the following most likely indicates improved efficiency of a company's credit and collection policy? An increase in:\n\nA. receivables turnover ratio\nB. days of sales outstanding\nC. number of days of payables",
+        "options": [
+            "receivables turnover ratio",
+            "days of sales outstanding",
+            "number of days of payables"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a relatively high receivables turnover ratio (and commensurately low DSO) might indicate highly efficient credit and collection."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "Which of the following is an example of a liquidity ratio?",
+        "options": [
+            "Defensive interval ratio",
+            "Inventory turnover ratio",
+            "Working capital turnover ratio"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the defensive interval ratio measures how long the company can continue to pay its expenses from its existing liquid assets without receiving any additional cash inflow. A higher defensive interval ratio indicates greater liquidity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in € millions) about a company:\n\n| Average total equity | 50 |\n| :--- | :--- |\n| Average total assets | 150 |\n\nBased only on this information, the financial leverage ratio is closest to:",
+        "options": [
+            "0.33.",
+            "0.50.",
+            "3.00."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because financial leverage = average total assets / average total equity = 150 / 50 = 3.00."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in € millions) about a company:\n\n| EBIT | 150 |\n| :--- | :--- |\n| Earnings before taxes | 130 |\n| Net income | 110 |\n| Total average assets | 1,000 |\n\nROA is:",
+        "options": [
+            "11%.",
+            "13%.",
+            "15%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because ROA = Net income / Average total assets; or = 110 / 1,000 = 11%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "Which category of financial ratios is most likely used to measure how efficiently a company performs day-to-day tasks?",
+        "options": [
+            "Activity",
+            "Liquidity",
+            "Solvency"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because activity ratios measure how efficiently a company performs day-to-day tasks, such as the collection of receivables and management of inventory."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "Which of the following analyses can be used to compare a company's financial ratios with those of its major competitors?",
+        "options": [
+            "Trend only",
+            "Cross-sectional only",
+            "Both trend and cross-sectional"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because both types of analyses are used to compare a company's financial ratios with those of its competitors. In general, the financial ratios of a company are compared with those of its major competitors (cross-sectional and trend analysis) and to the company's prior periods (trend analysis)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "All else being equal, a company with older assets has a fixed asset turnover ratio that is:",
+        "options": [
+            "lower compared to a company with newer assets.",
+            "the same compared to a company with newer assets.",
+            "higher compared to a company with newer assets."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the fixed asset turnover ratio would be lower for a company whose assets are newer (and, therefore, less depreciated and so reflected in the financial statements at a higher carrying value) than the ratio for a company with older assets (that are thus more depreciated and so reflected at a lower carrying value)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in £ millions) about a company:\n\n| Total assets | 400 |\n| :--- | :--- |\n| Total liabilities | 200 |\n| Total debt | 100 |\n| Total equity | 200 |\n\nThe total debt ratio is:",
+        "options": [
+            "0.25.",
+            "0.50.",
+            "2.00."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the total debt ratio = total debt / total assets = 100 / 400 = 0.25."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in £ thousands) about a company's current assets and liabilities:\n\n| Cash and equivalents | 800 |\n| :--- | :--- |\n| Short-term marketable securities | 500 |\n| Inventory | 700 |\n| Accounts receivable | 2,000 |\n| Current liabilities | 10,000 |\n\nThe company's quick ratio is:",
+        "options": [
+            "0.13.",
+            "0.33.",
+            "0.40."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the Quick ratio = (Cash and equivalents + Short-term marketable securities + Receivables) / Current liabilities. The calculation is (800 + 500 + 2,000) / 10,000 = 3,300 / 10,000 = 0.33, or 33%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in € thousands) about a company whose fiscal year ends on 31 December:\n\n| Earnings for the six months ended 30 June of Year 1 | 2,000 |\n| :--- | :--- |\n| Earnings for the year ended 31 December of Year 1 | 1,500 |\n| Earnings for the six months ended 30 June of Year 2 | 2,200 |\n\nThe company's trailing 12 month earnings (in € thousands) for the period ended 30 June of Year 2 is:",
+        "options": [
+            "1,700.00",
+            "3,700.00",
+            "4,200.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the company's trailing 12 months earnings for the period ended 30 June of Year 2 are calculated as (Earnings as of 31 December of Year 1 – Earnings as of 30 June of Year 1) + Earnings as of 30 June of Year 2 = (1.500 – 2,000) + 2,200 = –500 + 2,200 = 1,700."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about a company:\n\n| ROE | 10% |\n| :--- | :--- |\n| Financial leverage | 2.0 |\n| Net profit margin | 4% |\n| EBIT margin | 5% |\n| Interest burden | 85% |\n\nThe total asset turnover ratio is closest to:",
+        "options": [
+            "1.0.",
+            "1.3.",
+            "1.5."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in accordance to the DuPont analysis for ROE, ROE = Net profit margin × Total asset turnover × Leverage. Thus, Total asset turnover = ROE / (Net profit margin × Leverage); or = 10% / (4% × 2) = 1.25 ≈ 1.3."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about a company:\n\n| ROE | 15% |\n| :--- | :--- |\n| Interest burden | 0.85 |\n| EBIT margin | 30% |\n| Total asset turnover | 1.1 |\n| Financial leverage | 1.25 |\n\nThe average tax rate is closest to:",
+        "options": [
+            "43%.",
+            "47%.",
+            "57%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because using DuPont analysis, ROE = Tax Burden × Interest Burden × EBIT margin × Total asset turnover × Leverage. Accordingly, Tax burden = ROE / (Interest Burden × EBIT margin × Total asset turnover × Leverage) = 15% / (0.85 × 30% × 1.1 × 1.25) = 42.78%. Tax burden reflects one minus the average tax rate, or how much of a company's pretax profits it gets to keep. Thus, average tax rate = 1 – Tax burden = 1 – 42.78% = 57.22% ≈ 57%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "Which of the following ratios is most appropriate in measuring a company's ability to cover its debt payments?",
+        "options": [
+            "Return on equity",
+            "Fixed asset turnover",
+            "Fixed charge coverage"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because solvency ratios are primarily of two types. Debt ratios, the first type, focus on the balance sheet and measure the amount of debt capital relative to equity capital. Coverage ratios, the second type, focus on the income statement and measure the ability of a company to cover its debt payments. These ratios are useful in assessing a company's solvency and, therefore, in evaluating the quality of a company's bonds and other debt obligations.\nFixed charge coverage ratio = (EBIT + Lease payments) / (Interest payments + lease payments). A higher fixed charge coverage ratio implies stronger solvency, offering greater assurance that the company can service its debt (i.e., bank debt, bonds, notes, and leases) from normal earnings."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about a company:\n\n| Revenue | €1,000,000 |\n| :--- | :--- |\n| EBIT | €90,000 |\n| Net income | €60,000 |\n| Average total assets | €1,500,000 |\n| Financial leverage | 2.0 |\n\nROE is:",
+        "options": [
+            "8%.",
+            "12%.",
+            "18%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because ROE = Net profit margin × Total asset turnover × Financial leverage = (Net income / Revenue) × (Revenue / Average total assets) × (Average total assets / Average shareholders' equity) = (60,000 / 1,000,000) × (1,000,000 / 1,500,000) × 2.0 = 0.06 × 0.66 × 2.0 = 0.08 = 8%.\nAlternatively, ROE = ROA × Financial leverage = (Net income / Average total assets) × Financial leverage = (60,000 / 1,500,000) × 2.0 = 0.04 × 2.0 = 0.08 = 8%.\nAlternatively, Financial leverage = Average total assets / Average shareholders' equity; or Average shareholders' equity = Average total assets / Financial leverage = 1,500,000 / 2 = 750,000. Thus, ROE = Net income / Average shareholders' equity or 60,000 / 750,000 = 0.08 = 8%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in £ millions) about a company:\n\n| EBIT | 16 |\n| :--- | :--- |\n| Net income | 8 |\n| Interest payments | 6 |\n| Lease payments | 4 |\n\nThe fixed charge coverage ratio is closest to:",
+        "options": [
+            "1.2.",
+            "1.6.",
+            "2.0."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the fixed charge coverage ratio relates fixed financing charges, or obligations, to the cash flow generated by the company. It measures the number of times a company's earnings (before interest, taxes, and lease payments) can cover the company's interest and lease payments. Accordingly, Fixed charge coverage ratio = (EBIT + Lease payments) / (Interest payments + Lease payments) = (16 + 4) / (6 + 4) = 2.0.\nFor computing this ratio, an assumption sometimes made is that one-third of the lease payment amount represents interest on the lease obligation and that the rest is a repayment of principal on the obligation. For this variant of the fixed charge coverage ratio, the numerator is EBIT plus one-third of lease payments and the denominator is interest payments plus one-third of lease payments. Accordingly, Fixed charge coverage ratio = [EBIT + (Lease payments / 3)] / (Interest payments + (Lease payments / 3)) = (16 + 4/3) / (6 + 4/3) ≈ 2.36 which is also closest to 2.0."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "A debt-to-equity ratio of 1.0 most likely results in a debt-to-capital ratio of:\nCorrect answer:",
+        "options": [
+            "0.5.",
+            "1.0.",
+            "2.0."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the debt-to-equity ratio measures the amount of debt financing relative to equity financing. A debt-to-equity ratio of 1.0 indicates equal amounts of debt and equity, which is the same as a debt-to-capital ratio of 50 percent.\nDebt-to-equity ratio = Total debt / Total shareholder's equity = 1.0. Accordingly, Total debt = Total shareholder's equity, while Debt-to-capital ratio = Total Debt / (Total Debt + Total shareholder's equity) = Total Debt / (2 × Total Debt) = 1/2 = 0.5."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "All else being equal, the cash conversion cycle most likely shortens if:",
+        "options": [
+            "payables turnover decreases.",
+            "inventory turnover decreases.",
+            "days of sales outstanding increases."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the Cash conversion cycle = Days of inventory on hand + Days of sales outstanding – Number of days of payables. Number of days of payables = Days in the period / Payables turnover. If payables turnover were to decrease, it would increase the Number of days of payables, decreasing the CCC."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about a company (in millions):\n\n| | Year 2 | Year 1 |\n| :--- | :--- | :--- |\n| Annual revenue | €127 | €108 |\n| Annual net income | €23 | €21 |\n| Average total assets | €536 | €529 |\n| Average total equity | €220 | €195 |\n\nBased only on this information, which ratio most likely increased in Year 2 over Year 1?",
+        "options": [
+            "Return on equity",
+            "Financial leverage",
+            "Total asset turnover"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because total asset turnover increased:\nYear 2 Total asset turnover = Revenue / Average total assets = 127/536 = 0.24\nYear 1 Total asset turnover = Revenue / Average total assets = 108/529 = 0.20"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information (in € millions) about a company:\n\n| Revenue | 15 |\n| :--- | :--- |\n| Cost of sales | 12 |\n| Average receivables | 10 |\n\nThe receivables turnover ratio is closest to:",
+        "options": [
+            "0.7.",
+            "1.2.",
+            "1.5."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the receivables turnover ratio is calculated as revenue ÷ average receivables. The calculation is receivables turnover ratio = 15 ÷ 10 = 1.5."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about a company:\n\n| | Year 2 | Year 1 |\n| :--- | :--- | :--- |\n| Return on assets | 15% | 14% |\n| Average total assets | $7,300 | $9,000 |\n| Average equity | $4,750 | $5,000 |\n\nDuring Year 2, return on equity most likely:",
+        "options": [
+            "decreased.",
+            "remained the same.",
+            "increased."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because ROE = ROA × leverage. ROA is given in the table. Leverage is equal to average total assets/average shareholders' equity. Therefore, ROE for Year 1 is 25.2% (0.14 × (9,000/5,000)) while the ROE for Year 2 is 23.1% (0.15 × (7,300/4,750)), i.e. during Year 2 ROE decreased."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information from a company's balance sheet (in millions):\n\n| | Year 2 | Year 1 |\n| :--- | :--- | :--- |\n| Cash and marketable securities | €55 | €50 |\n| Current assets | €110 | €100 |\n| Total assets | €1,672 | €1,520 |\n| Current liabilities | €352 | €320 |\n| Total liabilities | €730 | €608 |\n\nBased on this information, the company's liquidity ratios at the end of Year 2 have:",
+        "options": [
+            "decreased since the end of Year 1.",
+            "remained the same since the end of Year 1.",
+            "increased since the end of Year 1."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the two liquidity ratios which can be calculated from the information provided, current ratio and cash ratio, are unchanged in Year 2 vs. Year 1, meaning liquidity is most likely the same.\nCurrent ratio = current assets / current liabilities = 110/352 (in Year 2) = 0.3125 = 100/320 (in Year 1)\nCash ratio = cash and marketable securities / current liabilities = 55/352 (in Year 2) = 0.15625 = 50/320 (in Year 1)"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "An analyst gathers the following information about two companies:\n\n| | Company 1 | Company 2 |\n| :--- | :--- | :--- |\n| Number of days of payables | 70 | 60 |\n| Days of inventory on hand | 20 | 25 |\n| Days of sales outstanding | 40 | 40 |\n\nWhich company most likely needs to raise additional funds for working capital purposes?",
+        "options": [
+            "Only Company 1",
+            "Only Company 2",
+            "Both Company 1 and Company 2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the cash conversion cycle is positive for Company 2, which means the company must finance its working capital. The time between the outlay of cash and the collection of cash is called the 'cash conversion cycle.' Cash conversion cycle = Days of sales outstanding + Days of inventory on hand – Number of days of payables. Company 2's cash conversion cycle = 40 + 25 – 60 = 5 days. Company 1's cash conversion cycle = 40 + 20 – 70 = –10 days. Company 1 does not need to raise capital for working capital purposes; it actually has 10 days of excess cash to invest."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM11 - Financial Analysis Techniques",
+        "text": "Which of the following most likely lengthens the cash conversion cycle? An increase in:\n\nA. payables turnover.\nB. inventory turnover.\nC. receivables turnover.",
+        "options": [
+            "payables turnover.",
+            "inventory turnover.",
+            "receivables turnover."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the cash conversion cycle = days of inventory on hand + days of sales outstanding – number of days of payables =\nAs payables turnover increases, the number of days of payables decrease, increasing the cash conversion cycle."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "If the price elasticity of demand for a product is 0.8 and its unit cost remains constant, a 10% increase in its selling price will most likely result in:\n\nA. no change in cost of sales.\nB. a decrease in volume of 8%.\nC. an increase in revenue of 8%.",
+        "options": [
+            "no change in cost of sales.",
+            "a decrease in volume of 8%.",
+            "an increase in revenue of 8%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the impact of higher prices on volume depends on the price elasticity of demand (i.e., how the quantity demanded varies with price). Price elasticity of demand gives the impact to volume, and not total revenues, for a given level of price increases. Furthermore, Analyst A expects price elasticity of 0.8, indicating that volume will fall by 8 percent given the 10 percent retail price increase."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "Porter's five forces analysis, used in conjunction with financial forecasting, can be used to estimate a company's future profit margin relative to: Mahakali Book Centre\n\nA. only its competitors.\nB. only its historic margins.\nC. both its competitors and its historic margins.",
+        "options": [
+            "only its competitors.",
+            "only its historic margins.",
+            "both its competitors and its historic margins."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Porter's five forces framework and similar analytical tools can help analysts assess the relative profit potential of a company by helping them understand the company's industry and its position within that industry. Understanding the industry and competitive contexts of a company helps analysts estimate whether, for example, sales growth is likely to be relatively high or low (relative to history, relative to the overall growth in the economy or a sector, and/or relative to competing companies) and whether profit margins are likely to be relatively high or low (relative to historical profit margins and relative to competing companies)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "An analyst uses the following information to forecast a company's gross profit margin:\n\n| | Current Amount (in $ millions) | Forecasted Growth |\n| :--- | :--- | :--- |\n| Sales | 1,200 | 8% |\n| Cost of sales | 300 | 4% |\n\nThe analyst's forecasted gross profit margin should be closest to a(n):",
+        "options": [
+            "decrease of 1%.",
+            "increase of 1%.",
+            "increase of 4%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the gross profit for the current year is 900 (=1,200 – 300), therefore the current gross profit margin is 75%. If sales increase by 8% (to 1,296) and cost of sales increase by 4% (to 312), the forecasted gross profit is 984 (= 1,296 – 312), and the forecasted gross profit margin is 75.9%. This is an increase of approximately 1% (= 75.9% – 75%)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "All else being equal, forecasting an increase in which of the following will most likely increase forecasted EPS for a company?",
+        "options": [
+            "Share repurchases",
+            "Secondary stock issuances",
+            "Equity-based compensation of employees"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Incorrect because an increase in equity-based compensation increases the number of shares outstanding. An increase in the number of shares outstanding will decrease the EPS all things being equal."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "For a company in a cyclical industry, normalized earnings are best described as:",
+        "options": [
+            "current earnings that include the impact of acquisitions.",
+            "mid-cycle earnings in the absence of temporary factors.",
+            "earnings from the peak years excluding temporary factors."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Incorrect because normalized earnings remove the impact of temporary factors and unusual events such as acquisitions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "Maintaining prior views or forecasts by inadequately incorporating new information best describes:\n\nA. conservatism bias.\nB. overconfidence bias.\nC. representativeness bias.",
+        "options": [
+            "conservatism bias.",
+            "overconfidence bias.",
+            "representativeness bias."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because conservatism bias is a bias in which people maintain their prior views or forecasts by inadequately incorporating new information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Financial Statement Analysis",
+        "lm": "LM12 - Introduction to Financial Statement Modeling",
+        "text": "In the Porter's five forces framework, a company is most likely to have the greatest profitability if:\n\nA. the threat of substitutes is low and the bargaining power of buyers is low.\nB. the threat of substitutes is low and the bargaining power of buyers is high.\nC. the threat of substitutes is high and the bargaining power of buyers is low.",
+        "options": [
+            "the threat of substitutes is low and the bargaining power of buyers is low.",
+            "the threat of substitutes is low and the bargaining power of buyers is high.",
+            "the threat of substitutes is high and the bargaining power of buyers is low."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because both a low availability of substitutes and low bargaining power of buyers would improve a company's pricing power."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM1 - Fixed-Income Instrument Features",
+        "text": "Which of the following is most likely a negative covenant?",
+        "options": [
+            "The issuer must comply with all laws and regulations.",
+            "The issuance of new debt must be junior to existing bondholder debt.",
+            "New debt obligations are treated the same as the borrower's other senior debt instruments."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because negative pledges prevent the issuance of debt that would be senior to or rank in priority ahead of the existing bondholders' debt. This is a negative covenant."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM1 - Fixed-Income Instrument Features",
+        "text": "A 2-year treasury note is best classified as a(n):",
+        "options": [
+            "asset-backed security.",
+            "capital market security.",
+            "money market security."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because fixed-income securities with original maturities that are longer than one year are called capital market securities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM1 - Fixed-Income Instrument Features",
+        "text": "Which of the following is most likely a zero-coupon bond? A bond with a par value of £1,000 that was issued in a positive yield market at:",
+        "options": [
+            "£920.",
+            "£1,000.",
+            "£1,100."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because zero-coupon bonds do not pay interest, hence their name. Instead, they are issued at a discount to par value and redeemed at par. Out of all the answer choices, this is the only bond that is issued at a discount to its redemption value, therefore it is the most likely to be a zero-coupon bond."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM1 - Fixed-Income Instrument Features",
+        "text": "Bonds issued in the Eurobond market are most likely:",
+        "options": [
+            "denominated only in euros.",
+            "in the form of registered bonds.",
+            "issued within the jurisdiction of the issuer's home country."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Eurobonds, domestic, and foreign bonds are now registered bonds for which ownership is recorded by either name or serial number."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM1 - Fixed-Income Instrument Features",
+        "text": "The price of a bond issued in the United Kingdom by a US-based company and denominated in British pounds most likely changes when: Mahakali Book Centre",
+        "options": [
+            "US interest rates change only.",
+            "British interest rates change only.",
+            "both US and British interest rates change."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Incorrect because the currency denomination of a bond's cash flows influences which country's interest rates affect a bond's price. The price of a bond issued by a US-based company and denominated in British pounds will be affected by British interest rates."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM2 - Fixed-Income Cash Flows and Types",
+        "text": "The number of common shares a convertible bond can be converted into is the:",
+        "options": [
+            "conversion ratio.",
+            "conversion price.",
+            "conversion value."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the conversion ratio is the number of common shares that each bond can be converted into."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM2 - Fixed-Income Cash Flows and Types",
+        "text": "A bond that allows the issuer to pay interest in the form of additional amounts of the existing bond issue rather than a cash payment best describes a:",
+        "options": [
+            "step-up coupon bond.",
+            "deferred coupon bond.",
+            "payment-in-kind coupon bond."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a payment-in-kind (PIK) coupon bond typically allows the issuer to pay interest in the form of additional amounts of the bond issue rather than as a cash payment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM2 - Fixed-Income Cash Flows and Types",
+        "text": "All else being equal, reinvestment risk is greatest for:",
+        "options": [
+            "putable bonds.",
+            "callable bonds.",
+            "non-callable convertible bonds."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because callable bonds present investors with a higher level of reinvestment risk than non-callable bonds; that is, if the bonds are called, bondholders have to reinvest funds in a lower interest rate environment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM2 - Fixed-Income Cash Flows and Types",
+        "text": "Compared to an otherwise similar option-free bond, investors require a higher yield for a corporate bond with a:",
+        "options": [
+            "put provision.",
+            "call provision.",
+            "conversion provision."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the call provision is a valuable option for the issuer. Thus, other things equal, investors require a higher yield (and thus pay a lower price) for a callable bond than for an otherwise similar non-callable bond."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM2 - Fixed-Income Cash Flows and Types",
+        "text": "If an issuer is required to retire a specified portion of the bond's principal each year, the bond most likely:",
+        "options": [
+            "is callable.",
+            "is a step-up note.",
+            "has a sinking fund provision."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct. A sinking fund provision requires retirement of a portion of the bond's principal every year, rather than retirement of the entire issue at maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM4 - Fixed-Income Markets for Corporate Issuers",
+        "text": "Using the rating scale from Moody's, the lowest rating for an investment-grade bond is:",
+        "options": [
+            "Baa1.",
+            "Baa2.",
+            "Baa3."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because bonds rated Baa3 or higher by Moody's and BBB– or higher by Standard & Poor's and Fitch are considered investment grade."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM4 - Fixed-Income Markets for Corporate Issuers",
+        "text": "In a repurchase agreement, the initial margin protects:",
+        "options": [
+            "the cash lender only.",
+            "the cash borrower only.",
+            "both the cash lender and the cash borrower."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in addition to the high quality of underlying securities, repos include features designed to reduce the risk of a collateral shortfall over the contract life. One such feature is the provision of collateral in excess of the cash exchanged, known as initial margin. A 100% initial margin indicates a fully collateralized loan, while a higher margin indicates even greater initial collateral protection. This is alternatively considered a reduction or haircut of the underlying loan relative to the initial collateral value. The repo margin allows for some worsening in market value, and thus provides the cash lender a margin of safety if the collateral's market value declines."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM5 - Fixed-Income Markets for Government Issuers",
+        "text": "US municipal bonds are best described as:",
+        "options": [
+            "agency bonds.",
+            "non-sovereign bonds.",
+            "quasi-government bonds."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the main types of non-sovereign government issuers include agencies, public banks, supranationals, and regional governments. Regional Government Issuers. These include provincial, state, and local governments, referred to as municipal bonds in the US and most often as local authority bonds elsewhere, within a specific sovereign jurisdiction."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "Which of the following does not depend on the market discount rate? A bond's:",
+        "options": [
+            "flat price",
+            "full price",
+            "accrued interest"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the accrued interest part of the full price does not depend on the yield-to-maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "All else being equal, the absolute value of the percentage price change for an option-free bond is most likely:",
+        "options": [
+            "less when the market discount rate decreases than when it increases by the same amount.",
+            "the same whether the market discount rate decreases or increases by the same amount.",
+            "greater when the market discount rate decreases than when it increases by the same amount."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "A three-year, semiannual-pay bond with a $100 par value and a 5% coupon rate is purchased for $108. One year later, if the yield to maturity has decreased by 100 basis points, the change in the value of this bond is closest to:",
+        "options": [
+            "$0.57.",
+            "$1.52.",
+            "$3.08."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the value of a bond is calculated as:\nPV = [PMT ÷ (1+r)1] + [PMT ÷(1+r)2] +...+ [(PMT + FV) ÷(1+r)N]\nwhere:\nPV = present value, or the price of the bond\nPMT = coupon payment per period\nFV = future value paid at maturity, or the par value of the bond\nr = market discount rate, or required rate of return per period\nN = number of evenly spaced periods to maturity\nUsing calculator inputs, N = (3 × 2) = 6, PMT = (5% ÷ 2) × 100 = $2.5, FV = $100, PV = $108, Solve for I, is equal to 1.114% semi-annually, or 2.228% on an annual basis. If the yield to maturity decreases by 100 bps, the price of the bond after one year is computed as: N = 4, PMT = $2.5, FV = $100, I = [(2.228% – 1%) ÷ 2] = 0.614%, Solve PV, is equal to $107.43.\nTherefore, the change in value of the bond = $108.00 – $107.43 = $0.57."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "A bond has the following characteristics:\n\n| Time to maturity | 3 years |\n| :--- | :--- |\n| Coupon rate | 12% |\n| Payment period | Semiannual |\n\nFor a yield to maturity of 4%, the price of the bond per 100 of par value is closest to:",
+        "options": [
+            "122.20.",
+            "122.41.",
+            "122.53."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "An analyst gathers the following information about a bond that pays interest annually:\n\n| Coupon rate | 4% |\n| :--- | :--- |\n| Time-to-maturity | 3 years |\n| Par value | $100,000 |\n\nIf the market discount rate is 5%, the market value of this bond is closest to:",
+        "options": [
+            "$89,839.00",
+            "$97,277.00",
+            "$102,775.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the price of the bond is the present value of the promised cash flows and is calculated as follows:\nPrice of bond = 4,000/(1 +5%)1 + 4,000/(1+5%)2 + 104,000/(1+5%)3 = 3,809.5238 + 3,628.1179 + 89,839.1102 = 97,276.7520 ≈ 97,277. Calculator inputs: FV = 100,000, I = 0.05, N = 3, PMT = 4,000, PV = 97,276.75 ≈ 97.277."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "An analyst gathers the following information:\n\n| | Time to Maturity | Yield to Maturity |\n| :--- | :--- | :--- |\n| Bond 1 | Three years | 3.4% |\n| Bond 2 | Eight years | 5.4% |\n\nBased only on this information, the estimated market discount rate for a 5-year bond with similar credit quality is:",
+        "options": [
+            "4.2%.",
+            "4.4%.",
+            "4.6%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because some fixed-rate bonds are not actively traded. Therefore, there is no market price available to calculate the rate of return required by investors. In these situations, it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing. The estimated market discount rate can be obtained with linear interpolation. Using linear interpolation between the two given bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 = 0.042 = 4.2%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "Matrix pricing is most likely used to estimate the price of a bond that:\n\nA. is highly liquid.\nB. is not yet issued.\nC. has unknown credit quality.",
+        "options": [
+            "is highly liquid.",
+            "is not yet issued.",
+            "has unknown credit quality."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because for bonds that are not yet issued it is common to estimate the market discount rate and price based on the quoted or flat prices of more frequently traded comparable bonds. These comparable bonds have similar times-to-maturity, coupon rates, and credit quality. This estimation process is called matrix pricing."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "The price of an option-free bond increases by 7% when the yield to maturity decreases by 100 basis points. If the price of this bond decreases by 7%, the yield to maturity most likely increases by:",
+        "options": [
+            "less than 100 basis points.",
+            "100 basis points.",
+            "more than 100 basis points."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because for the same coupon rate and time-to-maturity, the percentage price change is greater (in absolute value, meaning without regard to the sign of the change) when the market discount rate goes down than when it goes up (the convexity effect)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "An analyst gathers the following information about three option-free bonds:\n\n| | Bond 1 | Bond 2 | Bond 3 |\n| :--- | :--- | :--- | :--- |\n| Coupon rate | 5% | 3% | 3% |\n| Maturity (years) | 15 | 10 | 15 |\n\nAll else being equal, if the market discount rate decreases by 50 basis points, the bond most likely to experience the greatest percentage price change is:",
+        "options": [
+            "Bond 1.",
+            "Bond 2.",
+            "Bond 3."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because for the same time-to-maturity, a lower-coupon bond has a greater percentage price change than a higher-coupon bond when their market discount rates change by the same amount (the coupon effect). Bond 3 has the same time-to-maturity as Bond 1 but a lower coupon, thus Bond 3 would experience a greater percentage price change compared to Bond 1. Also, generally, for the same coupon rate, a longer-term bond has a greater percentage price change than a shorter-term bond when their market discount rates change by the same amount (the maturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, thus Bond 3 would experience a greater percentage price change compared to Bond 2."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "The flat price of a bond:\n\nA. is also referred to as the \"dirty\" price.\nB. is \"pulled to par\" along the constant-yield price trajectory.\nC. includes interest which is received by the seller on the settlement date.",
+        "options": [
+            "is also referred to as the \"dirty\" price.",
+            "is \"pulled to par\" along the constant-yield price trajectory.",
+            "includes interest which is received by the seller on the settlement date."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because it is the flat price that is 'pulled to par' along the constant-yield price trajectory."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM6 - Fixed-Income Bond Valuation: Prices and Yields",
+        "text": "For a coupon bond with a negative yield, compounding more frequently within the year results in a yield-to-maturity that is:",
+        "options": [
+            "more negative.",
+            "the same.",
+            "less negative."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Incorrect because compounding more frequently within the year results in a lower (more negative) yield-to-maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "The yield spread over an interpolated sovereign bond is best described as a(n):\n\nA. I-spread.\nB. G-spread.\nC. Z-spread.",
+        "options": [
+            "I-spread.",
+            "G-spread.",
+            "Z-spread."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the yield spread in basis points over an actual or interpolated government bond is known as the G-spread. The spread over a government bond is the return for bearing greater credit, liquidity, and other risks relative to the sovereign bond."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "An analyst gathers the following information about a callable bond that pays interest annually:\n\n| Current price | 105 per 100 of par value |\n| :--- | :--- |\n| Time-to-maturity | 4 years |\n| Coupon rate | 4% |\n| Call price at year 2 | 103 per 100 of par value |\n| Call price at year 3 | 101 per 100 of par value |\n\nThis bond's yield to worst is the:",
+        "options": [
+            "yield to maturity.",
+            "yield to first call.",
+            "yield to second call."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the lowest of the sequence of yields-to-call and the yield-to-maturity is known as the yield-to-worst. The sequence of yields for the bond is as follows:\nYield-to-maturity, rytm is calculated by solving this equation:\n105 = 4/(1 + rytm)1 + 4/(1 + rytm)2 + 4/(1 + rytm)3 + 104/(1 + rytm)4\nUsing a financial calculator with N = 4, PV = –105, FV = 100, PMT = 4 and solving for I, rytm = 2.6656% ≈ 2.7%.\nYield-to-first-call, r1 is calculated by solving this equation:\n105 = 4/(1 + r1)1 + (4+103)/(1 + r1)2\nUsing a financial calculator with N = 2, PV = –105, FV = 103, PMT = 4 and solving for I, r1 = 2.8706% ≈ 2.9%.\nYield-to-second-call, r2 is calculated by solving this equation:\n105 = 4/(1 + r2)1 + 4/(1 + r2)2 + (4+101)/(1 + r2)3\nUsing a financial calculator with N = 3, PV = –105, FV = 101, PMT = 4 and solving for I, r2 = 2.5718% ≈ 2.6%.\nTherefore the yield-to-worst is equal to the yield-to-second-call."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "The stated annual yield to maturity on a semiannual bond basis is 3.66%. The effective annual yield is closest to:",
+        "options": [
+            "3.63%.",
+            "3.69%.",
+            "7.45%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because an effective annual rate has a periodicity of one because there is just one compounding period in the year. No calculations are required based on the intuitive idea that due to semi-annual compounding, the effective annual yield must be slightly higher. The formula to calculate the effective annual yield of a semi-annual pay bond is:\n= (1 + yield/2)2 – 1 = (1 + 0.0366/2)2 – 1 = 1.036935 – 1 = .036935 ≈ 3.69%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "A five-year semiannual bond has an annual percentage rate (APR) of 8%. Converted to a quarterly periodicity, the APR is closest to:",
+        "options": [
+            "1.98%.",
+            "3.92%.",
+            "7.92%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because (1 + APR2/2)2 = (1 + APR4/4)4 for annual percentage rates using semiannual and quarterly periodicity (APR2 and APR4, respectively). This gives (1 + 0.08/2)2 = (1 + APR4/4)4 ⇔ APR4/4 = 1.98% and APR4 = 4 × 1.98% = 7.92%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "The yield spread of a specific bond over the standard swap rate in that currency of the same tenor best describes the:",
+        "options": [
+            "I-spread.",
+            "Z-spread.",
+            "option-adjusted spread."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the yield spread of a specific bond over the standard swap rate in that currency of the same tenor is known as the I-spread or interpolated spread to the swap curve."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "The current yield for a 4.5% coupon, 10-year bond, with a maturity par value of $100 and currently priced at $85.70 is closest to:",
+        "options": [
+            "4.50%.",
+            "5.25%.",
+            "5.93%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because current yield is calculated as ($4.5/$85.70) = 5.25%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "Money market yields are:",
+        "options": [
+            "annualized and compounded.",
+            "stated for a common periodicity.",
+            "stated on a simple interest basis."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the rate of return on a money market instrument is stated on a simple interest basis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM7 - Yield and Yield Spread Measures for Fixed-Rate Bonds",
+        "text": "A commercial paper has the following characteristics:\n\n| Redemption value | $5,000,000 |\n| :--- | :--- |\n| Interest earned | $140,500 |\n| Days to maturity | 160 |\n\nFor a 365-day year, the discount rate is closest to:",
+        "options": [
+            "6.2%.",
+            "6.4%.",
+            "6.6%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the discount rate, DR = (Year/Days) × ((FV – PV)/FV), where Year = number of days in the year, Days = number of days between settlement and maturity, FV = future value paid at maturity/face value of the money market instrument, PV = present value/price of the money market instrument, and FV – PV, is the interest earned.\nDR = (365/160) × (140,500/5,000,000) = 0.0641 ≈ 6.4%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM8 - Yield and Yield Spread Measures for Floating-Rate Instruments",
+        "text": "For a floating-rate note, the specified yield spread over the reference rate best defines the:",
+        "options": [
+            "coupon.",
+            "quoted margin.",
+            "required margin."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because this specified yield spread over the reference rate is called the quoted margin on the FRN. The role of the quoted margin is to compensate the investor for the difference in the credit risk of the issuer and that implied by the reference rate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM8 - Yield and Yield Spread Measures for Floating-Rate Instruments",
+        "text": "A floating-rate note makes semiannual interest payments and has a coupon rate equal to the six-month market reference rate plus 45 basis points. The interest payments are made in June and December. If the six-month market reference rate was 1.95% in June and 2.25% in December of the same year, the coupon rate paid in December of that year was closest to:",
+        "options": [
+            "2.40%.",
+            "2.55%.",
+            "2.70%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the applicable interest rate in December is the six-month market reference rate in June plus the 45 basis point margin = 1.95% + 0.45% = 2.40%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "An analyst gathers the following information about spot rates:\n\n| Time to Maturity | Sequence 1 | Sequence 2 |\n| :--- | :--- | :--- |\n| 1 year | 2.0% | 4.7% |\n| 2 years | 3.5% | 3.5% |\n| 3 years | 4.7% | 2.0% |\n\nFor a 3-year, 2% annual coupon payment bond, the price using Sequence 1 is:",
+        "options": [
+            "less than the price using Sequence 2.",
+            "the same as the price using Sequence 2.",
+            "greater than the price using Sequence 2."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the formula to calculate a bond price given a sequence of spot rates is the following: PV =(PMT / (1+Z1)1) + (PMT / (1+Z2)2) + ... + (PMT + FV) / (1+ZN)N), where\nZ1 = spot rate, or zero-coupon yield, or zero rate, for Period 1\nZ2 = spot rate, or zero-coupon yield, or zero rate, for Period 2\nZN = spot rate, or zero-coupon yield, or zero rate, for Period N.\nFor Sequence 1, applying this formula, the bond price is: (2/1.02) + (2/1.0712) + (102/1.1477) = 1.9608 + 1.8670 + 88.871 ≈ 92.70.\nFor Sequence 2, the bond price is: (2/1.047) + (2/1.712) + (102/1.0612) = 1.9608 + 1.8674 + 96.1169 ≈ 99.89.\nThe bond price using Sequence 1 is less than the price using Sequence 2."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "Implied forward rates are best defined as the: Mahakali Book Centre",
+        "options": [
+            "geometric average of spot rates.",
+            "breakeven reinvestment rates between zero-coupon bonds.",
+            "current yield to maturity on zero-coupon bonds of different maturities."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because implied forward rates (also known as forward yields) are calculated from spot rates. An implied forward rate is a break-even reinvestment rate. When the market is in equilibrium (no arbitrage) the implied forward rate is the same as the forward rate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "An analyst gathers the following information about a spot curve:\n\n| Term to Maturity | Spot Rate |\n| :--- | :--- |\n| 1 year | 6% |\n| 2 years | 5% |\n| 3 years | 4% |\n\nIf the coupon rate of a 3-year annual-pay bond is 4%, the price of the bond is closest to:",
+        "options": [
+            "97.28.",
+            "99.86.",
+            "100.00."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because given the spot rates, the price of a bond can be calculated using the following formula: PV = [PMT/(1 + Z1)1 + PMT/(1 + Z2)2 + ...+ (PMT + FV)/(1 + ZN)N] Hence, PV = 4/(1 + 0.06)1 + 4/(1 + 0.05)2 + (4 + 100)/(1 + 0.04)3 = 4/1.06 + 4/1.1025 + 104/1.1249 = 3.77358+ 3.62812 + 92.4556 = 99.8573 ≈ 99.86."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "A bond trading at its no-arbitrage value is priced at a premium. The sum of the present value of the bond's cash flows discounted at spot rates is:",
+        "options": [
+            "less than the sum of the present values of the bond's cash flows discounted at its yield to maturity.",
+            "equal to the sum of the present values of the bond's cash flows discounted at its yield to maturity.",
+            "greater than the sum of the present values of the bond's cash flows discounted at its yield to maturity."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because bond price (or value) determined using the spot rates is sometimes referred to as the bond's 'no-arbitrage value'.\nIf the current market price equals the 'no-arbitrage value', discounting the cash flows by either spot rates or yield to maturity arrives to the same price."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "An analyst gathers the following spot and forward rates:\n\n| 2-year spot rate | 1.0% |\n| :--- | :--- |\n| 4-year spot rate | 2.5% |\n| 4-year forward rate, two years from today | 3.0% |\n\nThe 2-year forward rate, four years from today is closest to:",
+        "options": [
+            "2%.",
+            "3%.",
+            "4%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the general formula for the relationship between two spot rates and the implied forward rate is: (1 + zA)A × (1 + IFRA,B-A)B-A = (1 + zB)B, where zx is the x-year spot rate and IFRx,y is the y-year forward rate, x years from now. Using the formula, the 6 year spot rate can be calculated in two different ways:\n1. Using A = 2, B = 6: (1 + z2)2 × (1 + IFR2,4)4\n2. Using A = 4, B = 6: (1 + z4)4 × (1 + IFR4,2)2\nEquating the two we get: (1 + z2)2 × (1 + IFR2,4)4 = (1 + z4)4 × (1 + IFR4,2)2 . Using the numbers from the stem:\n(1 + 0.01)2 × (1 + 0.03)4 = (1 + 0.025)4 × (1 + IFR4,2)2\n1.0201 × 1.1255 = 1.1038 × (1 + IFR4,2)2\n⇒ IFR4,2 = (1.1481/1.1038)0.5 – 1 = 0.0199 ≈ 2%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "A break-even reinvestment rate is most likely equivalent to a(n):",
+        "options": [
+            "par rate.",
+            "spot rate.",
+            "implied forward rate."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because an implied forward rate is a break-even reinvestment rate. It links the return on an investment in a shorter-term zero-coupon bond to the return on an investment in a longer-term zero-coupon bond."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "An analyst gathers the following information about forward rates:\n\n| Time Period | Forward Rate |\n| :--- | :--- |\n| 0y1y | 1% |\n| 1y1y | 2% |\n| 2y1y | 4% |\n\nUsing only this information, the price per 100 of par value of a 3-year, 1% annual coupon bond is closest to:",
+        "options": [
+            "84.05.",
+            "91.74.",
+            "96.23."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Incorrect because the forward rates are used directly as spot rates. Hence,\nPV ≠ PMT / (1 + Z1)1 + PMT / (1 + Z2)2 + ... + (PMT + FV) / (1 + ZN)N\nPV ≠ 1 / (1 + 1%)1 + 1 / (1 + 2%)2 + (1 + 100) / (1 + 4%)3 = 0.9901 + 0.9612 + 89.7886 = 91.7399, rounded to 91.74."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM9 - The Term Structure of Interest Rates: Spot, Par, and Forward Curves",
+        "text": "An analyst observes the following series of 1-year forward rates:\n\n| Time Period | Forward Rate |\n| :--- | :--- |\n| 0y1y | 0.1% |\n| 1y1y | 0.3% |\n| 2y1y | 0.6% |\n\nBased on only this information, the price per 100 of par value of a 3-year 0.2% annual coupon bond is closest to:",
+        "options": [
+            "97.64.",
+            "98.82.",
+            "99.60."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the Price per 100 of par value = 0.2 / (1+0.1%) + 0.2 / ((1+0.1%) × (1+0.3%)) + (100+0.2) / ((1+0.1%) × (1+0.3%) × (1+0.6%)) = 99.60."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "An investor gathers the following information about an investment in a bond with a 10-year tenor:\n\n| Purchase price | 95.27 |\n| :--- | :--- |\n| Sale price | 102.06 |\n| Sum of reinvested coupon payments | 24.28 |\n\nIf the holding period was seven years, the horizon yield is closest to:",
+        "options": [
+            "2.29%.",
+            "2.86%.",
+            "4.11%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a horizon yield is the internal rate of return between the total return (the sum of reinvested coupon payments and the sale price or redemption amount) and the purchase price of the bond. The horizon yield on a bond investment is the annualized holding-period rate of return.\n95.27 = (102.06 + 24.28) / (1 + r)^7 => r = 0.041147 ≈ 4.11%.\nCalculator solution: N = 7; PV = –95.27; FV = 102.06 + 24.28; CPT I/Y = 4.11%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "With respect to interest rate risk, an investor who sells a fixed-rate bond after the first coupon is received and before its maturity is exposed to:",
+        "options": [
+            "market price risk, only.",
+            "coupon reinvestment risk, only.",
+            "both market price risk and coupon reinvestment risk."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the investor faces coupon reinvestment risk for all coupons received (first coupon plus any others until sale) and also faces market price risk as changes in the interest rate will impact the sale price of the bond.\nCoupon reinvestment risk matters more when the investor has a long-term horizon relative to the time-to-maturity of the bond. For instance, a buy-and-hold investor only has coupon reinvestment risk. Market price risk matters more when the investor has a short-term horizon relative to the time-to-maturity. For example, an investor who sells the bond before the first coupon is received has only market price risk."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "An analyst gathers the following information about a bond:\n\n| Par value | 100 |\n| :--- | :--- |\n| Coupon rate | 5.50% |\n| Coupon frequency | Annual |\n| Time to maturity | 5 years |\n| Holding period | 3 years |\n\nIf the market discount rate is 4.75% for the holding period, the future value of reinvested coupons at the end of the holding period is closest to:",
+        "options": [
+            "15.05.",
+            "17.30.",
+            "18.12."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the first coupon is reinvested at 4.75% for two years, the second coupon is reinvested at 4.75% for one year, and the third coupon has not yet been reinvested.\n(5.50 × 1.0475^2) + (5.50 × 1.0475) + 5.50 = 17.2962 ≈ 17.30.\nInterest rates are the rates at which coupon payments are reinvested and the market discount rates at the time of purchase and at the time of sale if the bond is not held to maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "For a fixed-rate bond, when interest rates decrease, the future value of reinvested coupon payments most likely:",
+        "options": [
+            "decreases and the market price of the bond increases.",
+            "increases and the market price of the bond decreases.",
+            "increases and the market price of the bond increases."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because there are two offsetting types of interest rate risk that affect the bond investor: coupon reinvestment risk and market price risk. The future value of reinvested coupon payments (and in a portfolio, the principal on bonds that mature before the horizon date) increases when interest rates go up and decreases when rates go down. The sale price on a bond that matures after the horizon date (and thus needs to be sold) decreases when interest rates go up and increases when rates go down."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "An investor holds a bond with the following characteristics:\n\n| Yield to maturity | 9% |\n| :--- | :--- |\n| Modified duration | 7.4 |\n\nIf the duration gap is zero, the investment horizon is closest to:",
+        "options": [
+            "6.8 years.",
+            "7.4 years.",
+            "8.1 years."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because we use the fact that ModDur = MacDur / (1 + r) to calculate the Macaulay duration of the bond: MacDur = 7.4 × (1 + 9%) = 8.07. Because the duration gap is equal to the bond's Macaulay duration minus the investment horizon the investment horizon is closest to 8.1 years."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "If interest rates rise over the holding period, the total return of a coupon bond held until maturity is most likely to be:",
+        "options": [
+            "less than the yield to maturity at purchase.",
+            "equal to the yield to maturity at purchase.",
+            "greater than the yield to maturity at purchase."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Incorrect because a buy-and-hold investor has a higher total return if interest rates rise due to the unexpected excess coupon reinvestment proceeds. If interest rates fall, a buy-and-hold investor realizes no market price returns as he is redeemed at par at maturity. This choice may be attractive to uninformed candidates who focus on the buy-and-hold investor, and not any market interest rate changes."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "An investor sells a fixed-rate bond originally purchased at a discount. The resulting capital gain or loss should be measured by comparing the bond's selling price with its:",
+        "options": [
+            "par value.",
+            "carrying value.",
+            "purchase price."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because capital gains arise if a bond is sold at a price above its constant-yield price trajectory and capital losses occur if a bond is sold at a price below its constant-yield price trajectory. Also, capital gains and losses are measured from the carrying value of the bond and not from the purchase price. The carrying value includes the amortization of the discount or premium if the bond is purchased at a price below or above par value. The carrying value is any point on the constant-yield price trajectory."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM10 - Interest Rate Risk and Return",
+        "text": "A portfolio manager gathers the following information about an option-free bond that was held to maturity:\n\n| Realized horizon yield | 4.2% |\n| :--- | :--- |\n| Reinvestment rate | 4.1% |\n\nThe yield to maturity at purchase was most likely:",
+        "options": [
+            "less than 4.2%.",
+            "equal to 4.2%.",
+            "greater than 4.2%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the realized horizon yield matches the original yield-to-maturity if (1) coupon payments are reinvested at the same interest rate as the original yield-to-maturity, and (2) the bond is sold at a price on the constant-yield price trajectory, which implies that the investor does not have any capital gains or losses when the bond is sold. Since the reinvestment rate is less than the horizon yield and the bond is held to maturity, the yield to maturity is greater than the horizon yield."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "An analyst gathers the following information about a 4% annual-payment bond with a current yield-to-maturity of 4.0%:\n\n| Annualized Yield to Maturity | Bond Price |\n| :--- | :--- |\n| 3.9% | 100.45 |\n| 4.0% | 100.00 |\n| 4.1% | 99.56 |\n\nThe bond's annualized Macaulay duration is closest to:",
+        "options": [
+            "4.28.",
+            "4.45.",
+            "4.63."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because it adjusts the Approximate Modified Duration by 1 + yield to maturity to determine the Macaulay duration. AppxModDur = [(PV-) – (PV+)]/[2 × (ΔYield) × (PV0)] = (100.45 – 99.56)/(2 × 0.001 × 100) = 4.45.\nMacaulay duration = modified duration × (1 + YTM) = 4.45 × (1 + 0.04) = 4.628 ≈ 4.63."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "The Macaulay duration of a zero-coupon bond is most likely:",
+        "options": [
+            "less than the time to maturity.",
+            "equal to the time to maturity.",
+            "greater than the time to maturity."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the Macaulay duration of a zero-coupon bond is its time-to-maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "Modified duration is the most appropriate measure of interest rate risk for which of the following securities?",
+        "options": [
+            "Callable bond",
+            "US Treasury bond",
+            "Mortgage-backed bond"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because modified duration can be used to measure the interest rate risk of a non-complex bond such as a US Treasury bond, while effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "An analyst gathers the following information about three option-free bonds, each trading at a premium:\n\n| | Coupon | Yield To Maturity | Time to Maturity |\n| :--- | :--- | :--- | :--- |\n| Bond 1 | 4% | 4% | 10 years |\n| Bond 2 | 4% | 5% | 11 years |\n| Bond 3 | 5% | 5% | 9 years |\n\nAll else being equal, the bond with the lowest Macaulay duration is most likely:",
+        "options": [
+            "Bond 1.",
+            "Bond 2.",
+            "Bond 3."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the Macaulay and modified duration statistics for a fixed-rate bond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A higher coupon rate or a higher yield-to-maturity reduces the duration measures. A longer time-to-maturity usually leads to a higher duration. It always does so for a bond priced at a premium or at par value. In this case, Bond 3 has a higher coupon, the same or higher yield-to-maturity, and the shortest time to maturity. It therefore has the lowest Macaulay duration."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "For an option-free fixed-rate bond trading at a premium, as the coupon payment date approaches, Macaulay duration most likely:",
+        "options": [
+            "decreases.",
+            "remains constant.",
+            "increases."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because as time passes during the coupon period (moving from right to left in the diagram), the Macaulay duration declines smoothly and then jumps upward after the coupon is paid. The usual pattern is that longer times-to-maturity correspond to higher Macaulay duration statistics. This pattern always holds for bonds trading at par value or at a premium above par. Conversely, a shorter time to maturity corresponds to a lower Macaulay duration during the coupon period."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "An analyst gathers the following information about a bond:\n\n| Annual modified duration | 5.2 |\n| :--- | :--- |\n| Clean price | $90 |\n| Accrued interest | $5 |\n| Par value | $100 |\n\nIf yield-to-maturity decreases by 10 basis points, the change in price for this bond is closest to:",
+        "options": [
+            "$0.47.",
+            "$0.49.",
+            "$0.52."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the money duration of a bond is a measure of the price change in units of the currency in which the bond is denominated:\nMoneyDur = AnnModDur × PVFull and, ΔPVFull ≈ –MoneyDur × ΔYield\nwhere\nMoneyDur = money duration,\nAnnModDur = annual modified duration,\nPVFull = full price of bond = PVFlat + AI\nand ΔPVFull = change in full price. (p. 409)\nTherefore, ΔPVFull ≈ –(5.2 ×( 90 + 5)) × – 0.001 = 0.494 ≈ 0.49."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "An analyst gathers the following information about the price of a semiannual-pay bond at various yield levels:\n\n| Yield-to-Maturity | Full Price |\n| :--- | :--- |\n| 2.9% | 101.25 |\n| 3.0% | 100.00 |\n| 3.1% | 98.90 |\n\nIf the bond is currently priced at par, the approximate modified duration is closest to:",
+        "options": [
+            "5.9.",
+            "6.3.",
+            "11.8."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because ; where: PV0 = full price at current yield to maturity; PV+ = present value when the yield to maturity is increased; PV– = full price when the yield to maturity is decreased; ΔYield = change in yield to maturity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "The duration of an option-free bond is 10.21. If the current price of the bond is 121.355, the price value of a basis point (PVBP) is closest to: Mahakali Book Centre",
+        "options": [
+            "–0.1239.",
+            "0.1021.",
+            "0.1239."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because price value of a basis point (the absolute value of the change in the price of a bond for a 1-basis-point change in yield) is related to duration, the approximate percentage price change for a 100 bp change in rates. It follows that the approximate percentage price change for a 1 bp change in rates can be determined:\n= duration × (0.0001) × 100\n= (10.21) (0.0001) (100)\n= 0.1021%, then\nthe current price × the % price change = 121.355 × 0.1021% = $0.1239."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "For a non-callable perpetual bond with a constant yield to maturity, the Macaulay duration is:",
+        "options": [
+            "equal to the bond's time to maturity.",
+            "represented graphically as a \"saw-tooth\" pattern.",
+            "calculated as (1 + yield to maturity) / yield to maturity."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a perpetuity or perpetual bond is a bond that does not mature. There is no principal to redeem. The investor receives a fixed coupon payment forever, unless the bond is callable. Non-callable perpetuities have an interesting Macaulay duration: MacDur = (1 + r)/r as N approaches infinity, where r represents yield to maturity. The Macaulay duration of a non-callable perpetual bond is a function of its yield only."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM11 - Yield-Based Bond Duration Measures and Properties",
+        "text": "An analyst gathers the following information about an option-free bond:\n\n| Par value | $1,000,000 |\n| :--- | :--- |\n| Current market value | $912,575 |\n| Duration | 2.4 |\n\nIf yields are expected to decrease by 50 basis points, the expected price change for the bond is closest to:",
+        "options": [
+            "$11,000.00",
+            "$22,000.00",
+            "$24,000.00"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because modified duration provides an estimate of the percentage price change for a bond given a change in its yield-to-maturity. A modified duration of 2.4 translates to a 2.4% percentage price change given a 100 basis points change in the bond's yield to maturity. Therefore, for a 50 basis point decrease in yields, the bond's price will change by (2.4)(0.0050)($912,575) = $10,951 ≈ $11,000."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "An analyst gathers the following information about a bond:\n\n| Price | 96.00 |\n| :--- | :--- |\n| Price with yield to maturity 10 basis points higher | 95.80 |\n| Price with yield to maturity 10 basis points lower | 96.30 |\n\nThe approximate convexity of this bond is closest to:",
+        "options": [
+            "521",
+            "1,042.00",
+            "2,604.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because .\nTherefore the approximate convexity of this ="
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "A bond portfolio consists of the following option-free annual-pay coupon bonds:\n\n| | Bond 1 | Bond 2 |\n| :--- | :--- | :--- |\n| Par value | $300,000 | $450,000 |\n| Market value | $200,000 | $400,000 |\n| Yield to maturity | 4% | 3% |\n| Macaulay duration | 7.5 | 5.4 |\n\nThe modified duration of this portfolio is closest to:",
+        "options": [
+            "5.9.",
+            "6.0.",
+            "6.1."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the Macaulay and modified durations for the portfolio are calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights.\nFirst we calculate the modified duration (ModDur) of the individual bonds using formula below:\nModDur = MacDur / (1 + r)\nModDur of Bond 1 = 7.5 / (1 + 4%) = 7.211538\nModDur of Bond 2 = 5.4 / (1 + 3%) = 5.242718.\nNext, we calculate the weights for the individual bonds based on market values, as follows:\nWeight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333\nWeight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667\nModified duration of the portfolio = (Weight for Bond 1 × ModDur of Bond 1) + (Weight for Bond 2 × ModDur of Bond 2) = (0.333333 × 7.211538) + (0.666667 × 5.242718) = 5.898992 ≈ 5.9."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic of –212. If the market yield increases by 75 basis points, the price of this bond is closest to:",
+        "options": [
+            "93.7.",
+            "94.3.",
+            "94.9."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because %ΔPVFull = (–AnnModDur × ΔYield) + [(0.5 × AnnConvexity × Δ(Yield)2]= (–6.9 × 0.0075) + (0.5 × –212 × 0.00752) = –0.05175 – 0.0059625 = 0.0577125, rounded to 5.77%. The percentage decline in price = –0.0577125 × 99.4 = –5.7366, and the bond price = 99.4 – 5.7366 = 93.6634, rounded to 93.66."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "An analyst gathers the following information about a zero-coupon bond:\n\n| Time to maturity | 5 years |\n| :--- | :--- |\n| Annual convexity | 28.835 |\n| Annual yield to maturity | 2% |\n\nIf the yield decreases by 1%, the bond's percentage change in price is closest to:",
+        "options": [
+            "4.76%.",
+            "5.05%.",
+            "5.14%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the Macaulay duration of a zero-coupon bond is its time-to-maturity and modified duration is the Macaulay duration statistic divided by one plus the yield per period. Here, modified duration = 5/1.02 = 4.901961.\nThus, the percentage change in price = –4.901961 * –0.01 + (0.5 * 28.835 * –0.012) = 0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "An analyst gathers the following details about a bond portfolio:\n\n| Bond | Market Price (per 100 of par value) | Money Duration (per 100 of par value) |\n| :--- | :--- | :--- |\n| 1 | 95 | 730 |\n| 2 | 120 | 515 |\n\nIf each bond has a par value of £25 million, the modified duration of this bond portfolio is closest to:",
+        "options": [
+            "5.8.",
+            "6.1.",
+            "6.2."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because money duration (MoneyDur) is calculated as the annual modified duration times the full price (PVFull) of the bond, including accrued interest. Thus the modified durations of the bonds are 730/95 = 7.6842 and 515/120 = 4.29167, respectively.\nThe modified duration of a bond portfolio is calculated as the weighted average of the statistics for the individual bonds. The shares of overall portfolio market value are the weights. Here, the market values of the bonds are £25 million * 95/100 = £23,750,000 and £25 million * 120/100 = £30,000,000. Thus the weight of the first bond in the portfolio is £23,750,000 / (£23,750,000 + £30,000,000) = 44.186% and the weight of the second bond in the portfolio is £30,000,000 / (£23,750,000 + £30,000,000) = 55.814%. The modified duration of the portfolio is therefore 44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 + 2.3953 = 5.7907, rounded to 5.8."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "Two par bonds have the same duration but different convexity. All else being equal, if yields to maturity increase by 10 basis points, it is most likely that:",
+        "options": [
+            "the more convex bond underperforms the less convex bond.",
+            "both bond prices decrease by the same amount.",
+            "the more convex bond outperforms the less convex bond."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the two bonds are assumed to have the same price, yield-to-maturity, and modified duration. The benefit of greater convexity occurs when their yields-to-maturity change. And for the same increase in yield-to-maturity, the more convex bond depreciates less in price (than the less convex bond)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "An analyst gathers the following information about an option-free coupon bond that pays annually:\n\n| Modified duration | 13.2 |\n| :--- | :--- |\n| Convexity statistic | 1,081 |\n\nIf the bond's yield decreases by 10 basis points, the expected percentage price change for this bond is closest to:",
+        "options": [
+            "–1.27%.",
+            "1.27%.",
+            "1.37%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because %ΔPVFull ≈ (–AnnModDur × ΔYield) + [1/2 × AnnConvexity × (ΔYield)2] = (–13.2 × –0.0010) + [1/2 × 1081 × (–0.0010)2] = 0.0132 + 0.0005405 = 1.37405% ≈ 1.37%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM12 - Yield-Based Bond Convexity and Portfolio Properties",
+        "text": "Which of the following statements is most accurate? The convexity adjustment is:",
+        "options": [
+            "positive for an option-free bond in all circumstances.",
+            "negative for a callable bond when the value of the option is very low.",
+            "positive when bond yields decrease and negative when bond yields increase."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the convexity adjustment is the annual convexity statistic, AnnConvexity, times one-half, multiplied by the change in the yield-to-maturity squared. This additional term is a positive amount on a traditional (option-free) fixed-rate bond for either an increase or decrease in the yield."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "The sensitivity of a bond's price to benchmark interest rates best defines:",
+        "options": [
+            "yield duration.",
+            "curve duration.",
+            "modified duration."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because duration is a quantitative measure of interest rate risk. There are several duration measures, including those that measure a bond's price sensitivity to changes in its own yield-to-maturity and assume underlying cash flows are certain (yield duration) and those that measure changes in a benchmark yield curve, with less certain underlying cash flows (curve duration)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "An analyst gathers the following information about a bond:\n\n| Price if interest rates fall 75 basis points | 106.32 |\n| :--- | :--- |\n| Price if interest rates rise 75 basis points | 105.45 |\n\nIf the current price of the bond is 105.90, the effective duration is closest to:",
+        "options": [
+            "0.41.",
+            "0.55.",
+            "1.10."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because effective duration = .\nSo, (106.32 – 105.45)/2(105.9)0.0075 = 0.547, rounded to 0.55."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "An analyst gathers the following information about a bond currently trading at par:\n\n| Change in Benchmark Curve | Price per 100 of Par Value |\n| :--- | :--- |\n| +25 bps | 98 |\n| –25 bps | 103 |\n\nThe effective duration of this bond is closest to:",
+        "options": [
+            "2.5.",
+            "5.0.",
+            "10.0."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the effective duration is calculated as (PV– – PV+)/(2 × ΔCurve × PV0), where: PV– = the bond price when the benchmark yield is decreased, PV+ = the bond price when the benchmark yield is increased, and PV0 = then current bond price.\nEffective duration = (103 – 98)/(2 × 0.0025 × 100) = 10."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Among three otherwise comparable bonds, the bond with the highest price is most likely to be:",
+        "options": [
+            "putable.",
+            "callable.",
+            "option-free."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the price of a putable bond is always higher than that of an otherwise comparable non-putable bond. The price difference is the value of the embedded put option and the price of the non-callable bond is always greater than that of the callable bond with otherwise identical features."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "With respect to a bond with an embedded option, for parallel shifts in the benchmark yield curve, effective duration most likely indicates the same interest rate sensitivity as:",
+        "options": [
+            "modified duration.",
+            "key rate durations.",
+            "Macaulay duration."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because for parallel shifts in the benchmark yield curve, key rate durations will indicate the same interest rate sensitivity as effective duration."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "All else being equal, when the market interest rate falls below a bond's coupon rate, potential price appreciation is most limited for a: Mahakali Book Centre",
+        "options": [
+            "putable bond.",
+            "callable bond.",
+            "option-free bond."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because when interest rates are low, the effective duration of the callable bond is lower than that of the otherwise comparable non-callable bond because the callable bond price does not increase as much when benchmark yields fall. The presence of the call option limits price appreciation especially when interest rates are falling and the bond is more likely to be called."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "An analyst gathers the following information about a bond which is currently trading at 95.35 per 100 par:\n\n| Benchmark Yield | Bond Price |\n| :--- | :--- |\n| 3.50% | 99.50 |\n| 4.00% | 95.35 |\n| 4.50% | 92.25 |\n\nThe effective duration of the bond is closest to:",
+        "options": [
+            "6.5.",
+            "7.6.",
+            "8.7."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield curve.\nEffDur = [(PV–) – (PV+)] / [2 × (ΔCurve) × (PV0)]\nWith PV0 = 95.35, PV– = 99.50, PV+ = 92.25,\nEffDur = (99.50 – 92.25) / (2 × 0.005 × 95.35) = 7.60."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Which of the following is a curve duration measure?",
+        "options": [
+            "Modified duration",
+            "Effective duration",
+            "Macaulay duration"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "An analyst gathers the following information about a 6% coupon bond currently trading at par:\n\n| Benchmark Rate | Price per 100 of Par Value |\n| :--- | :--- |\n| 5.9% | 100.75 |\n| 6.0% | 100.00 |\n| 6.1% | 99.26 |\n\nThe bond's effective duration is closest to:",
+        "options": [
+            "3.75.",
+            "7.45.",
+            "7.50."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because effective duration = (PV+ – PV-) / (2 × Δcurve × PV0) = ( 100.75 – 99.26) / (2 × 0.001 × 100.00) = 7.45."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Effective duration is:",
+        "options": [
+            "a useful interest rate risk measure only for bonds with embedded options.",
+            "an accurate estimate of interest rate risk only when the assumed benchmark rate change is small.",
+            "the same as the modified duration of an option-free bond only when the yield curve is perfectly flat."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the modified duration and effective duration on an option-free bond are identical only in the rare circumstance of an absolutely flat yield curve."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "For a bond with an embedded option, effective duration is the most appropriate measure of interest rate risk because the bond's:",
+        "options": [
+            "future cash flows are uncertain.",
+            "internal rate of return is well-defined.",
+            "pricing is sensitive to changes in credit spreads."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. The issuer's decision to call the bond depends on the ability to refinance the debt at a lower cost of funds. Effective duration is the appropriate duration measure."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "The key rate duration best measures a bond's sensitivity to a change in the:",
+        "options": [
+            "level of the yield-to-maturity.",
+            "slope of the yield-to-worst curve.",
+            "shape of the benchmark yield curve."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because key rate duration (or partial duration) is a measure of a bond's sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk' for a bond—that is, a bond's sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Which of the following duration statistics best measures the sensitivity of a bond's price to a flattening of the yield curve?",
+        "options": [
+            "Key rate duration",
+            "Effective duration",
+            "Macaulay duration"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because key rate duration (or partial duration) is a measure of a bond's sensitivity to a change in the benchmark yield curve at a specific maturity segment. In contrast to effective duration, key rate durations help identify 'shaping risk' for a bond—that is, a bond's sensitivity to changes in the shape of the benchmark yield curve (e.g., the yield curve becoming steeper or flatter)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Callable bonds exhibit:",
+        "options": [
+            "positive convexity only.",
+            "negative convexity only.",
+            "either positive or negative convexity."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when the benchmark yield is high and the value of the embedded call option is low, the callable and the non-callable bonds experience very similar effects from interest rate changes. They both have positive convexity. But as the benchmark yield is reduced, the curves diverge. At some point, the callable bond moves into the range of negative convexity, which indicates that the embedded call option has more value to the issuer and is more likely to be exercised."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Effective duration is the appropriate interest rate risk measure for callable bonds because it:",
+        "options": [
+            "measures the sensitivity of the bond price to a change in the yield to worst.",
+            "accounts for the convexity adjustment which can be significant for callable bonds.",
+            "can be calculated for bonds that do not have a well-defined internal rate of return."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a callable bond does not have a well-defined internal rate of return (yield to maturity). Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "The most appropriate measure of interest rate risk for a bond with an embedded option is:",
+        "options": [
+            "effective duration.",
+            "modified duration.",
+            "Macaulay duration."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the effective duration of a bond is the sensitivity of the bond's price to a change in a benchmark yield. Modified duration is a yield duration statistic in that it measures interest rate risk in terms of a change in the bond's own yield-to-maturity (ΔYield). Effective duration is a curve duration statistic in that it measures interest rate risk in terms of a parallel shift in the benchmark yield curve (ΔCurve). Effective duration is essential to the measurement of the interest rate risk of a complex bond, such as a bond that contains an embedded call option. The problem is that future cash flows are uncertain because they are contingent on future interest rates. Therefore, yield duration statistics, such as modified and Macaulay durations, do not apply; effective duration is the appropriate duration measure."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "The yield duration and the curve duration of a zero-coupon bond are most similar when the:",
+        "options": [
+            "benchmark yield curve is flat.",
+            "bond has a long time to maturity.",
+            "bond is priced at a significant discount."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in general, the differences [between yield duration and convexity and curve duration and convexity] are heightened when the benchmark yield curve is not flat, when the bond has a long time-to-maturity, and the bond is priced at a significant discount or premium. Therefore, the difference between yield duration and curve duration are most similar when the benchmark yield curve is flat."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM13 - Curve-Based and Empirical Fixed-Income Risk Measures",
+        "text": "Effective duration is the most appropriate interest rate risk measure for a bond when:",
+        "options": [
+            "the shape of the yield curve changes.",
+            "there is a change in the bond's credit spread.",
+            "the issuer has the right to pay off the bond prior to maturity."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because if a bond has contingency features, such as embedded options, as with a callable (or puttable) bond, then future cash flows are uncertain since option exercise depends on the level of market interest rates relative to coupon interest being paid (or received). Consequently, bonds with embedded options do not have well-defined yields-to-maturity, so Macaulay and modified durations are not appropriate interest rate risk measures for such bonds. Rather, the appropriate measure of interest rate risk is the sensitivity of the bond's price to a change in a benchmark yield curve—for example, the government par curve—known as effective duration, a curve duration rather than a yield duration statistic."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM14 - Credit Risk",
+        "text": "For a bond investment, loss severity is:",
+        "options": [
+            "independent of the recovery rate.",
+            "used in the calculation of the expected loss.",
+            "the primary focus when assessing the creditworthiness of high-quality issuers."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Expected loss = Default probability × Loss severity given default."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM14 - Credit Risk",
+        "text": "All else being equal, an investment-grade bond issuer most likely has:",
+        "options": [
+            "less market liquidity risk than a below-investment-grade issuer.",
+            "the same market liquidity risk as a below-investment-grade issuer.",
+            "greater market liquidity risk than a below-investment-grade issuer."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because market liquidity risk is the risk that the price at which investors can actually transact—buying or selling—may differ from the price indicated in the market. The lower the quality of the issuer, the higher the market liquidity risk."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM14 - Credit Risk",
+        "text": "For an option-free fixed-rate corporate bond, the duration and convexity statistics are most likely relevant for a change in:",
+        "options": [
+            "the credit spread only.",
+            "the benchmark yield only.",
+            "both the credit spread and the benchmark yield."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the key point is that for an option-free fixed-rate bond, the same duration and convexity statistics that apply for a change in benchmark yield also apply for a change in spread."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM14 - Credit Risk",
+        "text": "Tightening corporate bond yield spreads are most likely associated with:",
+        "options": [
+            "issuers' deteriorating creditworthiness.",
+            "periods of high demand for corporate bonds.",
+            "broker-dealers' reduced ability and willingness to make markets."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in periods of high demand for bonds, spreads will move tighter."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM14 - Credit Risk",
+        "text": "All else being equal, expected loss for a debt instrument:",
+        "options": [
+            "is independent of the recovery rate.",
+            "decreases as the recovery rate increases.",
+            "changes proportionally to the recovery rate."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Expected loss = Default probability × Loss severity given default, where loss severity is often expressed as (1 – Recovery rate), where the recovery rate is the percentage of the principal amount recovered in the event of default. Thus expected loss can also be written as Expected loss = Default probability × (1 – Recovery rate), which means that the higher the recovery rate, the lower the expected loss."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM15 - Credit Analysis for Government Issuers",
+        "text": "Which of the following is most likely a key factor in the credit analysis of revenue-backed non-sovereign government bonds?",
+        "options": [
+            "Per capita income",
+            "Breadth of the tax base",
+            "Debt-service-coverage ratio of the project"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because revenue bonds are issued for specific project financing (e.g., financing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc. ). Revenue bonds, which are issued to finance a specific project, have a higher degree of risk than GO bonds because they are dependent on a single source of revenue. A key credit measure for revenue-backed non-sovereign government bonds is the debt-service-coverage (DSC) ratio, which measures how much revenue is available to cover debt payments (principal and interest) after operating expenses."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "With respect to the notching process adopted by credit rating agencies, a corporate's subordinated debt is most likely: Mahakali Book Centre",
+        "options": [
+            "notched up from the corporate's junior subordinated debt.",
+            "subject to a smaller notching adjustment the higher the corporate's issuer rating.",
+            "notched down from the corporate's issuer rating due to higher probability of default."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the rating agencies have adopted a notching process whereby their credit ratings on issues can be moved up or down from the issuer rating, which is usually the rating applied to its senior unsecured debt. As a general rule, the higher the senior unsecured rating, the smaller the notching adjustment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "The EBITDA/interest expense ratio is best classified as a:",
+        "options": [
+            "leverage ratio.",
+            "coverage ratio.",
+            "profitability ratio."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because coverage ratios measure an issuer's ability to meet—to 'cover'—its interest payments. The two most common are the EBITDA/interest expense and EBIT/interest expense ratios."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "A bond issuer has a credit rating of BBB. Based only on this information, the rating of a senior unsecured bond from this issuer is most likely to be:",
+        "options": [
+            "lower than BBB.",
+            "BBB.",
+            "higher than BBB."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the issuer credit rating usually applies to its senior unsecured debt."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "An analyst gathers the following information about a company (in $ millions):\n\n| Operating income | 120 |\n| :--- | :--- |\n| Net income | 85 |\n| Interest expense | 15 |\n| Depreciation and amortization | 15 |\n\nInterest coverage using EBIT is closest to:",
+        "options": [
+            "7x.",
+            "8x.",
+            "9x."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because operating income is defined as operating revenues minus operating expenses and is commonly referred to as 'earnings before interest and taxes' (EBIT).\nInterest coverage using EBIT is operating income/interest expense. = $120/15 = 8."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "An analyst gathers the following information about a company that only has senior unsecured debt:\n\n| Type | Total Amount Outstanding | Time to Maturity |\n| :--- | :--- | :--- |\n| Floating-rate note (FRN) | $50 million | 12 years |\n| Fixed-rate bond | $10 million | 2 years |\n\nIn a bankruptcy scenario, if the priority of claims is enforced, it is most likely that:",
+        "options": [
+            "fixed-rate bond is repaid first because it matures earlier.",
+            "both bondholders are repaid proportionally to the amount owed.",
+            "FRN is repaid first because it has the highest amount outstanding."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because both bonds represent forms of senior unsecured debt and therefore, all creditors are at the same level of the capital structure and treated as one class; thus, a senior unsecured bondholder whose debt is due in 30 years has the same pro rata claim in bankruptcy as one whose debt matures in six months. This provision is referred to as bonds ranking pari passu ('on an equal footing') in right of payment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "Which of the following debt categories has the highest ranking in terms of priority of payment?",
+        "options": [
+            "Second lien debt",
+            "Subordinated debt",
+            "Senior unsecured debt"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because this is a secured debt and therefore has higher priority than any unsecured debt. In the event of default, unsecured debtholders' claims rank below (i.e., get paid after) those of secured creditors under what's known as the priority of claims. First lien debt or loan refers to a pledge of certain assets that could include buildings but might also include property and equipment, licenses, patents, brands, and so on. There can also be second lien, or even third lien, secured debt, which, as the name implies, has a secured interest in the pledged asset but ranks below first lien debt in both collateral protection and priority of payment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "A corporate family rating most likely:",
+        "options": [
+            "reflects the priority of claims in a bankruptcy.",
+            "refers to specific financial obligations of an issuer.",
+            "is assigned to a company based on its overall creditworthiness."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because corporate family ratings or issuer ratings will address an obligor's overall creditworthiness – its ability to and willingness to make timely payments of interest and principal on its debt. The issuer credit rating usually applies to its senior unsecured debt."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM16 - Credit Analysis for Corporate Issuers",
+        "text": "An issuer's credit rating most likely applies to its:",
+        "options": [
+            "subordinated debt.",
+            "senior secured debt.",
+            "senior unsecured debt."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because an issuer credit rating is meant to address an obligor's overall creditworthiness – its ability and willingness to make timely payments of interest and principal on its debt. The issuer credit rating usually applies to its senior unsecured debt."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM17 - Fixed-Income Securitization",
+        "text": "Proceeds for repaying securitized bonds most likely come from the:",
+        "options": [
+            "claims-paying ability of the operating entity.",
+            "cash flows of the underlying financial assets.",
+            "cash flows of the project the bond is financing."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the securitization process pools and transfers the ownership of cash flow generating assets, such as loans or receivables, from the original lender into a specially created legal entity. The pool of assets are the securitized assets, also called the reference portfolio or collateral. In turn, that legal entity issues securities backed by these pooled assets to investors and uses the cash flows to pay interest and repay the principal to investors."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM17 - Fixed-Income Securitization",
+        "text": "In a securitization, the purchase agreement between the seller of the collateral and the special purpose entity most likely provides:",
+        "options": [
+            "a description of the transaction structure.",
+            "representations about the quality of the assets.",
+            "documentation of enhancements used to reduce credit risk."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because an important legal document is the purchase agreement between the seller of the collateral and the SPE, which sets forth the representations and warranties that the seller makes about the assets sold. These representations and warranties assure investors about the quality of the assets."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM17 - Fixed-Income Securitization",
+        "text": "In the securitization process, the trustee most likely:",
+        "options": [
+            "sells the underlying collateral.",
+            "owns the underlying collateral.",
+            "holds the underlying collateral."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a trustee or trustee agent is typically a financial institution with trust powers that safeguards the assets after they have been sold to the SPE, holds the funds due to the ABS holders until they are paid, and provides periodic information to the ABS holders."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM18 - Asset-Backed Security (ABS) Instrument and Market Features",
+        "text": "Which of the following types of collateralized debt obligations (CDOs) are most likely backed by asset-backed securities?",
+        "options": [
+            "Structured finance CDOs",
+            "Collateralized loan obligations",
+            "Collateralized bond obligations"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because collateralized debt obligation (CDO) is a generic term used to describe a security backed by a diversified pool of one or more debt obligations: CDOs backed by ABS, RMBS, CMBS, and other CDOs are structured finance CDOs."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM18 - Asset-Backed Security (ABS) Instrument and Market Features",
+        "text": "In the event of default, investors in covered bonds most likely have recourse against:",
+        "options": [
+            "the issuer only.",
+            "a segregated pool of assets only.",
+            "both the issuer and a segregated pool of assets."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a covered bond is a debt obligation backed by a segregated pool of assets called a 'cover pool'. In the event of default, bondholders have recourse against both the financial institution and the cover pool."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM18 - Asset-Backed Security (ABS) Instrument and Market Features",
+        "text": "A credit card receivable asset-backed security most likely:",
+        "options": [
+            "faces high prepayment risk.",
+            "uses fully-amortizing loans as collateral.",
+            "reinvests principal repayments during the lockout period."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the collateral of credit card receivable ABS is a pool of non-amortizing loans. These loans have lockout periods during which the cash flows that are paid out to security holders are based only on finance charges collected and fees. When the lockout period is over, the principal that is repaid by the cardholders is no longer reinvested but instead is distributed to investors."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM18 - Asset-Backed Security (ABS) Instrument and Market Features",
+        "text": "In a securitization, a senior/subordinated structure is most likely a form of:",
+        "options": [
+            "time tranching.",
+            "credit tranching.",
+            "prepayment risk management."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because it is common for securitizations to include a form of internal credit enhancement called subordination, also referred to as credit tranching. In such a structure, there is more than one bond class or tranche, and the bond classes differ as to how they will share any losses resulting from defaults of the borrowers whose loans are in the collateral. The bond classes are classified as senior bond classes or subordinated bond classes—hence, the reason this structure is also referred to as a senior/subordinated structure."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM19 - Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "text": "All else being equal, the risk of a strategic default for a non-recourse mortgage is most likely:",
+        "options": [
+            "lower than for a recourse mortgage.",
+            "the same as for a recourse mortgage.",
+            "greater than for a recourse mortgage."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because for a non-recourse mortgage, the borrower may have an incentive to default on an underwater mortgage and allow the lender to foreclose on the property, even if resources are available to continue to make mortgage payments. This type of default by a borrower is referred to as a 'strategic default'. In countries where residential mortgages are recourse loans, a strategic default is less likely because the lender can seek to recover the shortfall from the borrower's other assets and/or income. Therefore, the risk of a strategic default is higher for a non-recourse mortgage."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM19 - Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "text": "Which of the following mortgage features most likely benefits the lender?",
+        "options": [
+            "Non-recourse loan",
+            "Prepayment option",
+            "Prepayment penalty"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the purpose of the prepayment penalty is to compensate the lender for the difference between the contract rate and the prevailing mortgage rate if the borrower prepays when interest rates decline."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM19 - Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "text": "When interest rates increase, mortgage-backed securities most likely exhibit increased:",
+        "options": [
+            "extension risk.",
+            "contraction risk.",
+            "reinvestment risk."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because extension risk is the risk that when interest rates rise, prepayments will be lower than forecasted because homeowners are reluctant to give up the benefits of a contractual interest rate that now looks low. As a result, a security backed by mortgages will typically have a longer maturity than was anticipated at the time of purchase."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM19 - Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "text": "The coupon of a residential mortgage-backed security is the:",
+        "options": [
+            "pass-through rate.",
+            "weighted average coupon rate.",
+            "rate on the underlying pool of mortgages."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a mortgage pass-through security's coupon rate is called the pass- through rate. The pass-through rate is lower than the mortgage rate on the underlying pool of mortgages by an amount equal to the servicing and other administrative fees. The pass-through rate that the investor receives is said to be 'net interest' or 'net coupon'."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Fixed Income",
+        "lm": "LM19 - Mortgage-Backed Security (MBS) Instrument and Market Features",
+        "text": "In a securitization, time tranching most likely refers to differences in:",
+        "options": [
+            "default risk.",
+            "expected maturities.",
+            "underlying collateral."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the creation of bond classes that possess different expected maturities is referred to as time tranching."
     }
 ];
