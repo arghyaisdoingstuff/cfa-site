@@ -4460,7 +4460,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Digital Assets",
         "text": "Which of the following statements is most accurate? Cryptocurrencies:",
         "options": [
@@ -4473,7 +4473,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to loyalty, prudence, and care? Members should:",
         "options": [
@@ -4486,7 +4486,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standards, a member who is asked to produce an issuer -paid \nresearch report is required to:",
         "options": [
@@ -4499,7 +4499,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Ann Jules, CFA, discovered that her employer, Plutus Investments Inc. (PII), inflates \ninvestment performance in PII's marketing brochure. In accordance with firm policy, \nJules uses PII’s marketing brochure to present to prospective clients. In addition, \nJules emails stock recommendations to her clients in capsule form and offers \nadditional information only upon request. Jules has most likely violated the \nStandards:",
         "options": [
@@ -4512,7 +4512,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Maria Jennings, CFA, overhears the CEO of United Retail saying that the quarterly \nreport to be released next week will miss analysts' expectations. Jennings \nimmediately calls her brother who owns the stock to tell him what she overheard. \nOne week later, Jennings writes a report on another company, KTD retail. She uses \npublic and nonmaterial nonpublic information for her analysis to issue a \"buy\" \nrecommendation. Has Jennings most likely violated the Standards?",
         "options": [
@@ -4525,7 +4525,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standards, which of the following is most likely considered material \nnonpublic information?",
         "options": [
@@ -4538,7 +4538,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to fair dealing, when members disseminate \ninvestment recommendations, they are most likely required to make every effort to \ntreat individual clients in a(n):",
         "options": [
@@ -4551,7 +4551,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedure for compliance with the Standard relating \nto fair dealing, a member who works in a large firm should:",
         "options": [
@@ -4564,7 +4564,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Which of the following statements is accurate according to the Standards? \nStatement 1: A member, prior to leaving his current employer, may contact potential \nclients for purposes of soliciting their business for their new employer. \nStatement 2: A member, while still employed, is free to make arrangements outside \nof normal working hours to apply for a license with the local regulator to set up a \ncompeting business.",
         "options": [
@@ -4577,7 +4577,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to disclosure of conflicts, buy-side members \nshould disclose to clients their:",
         "options": [
@@ -4590,7 +4590,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Michael Mak, CFA, is a portfolio manager at an investment firm. After comprehensive \nresearch, Mak buys Advance One Tech's (AOT) stock for all his clients for whom the \ninvestment is suitable. He then buys AOT shares for his brother's fee -paying \naccount, in which Mak has beneficial ownership. AOT's stock price declines \nsignificantly after a month, resulting in substantial losses for all his clients. Are \nMak's actions consistent with the Standards?",
         "options": [
@@ -4603,7 +4603,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "With respect to the GIPS standards, which of the following statements is most \naccurate? Verification:",
         "options": [
@@ -4616,7 +4616,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards VII",
         "text": "Which of the following is a violation of the Standard relating to conduct as \nparticipants in CFA Institute Programs? A candidate:",
         "options": [
@@ -4629,7 +4629,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Johny Lumunon, CFA, shows prospective clients the investment performance of an \naccount with \"balanced\" investment objectives and highlights how account has \noutperformed the benchmark in the last 10 years. He does not disclose that this is \nthe best performing account, and that half of the accounts with “balanced” \ninvestment objectives managed by his firm underperformed the benchmark during \nthe same period. Lumunon has most likely violated the Standard(s) relating to:",
         "options": [
@@ -4642,7 +4642,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Jordan Kope, CFA, is an analyst with a hedge fund and works closely with Deepa Bose \nwho earned her CFA designation 15 years ago. Kope becomes aware that Bose uses \nher CFA designation even though she no longer pays her membership dues. During \nseveral meetings that Bose and Kope have with the firm’s clients, Bose emphasizes \nthat all her team members, including herself, are CFA charterholde rs. To be \nconsistent with the Standards, Kope should:",
         "options": [
@@ -4655,7 +4655,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto responsibilities of supervisors, a firm's code of ethics should:",
         "options": [
@@ -4668,7 +4668,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the Standard relating to diligence and reasonable basis, a member is \nrequired to:",
         "options": [
@@ -4681,7 +4681,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "After completing Level II of the CFA exam, Aashi Banerjee posts several comments \non an online chatroom for CFA program candidates. Which of the following comments \nviolate the Standard relating to conduct as participants in CFA Institute programs? \nComment 1: CFA Institute must revise the topic area weights on the exam. \nComment 2: There were no questions on GIPS standards.",
         "options": [
@@ -4694,7 +4694,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Which of the following activities violates the Standard relating  to market \nmanipulation? \nActivity 1: A member secures a dominant position in futures contracts to influence \nthe price of the underlying. The transaction results in large losses for the member. \nActivity 2: A member frequently trades a stock in multiple client accounts with an \nintent to increase the volume of the stock. The transactions result in large gains for \nthe clients.",
         "options": [
@@ -4707,7 +4707,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following statements regarding the GIPS standards is accurate?",
         "options": [
@@ -4720,7 +4720,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Claus Holm, CFA, directs most of his clients' trades to RRT Company (RRT), despite \nRRT's higher-than-average commissions. In return, RRT refers individual clients to \nHolm for asset management services. Holm does not disclose the arrangement to his \nclients or prospective clients. Holm has most likely violated the Standard(s) relating:",
         "options": [
@@ -4733,7 +4733,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Emma Fischer, CFA, is an analyst covering the banking sector. She has declared \nbankruptcy due to large unpaid personal medical bills. On weekends, she participates \nin public protests for climate protection. She was recently arrested for trespassing \nduring a protest, which is an act of civil disobedience in her country. Has Fischer \nviolated the Standards?",
         "options": [
@@ -4746,7 +4746,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to independence and objectivity? Members should encourage their firms to:",
         "options": [
@@ -4759,7 +4759,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the recommended procedure for compliance with the Standard relating \nto misconduct, members should encourage their firms to disseminate a list of \npotential violations and associated disciplinary sanctions to:",
         "options": [
@@ -4772,7 +4772,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto misconduct, members should encourage their firms to:",
         "options": [
@@ -4785,7 +4785,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the guidance for the Standard relating to loyalty, prudence, and care, \nwhich of the following statements is most accurate?",
         "options": [
@@ -4798,7 +4798,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the guidance for the Standards, which of the following statements are \naccurate? \nStatement 1: Employees must place employer interests ahead of personal interests \nin all matters. \nStatement 2: Senior management of a member's firm should create financial \ncompensation structures that do not drive unethical behavior.",
         "options": [
@@ -4811,7 +4811,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "A member believes a colleague is participating in unethical activities at work. The \nmember does not disassociate himself from the activities of his colleague. The \nmember has most likely violated:",
         "options": [
@@ -4824,7 +4824,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the Standard relating to loyalty, members must:",
         "options": [
@@ -4837,7 +4837,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Andrew Milton, CFA, is an advisor working with individual clients. Milton is careful to \nrecommend investments for his clients that are consistent with their overall \nobjectives and risk tolerance. His firm gives its advisors a bonus for recommending \nthe firm's proprietary products. If all other variables are equal in an investment \nchoice, Milton uses the proprietary products. Milton does not inform the clients of \nthis bonus. Has Milton most likely violated the Standards?",
         "options": [
@@ -4850,7 +4850,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Which of the following are among the recommended procedures for compliance with \nthe Standard relating to independence and objectivity? \nProcedure 1: Impose limits on investment personnel acquiring securities in private \nplacements. \nProcedure 2: Prohibit employees from receiving reimbursement from corporate \nissuers for air transportation when attending meetings at the issuers' headquarters. \n                                                                         \n \nProcedure 3: Remove a company from the restricted list if the firm is unwilling to \npermit dissemination of adverse opinions about the company.",
         "options": [
@@ -4863,7 +4863,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Vinod Shah, CFA, is a fund manager for the employee pension plan of Jupiter \nCorporation, a publicly traded company. Shah owes a primary duty of loyalty, \nprudence, and care to the:",
         "options": [
@@ -4876,7 +4876,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Min Joon, CFA, works in the client services department at an investment firm. Joon \nhas been short-selling stocks on his personal account in anticipation of a significant \ndecline in the market. His transactions do not disadvantage his firm's clients. \nFollowing a dramatic rise in the markets, Joon is unable to cover his short positions \nand is forced to declare personal bankruptcy. Has Joon violated the Standards?",
         "options": [
@@ -4889,7 +4889,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "A member secures a controlling, dominant position in an option on a stock in order to \nbenefit from trading the stock. The option trades are reported by the exchange and \nthe increased option trading volume leads other traders to take positions in the option \nand in the underlying stock. The member has violated the Standards:",
         "options": [
@@ -4902,7 +4902,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to performance presentation? When presenting performance, members \nshould:",
         "options": [
@@ -4915,7 +4915,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Mary Rein, CFA, makes a brief presentation about her firm's performance to a group \nof current and prospective clients. According to the Standard relating to \nperformance presentation, is Rein required to make available the detailed information \nsupporting her presentation to clients upon request?",
         "options": [
@@ -4928,7 +4928,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to suitability, a member who manages a mutual \nfund is required:",
         "options": [
@@ -4941,7 +4941,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Richard Hicks, CFA, is an investment advisor. A friend asks Hicks to share client \ncontacts in order to solicit charitable donations. Hicks responds that he is unable to \nshare current clients' contact details and instead provides e -mail addresses of \nseveral former clients. The next day, Hicks finds out that one of his colleagues, \nClaudia Moll, a Level III candidate in the CFA Program, has failed to inform her \nsupervisor about her personal bankruptcy resulting from large medical bills. Have the \nStandards most likely been violated?",
         "options": [
@@ -4954,7 +4954,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Tom Dixon, CFA, provides a brief summary of his investment performance to his \nclients. He indicates that further information is available upon request. He tells his \nclients they can expect a return of 5% in the next three years based on his strong \ntrack record. Has Dixon most likely violated the Standards?",
         "options": [
@@ -4967,7 +4967,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to additional compensation arrangements, a \nmember who is offered additional compensation from a third party for services that \nconflict with his employer’s interest:",
         "options": [
@@ -4980,7 +4980,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "John Run, CFA, manages client accounts for an investment firm. A client says to Run: \n“For every year my portfolio beats the benchmark by 5%, you can use my beach home \nfor a week.” Run also serves on the board of Core Air Ltd. (Core). He does not receive \ncash payments from Core for board services but Core sends Run a family voucher for \na flight. Run accepts both offers and does not inform his firm about the beach home \noffer or the flight voucher. Has Run most likely violated the Standard relating to \nadditional compensation arrangements?",
         "options": [
@@ -4993,7 +4993,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Johanna Ayers, CFA, is a portfolio manager. She has a new client and develops an \ninvestment policy statement (IPS) that addresses the client's risk and return \nobjectives and constraints. The client does not disclose assets managed by other \nfirms and Ayers agrees to only manage the portion of the client's assets disclosed to \nher. In a separate document, Ayers develops an investment program and strategic \nasset allocation for the portion of client assets she manages. Has Ayers most likely \nviolated the Standard relating to suitability?",
         "options": [
@@ -5006,7 +5006,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "A member most likely violates the Standard relating to responsibilities of supervisors \nif she:",
         "options": [
@@ -5019,7 +5019,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to loyalty, in the absence of a noncompete \nagreement and without employer consent, a member is permitted to:",
         "options": [
@@ -5032,7 +5032,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "To use a quantitative model in her investment research, a member is required by the \nStandards to:",
         "options": [
@@ -5045,7 +5045,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Tim Newman, CFA, is an investment manager. One of his clients directs Newman to \nuse Mercer brokerage to execute trades. Newman believes Mercer does not offer \nbest execution, but uses the brokerage commissions to purchase research services \nfor his client. Newman informs the client that he may not be getting best execution. \n                                                                         \n \nAre Newman’s actions consistent with the Standard relating to loyalty, prudence, and \ncare?",
         "options": [
@@ -5058,7 +5058,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "After thorough analysis, Algiris Vasilis, CFA, prepares a \"buy\" recommendation on a \ncompany's stock. In the report he writes: \"The company will beat analysts' earnings \nprojections next month.\" Vasilis first shares the recommendation with all clients by \nemail. He then calls each of his clients by phone to present the recommendation. Has \nVasilis violated the Standards?",
         "options": [
@@ -5071,7 +5071,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Melissa Kon, CFA, is an equity analyst. She recently left her job at Hamm Capital (HC) \nto join Eagle Investments (EI). Kon obtains the express consent of HC to take one of \nher historical research reports with her. At EI, she diligently updates and publishes \nthe report. Afterwards, she re-creates supporting records from memory for record \nkeeping purposes. Has Kon violated the Standards?",
         "options": [
@@ -5084,7 +5084,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Amy Joy, CFA, works at Parklane Investments Ltd. (PIL). When presenting to PIL’s \nprospective clients, Joy uses a brief investment performance summary and makes \navailable detailed supporting information only upon client request. Has Joy violated \nthe Standards?",
         "options": [
@@ -5097,7 +5097,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Hannah Hostettler, CFA, is a portfolio manager at a wealth management firm. \nHostettler has an arrangement with a lawyer, whereby she refers clients who need \nlegal advice to the lawyer, who in turn refers clients to Hostettler. Because no \nreferral fees are involved, Hostettler does not disclose this arrangement to her \nexisting or prospective clients. Has Hostettler most likely violated the Standards?",
         "options": [
@@ -5110,7 +5110,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Thomas Huang, CFA, is an investment advisor for Newline Partners (NP). NP has an \nagreement with brokerage firm Ridge Capital (RC). Huang refers clients to RC in \nexchange for compensation. RC pays a cash fee to NP for referrals. Before entering \ninto formal agreements for services, Huang makes the following disclosure to NP's \nclients: \"Please note that Newline Partners receives an annual cash percentage fee \nfrom Ridge Capital for the referral of clients.\" Huang omits disclosure of the \nestimated dollar value of the referrals. Has Huang violated the Standards?",
         "options": [
@@ -5123,7 +5123,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to preservation of confidentiality? \nProcedure 1: Members should convey to clients that not all firm -sponsored \ncommunication methods may be suitable for transmitting confidential information. \nProcedure 2: Members should encourage their firms to provide periodic training on \nconfidentiality procedures to all clients. \nProcedure 3: Members should become experts in information technology security in \norder to protect client confidentiality.",
         "options": [
@@ -5136,7 +5136,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Marianne Lynn is registered for the CFA Level I exam. A few weeks after \nregistration, she realizes that she is unable to prepare for the exam due to work \ncommitments, so she informs CFA Institute that she declines to sit for the exam. \nAfterwards, shortly before the exam date, she posts on social media that she is a \nCFA candidate. Separately, Thomas Petrov, CFA, posts his investment views \nanonymously on social media and tags his post using \"#CFAcharter.\" Who has violated \nthe Standards?",
         "options": [
@@ -5149,7 +5149,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Melinda Jacobs, CFA, is a portfolio manager with SFM Asset Managers (SFM). Jacobs \nteaches an investment course at a business school on weekends for a fee. Jacobs is \nplanning to leave SFM and has begun to develop marketing materials for a new \nbusiness that will compete with SFM. Has Jacobs most likely violated the Standards?",
         "options": [
@@ -5162,7 +5162,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Which of the following individuals can refer to themselves as a candidate in the CFA \nProgram? \nIndividual 1: Has passed Level II and expects to register for Level III in a couple of \nmonths \nIndividual 2: Has failed Level I and expects to retake the exam in its next \nadministration \nIndividual 3: Is awaiting results of the Level III exam",
         "options": [
@@ -5175,7 +5175,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Kelvin Lee, CFA, is a portfolio manager at an investment firm. His social media profile \nreads: \"Kelvin Lee passed all three CFA examinations in three consecutive years. As \na CFA charterholder, Lee achieves better investment performance results.\" Has Lee \nviolated the Standards?",
         "options": [
@@ -5188,7 +5188,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "According to the Standards, which of the following statements relating to a member \nin a supervisory position is accurate? \nStatement 1: The member must make reasonable efforts to ensure that anyone \nsubject to her supervision complies with the Code and Standards. \nStatement 2: The member must adopt the CFA Institute Code of Ethics to substitute \nfor lack of compliance procedures until the firm adopts reasonable procedures to \nallow adequate exercise of supervisory responsibility.",
         "options": [
@@ -5201,7 +5201,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Emma Berkstein, CFA, uses third-party data to prepare a report on a company. \nBerkstein does not check the validity of this data herself, but instead relies on her \nsenior colleagues to conduct due diligence. Another analyst at the same firm, Jimmy \nBrooks, CFA, prepares an industry report with a group of colleagues. After thorough \nresearch, the group agrees to issue a report with a positive outlook for the industry. \nBrooks disagrees with this conclusion, but leaves his name in the report. Has the \nStandard relating to diligence and reasonable basis most likely been violated?",
         "options": [
@@ -5214,7 +5214,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Tania Watt, CFA, issues \"buy\" recommendations for several bonds to her clients \nwithout providing further details. She notifies the clients that additional information \nis available upon request. One week later, the prices of all recommended bonds decline \nbecause of an unexpected increase in interest rates. Watt's clients suffer large \nlosses as a result. Has Watt most likely violated the Standards?",
         "options": [
@@ -5227,7 +5227,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, a firm:",
         "options": [
@@ -5240,7 +5240,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following is not a key concept of the GIPS standards? The GIP S \nstandards for firms:",
         "options": [
@@ -5253,7 +5253,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping \ncompany. Kite concludes that the stock of a company is a good investment and decides \nto put a \"buy\" recommendation on the stock. According to the recommended \nprocedures for compliance, Kite should communicate the recommendation:",
         "options": [
@@ -5266,7 +5266,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Hugh Matthew, CFA, covers several companies within a sector. After thorough \nanalysis of each company, he issues \"buy\" recommendations for each company. In each \nreport, Matthew discloses the assumptions, methodology and risk factors used in his \nresearch. Two weeks later, an unexpected event occurs that negatively impacts the \nsector. As a result, all the companies Matthew covers experience significant losses. \nHas Matthew most likely violated the Standards?",
         "options": [
@@ -5279,7 +5279,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto diligence and reasonable basis, members should encourage their firms to:",
         "options": [
@@ -5292,7 +5292,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "A member works for an investment firm. There are no applicable laws relating to \nrecord retention. The firm's policy requires staff to retain records for five years. A \nlocal investment association recommends retaining records for eight years. At a \nrecent client briefing, some of the firm's largest clients expressed a preference for \nthe firm to retain records for at least ten years. To be consistent with the \nStandards, records should be retained for:",
         "options": [
@@ -5305,7 +5305,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the recommended procedures for compliance with the Standard relating \nto priority of transactions, members should:",
         "options": [
@@ -5318,7 +5318,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "A member keeps all records supporting his decisions to buy or sell securities, but \ndiscards the records not leading to changes in positions. The member keeps some \nrecords in hard copy but others in electronic form. The member has most likely \nviolated the Standard relating to record retention:",
         "options": [
@@ -5331,7 +5331,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Mary Lorraine, CFA, is a portfolio manager. She adds new factors to her stock \nselection process which affects all existing clients. She omits providing her clients \nwith a written update regarding this change. Instead, Lorraine explains the change \nto her clients over the phone. Has Lorraine violated the Standards?",
         "options": [
@@ -5344,7 +5344,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "A member claims a professional designation she has not earned. This action most \nlikely violates the Standard(s) relating to:",
         "options": [
@@ -5357,7 +5357,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Sharon Chan, CFA, is an analyst at an investment firm. Chan issues a \"buy\" rating on \na company in which her brother holds shares. Chan does not disclose her brother's \nholdings in her report as she has no beneficial ownership in her brother's account. \nHas Chan violated the Standards?",
         "options": [
@@ -5370,7 +5370,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Jane Macmara, CFA, has just passed Level III of the CFA exam. In her blog, Macmara \nshares her views: “CFA exams are outrageously difficult,” and “Thankfully, the CAPM \nwas not tested.” Macmara has most likely violated the Standards:",
         "options": [
@@ -5383,7 +5383,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Donovan Jones, CFA, works at Grae Investments (GI). GI's main product invests in \nliquid and illiquid assets. Prices for its illiquid holdings are determined by an \nindependent valuation firm. Jones markets performance of the GI product without \nproviding a comparison benchmark. Jones also switches to a different independent \nvaluation firm because of the firm's reputation for giving illiquid assets higher \nvaluations. Jones has most likely violated the Standard relating to misrepresentation:",
         "options": [
@@ -5396,7 +5396,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following can claim compliance with the GIPS standards?",
         "options": [
@@ -5409,7 +5409,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following statements is most accurate? In countries where regulations \nconflict with, or contradict, the GIPS standards, firms that claim compliance are \nrequired to comply with:",
         "options": [
@@ -5422,7 +5422,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, a firm must include a terminated composite on the \nfirm's list of composite descriptions for at least:",
         "options": [
@@ -5435,7 +5435,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, verification is:",
         "options": [
@@ -5448,7 +5448,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for complying with the Standard \nrelating to preservation of confidentiality? \nProcedure 1: Disclose to authorized fellow employees only information that will \nimprove service to the client \nProcedure 2: Encourage the adoption of standard confidentiality procedures utilized \nby leading firms in the industry",
         "options": [
@@ -5461,7 +5461,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to recommended procedures for compliance with the Standard relating to \nmaterial nonpublic information, firms should:",
         "options": [
@@ -5474,7 +5474,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Tim Howley, CFA, “pumps up” the price of a security by s preading misleading \ninformation and later “dumps” the security after the price reaches an artificially high \nlevel. Howley has most likely violated the Standard relating to:",
         "options": [
@@ -5487,7 +5487,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following entities can claim compliance with the GIPS standards?",
         "options": [
@@ -5500,7 +5500,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Timothy Charles, CFA, applies for a role as an investment analyst. In his resume he \nstates, \"CFA charterholders achieve better performance results.\" He adds, \"As a \n                                                                         \n \nCFA charterholder, I am the most qualified to manage client investments.\" Charles \nhas most likely violated the Standards:",
         "options": [
@@ -5513,7 +5513,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "David Bravoria, CFA, is an independent financial advisor for a high-net-worth client \nwith whom he had not had contact in more than two years. During a recent brief \ntelephone conversation, the client states that he wants to increase his risk exposure. \nBravoria subsequently recommends and invests in several high-risk venture capital \nfunds on behalf of the client. Bravoria continues, as he has done in the past, to send \nto his client monthly, detailed, itemized investment statements. Did Bravoria most \nlikely violate any CFA Standards?",
         "options": [
@@ -5526,7 +5526,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following is most accurate? GIPS compliance:",
         "options": [
@@ -5539,7 +5539,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following statements is most accurate? Compliance with the GIPS \nstandards:",
         "options": [
@@ -5552,7 +5552,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "A firm claiming compliance with GIPS standards is required to:",
         "options": [
@@ -5565,7 +5565,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Anita Delgado is a candidate in the CFA Program. After taking the Level II \nexamination, Delgado posts on a social networking website that she found the exam \nto be very difficult and that in her opinion, the CFA Program and CFA Institute were \nlosing credibility with the public. Has Delgado most likely violated the Standards?",
         "options": [
@@ -5578,7 +5578,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "A member manages two fee-paying family accounts at her firm. The member has the \npower to vote on the shares held in Account 1 and the discretion to sell shares held \nin Account 2. According to the Standards, is the member considered a beneficial \nowner of the shares held in her family accounts?",
         "options": [
@@ -5591,7 +5591,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Which of the following comments concerning composites meeting the requirements \nof the GIPS standards is correct?",
         "options": [
@@ -5604,7 +5604,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "A member most likely violates the Standard relating to market manipulation if he:",
         "options": [
@@ -5617,7 +5617,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "The objectives of the GIPS standards include:",
         "options": [
@@ -5630,7 +5630,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard \nrelating to knowledge of the law? Members should encourage their firms to:",
         "options": [
@@ -5643,7 +5643,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Stella Murphy, CFA, a portfolio manager, meets with a client who is concerned about \na security recently added to the portfolio. Murphy review s with the client the \ndecision for buying the security and the risks associated with the company and stock. \nThe following week, the company announces it is buying a company in a non-related \nindustry and the stock falls sharply. The client accuses Murphy of not disclosing all \nthe risks associated with holding the security.  Murphy explains the company's \nacquisition was unexpected and not factored into the forecast. Has Murphy most \nlikely violated the Standards?",
         "options": [
@@ -5656,7 +5656,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Which of the following member actions most likely violates the Standard relating to \nmarket manipulation?",
         "options": [
@@ -5669,7 +5669,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Elana Paralova, a Level I CFA candidate working at an asset management firm, wants \nto make a good impression on a prospective client. She tells the prospect: \"Getting \nthe CFA Charter will show I am serious about protecting the interests of my clients \nand it will boost my reputation. Once I get the Charter, I also hope to make more \nmoney by getting promoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \n\"Study all subjects for each exam, you never know what will be included. The three \nexams will be the most difficult exams you will ever take. Any promotion and pay raise \nwill reflect your enhanced skills.\" Did either Paralova or Klemmer violate the \nStandards?",
         "options": [
@@ -5682,7 +5682,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Amanda Covington, CFA, works for McJan Investment Management. McJan \nemployees must receive prior clearance of their personal investments in accordance \nwith McJan’s compliance procedures. To obtain prior clearance, McJan employees \nmust provide a written request identifying the security, the quantity of the security \nto be purchased, and the name of the broker through which the transaction will be \nmade. Pre-cleared transactions are approved only for that trading day. As indicated \nbelow, Covington received prior clearance. \n \nTwo days after she received prior clearance, the price of Stock B had decreased, so \nCovington decided to purchase 250 shares of Stock B only. In her decision to \n\n                                                                         \n \npurchase 250 shares of Stock B only, did Covington violate any CFA Institute \nStandards of Professional Conduct?",
         "options": [
@@ -5695,7 +5695,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Cecilia Foster, CFA, starts a job as director of research for Sisyphus \nInvestments (SI). In her new job, Foster oversees a small team analysts. Foster \ndiscovers the compliance system at SI is not up to her expectations and tells her \nsupervisor the system needs improvement. The supervisor tells Foster that the firm \nwill consider compliance system improvements in four months, at the start of the \nnext fiscal year. To comply with the Standards, Foster most likely should initially:",
         "options": [
@@ -5708,7 +5708,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Wang Dazong, CFA, is a sole proprietor investment advisor. Dazong believes in \nputting his money at risk along with his clients and trades the same securities as his \nclients. In order to ensure fair treatment of all accounts, he rotates trade allocations \nso that each account has an equal likelihood of receiving a fill on their orders. This \nallocation procedure also applies to Dazong's own account. According to the CFA CFA \nInstitute Code of Ethics and Standards of Professional Conduct, the allocation \nprocedure used by Dazong:",
         "options": [
@@ -5721,7 +5721,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Ken Kawasaki, CFA, shares a building with a number of other professionals who \nare also involved in the investment management business. Kawasaki makes \narrangements with several of these professionals, including accountants and lawyers, \nto refer clients to each other. An informal score is kept on the expectation the \nreferrals will equal out over time, eliminating the need for any cash payments. \nKawasaki never mentions this arrangement to clients or prospective clients. Does \nKawasaki's agreement with the other building occupants most likely violate any CFA \nInstitute Standards of Professional Conduct?",
         "options": [
@@ -5734,7 +5734,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "François Bernod, CFA, wrote questions for the Level I CFA exam for sev eral \nyears. After leaving the exam writing team, Bernod issues new marketing material for \nhis investment firm, in which he states: “As someone who helped write CFA exams, I \nhave learned unique insights into portfolio management that will be valuable for my \nfirm's clients.” However, in his public blog, Bernod makes several negative statements \n                                                                         \n \nabout certain policies of CFA Institute. Bernod has most likely violated the \nStandards:",
         "options": [
@@ -5747,7 +5747,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Ethics Application",
         "text": "Disclosure of confidential CFA exam information will most likely be detected by \nthe Professional Conduct staff through:",
         "options": [
@@ -5760,7 +5760,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "According to the Standard relating to independence and objectivity:",
         "options": [
@@ -5773,7 +5773,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Shirin Regali, CFA, is a well-respected, sell-side analyst covering the biotech \nsector. While researching the market prospects for a drug being trialed by BioHeal \nInc., Regali interviews industry experts who are not affiliated with the trials or \nBioHeal. These experts express confidence that the drug will pass the trials and be \na market success. After thorough analysis and based on these experts' insights, \nRegali issues a \"buy\" recommendation for BioHeal and distributes it to her clients and \nnot to the public. Has Regali most likely violated the Standard relating to material \nnonpublic information?",
         "options": [
@@ -5786,7 +5786,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Which of the following member actions most likely violates the Standard relating \nto material nonpublic information? \nAction 1: An analyst buys call options on a stock after learning from the company's \nCEO that the company will report earnings exceeding analyst expectations. \nAction 2: An analyst buys an oil company stock after speaking to a well-known industry \nexpert who believes oil prices will rise due to geopolitical risk.",
         "options": [
@@ -5799,7 +5799,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "David Andrews, CFA, is an investment manager with Aldona Investments. Aldona \nsecures a block of stock in an oversubscribed initial public offering. Andrews decides \nto prorate the issue to all fee-paying accounts for which it is appropriate, including \nthe fee-paying accounts of his immediate family members. Has Andrews violated the \nStandard relating to fair dealing?",
         "options": [
@@ -5812,7 +5812,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "John Lee, CFA, manages portfolios for several individuals, including his brother. \nAll of Lee's clients are standard fee-paying clients. Lee subscribes to an IPO for only \nthose clients for whom the IPO is suitable, which includes his brother. Lee does not \nreceive the number of shares requested by his clients and allocates shares of the \nIPO pro-rata to those clients, including his brother. Are Lee's actions most likely \nconsistent with the Standards?",
         "options": [
@@ -5825,7 +5825,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-IV",
         "text": "Which of the following most likely violates the Standard relating to preservation of \nconfidentiality?",
         "options": [
@@ -5838,7 +5838,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Linda Barr, CFA, a portfolio manager, receives an unsolicited stock order from a \nclient. She discusses the order with her firm's analysts to determine how it will \nimpact that client's portfolio. The analysts determine the stock to be highly \nundervalued and suitable for many of Barr's clients. Barr calls clients for whom the \nstock is suitable to recommend the stock. She then executes a single block trade for \nthe original client as well as other clients for whom the stock is suitable. Barr most \nlikely violated the Standards:",
         "options": [
@@ -5851,7 +5851,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "A member works for a large investment firm. CFA Institute contacts the member \nto request support for a professional conduct investigation. In his response, the \nmember discloses the requested information regarding client activities. Applicable \nlaw requires to maintain client confidentiality. Has the member most likely violated \nthe Standards?",
         "options": [
@@ -5864,7 +5864,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Iris Hadid, CFA, works as an investment banking analyst. She builds a financial \nmodel to value Ski Mountain Lodge (SML). Hadid's friend, Peter Jackson, CFA, works \nfor a different advisory firm. Hadid shares with Jackson details about her analysis \nto receive his feedback on her valuation of SML. Based on this information, Jackson \nbuys call options on SML. Who has violated the Standards?",
         "options": [
@@ -5877,7 +5877,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Which statement regarding market manipulation is consistent with the \nStandards? Members must refrain from:",
         "options": [
@@ -5890,7 +5890,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "To comply with the Standards, if applicable law requires members to maintain \nconfidentiality of client information, confidentiality must be maintained unless:",
         "options": [
@@ -5903,7 +5903,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Grace Lee, CFA, is an investment advisor. The investment policy statement of one \nof her clients specifies an equal-weighted portfolio of consumer durables, clean \nenergy, and technology stocks. Over time, the portfolio has become significantly \nover-weighted toward technology stocks due to their superior performance. Lee \nexpects technology stocks to outperform for another year and decides  not to \nrebalance the portfolio. Has Lee violated the Standards?",
         "options": [
@@ -5916,7 +5916,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "According to the Standards, members are required to obtain permission from \ntheir employer before accepting additional compensation from:",
         "options": [
@@ -5929,7 +5929,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Frank Taylor, CFA, manages a portfolio for a football club. The club’s chairman is \npleased with Taylor’s work and offers him a front-row ticket to an upcoming, sold-out \nmatch. Taylor accepts the ticket without informing his employer. The chairman also \nprovides Taylor with a performance-based cash incentive for which he receives \npermission from his employer to accept. Has Taylor most likely violated the \nStandards?",
         "options": [
@@ -5942,7 +5942,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Applying standardized criteria for the selection of external managers is a \nrequirement of the Standard relating to:",
         "options": [
@@ -5955,7 +5955,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "The Standard relating to disclosure of conflicts requires a member to:",
         "options": [
@@ -5968,7 +5968,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "A member uses his firm's composite to show performance to a prospective client. \nThe member states \"Our composite shows that we have outperformed the benchmark \nover the last five years, gross of fees.\" Has the member most likely violated the \nStandards?",
         "options": [
@@ -5981,7 +5981,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Belen Zapata, CFA, is the owner of Kawah Investments. Kawah promises investors \nreturns of up to 12% per year and claims to achieve this by investing in non -\ninvestment-grade bonds and other fixed-income instruments. Over the next 12 \nmonths, bond market yields reach unprecedented lows, and Zapata finds it impossible \nto achieve the returns she expected. No investments are ever made by Kawah, and \nclients are completely paid back all of their original investment. Zapata most likely \nviolated the CFA Institute Standards of Professional Conduct because of the:",
         "options": [
@@ -5994,7 +5994,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Introduction to the Global Investment Performance Standards",
         "text": "The GIPS standards:",
         "options": [
@@ -6007,7 +6007,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Introduction to the Global Investment Performance Standards",
         "text": "The GIPS standards were created to:",
         "options": [
@@ -6020,7 +6020,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I–VII",
         "text": "Jan Loots, CFA, quit his job as a portfolio manager at an investment firm with \nwhich he had a non-solicitation agreement he signed several years ago. Loots received \npermission to take his investment performance history with him and also took a copy \nof the firm’s software-trading platform. Subsequently, Loots sent out messages on \nsocial media sites announcing he was looking for clie nts for his new investment \nmanagement firm. Access to Loots’ social media sites is restricted to friends, family, \nand former clients. Loots least likely violated the CFA Institute Standards of \nProfessional Conduct concerning his:",
         "options": [
@@ -6033,7 +6033,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to misrepresentation? Firms can help prevent misrepresentation \nby:",
         "options": [
@@ -6046,7 +6046,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to priority of transactions? Investment personnel should:",
         "options": [
@@ -6059,7 +6059,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to suitability? \nProcedure 1: An investor's objectives and constraints should be reviewed annually \nunless there is a reason that dictates more frequent review. \nProcedure 2: A member in an investment advisory relationship with clients should take \ninto consideration performance measurement benchmarks in formulating an \ninvestment policy statement.",
         "options": [
@@ -6072,7 +6072,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "According to the Standard related to independence and objectivity, a member \nmust:",
         "options": [
@@ -6085,7 +6085,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "A member most likely violates the Standard relating to knowledge of the law if \nshe fails to:",
         "options": [
@@ -6098,7 +6098,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Recommended procedures for compliance with the Standard relating to \nresponsibilities of supervisors include:",
         "options": [
@@ -6111,7 +6111,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, verification must be performed:",
         "options": [
@@ -6124,7 +6124,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "A member leaves her employer to start at a new firm. According to the Standards, \nat her new firm, the member is permitted to recreate supporting records of her work \nat her previous employer from:",
         "options": [
@@ -6137,7 +6137,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "According to the GIPS standards, verification:",
         "options": [
@@ -6150,7 +6150,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Global Investment Performance Standards",
         "text": "Verification provides assurance that which of the following have been designed in \ncompliance with the GIPS standards?",
         "options": [
@@ -6163,7 +6163,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Sue Yong, CFA, is an analyst at a large investment firm. After thorough research, \nshe issues a \"buy\" rating on a company and submits her report to her firm's \ninvestment committee for review. The committee disagrees with Yong's assumptions \nin the report. As a result, the report is changed to a \"neutral\" rating. The final report \nis issued and Yong agrees to leave her name on the report. Has Yong violated the \nStandards?",
         "options": [
@@ -6176,7 +6176,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "According to the Standard relating to independence and objectivity, which of the \nfollowing is accurate? \nStatement 1: A member should encourage her firm to remove a covered company from \na restricted list if the firm is unwilling to permit dissemination of an adverse opinion \nabout the company. \nStatement 2: A member is prohibited from accepting benefits from corporate issuers \nin the form of allocation of shares in oversubscribed IPOs suitable for firm's clients.",
         "options": [
@@ -6189,7 +6189,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Rita Melmo, CFA, is an analyst at a Greensky Investment (GI). On weekends, she \nworks as a paid employee of a local charity where she negotiates purchase \nagreements. Melmo does not disclose the charity employment to GI. Melmo is asked \nto purchase a new truck for the charity and she negotiates a purchase agreement \nwith a local truck dealership. In the purchase agreement, the charity is charged $500 \nmore than the truck's normal sale price. In return, Melmo receives retail vouchers \nworth $500 from the dealership for her private use. Melmo has most likely violated \nthe Standards:",
         "options": [
@@ -6202,7 +6202,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "According to the Standard relating to disclosure of conflicts, a member should:",
         "options": [
@@ -6215,7 +6215,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Which of the following is a recommended procedure for compliance with the \nStandard relating to priority of transactions? \nProcedure 1: Members should disclose personal transactions relating to shares in \ntheir firm's research universe to clients upon request. \nProcedure 2: Members should establish blackout periods prior to trades for clients. \nProcedure 3: Members should treat fee-paying family accounts in which they have \nbeneficial ownership in the same manner as they would treat their personal accounts.",
         "options": [
@@ -6228,7 +6228,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Susana Garcia, CFA, is a widely respected analyst covering the transportation \nsector. She completes a new recommendation for a company. The next morning, she \nemails the recommendation to her firm's largest client. After lunch, she emails the \nrecommendation to all other firm clients. One hour later, she calls the largest client \nto discuss the recommendation in detail. Garcia has violated the Standard relating to \nfair dealing:",
         "options": [
@@ -6241,7 +6241,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "In the absence of regulatory guidance or firm policies, CFA Institute recommends \nmaintaining records for at least:",
         "options": [
@@ -6254,7 +6254,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "The Standards require a member to inform which of the following parties of any \nbenefit received for referrals of clients?",
         "options": [
@@ -6267,7 +6267,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Introduction to the Global Investment Performance Standards",
         "text": "Asset managers are most likely required to do which of the following as part of \ntheir adherence to the GIPS standards?",
         "options": [
@@ -6280,7 +6280,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "A member employed by an investment firm carries out research at the request of \na client. The records of that research are the property of the:",
         "options": [
@@ -6293,7 +6293,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Guidance for Standards I-VII",
         "text": "Ann Macharia, CFA, is an independent consultant hired by MK Investment (MKI) \nto review its proposal to manage a large pension fund. While reviewing a draft of the \ndocument, Macharia notices a large section of material has been added to the \nproposal by MKI's CIO. The additional material looks exactly like what Macharai \nwrote for a previous client, describing the client's proprietary investment process. \nMacharia is most likely required to:",
         "options": [
@@ -6306,7 +6306,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Introduction to the Global Investment Performance Standards",
         "text": "Which of the following statements describe the key concepts of the GIPS \nstandards? \nStatement 1: The GIPS standards are ethical standards to ensure full disclosure of \ninvestment performance. \nStatement 2: The GIPS standards require firms to maintain composites for all \nstrategies for which the firm manages discretionary and nondiscretionary accounts. \nStatement 3: The GIPS standards address all aspects of performance measurement.",
         "options": [
@@ -6319,7 +6319,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Hypothesis Testing",
         "text": "Which of the following factors is not used in the calculation of a confidence interval?",
         "options": [
@@ -6332,7 +6332,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Linear Regression",
         "text": "An analyst performs a simple linear regression of a stock's monthly return on the \nmonthly return of a market index (both in %) and gathers the following information: \n \nThe 95% prediction interval for the stock's monthly return, given that the \nforecasted monthly return on the index is 3.5%, is closest to:",
         "options": [
@@ -6345,7 +6345,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Rates and Returns",
         "text": "An investor purchases a stock for $100. Immediately after receiving a dividend of \n$7, the investor sells the stock for $107. The holding period return of the investment \nis closest to:",
         "options": [
@@ -6358,7 +6358,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Nonparametric Methods",
         "text": "For a sample of 50 observations, in which of the following situations is a \nnonparametric test least likely to be appropriate? The data:",
         "options": [
@@ -6371,7 +6371,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Vikas Vohra",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "Hypothesis Testing",
         "text": "Which of the following test statistics is most appropriate for a hypothesis test \nconcerning the mean difference between two normally distributed populations?",
         "options": [
@@ -15419,7 +15419,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM1 - Ethics and Trust in the Investment Profession",
         "text": "A profession is most likely described as a group of people that:",
         "options": [
@@ -15432,7 +15432,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM1 - Ethics and Trust in the Investment Profession",
         "text": "Most societies would least likely consider ethical principles to include:",
         "options": [
@@ -15445,7 +15445,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM2 - Code of Ethics and Standards of Professional Conduct",
         "text": "Oversight of the Professional Conduct Program is the responsibility of the:",
         "options": [
@@ -15458,7 +15458,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM2 - Code of Ethics and Standards of Professional Conduct",
         "text": "Which of the following is one of the seven CFA Institute Standards of Professional Conduct?",
         "options": [
@@ -15471,7 +15471,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM2 - Code of Ethics and Standards of Professional Conduct",
         "text": "The CFA Institute Code of Ethics (the Code) and Standards of Professional Conduct (the Standards) require members to:",
         "options": [
@@ -15484,7 +15484,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Robin Herring, CFA, is a government bond research analyst at an independent credit rating agency. A competitor credit rating agency just downgraded the bonds of a government Herring follows. Herring notes that all of the information in the competitor's report was covered in his analysis published last week. In the past, Herring has been slow to downgrade bonds, so he starts to doubt his own analysis after seeing the competitor's report. Herring decides to reissue his credit rating of this government bond and match the competitor's downgrade. In his revised report, Herring states that new information has been made available to justify the downgrade. Herring posts the revision on the credit rating agency's website and provides it by email to all clients who received the original. Herring's rating change least likely violated which of the following Standards?",
         "options": [
@@ -15497,7 +15497,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Thomas Huang, CFA, is an investment advisor for Newline Partners (NP). NP has an agreement with brokerage firm Ridge Capital (RC). Huang refers clients to RC in exchange for compensation. RC pays a cash fee to NP for referrals. Before entering into formal agreements for services, Huang makes the following disclosure to NP's clients: \"Please note that Newline Partners receives an annual cash percentage fee from Ridge Capital for the referral of clients.\" Huang omits disclosure of the estimated dollar value of the referrals. Has Huang violated the Standards?",
         "options": [
@@ -15510,7 +15510,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Marianne Lynn is registered for the CFA Level I exam. A few weeks after registration, she realizes that she is unable to prepare for the exam due to work commitments, so she informs CFA Institute that she declines to sit for the exam. Afterwards, shortly before the exam date, she posts on social media that she is a CFA candidate. Separately, Thomas Petrov, CFA, posts his investment views anonymously on social media and tags his post using \"#CFAcharter.\" Who has violated the Standards?",
         "options": [
@@ -15523,7 +15523,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Jan Loots, CFA, quit his job as a portfolio manager at an investment firm with which he had a non-solicitation agreement he signed several years ago. Loots received permission to take his investment performance history with him and also took a copy of the firm's software-trading platform. Subsequently, Loots sent out messages on social media sites announcing he was looking for clients for his new investment management firm. Access to Loots' social media sites is restricted to friends, family, and former clients. Loots least likely violated the CFA Institute Standards of Professional Conduct concerning his:",
         "options": [
@@ -15536,7 +15536,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Lisa Hajak, CFA, specialized in research on real estate companies at Cornerstone Country Bank for the past twenty years. Hajak recently started her own investment research firm, Hajak Investment Advisory. One of her former clients at Cornerstone asks Hajak to update a research report she wrote on a real estate company when she was at Cornerstone. Hajak updates the report, which she had copied to her personal computer without the bank's knowledge, and replaces references to the bank with her new firm, Hajak Investment Advisory. Hajak also incorporates the conclusions of a real estate study conducted by the Realtors Association that appeared in the Wall Street Journal. She references the Journal as her source in her report. She provides the revised report free of charge along with a cover letter for the bank's client to become a client of her firm. Concerning the reissued research report, Hajak least likely violated the CFA Institute Standards of Professional Conduct because she:",
         "options": [
@@ -15549,7 +15549,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Amanda Covington, CFA, works for McJan Investment Management. McJan employees must receive prior clearance of their personal investments in accordance with McJan's compliance procedures. To obtain prior clearance, McJan employees must provide a written request identifying the security, the quantity of the security to be purchased, and the name of the broker through which the transaction will be made. Pre-cleared transactions are approved only for that trading day. As indicated below, Covington received prior clearance.\n| Security | Quantity | Broker | Prior Clearance |\n| A | 100 | Easy Trade | Yes |\n| B | 150 | Easy Trade | Yes |\nTwo days after she received prior clearance, the price of Stock B had decreased, so Covington decided to purchase 250 shares of Stock B only. In her decision to purchase 250 shares of Stock B only, did Covington violate any CFA Institute Standards of Professional Conduct?",
         "options": [
@@ -15562,7 +15562,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Wang Dazong, CFA, is a sole proprietor investment advisor. Dazong believes in putting his money at risk along with his clients and trades the same securities as his clients. In order to ensure fair treatment of all accounts, he rotates trade allocations so that each account has an equal likelihood of receiving a fill on their orders. This allocation procedure also applies to Dazong's own account. According to the CFA Institute Code of Ethics and Standards of Professional Conduct, the allocation procedure used by Dazong:",
         "options": [
@@ -15575,7 +15575,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following member actions most likely violates the Standard relating to market manipulation?",
         "options": [
@@ -15588,7 +15588,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Linda Barr, CFA, a portfolio manager, receives an unsolicited stock order from a client. She discusses the order with her firm's analysts to determine how it will impact that client's portfolio. The analysts determine the stock to be highly undervalued and suitable for many of Barr's clients. Barr calls clients for whom the stock is suitable to recommend the stock. She then executes a single block trade for the original client as well as other clients for whom the stock is suitable. Barr most likely violated the Standards:",
         "options": [
@@ -15601,7 +15601,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard relating to knowledge of the law? Members should encourage their firms to:",
         "options": [
@@ -15614,7 +15614,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Applying standardized criteria for the selection of external managers is a requirement of the Standard relating to:",
         "options": [
@@ -15627,7 +15627,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member most likely violates the Standard relating to knowledge of the law if she fails to:",
         "options": [
@@ -15640,7 +15640,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following member actions most likely violates the Standard relating to material nonpublic information?\n• Action 1: An analyst buys call options on a stock after learning from the company's CEO that the company will report earnings exceeding analyst expectations\n• Action 2: An analyst buys an oil company stock after speaking to a well-known industry expert who believes oil prices will rise due to geopolitical risk",
         "options": [
@@ -15653,7 +15653,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Iris Hadid, CFA, works as an investment banking analyst. She builds a financial model to value Ski Mountain Lodge (SML). Hadid's friend, Peter Jackson, CFA, works for a different advisory firm. Hadid shares with Jackson details about her analysis to receive his feedback on her valuation of SML. Based on this information, Jackson buys call options on SML. Who has violated the Standards?",
         "options": [
@@ -15666,7 +15666,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Amy Joy, CFA, works at Parklane Investments Ltd. (PIL). When presenting to PIL's prospective clients, Joy uses a brief investment performance summary and makes available detailed supporting information only upon request. Has Joy violated the Standards?\nCorrect answer:",
         "options": [
@@ -15679,7 +15679,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Sue Yong, CFA, is an analyst at a large investment firm. After thorough research, she issues a \"buy\" rating on a company and submits her report to her firm's investment committee for review. The committee disagrees with Yong's assumptions in the report. As a result, the report is changed to a \"neutral\" rating. The final report is issued and Yong agrees to leave her name on the report. Has Yong violated the Standards?",
         "options": [
@@ -15692,7 +15692,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Rita Melmo, CFA, is an analyst at Greensky Investment (GI). On weekends, she works as a paid employee of a local charity where she negotiates purchase agreements. Melmo does not disclose the charity employment to GI. Melmo is asked to purchase a new truck for the charity and she negotiates a purchase agreement with a local truck dealership. In the purchase agreement, the charity is charged $500 more than the truck's normal sale price. In return, Melmo receives retail vouchers worth $500 from the dealership for her private use. Melmo has most likely violated the Standards:",
         "options": [
@@ -15705,7 +15705,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member believes a colleague is participating in unethical activities at work. The member does not disassociate himself from the activities of his colleague. The member has most likely violated:",
         "options": [
@@ -15718,7 +15718,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to independence and objectivity, which of the following is accurate?\n• Statement 1: A member should encourage her firm to remove a covered company from a restricted list if the firm is unwilling to permit dissemination of an adverse opinion about the company\n• Statement 2: A member is prohibited from accepting benefits from corporate issuers in the form of allocation of shares in oversubscribed IPOs suitable for firm's clients",
         "options": [
@@ -15731,7 +15731,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Anita Delgado is a candidate in the CFA Program. After taking the Level II examination, Delgado posts on a social networking website that she found the exam to be very difficult and that in her opinion, the CFA Program and CFA Institute were losing credibility with the public. Has Delgado most likely violated the Standards?",
         "options": [
@@ -15744,7 +15744,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to independence and objectivity:",
         "options": [
@@ -15757,7 +15757,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard relating to independence and objectivity? Members should encourage their firms to:",
         "options": [
@@ -15770,7 +15770,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "To comply with the Standards, if applicable law requires members to maintain confidentiality of client information, confidentiality must be maintained unless:",
         "options": [
@@ -15783,7 +15783,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following most likely violates the Standard relating to preservation of confidentiality?",
         "options": [
@@ -15796,7 +15796,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard relating to priority of transactions? Investment personnel should:",
         "options": [
@@ -15809,7 +15809,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following individuals can refer to themselves as a candidate in the CFA Program?\n• Individual 1: Has passed Level II and expects to register for Level III in a couple of months\n• Individual 2: Has failed Level I and expects to retake the exam in its next administration\n• Individual 3: Is awaiting results of the Level III exam",
         "options": [
@@ -15822,7 +15822,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard relating to priority of transactions?\n• Procedure 1: Members should disclose personal transactions relating to shares in their firm's research universe to clients upon request\n• Procedure 2: Members should establish blackout periods prior to trades for clients\n• Procedure 3: Members should treat fee-paying family accounts in which they have beneficial ownership in the same manner as they would treat their personal accounts",
         "options": [
@@ -15835,7 +15835,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard related to independence and objectivity, a member must:",
         "options": [
@@ -15848,7 +15848,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which statement regarding market manipulation is consistent with the Standards? Members must refrain from:",
         "options": [
@@ -15861,7 +15861,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard related to communication with clients and prospective clients, members must:",
         "options": [
@@ -15874,7 +15874,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating to priority of transactions, members should:",
         "options": [
@@ -15887,7 +15887,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Sharon Chan, CFA, is an analyst at an investment firm. Chan issues a \"buy\" rating on a company in which her brother holds shares. Chan does not disclose her brother's holdings in her report as she has no beneficial ownership in her brother's account. Has Chan violated the Standards?",
         "options": [
@@ -15900,7 +15900,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Michael Mak, CFA, is a portfolio manager at an investment firm. After comprehensive research, Mak buys Advance One Tech's (AOT) stock for all his clients for whom the investment is suitable. He then buys AOT shares for his brother's fee-paying account, in which Mak has beneficial ownership. AOT's stock price declines significantly after a month, resulting in substantial losses for all his clients. Are Mak's actions consistent with the Standards?",
         "options": [
@@ -15913,7 +15913,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Kelvin Lee, CFA, is a portfolio manager at an investment firm. His social media profile reads: \"Kelvin Lee passed all three CFA examinations in three consecutive years. As a CFA charterholder, Lee achieves better investment performance results.\" Has Lee violated the Standards?",
         "options": [
@@ -15926,7 +15926,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member manages two fee-paying family accounts at her firm. The member has the power to vote on the shares held in Account 1 and the discretion to sell shares held in Account 2. According to the Standards, is the member considered a beneficial owner of the shares held in her family accounts?",
         "options": [
@@ -15939,7 +15939,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to diligence and reasonable basis, a member is required to:",
         "options": [
@@ -15952,7 +15952,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to avoid or disclose conflicts, a member should:",
         "options": [
@@ -15965,7 +15965,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standards, a member who is asked to produce an issuer-paid research report is required to:",
         "options": [
@@ -15978,7 +15978,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Shirin Regali, CFA, is a well-respected, sell-side analyst covering the biotech sector. While researching the market prospects for a drug being trialed by BioHeal InC., Regali interviews industry experts who are not affiliated with the trials or BioHeal. These experts express confidence that the drug will pass the trials and be a market success. After thorough analysis and based on these experts' insights, Regali issues a \"buy\" recommendation for BioHeal and distributes it to her clients and not to the public. Has Regali most likely violated the Standard relating to material nonpublic information?",
         "options": [
@@ -15991,7 +15991,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Meera Doka, CFA, manages an equity fund for clients. One day, the fund experiences a large loss due to an event unforeseen by all market participants. Prior to the event, Doka failed to disclose the risk of this event occurring to her clients. One month later, Doka decides to outsource 5% of the fund's assets to an external manager. She does not inform her clients of this change because the external manager follows an investment process that is very similar to her fund's process. Are Doka's actions consistent with the Standard relating to communication with clients and prospective clients?",
         "options": [
@@ -16004,7 +16004,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member employed by an investment firm carries out research at the request of a client. The records of that research are the property of the:",
         "options": [
@@ -16017,7 +16017,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for complying with the Standard relating to preservation of confidentiality?\n• Procedure 1: Disclose to authorized fellow employees only information that will improve service to the client\n• Procedure 2: Encourage the adoption of standard confidentiality procedures utilized by leading firms in the industry",
         "options": [
@@ -16030,7 +16030,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Hannah Hostettler, CFA, is a portfolio manager at a wealth management firm. Hostettler has an arrangement with a lawyer, whereby she refers clients who need legal advice to the lawyer, who in turn refers clients to Hostettler. Because no referral fees are involved, Hostettler does not disclose this arrangement to her existing or prospective clients. Has Hostettler most likely violated the Standards?",
         "options": [
@@ -16043,7 +16043,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "To use a quantitative model in her investment research, a member is required by the Standards to:",
         "options": [
@@ -16056,7 +16056,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Emma Berkstein, CFA, uses third-party data to prepare a report on a company. Berkstein does not check the validity of this data herself, but instead relies on her senior colleagues to conduct due diligence. Another analyst at the same firm, Jimmy Brooks, CFA, prepares an industry report with a group of colleagues. After thorough research, the group agrees to issue a report with a positive outlook for the industry. Brooks disagrees with this conclusion, but leaves his name in the report. Has the Standard relating to diligence and reasonable basis most likely been violated?",
         "options": [
@@ -16069,7 +16069,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the guidance for the Standards, which of the following statements are accurate?\n• Statement 1: Employees must place employer interests ahead of personal interests in all matters\n• Statement 2: Senior management of a member's firm should create financial compensation structures that do not drive unethical behavior",
         "options": [
@@ -16082,7 +16082,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standards, which of the following is most likely considered material nonpublic information?",
         "options": [
@@ -16095,7 +16095,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Susana Garcia, CFA, is a widely respected analyst covering the transportation sector. She completes a new recommendation for a company. The next morning, she emails the recommendation to her firm's largest client. After lunch, she emails the recommendation to all other firm clients. One hour later, she calls the largest client to discuss the recommendation in detail. Garcia has violated the Standard relating to fair dealing:",
         "options": [
@@ -16108,7 +16108,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to loyalty, members must:",
         "options": [
@@ -16121,7 +16121,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to loyalty, in the absence of a noncompete agreement and without employer consent, a member is permitted to:",
         "options": [
@@ -16134,7 +16134,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Andrew Milton, CFA, is an advisor working with individual clients. Milton is careful to recommend investments for his clients that are consistent with their overall objectives and risk tolerance. His firm gives its advisors a bonus for recommending the firm's proprietary products. If all other variables are equal in an investment choice, Milton uses the proprietary products. Milton does not inform the clients of this bonus. Has Milton most likely violated the Standards?",
         "options": [
@@ -16147,7 +16147,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the recommended procedure for compliance with the Standard relating to fair dealing, a member who works in a large firm should:",
         "options": [
@@ -16160,7 +16160,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating to diligence and reasonable basis, members should encourage their firms to:",
         "options": [
@@ -16173,7 +16173,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Dennis Kim, CFA, works at Century Growth Partners (CGP) where he manages an investment account for his client Amelia Frost. Frost tells Kim to invest one percent of her portfolio in biotech stocks. Kim believes such an investment is inconsistent with Frost's investment policy statement. CGP has no policy regarding execution of unsolicited trading requests. Kim discusses his concerns with Frost, but she does not change her instruction. Without amending Frost's investment policy statement, Kim executes the trade afterward. Has Kim violated the Standards?",
         "options": [
@@ -16186,7 +16186,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Tom Dixon, CFA, provides a brief summary of his investment performance to his clients. He indicates that further information is available upon request. He tells his clients they can expect a return of 5% in the next three years based on his strong track record. Has Dixon most likely violated the Standards?",
         "options": [
@@ -16199,7 +16199,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following are among the recommended procedures for compliance with the Standard relating to independence and objectivity?\n• Procedure 1: Impose limits on investment personnel acquiring securities in private placements\n• Procedure 2: Prohibit employees from receiving reimbursement from corporate issuers for air transportation when attending meetings at the issuers' headquarters\n• Procedure 3: Remove a company from the restricted list if the firm is unwilling to permit dissemination of adverse opinions about the company",
         "options": [
@@ -16212,7 +16212,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Brigid O'Rourke, CFA, serves as a CFA Institute volunteer and grades Level III CFA exams. After grading, O'Rourke shares her experience with work colleagues, none of whom are CFA candidates. She says, \"The Level III exam is very tough.\" She also states, \"I was surprised how few candidates could remember the Black–Scholes equation.\" Has O'Rourke most likely violated the Standards?",
         "options": [
@@ -16225,7 +16225,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following statements are consistent with the Standard relating to conduct as participants in CFA Institute programs?\n• Statement I: Questions that appear on the CFA examinations cannot be disclosed by candidates even after they are notified of their exam results\n• Statement II: Broad topic areas and formulas not tested on the exam cannot be publicly discussed by the candidates after the exam",
         "options": [
@@ -16238,7 +16238,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Max Cohen, CFA, is offered a gift by one of his premium-fee-paying clients. Prior to accepting the gift, he obtains written consent from his supervisor and the client offering the gift. He does not disclose the gift to his regular-fee-paying clients. Has Cohen violated the Standards?",
         "options": [
@@ -16251,7 +16251,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member resides in Adovia, a country with securities laws and regulations that are less strict than the Code and Standards. She does business in Batavia, a country with securities laws and regulations that are less strict than those of AdoviA. Which of the following statements is accurate? The member must most likely adhere to:",
         "options": [
@@ -16264,7 +16264,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Agnes Boucault belongs to an online forum of candidates studying for the Level II exam. Boucault writes on the forum: \"Hello, I am a Level II candidate in the CFA Program. A friend who took the Level II exam last month tells me that it's very difficult. Let's focus more study time on the fixed income and derivatives areas, which I think are the hardest.\" Has Boucault most likely violated the Standards?",
         "options": [
@@ -16277,7 +16277,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Bertram Kendall, CFA, is an investment advisor at a bank. Kendall plans to teach an economics course at a local university in his spare time, for which he will be paid a fee by the university. In addition, Kendall plans to serve as an investment advisor for the endowment fund of a community center. Kendall will not be paid by the community center but will be given free access to its athletic facilities, which normally charge fees, in return for his services. According to the Standards, Kendall is required to obtain written consent from his employer:",
         "options": [
@@ -16290,7 +16290,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Mark Monroe, CFA, is an equity analyst at an investment firm. In his spare time, he performs accounting work for his local sports club in return for the club waiving his membership fees and paying his expenses to attend club social events. Monroe does not disclose either the work or the compensation to his employer. Has Monroe most likely violated the Standards?",
         "options": [
@@ -16303,7 +16303,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "With respect to the Standard relating to suitability, members who are portfolio managers for a mutual fund are required to:",
         "options": [
@@ -16316,7 +16316,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Kate Clark, CFA, and Tom Matt, CFA, have a referral arrangement between them. Clark directs equity clients to Matt. In return, Matt refers fixed income clients to Clark. Matt and Clark both disclose the details of the arrangement to their existing clients. However, only Clark discloses the referral arrangement to her prospective clients. Have the Standards most likely been violated?",
         "options": [
@@ -16329,7 +16329,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Anna Schulz, CFA, works for an investment firm. She enters into an arrangement with an independent tax advisor to prepare Schulz's personal tax returns free of charge in exchange for Schulz referring her clients to the tax advisor. According to the Standards, Schulz is required to disclose her arrangement with the tax advisor to:",
         "options": [
@@ -16342,7 +16342,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Vikram Shah, CFA, is a wealth manager with AZ Bank (AZ). Shah refers his client, Sean Tan, to the investment banking division of AZ as Tan is considering taking his company public. AZ's policy is to pay its employees a fee for referrals. According to the Standards, Shah is:",
         "options": [
@@ -16355,7 +16355,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to suitability, a member is required to do which of the following?",
         "options": [
@@ -16368,7 +16368,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Chris Taylor, CFA, is an investment advisor with Zenith Advisors (ZA). ZA maintains a list of recommended equity securities and purchases newly rated securities for all clients in block transactions. Taylor has just gained a new client who has an existing equity portfolio. Before their first meeting, Taylor reallocates the portfolio in accordance with the firm's recommended equity list without gathering additional information from the client. Taylor most likely violated the Standard(s) relating:",
         "options": [
@@ -16381,7 +16381,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Martha Ray, CFA, manages a portfolio based on an \"Environment Social Governance\" (ESG) style of investing. Ray is also an environmental activist. She is arrested for civil disobedience while participating in a government-authorized nonviolent protest against a company that is accused of damaging the environment. Has Ray most likely violated the Standards?",
         "options": [
@@ -16394,7 +16394,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standards, when presenting performance results, members should encourage their firms to:",
         "options": [
@@ -16407,7 +16407,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member is in violation of the Standard relating to market manipulation if he:",
         "options": [
@@ -16420,7 +16420,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Several years ago, a member purchased a large position in a small-cap stock for her own account. The member is unable to sell the entire position due to the stock's limited liquidity. To improve liquidity, the member trades the stock between two client accounts before selling her own position. The member has engaged in:",
         "options": [
@@ -16433,7 +16433,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "To comply with the Standards, if a member is offered a paid position in addition to his current position that may conflict with his employer's interests, he is most likely required to:",
         "options": [
@@ -16446,7 +16446,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member receives an offer of compensation from a third party that might create a conflict of interest with the member's employer. According to the Standard relating to additional compensation arrangements, the member is most likely required to:",
         "options": [
@@ -16459,7 +16459,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Tom Oak, CFA, is an advisor to high-net-worth individuals. The risk tolerances of Oak's clients range from conservative to aggressive. He recommends an equity mutual fund which the prospectus describes as a \"high-growth and high-risk vehicle.\" Oak observes that the volatility of the fund's price has been very low over the past three quarters. He therefore recommends investing a large proportion of each client's portfolio in the fund, citing the low volatility and excellent return potential. Oak has most likely violated the Standard(s) relating:",
         "options": [
@@ -16472,7 +16472,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Venture Energy Exchange (VEE) launches a new derivatives product on crude oil. The exchange's CEO, Adam Jaafar, CFA, enters into a confidential agreement with VEE's ten largest members, who commit to trading substantial minimum volumes of the new product in the first six months after its launch. The product's liquidity improves over the next five months. Jaafar is satisfied with the results and decides not to extend the confidential agreement once it expires. Has Jaafar violated the Standards?",
         "options": [
@@ -16485,7 +16485,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is a recommended procedure for compliance with the Standard relating to performance presentation? Members should encourage their firms to:",
         "options": [
@@ -16498,7 +16498,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Adam Johnson, CFA, works at a large investment firm. After losing his taxi receipt for a business meeting, he uses his colleague's taxi receipt of a slightly higher value to submit his monthly expense claim to his employer. Recently, Johnson declared personal bankruptcy due to large medical bills for a family member. Has Johnson violated the Standard relating to misconduct?",
         "options": [
@@ -16511,7 +16511,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Michael Butcher, CFA, has recently joined Patriot Investments (PI) as an investment manager. With information gathered from public sources, Butcher re-creates supporting records from his former firm for investment recommendations at PI. Butcher also reviews client positions and routinely deletes records of the reviews that do not result in a change. Butcher has most likely violated the Standards:",
         "options": [
@@ -16524,7 +16524,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Ming Xu, CFA, is an investment advisor at Topnotch Advisors (TNA). Xu plans to leave TNA and start an independent advisory practice that would compete with TNA. Without notifying TNA of his plans, Xu makes preparations during non-working hours to start his independent practice. Has Xu most likely violated the Standards?",
         "options": [
@@ -16537,7 +16537,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standards, members who are supervisors are most likely required to:",
         "options": [
@@ -16550,7 +16550,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Anna Yeung, CFA, is a research analyst with TL Securities (TLS). TLS does not have a policy on record retention, and applicable law does not require retaining records. Yeung only retains her work records electronically and deletes records older than three years. Are Yeung's actions consistent with the recommendations for compliance with the Standard relating to record retention?",
         "options": [
@@ -16563,7 +16563,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Patrick Tam, CFA, is a chemicals industry analyst for an investment firm. The president of Naxos Chemicals (Naxos) asks Tam to provide customized reports on global industry trends in return for free travel and accommodations for the Naxos annual shareholder meeting. To comply with the Standards, Tam is most likely required:",
         "options": [
@@ -16576,7 +16576,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "To be consistent with the Standard relating to record retention, a member should maintain records of which of the following?\n• Item 1: A change in recommendation posted on social media.\n• Item 2: Reviews of materials that do not lead to a change in recommendation.",
         "options": [
@@ -16589,7 +16589,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating to responsibilities of supervisors, members should encourage their firms to:\nCorrect answer:",
         "options": [
@@ -16602,7 +16602,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "In the absence of regulations or firm policies, the Standards recommend retaining investment-related records for a minimum of:",
         "options": [
@@ -16615,7 +16615,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A candidate taking the CFA Level II exam develops an analytical model while working as an unpaid intern at a brokerage firm. Before completing her internship, the candidate copies supporting documents used to create the model with an intention to recreate the model at a new firm she expects to join soon. Has the candidate violated the Standards?",
         "options": [
@@ -16628,7 +16628,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Disclosures about the use of leverage, sector or industry risk, and security-specific risk are most likely included in the Standard relating to:",
         "options": [
@@ -16641,7 +16641,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Agnes Dupy, CFA, manages discretionary accounts at a large brokerage firm. She finds a suitable set of the firm's proprietary equity mutual funds for one of her clients. Dupy's firm is awarding a special quarterly bonus to managers who use one of the highest-fee funds on the list of suitable funds, so she invests in that fund for her client without contacting the client. Dupy has most likely violated the Standard(s) relating:",
         "options": [
@@ -16654,7 +16654,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following examples is most likely a violation of the Standards? A member who is a supervisor:",
         "options": [
@@ -16667,7 +16667,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A candidate posts questions from the most recent CFA exam in an online forum. This action is a violation of the Standard(s) relating:",
         "options": [
@@ -16680,7 +16680,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to responsibilities of supervisors, a member who cannot discharge supervisory responsibilities due to his firm's inadequate compliance system should:",
         "options": [
@@ -16693,7 +16693,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following Standards states that members must not commit any act that reflects adversely on their professional reputation, integrity, or competence? The Standard relating to:",
         "options": [
@@ -16706,7 +16706,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Anna Schulz, CFA, is a securities analyst. When she joined her firm, Schulz's manager, Zhang Feng, CFA, informed her only that \"the CFA Institute Code and Standards pretty much cover the company's compliance rules.\" In her personal account, Schulz holds a large position in a company that she recommends for purchase to clients. Schulz does not report this holding to her firm or clients. The Standards were most likely violated:",
         "options": [
@@ -16719,7 +16719,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Rayan Tengku, CFA, manages an equity fund. When talking to potential investors, Tengku presents the fund's average historical performance as the minimum performance investors can expect over the next year. After releasing the most recent quarterly fund report, Tengku finds an error in the report. He immediately sends the corrected report to all clients by e-mail and then calls only those clients who pay for premium services to discuss the report. Tengku has most likely violated the Standard(s) relating:",
         "options": [
@@ -16732,7 +16732,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Emilio Torro, CFA, owns a small investment firm. He sends a brochure to potential clients which states: \"As a CFA charterholder, Emilio Torro will deliver better investment performance compared to the competition. Over the past 6 years, Torro has beaten the market in every single year and will continue to do so in the future.\" Torro has most likely violated the Standard(s) relating to:",
         "options": [
@@ -16745,7 +16745,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Herman Standish, CFA, is a top analyst in the semiconductor industry. Standish issues a report on International Chips (IC) to clients of his firm that highlights a change in his recommendation from \"hold\" to \"strong buy.\" He writes in the report: \"Just as it has in the past two years, IC will double its earnings and its dividend.\" After three business days, Standish releases the report to the business press. Which of the following Standards has Standish most likely violated?",
         "options": [
@@ -16758,7 +16758,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Member violations of the Standard relating to misconduct must involve a(n):",
         "options": [
@@ -16771,7 +16771,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Hemant Sampath, CFA, is a wealth manager. He is contacted by a charity requesting donations. Sampath refuses to share information about existing clients to protect client confidentiality. While communicating with existing clients, Sampath shares contact details of the charity. He also shares contact details of former clients with the charity. Has Sampath violated the Standards?",
         "options": [
@@ -16784,7 +16784,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "CFA Institute encourages members to report other members' violations of the Code and Standards in writing to the CFA Institute:",
         "options": [
@@ -16797,7 +16797,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is among the recommended procedures for compliance with the Standard relating to preservation of confidentiality?\n• Procedure 1: Convey to clients that not all firm-sponsored resources may be appropriate for confidential communications.\n• Procedure 2: Ensure that firm-supported communications follow practices designed to prevent the accidental distribution of confidential information.",
         "options": [
@@ -16810,7 +16810,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member has a client who pays higher fees for premium services. The Standards most likely allow the member to provide that client with:",
         "options": [
@@ -16823,7 +16823,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Jong Byun, CFA, is a broker who recommends various investments to his clients, but is not legally charged with a fiduciary responsibility. Byun finds two similar and appropriate mutual funds. One of the funds has a higher fee-sharing arrangement with the broker so he recommends that fund to his clients over the fund with lower fees. Has Byun most likely violated the Standards?",
         "options": [
@@ -16836,7 +16836,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Maria Estefan, CFA, recently founded Inversiones Unidas (IU). Estefan has a 5-year fund management track record as part of a team with her previous firm, Alto Investments (AI). Estefan advertises her past 5-year track record as her performance at IU without reference to AI or her role on the team at AI. Estefan most likely violates the Standards:",
         "options": [
@@ -16849,7 +16849,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Jan Ho, CFA, is an advisor who manages portfolios for endowment funds that share a similar goal of conservative growth. He has thoroughly researched and recommended the purchase of a thinly-traded stock for his clients' portfolios. To execute the trades, Ho follows his policy of prioritizing purchases for his largest clients first. Ho has most likely violated the Standard relating to:",
         "options": [
@@ -16862,7 +16862,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Alicia Garcia, CFA, is a broker. Her firm's analyst changes a prior \"Buy\" recommendation on Ajax Data (AD) to \"Sell\" and Garcia publishes the recommendation change on the firm's website. Later that day, one of Garcia's clients contacts her with an order directing Garcia to buy shares of AD for the client's non-discretionary account. According to the Standard relating to fair dealing, Garcia should:",
         "options": [
@@ -16875,7 +16875,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Ria Preston, CFA, works for an investment firm. Her brother is a fee-paying client of the firm. Preston allocates shares in an oversubscribed IPO that she considers suitable for all of her firm's clients. To avoid potential conflicts of interest, Preston does not allocate shares from the IPO to herself or to her brother. Has Preston most likely violated the Standards?",
         "options": [
@@ -16888,7 +16888,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Judy Naden, CFA, is an analyst covering the aerospace sector. Naden's recommendations often impact stock prices within the sector. Naden finalizes an investment recommendation on a company using published financial data and nonmaterial, nonpublic information gathered from industry experts and competitors. She distributes the report only to her firm's clients by email. Her firm's clients trade on this information before her report is made available to the general public a few days later. Has Naden most likely violated the Standards?\nCorrect answer:",
         "options": [
@@ -16901,7 +16901,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the guidance provided by the Code and Standards, which of the following is not a recommended procedure for compliance with the Standard relating to material nonpublic information?",
         "options": [
@@ -16914,7 +16914,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member works for an investment firm and implements policies to ensure that the use of soft dollars benefits clients. These policies are most likely put in place to comply with the Standard relating to:",
         "options": [
@@ -16927,7 +16927,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating to loyalty, prudence, and care, a member who has control of client assets should:",
         "options": [
@@ -16940,7 +16940,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Mark Joy, CFA, manages the pension fund for Bank Ltd. (BL). Joy believes that BL stock is overvalued. BL's CEO requests Joy purchase BL stock for BL's pension fund to help prevent a hostile takeover of BL. Joy complies and his purchase of BL stock for the pension fund helps prevent the takeover. Subsequently, BL's stock price increases, which also increases the value of BL's pension fund. Has Joy most likely violated the Standard relating to loyalty, prudence, and care?",
         "options": [
@@ -16953,7 +16953,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the Standard relating to loyalty, prudence, and care, a member who is hired to manage an equity mutual fund:",
         "options": [
@@ -16966,7 +16966,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Rebecca Chen, CFA, is a portfolio manager at an investment firm. Chen has been specializing in the technology sector. She recently expanded her coverage to the oil sector. Chen attends training to ensure that she has sufficient knowledge of the oil sector before taking the new role. After comprehensive research, Chen concludes that First Oil Company (FOC) is undervalued and buys FOC shares for her clients for whom the investment is suitable. Two months later, FOC's price declines by 20%. Has Chen violated the Standards?",
         "options": [
@@ -16979,7 +16979,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Which of the following is among the recommended procedures for compliance with the Standard relating to misrepresentation?\n• Procedure 1: Each member should prepare for client distribution a list of services that the member is capable of performing.\n• Procedure 2: Members should cite specific quotations as attributable to 'investment experts' when confidentiality of the sources has to be preserved.",
         "options": [
@@ -16992,7 +16992,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "According to the recommended procedures for compliance with the Standard relating to misrepresentation, a member should:",
         "options": [
@@ -17005,7 +17005,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "A member most likely violates the Standard relating to misrepresentation if he:",
         "options": [
@@ -17018,7 +17018,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Donovan Jones, CFA, works at Grae Investments (GI). GI invests in commodities, stocks, and bonds. Prices for its illiquid holdings are determined by an independent valuation firm. Jones markets performance using a small-cap equity index as a benchmark. Jones switches to a different valuation firm due to its better customer service and lower cost. The switch results in a marginal increase to the current estimated value of its illiquid assets. Jones has most likely violated the Standard relating to misrepresentation:",
         "options": [
@@ -17031,7 +17031,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Fred Berkam, CFA, makes the following two statements in his communication to clients regarding his equity-based hedge fund:\n• Statement 1: \"The fund has reported seven consecutive years of gains, so investors are assured of avoiding losses next year.\"\n• Statement 2: \"The fund's complex strategy does not fit well with any standard benchmark; therefore no performance benchmark is provided.\"\nBerkam has most likely violated the Standards with:",
         "options": [
@@ -17044,7 +17044,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Alesha Alsagoff, CFA, is hired by Acacia Papermill to manage its pension plan. She must report annual performance results to the plan trustees. Alsagoff's duty of loyalty, prudence, and care is primarily owed to:",
         "options": [
@@ -17057,7 +17057,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Elana Paralova, a Level I CFA candidate working at an asset management firm, wants to make a good impression on a prospective client. She tells the prospect: \"Getting the CFA Charter will show I am serious about protecting the interests of my clients and it will boost my reputation. Once I get the Charter, I also hope to make more money by getting promoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \"Study all subjects for each exam, you never know what will be included. The three exams will be the most difficult exams you will ever take. Any promotion and pay raise will reflect your enhanced skills.\" Did either Paralova or Klemmer violate the Standards?\nCorrect answer:",
         "options": [
@@ -17070,7 +17070,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping company. Kite concludes that the stock of a company is a good investment and decides to put a \"buy\" recommendation on the stock. According to the recommended procedures for compliance, Kite should communicate the recommendation:",
         "options": [
@@ -17083,7 +17083,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM3 - Guidance for Standards I–VII",
         "text": "Tim Howley, CFA, \"pumps up\" the price of a security by spreading misleading information and later \"dumps\" the security after the price reaches an artificially high level. Howley has most likely violated the Standard relating to:",
         "options": [
@@ -17096,7 +17096,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following statements regarding the GIPS standards is accurate?",
         "options": [
@@ -17109,7 +17109,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following comments concerning composites meeting the requirements of the GIPS standards is correct?",
         "options": [
@@ -17122,7 +17122,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following statements describe the key concepts of the GIPS standards?\n• Statement 1: The GIPS standards are ethical standards to ensure full disclosure of investment performance\n• Statement 2: The GIPS standards require firms to maintain composites for all strategies for which the firm manages discretionary and nondiscretionary accounts\n• Statement 3: The GIPS standards address all aspects of performance measurement",
         "options": [
@@ -17135,7 +17135,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "A firm claiming compliance with GIPS standards is required to:",
         "options": [
@@ -17148,7 +17148,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "With respect to the GIPS standards, which of the following statements is most accurate? Verification:",
         "options": [
@@ -17161,7 +17161,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "According to the GIPS standards, verification is:",
         "options": [
@@ -17174,7 +17174,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "The objectives of the GIPS standards include:",
         "options": [
@@ -17187,7 +17187,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "According to the GIPS standards, verification must be performed:",
         "options": [
@@ -17200,7 +17200,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Asset managers are most likely required to do which of the following as part of their adherence to the GIPS standards?",
         "options": [
@@ -17213,7 +17213,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following statements is most accurate? Compliance with the GIPS standards:",
         "options": [
@@ -17226,7 +17226,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following is not a key concept of the GIPS standards? The GIPS standards for firms:",
         "options": [
@@ -17239,7 +17239,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Verification provides assurance that which of the following have been designed in compliance with the GIPS standards?",
         "options": [
@@ -17252,7 +17252,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "According to the GIPS standards, verification:",
         "options": [
@@ -17265,7 +17265,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "A firm claiming compliance with the GIPS standards must:",
         "options": [
@@ -17278,7 +17278,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "According to the GIPS standards, which of the following statements is correct?\n• Statement 1: When local regulations conflict with the GIPS standards, firms are required to comply with the GIPS standards if the conflict relates to composite construction.\n• Statement 2: When local regulations conflict with the GIPS standards for performance presentation, firms are required to comply with local regulation.",
         "options": [
@@ -17291,7 +17291,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "A firm has been in existence for seven years. In order to comply with the GIPS standards, the minimum number of years of GIPS-compliant performance data the firm is initially required to present is:",
         "options": [
@@ -17304,7 +17304,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "The GIPS standards most likely:",
         "options": [
@@ -17317,7 +17317,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following can claim compliance with the GIPS standards?\nCorrect answer:",
         "options": [
@@ -17330,7 +17330,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "Which of the following statements is accurate?\n• Statement 1: Compliance with the GIPS standards eliminates the need for an investor to conduct in-depth due diligence of an investment management firm\n• Statement 2: Compliance with the GIPS standards by external managers facilitates understanding of risk and return sources of funds supervised by an asset owner",
         "options": [
@@ -17343,7 +17343,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "After a 3-year-old firm has presented a minimum of three years of GIPS-compliant performance, the GIPS standards require the firm to present an additional year of performance each year until the firm reports a minimum of:",
         "options": [
@@ -17356,7 +17356,7 @@ const SAMPLE_QUESTIONS = [
     },
     {
         "source": "Premium Pack 2026",
-        "subject": "Ethical and Professional Standards",
+        "subject": "Ethical & Professional Standards",
         "lm": "LM4 - Introduction to GIPS",
         "text": "An investment firm manages a $200 million composite to a small-cap growth style. The firm sells $50 million of these managed assets to a competing money manager. In order to remain in compliance with the GIPS standards, the firm must:",
         "options": [

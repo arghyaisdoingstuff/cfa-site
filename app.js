@@ -246,7 +246,7 @@ const app = {
 
     seedSampleQuestions: async function () {
         // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v14-equity-ethics';
+        const SEED_VERSION = 'v15-ethics-name';
         const seeded = localStorage.getItem('cfaSeedVersion');
         if (seeded !== SEED_VERSION) {
             // Clear ALL existing questions and attempts so we start fresh with the new set
@@ -1478,6 +1478,9 @@ Return ONLY a valid JSON array (no markdown). Each element:
                         
                         let source = getVal(['source']);
                         let subject = getVal(['subject']);
+                        if (subject.toLowerCase().includes('ethical') && subject.toLowerCase().includes('professional')) {
+                            subject = 'Ethical & Professional Standards';
+                        }
                         let lm = getVal(['lm', 'learning module']);
                         let optA = getVal(['option a', 'a']);
                         let optB = getVal(['option b', 'b']);
