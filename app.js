@@ -2211,8 +2211,10 @@ const app = {
             <div class="flex justify-between"><span>Accuracy</span><span class="font-semibold" style="color:#f5c842">${acc}%</span></div>`;
     },
 
+    toggleSidebar: function() { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(!s || !o) return; if(s.classList.contains("-translate-x-full")) { s.classList.remove("-translate-x-full"); o.classList.remove("hidden"); } else { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } },
     navigate: function (view) {
         this.currentView = view;
+        if(window.innerWidth < 768) { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(s && o) { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } }
         document.querySelectorAll('.nav-link').forEach(el =>
             el.classList.toggle('active', el.dataset.view === view));
         if (view !== 'quiz') this.stopTimer();
@@ -2755,7 +2757,7 @@ const app = {
         const sel     = this.examAnswers[this.quizIndex];
 
         c.innerHTML = `
-            <div class="flex gap-5 max-w-4xl mx-auto">
+            <div class="flex flex-col md:flex-row gap-5 max-w-4xl mx-auto">
                 <!-- Question -->
                 <div class="flex-1 min-w-0">
                     <div class="flex items-center justify-between mb-3">
@@ -2802,7 +2804,7 @@ const app = {
                 </div>
 
                 <!-- Navigator sidebar -->
-                <div class="w-52 flex-shrink-0">
+                <div class="w-full md:w-52 flex-shrink-0">
                     ${this.buildExamNavigatorHTML()}
                 </div>
             </div>`;
@@ -2928,7 +2930,7 @@ const app = {
                 <div class="stat-card mb-6">
                     <h3 class="font-bold text-slate-800 mb-1">Question Review</h3>
                     <p class="text-xs text-slate-400 mb-4">Click any question to see details · 🟢 Correct · 🔴 Incorrect · 🟡 Flagged</p>
-                    <div style="display:grid;grid-template-columns:repeat(10,1fr);gap:6px;">
+                    <div style="display:grid;grid-template-columns:repeat(auto-fill, minmax(36px, 1fr));gap:6px;">
                         ${cells}
                     </div>
                 </div>
