@@ -347,6 +347,7 @@ const app = {
         c.innerHTML = ''; c.classList.remove('fade-in'); void c.offsetWidth; c.classList.add('fade-in');
         const meta = {
             dashboard: ['Dashboard',        'Track your performance across all subjects and sources'],
+            mocks:     ['Mock Exams',       'Simulate full exam conditions'],
             quiz:      ['Practice Quiz',    'Answer questions and build your confidence'],
             ingestion: ['Import Questions', 'Extract questions from PDFs or images using AI'],
             settings:  ['Settings & Data',  'Manage your question bank and backups'],
@@ -365,6 +366,7 @@ const app = {
         }
 
         if      (this.currentView === 'dashboard') await this.renderDashboard(c);
+        else if (this.currentView === 'mocks')     await this.renderMocks(c);
         else if (this.currentView === 'quiz')      await this.renderQuizSetup(c);
         else if (this.currentView === 'ingestion') await this.renderIngestion(c);
         else if (this.currentView === 'settings')  await this.renderSettings(c);
@@ -525,6 +527,58 @@ const app = {
     // ══════════════════════════════════════════
     // QUIZ SETUP
     // ══════════════════════════════════════════
+
+    renderMocks: async function(c) {
+        const allQ = window._quizAllQ || await db.questions.toArray();
+        const mockQs = allQ.filter(q => q.mockName);
+        const mocks = [...new Set(mockQs.map(q => q.mockName))];
+        
+        let html = `<div class="max-w-4xl mx-auto space-y-4">`;
+        if (mocks.length === 0) {
+            html += `<div class="stat-card text-center py-10 text-slate-500">No mock exams found. Upload a CSV with a "Mock Name" column and a "Session" column (1 or 2).</div>`;
+        }
+        
+        for (const mock of mocks) {
+            const s1Count = mockQs.filter(q => q.mockName === mock && q.session === 1).length;
+            const s2Count = mockQs.filter(q => q.mockName === mock && q.session === 2).length;
+            
+            html += `
+            <div class="stat-card flex flex-col md:flex-row items-center justify-between gap-4">
+                <div>
+                    <h3 class="font-bold text-lg text-slate-800">${mock}</h3>
+                    <p class="text-sm text-slate-500 mt-1">${s1Count+s2Count} Questions total</p>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                    ${s1Count > 0 ? `<button onclick="app.startMock('${mock.replace(/'/g, "\'")}', 1)" class="px-4 py-2 bg-slate-800 text-white text-sm font-semibold rounded-xl hover:bg-slate-900 shadow-sm transition-all active:scale-95 whitespace-nowrap">Start Session 1 (${s1Count} Qs)</button>` : ''}
+                    ${s2Count > 0 ? `<button onclick="app.startMock('${mock.replace(/'/g, "\'")}', 2)" class="px-4 py-2 bg-slate-800 text-white text-sm font-semibold rounded-xl hover:bg-slate-900 shadow-sm transition-all active:scale-95 whitespace-nowrap">Start Session 2 (${s2Count} Qs)</button>` : ''}
+                </div>
+            </div>`;
+        }
+        c.innerHTML = html + `</div>`;
+    },
+    
+    startMock: async function(mockName, session) {
+        const allQ = window._quizAllQ || await db.questions.toArray();
+        let q = allQ.filter(q => q.mockName === mockName && q.session === session);
+        
+        // Sort authentically by CFA Official Subject Order
+        q.sort((a, b) => SUBJECT_LIST.indexOf(a.subject) - SUBJECT_LIST.indexOf(b.subject));
+        
+        this.quizMode = 'exam';
+        this.isMock = true;
+        this.quizQueue = q;
+        this.quizIndex = 0;
+        this.sessionCorrect = 0;
+        this.sessionTotal = 0;
+        this.examAnswers = new Array(this.quizQueue.length).fill(null);
+        this.examConfidence = new Array(this.quizQueue.length).fill(null);
+        
+        // Hide sidebar on mobile if open
+        if(window.innerWidth < 768) { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(s && o) { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } }
+        
+        await this.renderExamQuestion(document.getElementById('app-container'));
+    },
+
     renderQuizSetup: async function (c) {
         const allQ = await db.questions.toArray();
         if (allQ.length === 0) {
@@ -940,11 +994,11 @@ const app = {
                     <div class="stat-card relative" id="question-card">
                         <div class="flex items-center justify-between flex-wrap gap-2 mb-4">
                             <div class="flex items-center gap-2 flex-wrap">
-                                ${subjectPill(q.subject)}
-                                ${q.lm?`<span class="text-xs text-slate-400">${q.lm}</span>`:''}
+                                ${this.isMock ? '<span class="text-xs font-bold text-slate-500 bg-slate-100 px-2 py-1 rounded-md">Mock Exam</span>' : subjectPill(q.subject)}
+                                ${this.isMock ? '' : (q.lm?`<span class="text-xs text-slate-400">${q.lm}</span>`:'')}
                             </div>
                             <div class="flex items-center gap-2">
-                                ${sourcePill(q.source||'Unknown')}
+                                ${this.isMock ? '' : sourcePill(q.source||'Unknown')}
                                 <button id="flag-btn" onclick="app.toggleFlagCurrent()" class="flag-btn ${flagged?'flagged':''}">
                                     🚩 ${flagged?'Flagged':'Flag'}
                                 </button>
@@ -1071,6 +1125,8 @@ const app = {
     },
 
     renderExamReview: async function(c) {
+        this.isMock = false;
+        this.isMock = false;
         const fIds = getFlaggedIds();
         const cells = this.quizQueue.map((q,i)=>{
             const sel  = this.examAnswers[i];
@@ -1561,6 +1617,10 @@ Return ONLY a valid JSON array (no markdown). Each element:
                         if (correctStr === 'B' || correctStr === '1') correctIdx = 1;
                         if (correctStr === 'C' || correctStr === '2') correctIdx = 2;
                         
+                        let mockName = getVal(['mock', 'mock name', 'mock_name']);
+                        let sessionStr = getVal(['session']).toString();
+                        let session = sessionStr.includes('2') ? 2 : (sessionStr.includes('1') ? 1 : null);
+                        
                         qs.push({
                             source: source || 'Imported CSV',
                             subject: subject || 'General',
@@ -1568,7 +1628,9 @@ Return ONLY a valid JSON array (no markdown). Each element:
                             text: text,
                             options: [optA, optB, optC],
                             correctAnswer: correctIdx,
-                            explanation: explanation
+                            explanation: explanation,
+                            mockName: mockName || null,
+                            session: session
                         });
                     }
                     if (qs.length > 0) {
