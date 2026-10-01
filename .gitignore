@@ -2,4 +2,6 @@
 .env
 content/raw/
 *.zip
-*.pycfa-site/
+*.py
+cfa-site/
+.venv/
