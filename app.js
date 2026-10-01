@@ -555,7 +555,7 @@ const app = {
     // ══════════════════════════════════════════
 
     renderMocks: async function(c) {
-        const allQ = window._quizAllQ || await db.questions.toArray();
+        const allQ = await db.questions.toArray();
         const mockQs = allQ.filter(q => q.mockName);
         const mocks = [...new Set(mockQs.map(q => q.mockName))];
         
@@ -585,7 +585,7 @@ const app = {
     
     startMock: async function(mockName, session) {
         this.quizMode = 'exam';
-        const allQ = window._quizAllQ || await db.questions.toArray();
+        const allQ = await db.questions.toArray();
         let q = allQ.filter(q => q.mockName === mockName && q.session === session);
         
         // Sort authentically by CFA Official Subject Order
