@@ -1937,7 +1937,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "Correct because sometimes it is necessary to invert one of the quotes in order to get the intermediary currency to cancel out in the equation to get the cross-rate. For example, to get a Canada-yen (JPY/CAD) quote, one is typically using the dollar-Canada (CAD/USD) rate and dollar-yen (JPY/USD) rate, which are the market conventions. This Canada-yen calculation requires that the dollar-Canada rate (CAD/USD) be inverted to a USD/CAD quote for the calculations to work. The formula for the EUR/GBP cross rate is USD/GBP x (USD/EUR)^-1 = USD/GBP x EUR/USD = 1.2604 / 1.1786 = approx. 1.0694."
     },
     {
-        "id": "vikas-vohra-fixed-income-8",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -1951,7 +1950,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. C is correct because a trustee or trustee agent is typically a financial institution with \ntrust powers that safeguards the assets after they have been sold to the SPE, holds \nthe funds due to the ABS holders until they are paid, and provides periodic \ninformation to the ABS holders."
     },
     {
-        "id": "vikas-vohra-fixed-income-9",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -1965,7 +1963,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. A is correct because a mortgage pass-through security Õs coupon rate is called the \npass- through rate. The pass-through rate is lower than the mortgage rate on the \n\n                                                                                    \n \nunderlying pool of mortgages by an amount equal to the servicing and other \nadministrative fees. The pass-through rate that the investor receives is said to be \n\"net interest\" or \"net coupon."
     },
     {
-        "id": "vikas-vohra-fixed-income-10",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -1979,7 +1976,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. B is correct because an effective annual rate has a periodicity of one because there \nis just one compounding period in the year. No calculations are required based on the \nintuitive idea that due to semi-annual compounding, the effective annual yield must \nbe slightly higher. The formula to calculate the effective annual yield of a semi-annual \npay bond is: \n= (1 +  𝑦𝑖𝑒𝑙𝑑/2)ଶ – 1 = (1 +  0.0366/2)ଶ – 1 = 1.036935 – 1 = .036935 ≈ 3.69%."
     },
     {
-        "id": "vikas-vohra-fixed-income-11",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -1993,7 +1989,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. B is correct because an important legal document is the purchase agreement between \nthe seller of the collateral and the SPE, which sets forth the representations and \nwarranties that the seller makes about the assets sold. These representations and \nwarranties assure investors about the quality of the assets."
     },
     {
-        "id": "vikas-vohra-fixed-income-12",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2007,7 +2002,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. B is correct because ApproxCon ="
     },
     {
-        "id": "vikas-vohra-fixed-income-13",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2021,7 +2015,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. C is correct because an implied forward rate is a break-even reinvestment rate. It \nlinks the return on an investment in a shorter-term zero-coupon bond to the return \non an investment in a longer-term zero-coupon bond."
     },
     {
-        "id": "vikas-vohra-fixed-income-14",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2035,7 +2028,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because bond price (or value) determined using the spot rates is \nsometimes referred to as the bondÕs 'no-arbitrage value'. If the current market price \nequals the 'no-arbitrage value, discounting the cash flows by either spot rates or \nyield to maturity arrives to the same price."
     },
     {
-        "id": "vikas-vohra-fixed-income-15",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2049,7 +2041,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. B is correct because both bonds represent forms of senior unsecured debt and \ntherefore, all creditors are at the same level of the capital structure and treated as \none class; thus, a senior unsecured bondholder whose debt is due in 30 years has the \nsame pro rata claim in bankruptcy as one whose debt matures in six months. This \nprovision is referred to as bonds ranking pari passu ('on an equal footing') in right of \npayment."
     },
     {
-        "id": "vikas-vohra-fixed-income-16",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2063,7 +2054,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. B is correct because callable bonds present investors with a higher level of \nreinvestment risk than non-callable bonds; that is, if the bonds are called, \nbondholders have to reinvest funds in a lower interest rate environment."
     },
     {
-        "id": "vikas-vohra-fixed-income-17",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2077,7 +2067,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. C is correct because BBB– is the lowest rating for investment grade bonds. A one-\ncategory downgrade (from BBB– to BB–) would make the bond non-investment grade."
     },
     {
-        "id": "vikas-vohra-fixed-income-18",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2091,7 +2080,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. A is correct because another factor considered by rating agencies is structural \nsubordination, which can arise when a corporation with a holding company structure \nhas debt at both its parent holding company and operating subsidiaries. Debt at the \noperating subsidiaries will get serviced by the cash flow and assets of the \nsubsidiaries before funds can be passed (“upstreamed”) to the holding company to \nservice debt at that level."
     },
     {
-        "id": "vikas-vohra-fixed-income-19",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2105,7 +2093,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. A is correct because as times passes during the coupon period (moving from right to \nleft in the diagram), the Macaulay duration declines smoothly and then jumps upward \nafter the coupon is paid. The usual pattern is that longer times-to-maturity \ncorrespond to higher Macaulay duration statistics. This pattern always holds for \nbonds trading at par value or at a premium above par. Conversely, a shorter time to \nmaturity corresponds to a lower Macaulay duration during the coupon period."
     },
     {
-        "id": "vikas-vohra-fixed-income-20",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2119,7 +2106,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. A is correct because bonds rated Baa3 or higher by Moody's and BBB– or higher by \nStandard & Poor's and Fitch are considered investment grade."
     },
     {
-        "id": "vikas-vohra-fixed-income-21",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2133,7 +2119,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. B is correct because coverage ratios measure an issuer's ability to meet—to “cover”—\nits interest payments. The two most common are the EBITDA/interest expense and \nEBIT/interest expense ratios."
     },
     {
-        "id": "vikas-vohra-fixed-income-22",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2147,7 +2132,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. B is correct because credit rating agencies often require that commercial paper \nissuers secure a backup line of credit from banks."
     },
     {
-        "id": "vikas-vohra-fixed-income-23",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2161,7 +2145,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. B is correct because current yield is calculated as ($4.5/$85.70) = 5.25%."
     },
     {
-        "id": "vikas-vohra-fixed-income-24",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2175,7 +2158,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. A is correct because collateralized debt obligation (CDO) is a generic term used to \ndescribe a security backed by a diversified pool of one or more debt obligations: \nCDOs backed by ABS, RMBS, CMBS, and other CDOs are structured finance CDOs."
     },
     {
-        "id": "vikas-vohra-fixed-income-25",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2189,7 +2171,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. B is correct because effective duration = (PV+ − PV- ) / (2 × Δcurve × PV0) = ( 100.75 \n− 99.26) / (2 × 0.001 × 100.00) = 7.45."
     },
     {
-        "id": "vikas-vohra-fixed-income-26",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2203,7 +2184,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. B is correct because effective duration = (PV– – PV+)/(2 × ΔCurve × PV0) = ($198 \nmillion – $174 million)/(2 × 0.005 × $186 million) = 12.9032 ≈ 12.9."
     },
     {
-        "id": "vikas-vohra-fixed-income-27",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2217,7 +2197,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. B is correct because effective duration is a curve duration statistic in that it \nmeasures interest rate risk in terms of a parallel shift in the benchmark yield curve."
     },
     {
-        "id": "vikas-vohra-fixed-income-28",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2231,7 +2210,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. B is correct because Eurobonds, domestic, and foreign bonds are now registered \nbonds for which ownership is recorded by either name or serial number."
     },
     {
-        "id": "vikas-vohra-fixed-income-29",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2245,7 +2223,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. A is correct because compounding more frequently within the year results in a lower \n(more negative) yield-to-maturity."
     },
     {
-        "id": "vikas-vohra-fixed-income-30",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2259,7 +2236,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. B is correct because Expected loss = Default probability × Loss severity given default, \nwhere loss severity is often expressed as (1 – Recovery rate), where the recovery \nrate is the percentage of the principal amount recovered in the event of default. \nThus expected loss can also be written as Expected loss = Default probability × (1 – \nRecovery rate), which means that the higher the recovery rate, the lower the \nexpected loss."
     },
     {
-        "id": "vikas-vohra-fixed-income-31",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2273,7 +2249,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. B is correct because for bonds that are not yet issued it is common to estimate the \nmarket discount rate and price based on the quoted or flat prices of more frequently \ntraded comparable bonds. These comparable bonds have similar times-to-maturity, \ncoupon rates, and credit quality. This estimation process is called matrix pricing."
     },
     {
-        "id": "vikas-vohra-fixed-income-32",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2287,7 +2262,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. C is correct because for a non-recourse mortgage, the borrower may have an incentive \nto default on an underwater mortgage and allow the lender to foreclose on the \nproperty, even if resources are available to continue to make mortgage payments. \nThis type of default by a borrower is referred to as a “strategic default. In countries \nwhere residential mortgages are recourse loans, a strategic default is less likely \nbecause the lender can seek to recover the shortfall from the borrower's other \nassets and/or income. Therefore, the risk of a strategic default is higher for a non-\nrecourse mortgage."
     },
     {
-        "id": "vikas-vohra-fixed-income-33",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2301,7 +2275,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. A is correct because effective duration is essential to the measurement of the \ninterest rate risk of a complex bond, such as a bond that contains an embedded call \noption. In brief, a callable bond does not have a well-defined internal rate of return \n(yield-to-maturity). Therefore, yield duration statistics, such as modified and \nMacaulay durations, do not apply; effective duration is the appropriate duration \nmeasure."
     },
     {
-        "id": "vikas-vohra-fixed-income-34",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2315,7 +2288,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. A is correct because effective duration is essential to the measurement of the \ninterest rate risk of a complex bond, such as a bond that contains an embedded call \noption. The problem is that future cash flows are uncertain because they are \ncontingent on future interest rates. The issuerÕs decision to call the bond depends on \nthe ability to refinance the debt at a lower cost of funds. Effective duration is the \nappropriate duration measure."
     },
     {
-        "id": "vikas-vohra-fixed-income-35",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2329,7 +2301,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. B is correct because given the spot rates, the price of a bond can be calculated using \nthe following formula: PV ="
     },
     {
-        "id": "vikas-vohra-fixed-income-36",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2343,7 +2314,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect)."
     },
     {
-        "id": "vikas-vohra-fixed-income-37",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2357,7 +2327,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. C is correct because for the same coupon rate and time-to-maturity, the percentage \nprice change is greater (in absolute value, meaning without regard to the sign of the \nchange) when the market discount rate goes down than when it goes up (the convexity \neffect)."
     },
     {
-        "id": "vikas-vohra-fixed-income-38",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2371,7 +2340,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. C is correct because for the same time-to-maturity, a lower-coupon bond has a \ngreater percentage price change than a higher-coupon bond when their market \ndiscount rates change by the same amount (the coupon effect). Bond 3 has the same \ntime-to-maturity as Bond 1 but a lower coupon, thus Bond 3 would experience a \ngreater percentage price change compared to Bond 1. Also, generally, for the same \ncoupon rate, a longer-term bond has a greater percentage price change than a \nshorter-term bond when their market discount rates change by the same amount (the \nmaturity effect). Bond 3 has the same coupon rate as Bond 2 but a longer maturity, \nthus Bond 3 would experience a greater percentage price change compared to Bond"
     },
     {
-        "id": "vikas-vohra-fixed-income-39",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2385,7 +2353,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. B is correct because implied forward rates (also known as forward yields) are \ncalculated from spot rates. An implied forward rate is a break-even reinvestment \nrate. When the market is in equilibrium (no arbitrage) the implied forward rate is the \nsame as the forward rate."
     },
     {
-        "id": "vikas-vohra-fixed-income-40",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2399,7 +2366,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. B is correct because in brief, a callable bond does not have a well-defined internal \nrate of return (yield-to-maturity). Therefore, yield duration statistics, such as \nmodified and Macaulay durations, do not apply; effective duration is the appropriate \nduration measure."
     },
     {
-        "id": "vikas-vohra-fixed-income-41",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2413,7 +2379,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. A is correct because extension risk is the risk that when interest rates rise, \nprepayments will be lower than forecasted because homeowners are reluctant to give \nup the benefits of a contractual interest rate that now looks low. As a result, a \nsecurity backed by mortgages will typically have a longer maturity than was \nanticipated at the time of purchase."
     },
     {
-        "id": "vikas-vohra-fixed-income-42",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2427,7 +2392,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. B is correct because in periods of high demand for bonds, spreads will move tighter."
     },
     {
-        "id": "vikas-vohra-fixed-income-43",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2441,7 +2405,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. C is correct because in addition to the high quality of underlying securities, repos \ninclude features designed to reduce the risk of a collateral shortfall over the \ncontract life. One such feature is the provision of collateral in excess of the cash \nexchanged, known as initial margin."
     },
     {
-        "id": "vikas-vohra-fixed-income-44",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2455,7 +2418,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. A is correct because for parallel shifts in the benchmark yield curve, key rate \ndurations will indicate the same interest rate sensitivity as effective duration."
     },
     {
-        "id": "vikas-vohra-fixed-income-45",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2469,7 +2431,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. B is correct because it is common for securitizations to include a form of internal \ncredit enhancement called subordination, also referred to as credit tranching. In \nsuch a structure, there is more than one bond class or tranche, and the bond classes \ndiffer as to how they will share any losses resulting from defaults of the borrowers \nwhose loans are in the collateral. The bond classes are classified as senior bond \nclasses or subordinated bond classes—hence, the reason this structure is also \nreferred to as a senior/subordinated structure."
     },
     {
-        "id": "vikas-vohra-fixed-income-46",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2483,7 +2444,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. B is correct because modified duration can be used to measure the interest rate risk \nof a non-complex bond such as a US Treasury bond, while effective duration is \nessential to the measurement of the interest rate risk of a complex bond, such as a \nbond that contains an embedded call option."
     },
     {
-        "id": "vikas-vohra-fixed-income-47",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2497,7 +2457,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. B is correct because modified duration is a yield duration statistic in that it measures \ninterest rate risk in terms of a change in the bondÕs own yield-to-maturity.  Modified \nduration provides an estimate of the percentage price change for a bond given a \nchange in its yield-to-maturity."
     },
     {
-        "id": "vikas-vohra-fixed-income-48",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2511,7 +2470,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. B is correct because modified duration provides an estimate of the percentage price \nchange for a bond given a change in its yield-to-maturity [YTM]. \nModified duration = Macaulay Duration / (1+r) = 10.0/1.045 = 9.5694 \n%*SYMBOL*PV≈ ¬AnnModDur × ∆Yield = –9.5694 × –1% = 9.5694% ≈ 9.57%."
     },
     {
-        "id": "vikas-vohra-fixed-income-49",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2525,7 +2483,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. B is correct because negative pledges prevent the issuance of debt that would be \nsenior to or rank in priority ahead of the existing bondholdersÕ debt. This is a negative \ncovenant."
     },
     {
-        "id": "vikas-vohra-fixed-income-50",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2539,7 +2496,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. C is correct because it adjusts the Approximate Modified Duration by 1 + yield to \nmaturity to determine the Macaulay duration. AppxModDur = [(PV-) − (PV+)]/[2 × \n(ΔYield) × (PV0)] = (100.45 – 99.56)/(2 × 0.001 × 100) = 4.45. \nMacaulay duration = modified duration × (1 + YTM) = 4.45 × (1 + 0.04) = 4.628 ≈ 4.63."
     },
     {
-        "id": "vikas-vohra-fixed-income-51",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2553,7 +2509,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. B is correct because operating income is defined as operating revenues minus \noperating expenses and is commonly referred to as 'earnings before interest and \ntaxes' (EBIT). Interest coverage using EBIT is operating income/interest expense. \n= $120/15 = 8."
     },
     {
-        "id": "vikas-vohra-fixed-income-52",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2567,7 +2522,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. A is correct because key rate duration (or partial duration ) is a measure of a bondÕs \nsensitivity to a change in the benchmark yield curve at a specific maturity segment. \nIn contrast to effective duration, key rate durations help identify 'shaping risk' for \na bond—that is, a bondÕs sensitivity to changes in the shape of the benchmark yield \ncurve (e.g., the yield curve becoming steeper or flatter)."
     },
     {
-        "id": "vikas-vohra-fixed-income-53",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2581,7 +2535,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. A is correct because market liquidity risk is the risk that the price at which investors \ncan actually transact—buying or selling—may differ from the price indicated in the \nmarket. The lower the quality of the issuer, the higher the market liquidity risk."
     },
     {
-        "id": "vikas-vohra-fixed-income-54",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2595,7 +2548,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. A is correct because modified duration provides an estimate of the percentage price \nchange for a bond given a change in its yield-to-maturity. A modified duration of 2.4 \ntranslates to a 2.4% percentage price change given a 100 basis points change in the \nbond's yield to maturity. Therefore, for a 50 basis point decrease in yields, the \nbond's price will change by (2.4)(0.0050)($912,575) = $10,951 ≈ $11,000."
     },
     {
-        "id": "vikas-vohra-fixed-income-55",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2609,7 +2561,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. A is correct because modified duration provides an estimate of the percentage price \nchange for a bond given a change in its yield-to-maturity: %ΔPVFull ≈ −AnnModDur × \nΔYield. Also, another version of money duration is the price value of a basis point \n(PVBP) for the bond. The PVBP is an estimate of the change in the full price given a 1 \nbp change in the yield-to-maturity. Here: −6.2 × 0.0001 = 0.00062 and PVBP = 0.00062 \n× 103.50 = 0.06417, rounded to 0.0642."
     },
     {
-        "id": "vikas-vohra-fixed-income-56",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2623,7 +2574,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. A is correct because money duration (MoneyDur) is calculated as the annual modified \nduration times the full price (PVFull) of the bond, including accrued interest. Thus \nthe modified durations of the bonds are 730/95 = 7.6842 and 515/120 = 4.29167, \nrespectively.  \n \nThe modified duration of a bond portfolio is calculated as the weighted average of \nthe statistics for the individual bonds. The shares of overall portfolio market value \nare the weights. Here, the market values of the bonds are £25 million * 95/100 = \n£23,750,000 and £25 million * 120/100 = £30,000,000. Thus the weight of the first \nbond in the portfolio is £23,750,000 / (£23,750,000 + £30,000,000) = 44.186% and \nthe weight of the second bond in the portfolio is £30,000,000 / (£23,750,000 + \n£30,000,000) = 55.814%. The modified duration of the portfolio is therefore \n44.186% * 7.6842 + 55.814% * 4.29167 = 3.3953 + 2.3953 = 5.7907, rounded to 5.8."
     },
     {
-        "id": "vikas-vohra-fixed-income-57",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2637,7 +2587,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. C is correct because recognizing different payment priorities, and thus the potential \nfor higher (or lower) loss severity in the event of default, the rating agencies have \nadopted a notching process whereby their credit ratings on issues can be moved up \nor down from the issuer rating, which is usually the rating applied to its senior \nunsecured debt. As a general rule, the higher the senior unsecured rating, the smaller \nthe notching adjustment. The reason behind this is that the higher the rating, the \nlower the perceived risk of default; so, the need to 'notch' the rating to capture the \npotential difference in loss severity is greatly reduced. For lower-rated credits, \nhowever, the risk of default is greater and thus the potential difference in loss from \na lower (or higher) priority ranking is a bigger consideration in assessing an issue Õs \ncredit riskiness."
     },
     {
-        "id": "vikas-vohra-fixed-income-58",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2651,7 +2600,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. C is correct because revenue bonds are issued for specific project financing (e.g., \nfinancing for a new sewer system, a toll road, bridge, hospital, a sports arena, etc.). \nRevenue bonds, which are issued to finance a specific project, have a higher degree \nof risk than GO bonds because they are dependent on a single source of revenue. A \nkey credit measure for revenue-backed non-sovereign government bonds is the debt-\nservice-coverage (DSC) ratio, which measures how much revenue is available to cover \ndebt payments (principal and interest) after operating expenses."
     },
     {
-        "id": "vikas-vohra-fixed-income-59",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2665,7 +2613,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. B is correct because the 2y1y yield is the implied one-year forward yield two years \nfrom now. The 2y1y implied yield"
     },
     {
-        "id": "vikas-vohra-fixed-income-60",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2679,7 +2626,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. A is correct because some fixed-rate bonds are not actively traded. Therefore, there \nis no market price available to calculate the rate of return required by investors. In \nthese situations, it is common to estimate the market discount rate and price based \non the quoted or flat prices of more frequently traded comparable bonds. These \ncomparable bonds have similar times-to-maturity, coupon rates, and credit quality. \nThis estimation process is called matrix pricing. The estimated market discount rate \ncan be obtained with linear interpolation. Using linear interpolation between the two \ngiven bonds, we have: 0.034 + (5 – 3) / (8 – 3) × (0.054 – 0.034) = 0.034 + 2 / 5 × 0.02 \n= 0.042 = 4.2%."
     },
     {
-        "id": "vikas-vohra-fixed-income-61",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2693,7 +2639,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. B is correct because the call provision is a valuable option for the issuer. Thus, other \nthings equal, investors require a higher yield (and thus pay a lower price) for a callable \nbond than for an otherwise similar non-callable bond."
     },
     {
-        "id": "vikas-vohra-fixed-income-62",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2707,7 +2652,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. B is correct because the currency denomination of a bond Õs cash flows influences \nwhich countryÕs interest rates affect a bondÕs price. The price of a bond issued by a \n\n                                                                                    \n \nUS-based company and denominated in British pounds will be affected by British \ninterest rates."
     },
     {
-        "id": "vikas-vohra-fixed-income-63",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2721,7 +2665,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. A is correct because the applicable interest rate in December is the six-month \nmarket reference rate in June plus the 45 basis point margin = 1.95% + 0.45% = \n2.40%."
     },
     {
-        "id": "vikas-vohra-fixed-income-64",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2735,7 +2678,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. A is correct because the approximate modified duration of a bond is calculated as \nfollows: \nApproxModDur = ((PV–) – (PV+)) / (2 × (ΔYield) × PV0) \n= (103.40 – 100.95) / (2 × 0.0070 × 101.80) \n= 2.45 / 1.4252 = 1.7191 ≈ 1.72."
     },
     {
-        "id": "vikas-vohra-fixed-income-65",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2749,7 +2691,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. B is correct because the effective duration of a bond is the sensitivity of the bond's \nprice to a change in a benchmark yield curve. \nEffDur = [(PV– ) – (PV+)] / [2 × (ΔCurve) × (PV0)] \nWith PV0 = 95.35, PV– = 99.50, PV+ = 92.25, \nEffDur = (99.50 – 92.25) / (2 × 0.005 × 95.35) = 7.60."
     },
     {
-        "id": "vikas-vohra-fixed-income-66",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2763,7 +2704,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "66. B is correct because the first coupon is reinvested at 4.75% for two years, the \nsecond coupon is reinvested at 4.75% for one year, and the third coupon has not yet \nbeen reinvested.  \n \n(5.50 × 1.0475^2) + (5.50 × 1.0475) + 5.50 = 17.2962 ≈ 17.30. \n \nInterest rates are the rates at which coupon payments are reinvested and the market \ndiscount rates at the time of purchase and at the time of sale if the bond is not held \nto maturity."
     },
     {
-        "id": "vikas-vohra-fixed-income-67",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2777,7 +2717,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "67. B is correct because the flat price usually is quoted by bond dealers. If a trade takes \nplace, the accrued interest is added to the flat price to obtain the full price paid by \nthe buyer and received by the seller on the settlement date."
     },
     {
-        "id": "vikas-vohra-fixed-income-68",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2791,7 +2730,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "68. C is correct because the accrued interest part of the full price does not depend on \nthe yield-to-maturity."
     },
     {
-        "id": "vikas-vohra-fixed-income-69",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2805,7 +2743,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "69. B is correct because the following formula estimates the approximate percentage \nprice change for a 100 basis point change in yield (duration) is:"
     },
     {
-        "id": "vikas-vohra-fixed-income-70",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2819,7 +2756,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "70. A is correct because the conversion ratio is the number of common shares that each \nbond can be converted into."
     },
     {
-        "id": "vikas-vohra-fixed-income-71",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2833,7 +2769,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "71. C is correct because the collateral of credit card receivable ABS is a pool of non-\namortizing loans. These loans have lockout periods during which the cash flows that \nare paid out to security holders are based only on finance charges collected and fees. \nWhen the lockout period is over, the principal that is repaid by the cardholders is no \nlonger reinvested but instead is distributed to investors."
     },
     {
-        "id": "vikas-vohra-fixed-income-72",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2847,7 +2782,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "72. C is correct because the effective duration is calculated as (PV- – PV+)/(2 × ∆Curve \n× PV0), where: PV- = the bond price when the benchmark yield is decreased, PV+ = the \nbond price when the benchmark yield is increased, and PV0 = then current bond price. \nEffective duration = (103 – 98)/(2 × 0.0025 × 100) = 10."
     },
     {
-        "id": "vikas-vohra-fixed-income-73",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2861,7 +2795,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "73. A is correct."
     },
     {
-        "id": "vikas-vohra-fixed-income-74",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2875,7 +2808,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "74. B is correct because the issuer credit rating usually applies to its senior unsecured \ndebt."
     },
     {
-        "id": "vikas-vohra-fixed-income-75",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2889,7 +2821,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "75. B is correct because the Macaulay duration of a zero-coupon bond is its time-to-\nmaturity and modified duration is the Macaulay duration statistic divided by one plus \nthe yield per period. \n \nHere, modified duration = 5/1.02 = 4.901961. \n \nThus, the percentage change in price = –4.901961 * –0.01 + (0.5 * 28.835 * –0.012) = \n0.04901961 + 0.0014418 = 5.04614%, rounded to 5.05%."
     },
     {
-        "id": "vikas-vohra-fixed-income-76",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2903,7 +2834,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "76. B is correct because the Macaulay duration of a zero-coupon bond is its time-to-\nmaturity."
     },
     {
-        "id": "vikas-vohra-fixed-income-77",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2917,7 +2847,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "77. B is correct because the main types of non-sovereign government issuers include \nagencies, public banks, supranationals, and regional governments. Regional \nGovernment Issuers. These include provincial, state, and local governments, referred \nto as municipal bonds in the US and most often as local authority bonds elsewhere, \nwithin a specific sovereign jurisdiction."
     },
     {
-        "id": "vikas-vohra-fixed-income-78",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2931,7 +2860,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "78. A is correct because the Macaulay and modified durations for the portfolio are \ncalculated as the weighted average of the statistics for the individual bonds. The \nshares of overall portfolio market value are the weights. \n \nFirst we calculate the modified duration (ModDur) of the individual bonds using \nformula below: \nModDur = MacDur / (1 + r)  \nModDur of Bond 1 = 7.5 / (1 + 4%) = 7.211538 \nModDur of Bond 2 = 5.4 / (1 + 3%) = 5.242718. \n \nNext, we calculate the weights for the individual bonds based on market values, as \nfollows: \nWeight for Bond 1 = $200,000 / ($200,000 + $400,000) = 0.333333 \nWeight for Bond 2 = $400,000 / ($200,000 + $400,000) = 0.666667 \n \nModified duration of the portfolio = (Weight for Bond 1 × ModDur of Bond 1) + \n(Weight for Bond 2 × ModDur of Bond 2) = (0.333333 × 7.211538) + (0.666667 × \n5.242718) = 5.898992 ≈ 5.9."
     },
     {
-        "id": "vikas-vohra-fixed-income-79",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2945,7 +2873,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "79. C is correct."
     },
     {
-        "id": "vikas-vohra-fixed-income-80",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2959,7 +2886,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "80. C is correct because the investor faces coupon reinvestment risk for all coupons \nreceived (first coupon plus any others until sale) and also faces market price risk as \nchanges in the interest rate will impact the sale price of the bond.   \n \nCoupon reinvestment risk matters more when the investor has a long-term horizon \nrelative to the time-to-maturity of the bond. For instance, a buy-and-hold investor \nonly has coupon reinvestment risk. Market price risk matters more when the investor \nhas a short-term horizon relative to the time-to-maturity. For example, an investor \nwho sells the bond before the first coupon is received has only market price risk."
     },
     {
-        "id": "vikas-vohra-fixed-income-81",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2973,7 +2899,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "81. C is correct because the key point is that for an option-free fixed-rate bond, the \nsame duration and convexity statistics that apply for a change in benchmark yield \nalso apply for a change in spread."
     },
     {
-        "id": "vikas-vohra-fixed-income-82",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -2987,7 +2912,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "82. C is correct because the lowest of the sequence of yields-to-call and the yield-to-\nmaturity is known as the yield-to-worst. The sequence of yields for the bond is as \nfollows:"
     },
     {
-        "id": "vikas-vohra-fixed-income-83",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3001,7 +2925,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "83. C is correct because the Macaulay and modified duration statistics for a fixed-rate \nbond depend primarily on the coupon rate, yield-to-maturity, and time-to-maturity. A \nhigher coupon rate or a higher yield-to-maturity reduces the duration measures. A \nlonger time-to-maturity usually leads to a higher duration. It always does so for a \nbond priced at a premium or at par value.\" In this case, Bond 3 has a higher coupon, \nthe same or higher yield-to-maturity, and the shortest time to maturity. It therefore \nhas the lowest Macaulay duration."
     },
     {
-        "id": "vikas-vohra-fixed-income-84",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3015,7 +2938,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "84. A is correct because the money duration equals the product of modified duration and \nfull price. \n \nFull price = Clean price + Accrued interest = 114.75 + 1.625 = 116.375; \n \nMoney duration = Modified duration × Full Price = 116.375 × 4.8250 = 561.5094 ≈ \n561.51. \n \nModified duration is a measure of the percentage price change of a bond given a \nchange in its yield-to-maturity. A related statistic is money duration. The money \nduration of a bond is a measure of the price change in units of the currency in which \nthe bond is denominated. The money duration can be stated per 100 of par value or \nin terms of the actual position size of the bond in the portfolio. In the United States, \nmoney duration is commonly called 'dollar duration.' Money duration (MoneyDur) is \ncalculated as the annual modified duration times the full price (PVFull) of the bond, \nincluding accrued interest."
     },
     {
-        "id": "vikas-vohra-fixed-income-85",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3029,7 +2951,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "85. C is correct because the modified duration and effective duration on an option-free \nbond are identical only in the rare circumstance of an absolutely flat yield curve."
     },
     {
-        "id": "vikas-vohra-fixed-income-86",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3043,7 +2964,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "86. B is correct because the portfolio's duration is the weighted average (by market \nvalue) of the duration of the bonds in the portfolio. \n \nDuration of portfolio = [(120,000 ÷ 300,000) × 5] + [(180,000 ÷ 300,000) × 4] \n= (0.4 × 5) + (0.6 × 4) \n= 2.00 + 2.40 \n= 4.40"
     },
     {
-        "id": "vikas-vohra-fixed-income-87",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3057,7 +2977,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "87. B is correct because the price of the bond is the present value of the promised cash \nflows and is calculated as follows:"
     },
     {
-        "id": "vikas-vohra-fixed-income-88",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3071,7 +2990,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "88. C is correct because the purpose of the prepayment penalty is to compensate the \nlender for the difference between the contract rate and the prevailing mortgage \nrate if the borrower prepays when interest rates decline."
     },
     {
-        "id": "vikas-vohra-fixed-income-89",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3085,7 +3003,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "89. B is correct because the rating agencies have adopted a notching process whereby \ntheir credit ratings on issues can be moved up or down from the issuer rating, which \nis usually the rating applied to its senior unsecured debt. As a general rule, the higher \nthe senior unsecured rating, the smaller the notching adjustment."
     },
     {
-        "id": "vikas-vohra-fixed-income-90",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3099,7 +3016,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "90. C is correct because the rate of return on a money market instrument is stated on a \nsimple interest basis."
     },
     {
-        "id": "vikas-vohra-fixed-income-91",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3113,7 +3029,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "91. C is correct because the realized horizon yield matches the original yield-to-maturity \nif (1) coupon payments are reinvested at the same interest rate as the original yield-\nto-maturity, and (2) the bond is sold at a price on the constant-yield price trajectory, \nwhich implies that the investor does not have any capital gains or losses when the \nbond is sold. Since the reinvestment rate is less than the horizon yield and the bond \nis held to maturity, the yield to maturity is greater than the horizon yield."
     },
     {
-        "id": "vikas-vohra-fixed-income-92",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3127,7 +3042,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "92. A is correct because the value of a bond is calculated as:"
     },
     {
-        "id": "vikas-vohra-fixed-income-93",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3141,7 +3055,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "93. A is correct because the yield spread of a specific bond over the standard swap rate \nin that currency of the same tenor is known as the I-spread or interpolated spread \nto the swap curve."
     },
     {
-        "id": "vikas-vohra-fixed-income-94",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3155,7 +3068,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "94. A is correct because there are two offsetting types of interest rate risk that affect \nthe bond investor: coupon reinvestment risk and market price risk. The future value \nof reinvested coupon payments (and in a portfolio, the principal on bonds that mature \nbefore the horizon date) increases when interest rates go up and decreases when \n\n                                                                                    \n \nrates go down. The sale price on a bond that matures after the horizon date (and \nthus needs to be sold) decreases when interest rates go up and increases when rates \ngo down."
     },
     {
-        "id": "vikas-vohra-fixed-income-95",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3169,7 +3081,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "95. A is correct because this is a secured debt and therefore has higher priority than \nany u nsecured debt. In the event of default, unsecured debtholders Õ claims rank \nbelow (i.e., get paid after) those of secured creditors under what Õs known as the \npriority of claims. First lien debt or loan refers to a pledge of certain assets that \ncould include buildings but might also include property and equipment, licenses, \npatents, brands, and so on. There can also be second lien, or even third lien, secured \ndebt, which, as the name implies, has a secured interest in the pledged assets but \nranks below first lien debt in both collateral protection and priority of payment."
     },
     {
-        "id": "vikas-vohra-fixed-income-96",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3183,7 +3094,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "96. B is correct because the yield spread in basis points over an actual or interpolated \ngovernment bond is known as the G-spread. The spread over a government bond is the \nreturn for bearing greater credit, liquidity, and other risks relative to the sovereign \nbond."
     },
     {
-        "id": "vikas-vohra-fixed-income-97",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3197,7 +3107,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "97. B is correct because the creation of bond classes that possess different expected \nmaturities is referred to as time tranching."
     },
     {
-        "id": "vikas-vohra-fixed-income-98",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3211,7 +3120,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "98. B is correct because this specified yield spread over the reference rate is called the \nquoted margin on the FRN. The role of the quoted margin is to compensate the \ninvestor for the difference in the credit risk of the issuer and that implied by the \nreference rate."
     },
     {
-        "id": "vikas-vohra-fixed-income-99",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3225,7 +3133,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "99. C is correct because we use the fact that ModDur = MacDur / (1 + r) to calculate the \nMacaulay duration of the bond: MacDur = 7.4 × (1 + 9%) = 8.07. Because the duration \ngap is equal to the bond's Macaulay duration minus the investment horizon the \ninvestment horizon is closest to 8.1 years."
     },
     {
-        "id": "vikas-vohra-fixed-income-100",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3239,7 +3146,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "100. B is correct because when interest rates are low, the effective duration of the \ncallable bond is lower than that of the otherwise comparable non-callable bond \nbecause the callable bond price does not increase as much when benchmark yields \nfall. The presence of the call option limits price appreciation especially when interest \nrates are falling and the bond is more likely to be called."
     },
     {
-        "id": "vikas-vohra-fixed-income-101",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3253,7 +3159,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "101. C is correct because when the benchmark yield is high and the value of the \nembedded call option is low, the callable and the non-callable bonds experience very \nsimilar effects from interest rate changes. They both have positive convexity. But \nas the benchmark yield is reduced, the curves diverge. At some point, the callable \n                                                                                    \n \nbond moves into the range of negative convexity, which indicates that the embedded \ncall option has more value to the issuer and is more likely to be exercised."
     },
     {
-        "id": "vikas-vohra-fixed-income-102",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3267,7 +3172,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "102. B is correct because capital gains arise if a bond is sold at a price above its \nconstant-yield price trajectory and capital losses occur if a bond is sold at a price \nbelow its constant-yield price trajectory. Also, capital gains and losses are measured \nfrom the carrying value of the bond and not from the purchase price. The carrying \nvalue includes the amortization of the discount or premium if the bond is purchased \nat a price below or above par value. The carrying value is any point on the constant-\nyield price trajectory."
     },
     {
-        "id": "vikas-vohra-fixed-income-103",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3281,7 +3185,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "103. C is correct because a horizon yield is the internal rate of return between the \ntotal return (the sum of reinvested coupon payments and the sale price or redemption \namount) and the purchase price of the bond. The horizon yield on a bond investment \nis the annualized holding-period rate of return. \n95.27 = (102.06 + 24.28) / (1 + r)^7 => r = 0.041147 ≈ 4.11%. \nCalculator solution: N = 7; PV = –95.27; FV = 102.06 + 24.28; CPT I/Y = 4.11%."
     },
     {
-        "id": "vikas-vohra-fixed-income-104",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3295,7 +3198,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "104. B is correct because the discount rate, DR = (Year/Days) × ((FV – PV)/FV), where \nYear = number of days in the year, Days = number of days between settlement and \nmaturity, FV = future value paid at maturity/face value of the money market \ninstrument, PV = present value/price of the money market instrument, and FV – PV, \nis the interest earned. \n \nDR = (365/160) × (140,500/5,000,000) = 0.0641 ≈ 6.4%."
     },
     {
-        "id": "vikas-vohra-fixed-income-105",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3309,7 +3211,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "105. C is correct because the two bonds are assumed to have the same price, yield-to-\nmaturity, and modified duration. The benefit of greater convexity occurs when their \nyields-to-maturity change. And for the same increase in yield-to-maturity, the more \nconvex bond depreciates less in price [than the less convex bond]."
     },
     {
-        "id": "vikas-vohra-fixed-income-106",
         "source": "Vikas Vohra",
         "subject": "Fixed Income",
         "lm": "LM - Fixed Income",
@@ -3323,7 +3224,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "106. B is correct because"
     },
     {
-        "id": "vikas-vohra-portfolio-management-8",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3337,7 +3237,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. B is correct because a risk-neutral investor would maximize return irrespective of \nrisk. This is because such an investor cares only about return and not about risk, so \nhigher return investments are more desirable even if they come with higher risk."
     },
     {
-        "id": "vikas-vohra-portfolio-management-9",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3351,7 +3250,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. A is correct because 𝑀! provides a measure of portfolio return that is adjusted for \nthe total risk of the portfolio and is computed as 𝑀! = [E(Rp) − Rf](σm/σp) + Rf = SR \n× σm + Rf , where SR = Sharpe ratio, σm = market standard deviation of returns, and \nRf = risk-free rate. Thus, 𝑀! = 0.8 × 0.12 + 0.02 = 0.116. The difference between the \nrisk-adjusted performance of the portfolio and the performance of the market is \nfrequently referred to as 𝑀! alpha. Thus, 𝑀! alpha = 0.116 – 0.08 = 0.036 = 3.6%."
     },
     {
-        "id": "vikas-vohra-portfolio-management-10",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3365,7 +3263,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. A is correct because overconfidence bias is a bias in which people demonstrate \nunwarranted faith in their own abilities. As a result of overconfidence bias, FMPs \n                                                                         \n \n[financial market participants] may hold poorly diversified portfolios, which may \nresult in significant downside risk."
     },
     {
-        "id": "vikas-vohra-portfolio-management-11",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3379,7 +3276,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. A is correct because self-control bias is a bias in which people fail to act in pursuit \nof their long-term, overarching goals in favor of short-term satisfaction."
     },
     {
-        "id": "vikas-vohra-portfolio-management-12",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3393,7 +3289,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. A is correct because –0.5 is the smallest of the three correlations and the closer the \ncorrelation coefficient is to –1, the greater the reduction in portfolio risk. The \ncorrelation coefficient between two assets determines the effect on portfolio risk \nwhen the two assets are combined. You will find that portfolio risk is unaffected when \nthe two assets are perfectly correlated (ρ12 = +1). In other words, the portfolio's \nstandard deviation is simply a weighted average of the standard deviations of the two \nassets and as such a portfolio's risk is unchanged with the addition of assets with \nthe same risk parameters. Portfolio risk falls, however, when the two assets are not \nperfectly correlated (ρ12 < +1). Sufficiently low values of the correlation coefficient \ncan make the portfolio riskless under certain conditions. For an extreme case in which \nρ12 = –1 (that is, the two asset returns move in opposite directions), the portfolio can \nbe made risk free."
     },
     {
-        "id": "vikas-vohra-portfolio-management-13",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3407,7 +3302,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. B is correct because a number of other studies have offered behavioral explanations \nfor value anomalies, presenting the anomalies as mispricing rather than compensation \nfor increased risk. These studies recognize the emotional factors involved in \nappraising stocks. Overconfidence can also be involved in predicting growth rates, \npotentially leading growth stocks to be overvalued, leading to the value anomaly."
     },
     {
-        "id": "vikas-vohra-portfolio-management-14",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3421,7 +3315,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because a strategic asset allocation results from combining the \nconstraints and objectives articulated in the IPS [investment policy statement] and \nlong-term capital market expectations regarding the asset classes."
     },
     {
-        "id": "vikas-vohra-portfolio-management-15",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3435,7 +3328,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. A is correct because a simple measure of the value of diversification is calculated as \nthe ratio of the standard deviation of the equally weighted portfolio to the standard \ndeviation of the randomly selected security. This ratio may be referred to as the \ndiversification ratio. In the example of the 5-stock portfolio given, the equally \nweighted portfolio’s standard deviation is approximately 71 percent of the average \nstandard deviation of the 5 stocks (24.9%); i.e., the denominator is the average \nstandard deviation of all individual securities in the portfolio and the numerator is \nthe standard deviation of the equally weighted portfolio."
     },
     {
-        "id": "vikas-vohra-portfolio-management-16",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3449,7 +3341,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. A is correct because a top-down analysis begins with consideration of macroeconomic \nconditions. Based on the current and forecasted economic environment, analysts \nevaluate markets and industries with the purpose of investing in those that are \nexpected to perform well. Finally, specific companies within these industries are \nconsidered for investment."
     },
     {
-        "id": "vikas-vohra-portfolio-management-17",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3463,7 +3354,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. B is correct because as a result of illusion of control bias, FMPs [financial market \nparticipants] may inadequately diversify portfolios. Research has found that some \ninvestors prefer to invest in companies that they feel they have control over, such \nas the companies they work for, leading them to hold concentrated positions."
     },
     {
-        "id": "vikas-vohra-portfolio-management-18",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3477,7 +3367,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. C is correct because although most risks have monetary consequences, there are a \nnumber of risks that are typically classified as non-financial in nature. These risks \narise from a variety of sources, such as the relationship between the entity and \ncounterparties, regulators, governments, the environment, suppliers, customers, and \nemployees. The following three non-financial risks are related: regulatory risk, \naccounting risk, and tax risk. They could even be collectively referred to as \ncompliance risk because they all deal with the matter of conforming to policies, laws, \nrules, and regulations as set forth by governments and authoritative bodies, such as \naccounting governing boards."
     },
     {
-        "id": "vikas-vohra-portfolio-management-19",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3491,7 +3380,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. C is correct because as the portfolio is constructed and its value changes with the \nreturns of the asset classes and securities in which it is invested, the weights of the \nasset classes will gradually deviate from the policy weights in the strategic asset \nallocation. This process is referred to as drift. Periodically, or when a certain \nthreshold deviation from the policy weight (the bandwidth) has been breached, the \nportfolio should be rebalanced back to the policy weights. The set of rules that guide \nthe process of restoring the portfolio’s original exposures to systematic risk factors \nis known as the rebalancing policy."
     },
     {
-        "id": "vikas-vohra-portfolio-management-20",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3505,7 +3393,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. A is correct because an investor's portfolio improves if a risk-free asset is added to \nthe mix. In other words, a combination of the risk-free asset and a risky asset can \nresult in a better risk–return trade-off than an investment in only one type of asset \nbecause the risk-free asset has zero correlation with the risky asset."
     },
     {
-        "id": "vikas-vohra-portfolio-management-21",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3519,7 +3406,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. A is correct because as a result of regret-aversion bias, FMPs [financial market \nparticipants] may engage in herding behavior. FMPs may feel safer in popular \ninvestments in order to limit potential future regret. Regret-aversion bias is an \nemotional bias in which people tend to avoid making decisions out of fear that the \ndecision will turn out poorly."
     },
     {
-        "id": "vikas-vohra-portfolio-management-22",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3533,7 +3419,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. C is correct because cognitive errors can often be Correct ed or eliminated through \nbetter information, education, and advice."
     },
     {
-        "id": "vikas-vohra-portfolio-management-23",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3547,7 +3432,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. B is correct because dividends on ETFs are paid out to the shareholders whereas \nmutual funds usually reinvest the dividends."
     },
     {
-        "id": "vikas-vohra-portfolio-management-24",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3561,7 +3445,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. B is correct because for a two asset portfolio, the expression for portfolio variance \nsimplifies to the following using correlation:"
     },
     {
-        "id": "vikas-vohra-portfolio-management-25",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3575,7 +3458,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. B is correct because in a statistical factor model, historical and cross-sectional \nreturn data are analyzed to identify factors that explain variance or covariance in \nobserved returns."
     },
     {
-        "id": "vikas-vohra-portfolio-management-26",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3589,7 +3471,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. C is correct because in general, adding assets classes with low correlation improves \nthe risk–return trade-off (more return for similar risk)."
     },
     {
-        "id": "vikas-vohra-portfolio-management-27",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3603,7 +3484,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. B is correct because Jensen’s alpha is defined as the portfolio return less (the risk-\nfree rate plus the portfolio beta times (the market return minus the risk-free rate)). \nTherefore, Jensen's alpha = 7% – (1% + 1.2 × (5% – 1%)) = 7.0% – 5.8% = 1.2%."
     },
     {
-        "id": "vikas-vohra-portfolio-management-28",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3617,7 +3497,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. B is correct because loss-aversion bias is an emotional bias, as opposed to a cognitive \nerror, and cognitive errors can often be Correct ed or eliminated through better \ninformation, education, and advice. Emotional biases, on the other hand, are harder \nto Correct because they stem from impulses and intuitions. Thus, it is often possible \nonly to recognize an emotional bias and adapt to it. Loss-aversion bias refers to the \ntendency to strongly prefer avoiding losses to achieving gains."
     },
     {
-        "id": "vikas-vohra-portfolio-management-29",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3631,7 +3510,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. B is correct because Mark Carhart (1997) extended the Fama and French model by \nadding another factor: momentum, defined as relative past stock returns. The best \nexample of a practical model is the four-factor model proposed by Fama and French \n(1992) and Carhart (1997)."
     },
     {
-        "id": "vikas-vohra-portfolio-management-30",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3645,7 +3523,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. C is correct because Jensen’s alpha is based on systematic risk. The difference \nbetween the actual portfolio return and the calculated risk-adjusted return is a \nmeasure of the portfolio’s performance relative to the market portfolio and is called \nJensen’s alpha."
     },
     {
-        "id": "vikas-vohra-portfolio-management-31",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3659,7 +3536,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. A is correct because in evaluating investments using only the mean (expected return) \nand variance (risk), we are implicitly making two important assumptions: 1) that the \nreturns are normally distributed and can be fully characterized by their means and \nvariances and 2) that markets are not only informationally efficient but that they are \nalso operationally efficient. To the extent that these assumptions are violated, we \nneed to consider additional investment characteristics. One of them is kurtosis. \nKurtosis refers to fat tails or higher than normal probabilities for extreme returns \nand has the effect of increasing an asset’s risk that is not captured in a mean –\nvariance framework. This applies to asset returns as several market participants note \nthat the probability and the magnitude of extreme events is underappreciated and \nwas a primary contributing factor to the financial crisis of 2008."
     },
     {
-        "id": "vikas-vohra-portfolio-management-32",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3673,7 +3549,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. B is correct because rapid growth in robo-advisory assets is based on several industry \ntrends including growing demand from 'mass affluent' and younger investors. \nTraditional investment advice has often underserved younger and 'mass affluent' \ninvestors with lower relative levels of investable assets."
     },
     {
-        "id": "vikas-vohra-portfolio-management-33",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3687,7 +3562,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. B is correct because representativeness bias attributes one positive trait as being \nrepresentative of an overall positive investment. The halo effect extends a favorable \nevaluation of some characteristics to other characteristics. A company with a good \ngrowth record and good previous share price performance might be seen as a good \ninvestment, with higher expected returns than its risk characteristics merit. This \nview is a form of representativeness that can lead investors to extrapolate recent \npast performance into expected returns."
     },
     {
-        "id": "vikas-vohra-portfolio-management-34",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3701,7 +3575,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. A is correct because liquidity is a paramount concern for banks that stand ready to \nmeet depositor requests for withdrawals."
     },
     {
-        "id": "vikas-vohra-portfolio-management-35",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3715,7 +3588,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. B is correct because risk budgeting quantifies and allocates the tolerable risk by \nspecific metrics. Four well-known single-dimension measures that are often used are \nstandard deviation, beta, value at risk (VaR), and scenario loss."
     },
     {
-        "id": "vikas-vohra-portfolio-management-36",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3729,7 +3601,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because portfolio diversification helps investors avoid disastrous \ninvestment outcomes. A main tenet of the portfolio approach to investing is \ndiversification. A disastrous outcome can result from ‘putting all your eggs into one \nbasket' or investing everything into one stock whose value could then go to zero. A \ndiversified portfolio holding many securities is likely to avoid this outcome. Although \ndiversification may not prevent losses during market downturns, it does help avoid \ndisastrous investment outcomes during normal market conditions."
     },
     {
-        "id": "vikas-vohra-portfolio-management-37",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3743,7 +3614,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. B is correct because the ability to bear risk is measured mainly in terms of objective \nfactors, such as time horizon, expected income, and the level of wealth relative to \nliabilities."
     },
     {
-        "id": "vikas-vohra-portfolio-management-38",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3757,7 +3627,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. B is correct because the Evaluation and Review section provides guidance on obtaining \nfeedback on investment results."
     },
     {
-        "id": "vikas-vohra-portfolio-management-39",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3771,7 +3640,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. B is correct because the security market line (SML) is a graphical representation of \nthe capital asset pricing model with beta, reflecting systematic risk, on the x-axis \nand expected return on the y-axis."
     },
     {
-        "id": "vikas-vohra-portfolio-management-40",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3785,7 +3653,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. B is correct because the amount of systematic risk for a company is measured by the \nstock's beta. β = ρi,m × σi / σm = 0.60 × 0.25 / 0.15 = 0.15 / 0.15 = 1. Since the \ncompany's beta equals the market portfolio's beta (the market portfolio's beta with \nitself equals 1), the company has the same level of systematic risk as the market \nportfolio."
     },
     {
-        "id": "vikas-vohra-portfolio-management-41",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3799,7 +3666,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. C is correct because risk-averse investors make investment decisions based on the \nrisk–return trade-off, maximizing return for the same risk, and minimizing risk for \nthe same return."
     },
     {
-        "id": "vikas-vohra-portfolio-management-42",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3813,7 +3679,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. A is correct because sovereign wealth funds (SWFs) are government -owned \ninvestment funds."
     },
     {
-        "id": "vikas-vohra-portfolio-management-43",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3827,7 +3692,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. C is correct because similar to the SML (security market line), we can draw a security \ncharacteristic line (SCL) for a security. The SCL is a plot of the excess return of the \nsecurity on the excess return of the market. The security characteristic line can also \nbe estimated by regressing the excess security return, Ri – Rf, on the excess market \nreturn, Rm – Rf."
     },
     {
-        "id": "vikas-vohra-portfolio-management-44",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3841,7 +3705,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. A is correct because systematic or non-diversifiable risk is priced and investors are \ncompensated for holding assets or portfolios based only on that investment's \nsystematic risk. Investors do not receive any return for accepting nonsystematic or \ndiversifiable risk. Pricing or valuing an asset is equivalent to estimating its expected \nrate of return."
     },
     {
-        "id": "vikas-vohra-portfolio-management-45",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3855,7 +3718,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. B is correct because the constraints may be internal (i.e., set by the client), or \nexternal (i.e., set by law or regulation)."
     },
     {
-        "id": "vikas-vohra-portfolio-management-46",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3869,7 +3731,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. C is correct because the ability to bear risk is measured mainly in terms of objective \nfactors, such as time horizon, expected income, and the level of wealth relative to \nliabilities. For example, an investor with a 20-year time horizon can be considered to \nhave a greater ability to bear risk, other things being equal, than an investor with a \n2-year horizon. This difference is because over 20 years there is more scope for \nlosses to be recovered or other adjustments to circumstances to be made than there \nis over two years."
     },
     {
-        "id": "vikas-vohra-portfolio-management-47",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3883,7 +3744,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. A is correct because the capital market line (CML) does not apply to all securities or \nassets but only to portfolios on the efficient frontier. The efficient frontier gives \noptimal combinations of expected return and total risk. Total risk and systematic risk \nare equal only for efficient portfolios because those portfolios have no diversifiable \nrisk remaining. Thus, the CML holds only for well-diversified portfolios."
     },
     {
-        "id": "vikas-vohra-portfolio-management-48",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3897,7 +3757,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. C is correct because the Markowitz efficient frontier contains all portfolios of risky \nassets that rational, risk-averse investors will choose."
     },
     {
-        "id": "vikas-vohra-portfolio-management-49",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3911,7 +3770,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. C is correct because the ability to bear risk is measured mainly in terms of objective \nfactors, such as time horizon, expected income, and the level of wealth relative to \nliabilities."
     },
     {
-        "id": "vikas-vohra-portfolio-management-50",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3925,7 +3783,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. A is correct because the CAPM equation is E(Ri) = Rf + β[E(Rm) – Rf]. Therefore, the \nbeta of the security has to be less than 1 in order for the security’s return to be the \nsame as the market risk premium, given that the risk-free rate is positive."
     },
     {
-        "id": "vikas-vohra-portfolio-management-51",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3939,7 +3796,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. C is correct because the ability to bear risk is measured mainly in terms of objective \nfactors, such as time horizon, For example, an investor with a 20-year time horizon \ncan be considered to have a greater ability to bear risk, other things being equal, \nthan an investor with a 2-year horizon."
     },
     {
-        "id": "vikas-vohra-portfolio-management-52",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3953,7 +3809,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. B is correct because the expected return of the security can be calculated using the \nCAPM equation: E(Ri) = Rf + β[E(Rm) – Rf]. The beta of the security can be calculated \nusing the equation β = (ρi,m × σi)/σm. Therefore, β = (0.8 × 35%)/20% = 1.4. Beta is \nthe product of the asset’s correlation with the market with a ratio of standard \ndeviations of return (i.e., the ratio of the asset’s standard deviation to the market’s). \nTherefore, using the CAPM equation: E(Ri) = 2% + 1.4 × (10% − 2%) = 13.2%."
     },
     {
-        "id": "vikas-vohra-portfolio-management-53",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3967,7 +3822,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. A is correct because the correlation between the returns of the two securities is:"
     },
     {
-        "id": "vikas-vohra-portfolio-management-54",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3981,7 +3835,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. A is correct because the expected return of an asset is E(Ri) = Rf + βi[E(Rm) – Rf], \nwhere Ri, Rm, and Rf denote the return on the asset, the market, and the risk-free \nasset, respectively, βi is the asset's beta, and [E(Rm) – Rf ] is the market risk \npremium. Thus, βi = [E(Ri) – Rf] / [E(Rm) – Rf] = [5% – 1%] / 5% = 4%/5% = 0.8."
     },
     {
-        "id": "vikas-vohra-portfolio-management-55",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -3995,7 +3848,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. A is correct because the expression 'risk–return trade-off' refers to the positive \nrelationship between expected risk and return. In other words, a higher return is not \npossible to attain in efficient markets and over long periods of time without accepting \nhigher risk. Expected returns should be greater for assets with greater risk. Over \nlong periods of time, we observe that higher risk does result in higher mean returns. \nThus, it is reasonable to claim that, over the long term, market prices reward higher \nrisk with higher returns, which is a characteristic of a risk-averse investor."
     },
     {
-        "id": "vikas-vohra-portfolio-management-56",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4009,7 +3861,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. B is correct because the Investment Guidelines section of an Investment Policy \nStatement (IPS) provides information about how policy should be executed (e.g., on \nthe permissible use of leverage and derivatives) and on specific types of assets \nexcluded from investment, if any."
     },
     {
-        "id": "vikas-vohra-portfolio-management-57",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4023,7 +3874,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. A is correct because the feedback step assists the portfolio manager in rebalancing \nthe portfolio due to a change in, for example, market conditions or the circumstances \nof the client."
     },
     {
-        "id": "vikas-vohra-portfolio-management-58",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4037,7 +3887,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. A is correct because the focus on the SAA [strategic asset allocation] is the result \nof a number of important investment principles. One such principle is that the returns \nto groups of similar assets (e.g., long-term debt claims) predictably reflect exposures \nto certain sets of systematic factors (e.g., for the debt claims, unexpected changes \nin the inflation rate)."
     },
     {
-        "id": "vikas-vohra-portfolio-management-59",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4051,7 +3900,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. B is correct because the IPS should state any legal and regulatory restrictions that \nconstrain how the portfolio is invested. In some countries, such institutional investors \nas pension funds are subject to restrictions on the composition of the portfolio. For \nexample, there may be a limit on the proportion of equities or other risky assets in \nthe portfolio, or on the proportion of the portfolio that may be invested overseas."
     },
     {
-        "id": "vikas-vohra-portfolio-management-60",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4065,7 +3913,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. B is correct because the left-most point on the minimum-variance frontier is the \nportfolio with the minimum variance among all portfolios of risky assets, and is \nreferred to as the global minimum-variance portfolio."
     },
     {
-        "id": "vikas-vohra-portfolio-management-61",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4079,7 +3926,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. C is correct because the focus on the SAA (strategic asset allocation) is the result \nof a number of important investment principles. A second principle is that the returns \nto groups of similar assets (e.g., long-term debt claims) predictably reflect exposures \nto certain sets of systematic factors (e.g., for the debt claims, unexpected changes \nin the interest rate)."
     },
     {
-        "id": "vikas-vohra-portfolio-management-62",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4093,7 +3939,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. A is correct because the IPS should be reviewed on a regular basis to ensure that it \nremains consistent with the client's circumstances and requirements. The IPS should \nalso be reviewed if the manager becomes aware of a material change in the client's \ncircumstances, or on the initiative of the client when his or her objectives, time \nhorizon, or liquidity needs change. The major components of an IPS include the \nfollowing section: Procedures. This section explains the steps to take to keep the IPS \ncurrent and the procedures to follow to respond to various contingencies."
     },
     {
-        "id": "vikas-vohra-portfolio-management-63",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4107,7 +3952,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. A is correct because the key to a defined contribution (DC) plan is that the employee \naccepts the investment and inflation risk and is responsible for ensuring that there \nare enough assets in the plan to meet their needs upon retirement."
     },
     {
-        "id": "vikas-vohra-portfolio-management-64",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4121,7 +3965,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. C is correct because the intercept, αi, and slope coefficient, βi, of the market model \ncan be estimated by using historical security and market returns. These parameter \nestimates are then used to predict company-specific returns that a security may earn \nin a future period."
     },
     {
-        "id": "vikas-vohra-portfolio-management-65",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4135,7 +3978,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. C is correct because the minimum required investment in ETFs is usually smaller than \nthat of mutual funds."
     },
     {
-        "id": "vikas-vohra-portfolio-management-66",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4149,7 +3991,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "66. B is correct because the portfolio's weights are calculated by setting the portfolio \nreturn equal to 12.6%. The portfolio return of a two-security portfolio is:"
     },
     {
-        "id": "vikas-vohra-portfolio-management-67",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4163,7 +4004,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "67. C is correct because the portfolio risk is less than the weighted average of risks \nwhen the correlation of asset returns is less than one."
     },
     {
-        "id": "vikas-vohra-portfolio-management-68",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4177,7 +4017,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "68. A is correct because the risk-free asset could be combined with a risky portfolio to \ncreate a capital allocation line (CAL). A specific CAL that uses the market portfolio \nas the optimal risky portfolio is known as the capital market line. When assuming \nhomogeneous expectations, only one optimal portfolio exists. The capital market line \nis shown in Exhibit 3, where the standard deviation (σp), or total risk, is on the x-axis \nand expected portfolio return, E(Rp), is on the y-axis."
     },
     {
-        "id": "vikas-vohra-portfolio-management-69",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4191,7 +4030,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "69. A is correct because the risk–return profile of the strategic asset allocation depends \non the expected returns and risks of the individual asset classes, as well as the \ncorrelation between those asset classes."
     },
     {
-        "id": "vikas-vohra-portfolio-management-70",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4205,7 +4043,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "70. A is correct because the Sharpe ratio is defined as the portfolio’s risk premium \ndivided by its risk. Hence, the Sharpe ratio = (Rp – Rf) / σp = (15.2% – 3.1%) / 11.7% \n= 12.1% / 11.7% = 1.0342 ≈ 1.03."
     },
     {
-        "id": "vikas-vohra-portfolio-management-71",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4219,7 +4056,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "71. B is correct because the risk management industry has come to classify three types \nof risks as primarily financial in nature and the second primary financial risk is credit \nrisk."
     },
     {
-        "id": "vikas-vohra-portfolio-management-72",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4233,7 +4069,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "72. C is correct because the sensitivity of the derivative price to a small change in the \nvalue of the underlying asset is called the delta. Large changes are captured by the \nconcept of gamma. Whereas delta is a first-order risk, gamma is considered a second-\norder risk because it reflects the risk of changes in delta. Gamma is a numerical \nmeasure of how sensitive an option’s delta is to a change in the value of the underlying."
     },
     {
-        "id": "vikas-vohra-portfolio-management-73",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4247,7 +4082,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "73. B is correct because the SCL is a plot of the excess return of the security on the \nexcess return of the market. Jensen's alpha is the intercept and the beta is the \nslope."
     },
     {
-        "id": "vikas-vohra-portfolio-management-74",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4261,7 +4095,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "74. B is correct because the sections that are most closely linked to the client’s \ndistinctive needs, and probably the most important from a planning perspective, are \nthose dealing with investment objectives and constraints. An IPS [investment policy \nstatement] focusing on these two elements has been called an IPS in an ‘objectives \nand constraints’ format."
     },
     {
-        "id": "vikas-vohra-portfolio-management-75",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4275,7 +4108,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "75. B is correct because the security market line (SML) is a graphical representation of \nthe capital asset pricing model with beta, reflecting systematic risk, on the x-axis \nand expected return on the y-axis. The slope of this line is the market risk premium, \nRm – Rf."
     },
     {
-        "id": "vikas-vohra-portfolio-management-76",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4289,7 +4121,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "76. B is correct because the Sharpe ratio, also called the reward-to-variability ratio, is \nsimply the slope of the capital allocation line."
     },
     {
-        "id": "vikas-vohra-portfolio-management-77",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4303,7 +4134,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "77. C is correct because the Statement of Duties and Responsibilities section details the \nduties and responsibilities of the client, the custodian of the client’s assets, and the \ninvestment managers. In the case of an institution, such as a pension plan or university \nendowment, the IPS may set out the governance arrangements that apply to the \ninvestment funds. For example, this information could cover the investment \ncommittee’s approach to appointing and reviewing investment managers for the \nportfolio, and the discretion that those managers have."
     },
     {
-        "id": "vikas-vohra-portfolio-management-78",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4317,7 +4147,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "78. A is correct because total risk is relevant for an investor when he or she holds a \nportfolio that is not fully diversified, which is not a desirable portfolio. In such cases, \nthe Sharpe ratio and M2 are appropriate performance measures. The Sharpe ratio \nuses total risk as a measure of risk."
     },
     {
-        "id": "vikas-vohra-portfolio-management-80",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4331,7 +4160,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "80. C is correct because the statistics used to estimate VaR can be used to gauge average \nextreme losses. Conditional VaR or CVaR is a common tail loss measure, defined as \nthe weighted average of all loss outcomes in the statistical distribution that exceed \nthe VaR loss. Another tail risk metric in the credit risk space that is analogous to \nCVaR is expected loss given default, which answers the question for a debt security, \nIf the underlying company or asset defaults, how much do we lose on average?"
     },
     {
-        "id": "vikas-vohra-portfolio-management-81",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4345,7 +4173,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "81. C is correct because the security market line (SML) is a graphical representation of \nthe capital asset pricing model with beta, reflecting systematic risk, on the x-axis \nand expected return on the y-axis. Using the same concept as the capital market line, \nthe SML intersects the y-axis at the risk-free rate of return, and the slope of this \nline is the market risk premium, Rm – Rf . Potential investors can plot a security’s \nexpected return and beta against the SML and use this relationship to decide \nwhether the security is overvalued or undervalued in the market. All securities that \nreflect the consensus market view are points directly on the SML (i.e., properly \nvalued). If a point representing the estimated return of an asset is above the SML, \nthe asset has a low level of risk relative to the amount of expected return and would \nbe a good choice for investment. In contrast, if the point representing a particular \nasset is below the SML, the stock is considered overvalued. The asset will be on the \nSML if the forecasted return equals the expected return of 0.02 + 1.3 × 0.05 = 0.085 \n= 8.5%. Since the analyst forecasts the return of the asset to be 7%, which is lower \nthan the expected return according to the CAPM, the security plots below the SML \nand should be considered overvalued."
     },
     {
-        "id": "vikas-vohra-portfolio-management-82",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4359,7 +4186,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "82. C is correct because typically, smart beta strategies feature somewhat higher \nmanagement fees and higher portfolio turnover relative to passive market -cap \nweighted strategies."
     },
     {
-        "id": "vikas-vohra-portfolio-management-83",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4373,7 +4199,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "83. A is correct because when defining asset classes, a number of criteria apply. \nIntuitively, an asset class should contain relatively homogeneous assets while \nproviding diversification relative to other asset classes. In statistical terms, risk and \nreturn expectations should be similar and paired correlations of assets should be \nrelatively high within an asset class but should be lower versus assets in other asset \nclasses. A between asset class correlation of zero would indicate better defined \nasset classes than higher correlations would."
     },
     {
-        "id": "vikas-vohra-portfolio-management-84",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4387,7 +4212,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "84. C is correct because we can assume that in an efficient market, no incremental reward \ncan be earned for taking on diversifiable risk. Nonsystematic risk is the risk that \npertains to a single company or industry and is also known as company -specific, \nindustry-specific, diversifiable, or idiosyncratic risk."
     },
     {
-        "id": "vikas-vohra-portfolio-management-85",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4401,7 +4225,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "85. C is correct because when an individual has access to material nonpublic information \nabout a particular security, this situation may also form a [legal and regulatory] \nconstraint. For example, the directors of a public company may need to refrain from \ntrading the company's stock at certain points of the year before financial results are \npublished. The IPS should note this constraint so that the portfolio manager does \nnot inadvertently trade the stock on the client's behalf."
     },
     {
-        "id": "vikas-vohra-portfolio-management-86",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4415,7 +4238,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "86. C is correct because when defining asset classes an asset class should contain \nrelatively homogeneous assets and paired correlations of assets should be relatively \nhigh within an asset class."
     },
     {
-        "id": "vikas-vohra-portfolio-management-87",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4429,7 +4251,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "87. B is correct because βi = ρi,m × σi/σm, where ρi,m denotes the correlation between \nthe asset returns and the market returns, and σi and σm denote the standard \ndeviation of the asset returns and the market returns, respectively. Thus, correlation \nρi,m = βi × σm/σi = 0.35 × 0.18/0.12 = 0.525 ≈ 0.5."
     },
     {
-        "id": "vikas-vohra-portfolio-management-88",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4443,7 +4264,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "88. C is correct because with a probability of 5% and a measurement period of one day, \nwe can interpret the bank’s VaR as expecting a minimum loss of £5 million once every \n20 business days."
     },
     {
-        "id": "vikas-vohra-portfolio-management-89",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4457,7 +4277,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "89. B is correct because a good risk management process would include a deep discussion \nat the governance level about the balance between the likely returns and the \nunlikely—but sizable—losses and whether such losses are tolerable."
     },
     {
-        "id": "vikas-vohra-portfolio-management-90",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4471,7 +4290,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "90. C is correct because σport ="
     },
     {
-        "id": "vikas-vohra-portfolio-management-91",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4485,7 +4303,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "91. A is correct because, although the investor has a time horizon of 15 years, she has \nliquidity needs in one year. When the client does have such a requirement, the \nmanager should allocate part of the portfolio to cover the liability. This part of the \nportfolio will be invested in assets that are liquid—that is, easily converted to cash—\nand low risk at the point in time the liquidity need is actually present (e.g., a bond \nmaturing at the time when private education expenses will be incurred), so that their \nvalue is known with reasonable certainty. Commercial paper is a short -term, \nnegotiable, unsecured promissory note that represents a debt obligation of the \nissuer. Thus, commercial paper being a short-term investment, it is more suitable \ncompared to private equity and large-capitalization stocks to be included in the \nportion of the investor's portfolio that has the short-term liquidity need."
     },
     {
-        "id": "vikas-vohra-portfolio-management-92",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4499,7 +4316,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "92. A is correct because, for a given Markowitz efficient frontier, a different risk-free \nrate will result in a different tangent to the frontier, hence a different optimal risky \nportfolio. CAL(P) is the optimal capital allocation line and Portfolio P is the optimal \nrisky portfolio. Thus, with the addition of the risk-free asset, we are able to narrow \nour selection of risky portfolios to a single optimal risky portfolio, P, which is at the \ntangent of CAL(P) and the efficient frontier of risky assets."
     },
     {
-        "id": "vikas-vohra-portfolio-management-94",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4513,7 +4329,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "94. B is correct because, according to the CAPM, the expected return of a security is \nE(Ri) = Rf + βi[E(Rm) – Rf], such that [E(Rm) – Rf ]= [E(Ri) – Rf]/βi = (0.11 – 0.02)/1.5 \n= 0.06 = 6%. The market risk premium is E(Rm) – Rf = 6%."
     },
     {
-        "id": "vikas-vohra-portfolio-management-95",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4527,7 +4342,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "95. B is correct because"
     },
     {
-        "id": "vikas-vohra-portfolio-management-96",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4541,7 +4355,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "96. C is correct because, as the correlations between asset returns increase, the \ndiversification benefit provided by portfolios decreases. A major reason that \nportfolios can effectively reduce risk is that combining securities whose returns do \nnot move together provides diversification. However, an important issue is that the \nco-movement or correlation pattern of the securities' returns in the portfolio can \nchange in a manner unfavorable to the investor. When we examine the returns of a \nset of global equity indexes over the last 15 years, we observe a reduction in the \ndiversification benefit due to a change in the pattern of co-movements of returns. \nThe degree to which these global equity indexes move together has increased over \ntime. \n \nThe lesson is that although portfolio diversification generally does reduce risk, it \ndoes not necessarily provide the same level of risk reduction during times of severe \nmarket turmoil as it does when the economy and markets are operating ‘normally'."
     },
     {
-        "id": "vikas-vohra-portfolio-management-99",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4555,7 +4368,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "99. C is correct because, in the context of risk management, factors such as a company’s \ngoals, its expertise in certain areas, and its strategies will help a board determine \nwhich risks the company may pursue and with how much intensity. The government \nand regulatory landscape is important too, both in their ex ante demands on how \ncompanies approach risk and in the likely ex post reaction in the event of disasters."
     },
     {
-        "id": "vikas-vohra-portfolio-management-100",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4569,7 +4381,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "100. A is correct because the optimal portfolio maximizes the return per unit of risk \n(as it is on the capital allocation line), and it simultaneously supplies the investor with \nthe most satisfaction (utility). \n\nAlternative Investments: Practice Pack \n\ncandidates for practice purpose."
     },
     {
-        "id": "vikas-vohra-portfolio-management-2",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4583,7 +4394,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. B is correct because risk management is the process by which an organization or \nindividual defines the level of risk to be taken, measures the level of risk being taken, \nand adjusts the latter toward the former, with the goal of maximizing the company’s \nor portfolio’s value. Said differently, risk management comprises all the decisions and \nactions needed to best achieve organizational or personal objectives while bearing a \ntolerable level of risk."
     },
     {
-        "id": "vikas-vohra-portfolio-management-3",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4597,7 +4407,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. C is correct because risk governance is the top-down (not bottom-up) process and \nguidance that directs risk management activities to align with and support the overall \nenterprise."
     },
     {
-        "id": "vikas-vohra-portfolio-management-4",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4611,7 +4420,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. C is correct because a benchmark is used as a relative return objective and a good \nbenchmark should be investable."
     },
     {
-        "id": "vikas-vohra-portfolio-management-5",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4625,7 +4433,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "5. B is correct because a combination of the risk-free asset and a risky asset can result \nin a better risk–return trade-off than an investment in only one type of asset because \nthe risk-free asset has zero correlation with the risky asset. The optimal risky \nportfolio is a risky asset, and thus has zero correlation with the risk-free asset."
     },
     {
-        "id": "vikas-vohra-portfolio-management-6",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4639,7 +4446,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "6. B is correct because a leveraged portfolio is a portfolio that has a negative \ninvestment in the risk-free asset. \n \nA portfolio's expected return, E(Rp), is calculated as: E(Rp) = w1Rf + (1 – w1)E(Rm), \nwhere w1 is the proportion invested in the risk-free asset, returning Rf, and E(Rm) is \nthe expected return on the market portfolio. \n \nThus, 0.18 = w1 × 0.03 + (1 – w1) × 0.15 \n \n0.18 – 0.15 = w1 × (0.03 – 0.15) \n \n0.03 = w1 × (–0.12) \n \nw1 = 0.03/(–0.12) \n \nw1 = –0.25 \n \nA negative proportion invested in the risk-free rate implies a leveraged portfolio."
     },
     {
-        "id": "vikas-vohra-portfolio-management-7",
         "source": "Vikas Vohra",
         "subject": "Portfolio Management",
         "lm": "LM - Portfolio Management",
@@ -4653,7 +4459,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "7. B is correct because a risk-free asset (𝜎! = 0) generates the same utility for all \nindividuals. If 𝜎! = 0, then U = E(r) - 1/2(A)(\t𝜎!) = E(r) for all individuals."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-6",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4667,7 +4472,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "6. A is correct because (1) Kim discusses his concerns with Frost before executing the \ntrade, (2) Frost acknowledges this discussion and accepts the conditions of \nunsuitability, (3) Kim's firm does not require approval for unsuitable trades since it \nhas no policy on the subject, and (4) the request does not have a material impact on \nFrost's portfolio since it represents only one percent of its value, hence no \nmodification of the IPS is required. According to Standard III(C), Suitability, in \ncases of unsolicited trade requests that a member or candidate knows are unsuitable \nfor a client, the member or candidate should refrain from making the trade until he \nor she discusses the concerns with the client. Following the discussion, the member \nor candidate may follow his or her firm’s policies regarding the necessary client \napproval for executing unsuitable trades. At a minimum, the client should acknowledge \nthe discussion and accept the conditions that make the recommendation unsuitable. \nShould the unsolicited request be expected to have a material impact on the portfolio, \n                                                                         \n \nthe member or candidate should use this opportunity to update the investment policy \nstatement."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-7",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4681,7 +4485,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "7. B is correct because a recommended procedure for Standard III (A), Loyalty, \nPrudence, and Care is members and candidates should make their clients aware of all \nforms of manager compensation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-8",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4695,7 +4498,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. B is correct because according to Standard I (B), Independence and Objectivity, \nmembers are required to disclose their compensation. Members and candidates must \nadhere to strict standards of conduct that govern how the research is to be \nconducted and what disclosures must be made in the report. Analysts must engage in \nthorough, independent, and unbiased analysis and must fully disclose potential \nconflicts of interest, including the nature of their compensation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-9",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4709,7 +4511,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. B is correct because according to Standard I(C), Misrepresentation members and \nCandidates must not knowingly make any misrepresentations relating to investment \nanalysis, recommendations, actions, or other professional activities. By using PII’s \nmarketing brochure that inflates performance to present to prospective clients, \nJules has violated Standard I(C)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-10",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4723,7 +4524,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. B is correct because according to Standard II (A), Material Nonpublic Information, \nMembers and Candidates who possess material nonpublic information that could \naffect the value of an investment must not act or cause others to act on the \ninformation. Also, Information is “material” if its disclosure would probably have an \nimpact on the price of a security or if reasonable investors would want to know the \ninformation before making an investment decision -- such as the results of an \nupcoming quarterly report from a reliable source (the CEO). Jennings prompted her \nsister to act on it, hence, violated the Standard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-11",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4737,7 +4537,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. B is correct because according to Standard II(A) Material Nonpublic Information, \nmaterial information may include, but is not limited to, information on the following: \nsignificant legal disputes."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-12",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4751,7 +4550,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. B is correct because according to Standard III (B), Fair Dealing, members and \ncandidates must make every effort to treat all individual and institutional clients in \na fair and impartial manner. Additionally, the term 'fairly' implies that the member \nor candidate must take care not to discriminate against any clients when \ndisseminating investment recommendations or taking investment action. Standard \nIII(B) does not state 'equally' because members and candidates could not possibly \nreach all clients at exactly the same time..."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-13",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4765,7 +4563,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. B is correct because according to Standard III (B), Fair Dealing, Members and \ncandidates should disclose to clients and prospective clients how they select accounts \nto participate in an order."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-14",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4779,7 +4576,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because according to Standard IV(A), Loyalty, a departing employee is \ngenerally free to make arrangements or preparations to go into a competitive business \nbefore terminating the relationship with his or her employer as long as such \npreparations do not breach the employee’s duty of  loyalty. Also, Allen’s [the \nmember's] preparation for the new business by registering with the regulatory \nauthorities does not conflict with the work for her employer if the preparations have \nbeen done on Allen’s [the member's] own time outside the office and if Allen [the \nmember] will not be soliciting clients for the business or otherwise operating the new \ncompany until she has left her current employer. Therefore, Statement 2 is accurate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-15",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4793,7 +4589,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. B is correct because according to Standard VI(A), Disclosure of Conflicts, buy-side \nmembers and candidates should disclose their procedures for reporting requirements \nfor personal transactions. Conflicts arising from personal investing are discussed \nmore fully in the guidance for Standard VI(B). Therefore, not disclosing the \nprocedure for a buy-side member is a violation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-16",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4807,7 +4602,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. B is correct because according to Standard VI(B), Priority of Transactions, family \naccounts that are client accounts should be treated like any other firm account and \nshould neither be given special treatment nor be disadvantaged because of the family \nrelationship. If a member or candidate has a beneficial ownership in the account, \nhowever, the member or candidate may be subject to preclearance or reporting \nrequirements of the employer or applicable law. Mak should treat his brother's fee \npaying account like any other firm account and should not be disadvantaged. \nTherefore, Mak's actions are not consistent with the Standard relating to priority \nof transactions."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-17",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4821,7 +4615,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. C is correct because according to GIPS, Verification is a process by which an \nindependent verification firm (verifier) conducts testing of a firm on a firm-wide \nbasis in accordance with the required verification procedures of the GIPS standards. \nVerification provides assurance on whether the firm’s policies and procedures related \nto composite and pooled fund maintenance, as well as the calculation, presentation, \nand distribution of performance, have been designed in compliance with the GIPS \nstandards and have been implemented on a firm-wide basis."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-18",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4835,7 +4628,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. B is correct because according to Standard VII (A), Conduct as Participants in CFA \nInstitute Programs, CFA Institute program rules, regulations, and policies prohibit \ncandidates from disclosing confidential material gained during the exam process. \nExamples of information that cannot be disclosed by candidates sitting for an exam \ninclude but are not limited to broad topical areas and formulas tested or not tested \non the exam. Therefore, the candidate has violated Standard VII (A) by telling her \nbrother how glad she was that no questions about the binomial model were asked."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-19",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4849,7 +4641,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. C is correct because according to Standard I (C), Misrepresentation, a member or \ncandidate must not knowingly omit or misrepresent information or give a false \nimpression of a firm, organization, or security in the member’s or candidate’s oral \n                                                                         \n \nrepresentations, advertising (whether in the press or through brochures), electronic \ncommunications, or written materials (whether publicly disseminated or not). By \nshowing investment results of only one “balanced” account, and failing to disclose that \nthat this is the best-performing account and that half of the balanced accounts \nunderperformed the benchmark, Lumunon has violated Standard I (C). Further \nStandard III (D), Performance Presentation, requires members and candidates to \navoid misstating performance or misleading clients and prospective clients about the \ninvestment performance of members or candidates or their firms. This standard \nencourages full disclosure of investment performance data to clients and prospective \nclients. Thus, Lumunon has also violated Standard III (D)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-20",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4863,7 +4654,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. C is correct because according to Standard I(A), Knowledge of the Law, Members and \nCandidates must not knowingly participate or assist in and must dissociate from any \nviolation of such laws, rules, or regulations. In this case, by staying silent in a client \nmeeting in which he knows false information is being given to a potential investor that \ncould cause harm to that investor, Kope would be seen as assisting Bose in providing \nthat false information, even though Kope is not actively engaging in the misconduct \nhimself. Kope should report her conduct to the fund’s compliance department for it \nto address and should dissociate himself from activities involving Bose and report \nBose's conduct to the fund's compliance department."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-21",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4877,7 +4667,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. A is correct because according to recommended procedures for compliance with \nStandard IV (C), Responsibilities of Supervisors, Stand-alone codes of ethics should \nbe written in plain language and should address general fiduciary concepts."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-22",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4891,7 +4680,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. A is correct because according to Sta ndard V(A) Investment Analysis, \nRecommendations, and Actions - Diligence and Reasonable Basis, Members and \nCandidates must: Exercise diligence, independence, and thoroughness in analyzing \ninvestments, making investment recommendations, and taking investment actions."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-23",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4905,7 +4693,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. B is correct because according to Standard VII(A), when expressing a personal \nopinion, a candidate is prohibited from disclosing content -specific information, \nincluding any actual exam question and the information as to subject matter covered \nor not covered in the exam. By making Comment 2, Banerjee may have provided \ninformation on the subject matter covered on the exam and hence violated the \nStandard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-24",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4919,7 +4706,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. C is correct because according to Standard II(B), Market Manipulation, transaction-\nbased manipulation includes, but is not limited to, the following: transactions that \nartificially affect prices or volume to give the impression of activity or price \nmovement in a financial instrument, which represent a diversion from the \nexpectations of a fair and efficient market, and securing a controlling, dominant \nposition in a financial instrument to exploit and manipulate the price of a related \nderivative and/or the underlying asset. Also, the intent of the action is critical to \ndetermining whether it is a violation of this standard.\" Despite the losses, Activity 1 \n                                                                         \n \nis a violation of Standard II(B) because the intent was to influence the price of the \nunderlying. Activity 2 is also a violation as the intent was to increase the volume of \nthe stock."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-25",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4933,7 +4719,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. B is correct because according to the GIPS standards, A composite is an aggregation \nof one or more portfolios managed according to a similar investment mandate, \nobjective, or strategy."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-26",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4947,7 +4732,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. C is correct because according to Standard III (A), Loyalty, Prudence and Care. \nConflicts may arise when an investment manager uses client brokerage to purchase \nresearch services, a practice commonly called 'soft dollars' or 'soft commissions.' A \nmember or candidate who pays a higher brokerage commission than he or she would \nnormally pay to allow for the purchase of goods or services, without corresponding \nbenefit to the client, violates the duty of loyalty to the client. Paying higher fees in \nreturn for referrals does not represent a corresponding benefit to Holm's clients. \nTherefore, this arrangement violates the duty of loyalty to his clients. In addition, \nHolm has violated Standard VI (C), Referral Fees, which states the responsibility of \nmembers and candidates to inform their employer, clients, and prospective clients of \nany benefit received for referrals of customers and clients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-27",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4961,7 +4745,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. A is correct because according to Standard I (D), Misconduct, personal bankruptcy \nmay not reflect on the integrity or trustworthiness of the person declaring \nbankruptcy, but if the circumstances of the bankruptcy involve fraudulent or \ndeceitful business conduct, the bankruptcy may be a violation of this standard. Also, \ngenerally, Standard I(D) is not meant to cover legal transgressions resulting from \nacts of civil disobedience in support of personal beliefs because such conduct does \nnot reflect poorly on the member’s or candidate’s professional reputation, integrity, \nor competence. Therefore, Fischer has not violated Standard I (D). Further, \nStandard III (A), Loyalty, Prudence, and Care, states that Members and Candidates \nhave a duty of loyalty to their clients and must act with reasonable care and exercise \nprudent judgment. Members and Candidates must act for the benefit of their clients \nand place their clients’ interests before their employer’s or their own interests. \nNeither Fischer's bankruptcy no nor the act of trespassing during a protest imposes \non her duty of loyalty to her clients. She has not violated Standard III (A)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-28",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4975,7 +4758,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. B is correct because according to the recommended procedures for compliance with \nStandard I (B), Independence and Objectivity, Create a restricted list: If the firm \nis unwilling to permit dissemination of adverse opinions about a corporate client, \nmembers and candidates should encourage the firm to remove the controversial \ncompany from the research universe and put it on a restricted list so that the firm \ndisseminates only factual information about the company."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-29",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -4989,7 +4771,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. B is correct because according to the recommended procedures for compliance with \nStandard I(D), misconduct, members and candidates should encourage their firms to \nadopt the following policies and procedures to support the principles of Standard \n                                                                         \n \nI(D): List of violations: Disseminate to all employees a list of potential violations and \nassociated disciplinary sanctions, up to and including dismissal from the firm."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-30",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5003,7 +4784,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. B is correct because according to the recommended procedures for compliance with \nthe Standard I (D), Misconduct, members should encourage their firms to develop \nand/or adopt a code of ethics to which every employee must subscribe."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-31",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5017,7 +4797,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. B is correct because according to Standard III (A), Loyalty, Prudence, and Care, \nproxies have economic value to a client, and members and candidates must ensure \nthat they properly safeguard and maximize this value."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-32",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5031,7 +4810,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. B is correct because according to Standard IV (A), Loyalty, the employer is \nresponsible for a positive working environment, which includes an ethical workplace. \nSenior management has the additional responsibility to devise compensation \nstructures and incentive arrangements that do not encourage unethical behavior. \nTherefore, Statement 2 is accurate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-33",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5045,7 +4823,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. A is correct because according to Standard I(A) Knowledge of the Law, if a member \nor candidate has reasonable grounds to believe that imminent or ongoing client or \nemployer activities are illegal or unethical, the member or candidate must \ndisassociate, or separate, from the activity. Inaction combined with continuing \nassociation with those involved in illegal or unethical conduct may be constructed as \nparticipation or assistance in the illegal or unethical conduct."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-34",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5059,7 +4836,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. B is correct because although Standard IV (A), Loyalty, ;does not preclude members \nor candidates from entering into an independent business  while still employed, \nmembers and candidates who plan to engage in independent practice for compensation \nmust notify their employer and describe the types of services they will render to \nprospective independent clients, the expected duration of the services, and the \ncompensation for the services. Members and candidates should not render services \nuntil they receive consent from their employer to all of the terms of the \narrangement."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-35",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5073,7 +4849,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. C is correct because according to Standard III (A), Loyalty, Prudence, and Care, \nParticular care must be taken to detect whether the goals of the investment manager \nor the firm in conducting business, selling products, and executing security \ntransactions potentially conflict with the best interests and objectives of the client. \nWhen members and candidates cannot avoid potential conflicts between their firm \nand clients’ interests, they must provide clear and factual disclosures of the \ncircumstances to the clients. Milton must disclose that he receives a bonus for using \nthe firm's proprietary funds to the client, and is in violation of this Standard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-36",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5087,7 +4862,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. A is correct because according to Standard I(B), Independence and Objectivity, \nmembers and Candidates must use reasonable care and judgment to achieve and \nmaintain independence and objectivity in their professional activities. \n                                                                         \n \n \nAs for Procedure 1, restrict investments: Members and candidates should encourage \ntheir investment firms to develop formal policies related to employee purchases of \nequity or equity-related IPOs. Firms should require prior approval for employee \nparticipation in IPOs, with prompt disclosure of investment actions taken following \nthe offering. Strict limits should be imposed on investment personnel acquiring \nsecurities in private placements. \nAs for Procedure 2, restrict special cost arrangements: When attending meetings at \nan issuer’s headquarters, members and candidates should pay for commercial \ntransportation and hotel charges. No corporate issuer should reimburse members or \ncandidates for air transportation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-37",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5101,7 +4875,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. C is correct because according to Standard III (A), Loyalty, Prudence, and Care, the \nshareholders are not the beneficiaries of his fund. When the manager is responsible \nfor the portfolios of pension plans or trusts, however, the client is not the person or \nentity who hires the manager but, rather, the beneficiaries of the plan or trust. The \nduty of loyalty is owed to the ultimate beneficiaries."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-38",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5115,7 +4888,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. A is correct because according to Standard I(D), Misconduct, Members and \nCandidates must not engage in any professional conduct involving dis­honesty, fraud, \nor deceit or commit any act that reflects adversely on their professional reputation, \nintegrity, or competence. Joon’s actions do not result from fraudulent or deceitful \nbusiness conduct and personal bankruptcy may not reflect on the integrity or \ntrustworthiness of the person declaring bankruptcy. Also, according to Standard \nIII(A), Loyalty, Prudence, and Care, Members and Candidates must act for the \nbenefit of their clients and place their clients’ interests before their employer’s or \ntheir own interests. There is nothing here to suggest that Joon has not acted for the \nbenefit of his clients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-39",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5129,7 +4901,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. A is correct because according to Standard II (B), Market Manipulation, Transaction-\nbased manipulation involves instances where a member or candidate knew or should \nhave known that his or her actions could affect the pricing of a security. This type \nof manipulation includes, but is not limited to, the following: securing a controlling, \ndominant position in a financial instrument to exploit and manipulate the price of a \nrelated derivative and/or the underlying asset."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-40",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5143,7 +4914,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. C is correct because according to Standard III (D), Performance Presentation, \n\"[m]embers and candidates can also meet their obligations under Standard III (D) \n[relating to performance presentation] by ... ■ including disclosures that fully explain \nthe performance results being reported (for example, stating, when appropriate, that \nresults are simulated when model results are used, clearly indicating when the \nperformance record is that of a prior entity, or disclosing whether the performance \nis gross of fees, net of fees, or after tax)...\" Hence, the use of simulated results \nshould be disclosed."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-41",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5157,7 +4927,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. C is correct because according to Standard III (D), Performance Presentation, if the \npresentation is brief, the member or candidate must make available to clients and \nprospects, on request, the detailed information supporting that communication. Best \npractice dictates that brief presentations include a reference to the limited nature \nof the information provided."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-42",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5171,7 +4940,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. A is correct because according to Standard III (C), Suitability, Some members and \ncandidates do not manage money for individuals but are responsible for managing a \nfund to an index or an expected mandate. The responsibility of these members and \ncandidates is to invest in a manner consistent with the stated mandate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-43",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5185,7 +4953,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. C is correct because according to Standard III (E), Preservation of Confidentiality, \nThis standard protects the confidentiality of client information even if the person \nor entity is no longer a client of the member or candidate. Therefore, members and \ncandidates must continue to maintain the confidentiality of client records even after \nthe client relationship has ended. Thus revealing e-mails of former clients is a \nviolation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-44",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5199,7 +4966,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. C is correct because according to Standard III(D), Performance Presentation, \nmembers and candidates should not state or imply that clients will obtain or benefit \nfrom a rate of return that was generated in the past. Also, If the presentation is \nbrief, the member or candidate must make available to clients and prospects, on \nrequest, the detailed information supporting that communication."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-45",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5213,7 +4979,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. C is correct because according to Standard IV (B), Additional Compensation \nArrangements, Members and Candidates must not accept gifts, benefits, \ncompensation, or consideration that competes with or might reasonably be expected \nto create a conflict of interest with their employer’s interest unless they obtain \nwritten consent from all parties involved. Also, Standard IV (B) requires members \nand candidates to obtain permission from their employer before accepting \ncompensation or other benefits from third parties for the services rendered to the \nemployer or for any services that might create a conflict with their employer’s \ninterest. Thus, the consent in writing from both parties is needed before accepting \nthe compensation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-46",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5227,7 +4992,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. C is correct because according to Standard IV (B), Additional Com pensation \nArrangements, Members and Candidates must not accept gifts, benefits, \ncompensation, or consideration that competes with or might reasonably be expected \nto create a conflict of interest with their employer's interest unless they obtain \nwritten consent from all parties involved. Further, Standard IV (B) states: \nCompensation and benefits include direct compensation by the client and any indirect \ncompensation or other benefits received from third parties. Therefore, Run has to \nobtain written consent from his employer before accepting the beach home offer and \nthe family flight voucher. By failing to do so, Run has violated Standard IV (B)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-47",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5241,7 +5005,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. A is correct because according to Standard III (C), Suitability, suitability review can \nbe done most effectively when the client fully discloses his or her complete financial \nportfolio, including those portions not managed by the member or candidate. If \nclients withhold information about their financial portfolios, the suitability analysis \nconducted by members and candidates cannot be expected to be complete; it must \nbe based on the information provided. Ayers may develop an investment program that \nis suitable for the client without knowing about their other assets, even though the \ninformation is not complete. In addition, Standard III (C) also states after \nformulating long-term capital market expectations, members and candidates can \nassist in developing an appropriate strategic asset allocation and investment program \nfor the client, whether these are presented in separate documents or incorporated \nin the IPS or in appendices to the IPS. Ayers may keep these records in a separate \ndocument."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-48",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5255,7 +5018,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. C is correct because according to Standard IV (C) Responsibilities of Supervisors, \nonce a supervisor learns that an employee has violated or may have violated the law \nor the Code and Standards, the supervisor must promptly initiate an assessment to \ndetermine the extent of the wrongdoing. Relying on an employee's statements about \nthe extent of the violation or assurances that the wrongdoing will not reoccur is not \nenough."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-49",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5269,7 +5031,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. C is correct because according to Standard IV(A), Loyalty, the standard does not \nprohibit former employees from contacting clients of their previous firm as long as \nthe contact information does not come from the records of the former employer or \nviolate an applicable 'noncompete agreement'. Members and candidates are free to \nuse public information after departing to contact former clients without violating \nStandard IV(A) as long as there is no specific agreement not to do so."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-50",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5283,7 +5044,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. C is correct because according to Standard V (A), Diligence and Reasonable Basis, \nMembers and candidates need to have an understanding of the parameters used in \nmodels and quantitative research that are incorporated into their investment \nrecommendations. Although they are not required to become experts in  every \ntechnical aspect of the models, they must understand the assumptions and limitations \ninherent in any model and how the results were used in the decision-making process. \nTherefore, to use quantitative models in her investment research, a member is \nrequired to understand the assumptions and limitations inherent in the model \ndeveloped by others."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-51",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5297,7 +5057,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. A is correct because according to Standard III(A) Loyalty, Prudence and Care, from \ntime to time, a client will direct a manager to use the client’s brokerage to purchase \ngoods or services for the client, a practice that is commonly called \"directed \nbrokerage.\" Because brokerage commission is an asset of the client and is used to \nbenefit that client, not the manager, such a practice does not violate any duty of \nloyalty. Also, the member or candidate should disclose to the client that the client \nmay not be getting best execution from the directed brokerage. In addition, conflicts \n                                                                         \n \nmay arise when an investment manager uses client brokerage to purchase research \nservices, a practice commonly called \"soft dollars\" or \"soft commissions.\" A member \nor candidate who pays a higher brokerage commission than he or she would normally \npay to allow for the purchase of goods or services, without corresponding benefit to \nthe client, violates the duty of loyalty to the client. In this case, the research is of \nhigh quality and benefits the client, so Newman is not in violation of the Standard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-52",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5311,7 +5070,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. C is correct because according to Standard V (B), Communication with Clients and \nProspective Clients, opinion be separated from fact. Violations often occur when \nreports fail to separate the past from the future by not indicating that earnings \nestimates, changes in the outlook for dividends, or future market price information \nare opinions subject to future circumstances.  In this case, the statement was \nreferring to future outcome which may or may not turn out to be true, thus a violation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-53",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5325,7 +5083,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. C is correct because according to Standard V (C), Record Retention, a member must \nnot re-create supporting records from memory. Standard V(C), Record Retention, \nstates The member or candidate cannot use historical recommendations or research \nreports created at the previous firm because the supporting documentation is \nunavailable. For future use, the member or candidate must re-create the supporting \nrecords at the new firm with information gathered through public sources or directly \nfrom the covered company and not from memory or sources obtained at the previous \nemployer."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-54",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5339,7 +5096,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. A is correct because according to Standard III(D), Performance Presentation, if the \npresentation is brief, the member or candidate must make available to clients and \nprospects, on request, the detailed information supporting that communication. By \nmaking available detailed supporting information on request, Joy does not violate \nStandard III(D). In addition, Joy does not violate Standard III(B), Fair Dealing, \nwhich states that members and Candidates must deal fairly and objectively with all \nclients when providing investment analysis, making investment recommendations, \ntaking investment action, or engaging in other professional activities."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-55",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5353,7 +5109,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. C is correct because according to Standard VI (C), Referral Fees, members must \ndisclose to clients and potential clients any referral arrangements and must disclose \nall consideration. “Consideration includes all fees, whether paid in cash, in soft dollars, \nor in-kind.” Thus, Hostettler would need to disclose the full bi -lateral referral \narrangement to both clients and prospective clients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-56",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5367,7 +5122,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. C is correct because according to Standard VI(C), Referral Fees, members must \ndisclose both the nature of the cons ideration and the estimated dollar value. \nAppropriate disclosure means that members and candidates must advise the client or \nprospective client, before entry into any formal agreement for services, of any \nbenefit given or received for the recommendation of any services provided by the \nmember or candidate. In addition, the member or candidate must disclose the nature \nof the consideration or benefit—for example, flat fee or percentage basis, one-time \n                                                                         \n \nor continuing benefit, based on performance, benefit in the form of provision of \nresearch or other noncash benefit—together with the estimated dollar value. \nConsideration includes all fees, whether paid in cash, in soft dollars, or in kind."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-57",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5381,7 +5135,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. A is correct because according to Standard III(E) relating to preservation of \nconfidentiality, members and candidates should convey to clients that not all firm-\nsponsored resources may be appropriate for such communications."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-58",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5395,7 +5148,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. C is correct because according to Standard VII(B), Reference to CFA Institute, the \nCFA Designation and the CFA Program, Petrov violates Standard VII(B) because \nwhere individuals may anonymously express their opinions, pseudonyms or online \nprofile names created to hide a member’s identity should not be tagged with the CFA \ndesignation. Lynn violates Standard VII(B) because if an individual is registered for \nthe CFA Program but declines to sit for an exam or otherwise does not meet the \ndefinition of a candidate as described in the CFA Institute Bylaws, then that \nindividual is no longer considered an active candidate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-59",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5409,7 +5161,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. A is correct because according to Standard IV (A), Loyalty, there is a requirement \nthat members and candidates abstain from independent competitive activity that \ncould conflict with the interests of their employer. Jacobs' teaching assignment at a \nbusiness school on weekends does not appear to be in conflict with her role as a \nportfolio manager. Also, with respect to Standard IV (B), Additional Compensation \nArrangements, Members and Candidates must not accept gifts, benefits, \ncompensation, or consideration that competes with or might reasonably be expected \nto create a conflict of interest with their employer's interest unless they obtain \nwritten consent from all parties involved. Because her teaching activity is not in \ncompetition with, nor would it be expected to create a conflict of interest with her \nemployer, she is not in violation of the Standards regarding her teaching assignment. \nJacobs is also not in violation of the Standards with respect to her actions to make \narrangements to start a competing business because a departing employee is generally \nfree to make arrangements or preparations to go into a competitive business before \nterminating the relationship with his or her employer as long as such preparations do \nnot breach the employee's duty of loyalty. There is nothing in this instance to suggest \nthat is the case."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-60",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5423,7 +5174,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. C is correct because according to Standard VII(B), Reference to CFA Institute, the \nCFA Designation, and the CFA Program, a person is a candidate in the CFA Program if \nthe registered person has sat for a specified examination but exam results have not \nyet been received."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-61",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5437,7 +5187,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. C is correct because according to Standard VII(B), Reference to CFA Institute, the \nCFA Designation, and the CFA Program, those who have earned the right to use the \nChartered Financial Analyst designation are encouraged to do so but only in a manner \nthat does not misrepresent or exaggerate the meaning or implications of the \ndesignation. In addition, if the candidate then goes on to claim or imply superior \n                                                                         \n \nability by obtaining the designation in only three years, however, he or she is in \nviolation of Standard VII(B). Lee states that as a CFA charterholder, he achieves \nbetter investment performance results. Therefore, he has violated the Standard \nVII(B)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-62",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5451,7 +5200,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. A is correct because according to Standard IV(C), Responsibilities of Supervisors, \nMembers and Candidates must make reasonable efforts to ensure that anyone \nsubject to their supervision or authority complies with applicable laws, rules, \nregulations, and the Code and Standards. Therefore, Statement 1 is accurate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-63",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5465,7 +5213,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. A is correct because according to Standard V (A), Diligence and Reasonable Basis, A \nmember or candidate may rely on others in his or her firm to determine whether \nsecondary or third-party research is sound and use the information in good faith \nunless the member or candidate has reason to question its validity or the processes \nand procedures used by those responsible for the research. Berkstein relied on her \nsenior colleague's due diligence, and there is nothing in the case to suggest she has \nreason to question it, hence no violation. Nor did Brooks violate the Standard by \nleaving his name on the group report: The conclusions or recommendations of the \ngroup report represent the consensus of the group and are not necessarily the views \nof the member or candidate, even though the name of the member or candidate is \nincluded on the report. In some instances, a member or candidate will not agree with \nthe view of the group. If, however, the member or candidate believes that the \nconsensus opinion has a reasonable and adequate basis and is independent and \nobjective, the member or candidate need not decline to be identified with the report. \nIf the member or candidate is confident in the process, the member or candidate \ndoes not need to dissociate from the report even if it does not reflect his or her \nopinion."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-64",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5479,7 +5226,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. A is correct because according to Standard V (B), Communication with Clients and \nProspective Clients, If recommendations are contained in capsule form (such as a \nrecommended stock list), members and candidates should notify clients that \nadditional information and analyses are available from the producer of the report. \nAlso, Members and candidates must disclose significant risks known to them at the \ntime of the disclosure. Members and candidates cannot be expected to disclose risks \nthey are unaware of at the time recommendations or investment actions are made. In \nthis case, the central bank action happened after the recommendation was sent out, \nand it was an unexpected move, so Watt cannot be blamed for not warning clients and \ncausing portfolio losses."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-65",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5493,7 +5239,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. C is correct because according to the fundamentals of compliance of the GIPS \nstandards, If documented client -imposed restrictions interfere with the \nimplementation of the intended strategy to the extent that the portfolio is no longer \nrepresentative of the strategy, the firm may determine that the portfolio is non-\ndiscretionary."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-66",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5507,7 +5252,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "66. C is correct because according to the GIPS standards, the GIPS standards do not \naddress every aspect of performance measurement. Therefore, it is not a key \nconcept of the GIPS standards to address every aspect of performance \nmeasurement."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-67",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5521,7 +5265,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "67. C is correct because according to the recommended procedures for compliance with \nStandard III (B), Fair Dealing, a common practice to assure fair dealing is to \ncommunicate recommendations simultaneously within the firm and to customers. \nMembers and candidates should encourage firms to develop guidelines that prohibit \npersonnel who have prior knowledge of an investment recommendation from \ndiscussing or taking any action on the pending recommendation. Members and \ncandidates should encourage firms to develop guidelines that prohibit personnel who \nhave prior knowledge of an investment recommendation from discussing or taking any \naction on the pending recommendation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-68",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5535,7 +5278,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "68. A is correct because according to Standard V (B), Investment Analysis, \nRecommendations, and Actions - Communication with Clients and Prospective Clients, \nMembers and candidates cannot be expected to disclose risks they are unaware of at \nthe time recommendations or investment actions are made. In assessing compliance \nwith Standard V(B), it is important to establish knowledge of a purported significant \nrisk or limitation. A one-time investment loss that occurs after the disclosure does \nnot constitute a pertinent factor in assessing whether significant risks and \nlimitations were properly disclosed. Having no knowledge of a risk or limitation that \nsubsequently triggers a loss may reveal a deficiency in the diligence and reasonable \nbasis of the research of the member or candidate but may not reveal a breach of \nStandard V(B)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-69",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5549,7 +5291,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "69. C is correct because according to the recommended procedures for compliance with \nStandard V (A), Diligence and Reasonable Basis, members and candidates should \nencourage their firms to establish a policy requiring that research reports, credit \nratings, and investment recommendations have a basis that can be substantiated as \nreasonable and adequate. An individual employee (a supervisory analyst) or a group of \nemployees (a review committee) should be appointed to review and approve such items \nprior to external circulation to determine whether the criteria established in the \npolicy have been met. Therefore, appointing a supervisory analyst to determine \nwhether research reports have a reasonable and adequate basis, before circulating \nthe reports externally, is a recommended procedure for compliance with Standard V \n(A)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-70",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5563,7 +5304,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "70. A is correct because according to Standard V (C), Record Retention, Local regulators \noften impose requirements on members, candidates, and their firms related to record \nretention that must be followed. Firms may also implement policies detailing the \napplicable time frame for retaining research and client communic ation records. \nFulfilling such regulatory and firm requirements satisfies the requirements of \nStandard V(C). In the absence of regulatory guidance or firm policies, CFA Institute \n                                                                         \n \nrecommends maintaining records for at least seven years. Here, there is no applicable \nlaw. Also, the recommendation of the local industry body and the clients' preferences \nare not relevant. Instead, the member has to abide by the firm's policy to maintain \nrecords for at least 5 years."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-71",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5577,7 +5317,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "71. C is correct because according to the recommended procedures for compliance with \nStandard VI(B), Priority of Transactions, members and candidates should preclear \ntheir participation in IPOs, even in situations without any conflict of interest between \na member's or candidate's participation in an IPO and the client's interest."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-72",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5591,7 +5330,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "72. A is correct because according to Standard V (C), Record Retention, The retention \nrequirement applies to decisions to buy or sell a security as well as reviews undertaken \nthat do not lead to a change in position."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-73",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5605,7 +5343,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "73. A is correct because according to Standard V(B), Communication with Clients and \nProspective Clients, The member or candidate must keep clients and other interested \nparties informed on an ongoing basis about changes to the investment process. Also, \nFor purposes of Standard V(B), communication is not confined to a written report. A \npresentation of information can be made via any means of communication, including \nin-person recommendation or description, telephone conversation. Therefore, \nLorraine does not violate Standard V(B) because changing the investment process is \nnot prohibited and verbal communication by phone regarding this change is permitted."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-74",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5619,7 +5356,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "74. C is correct because actions involving unearned designations are violations of \nStandard IV (A), Loyalty but also Standard I (D), Misconduct. The Standard relating \nto loyalty deals with matters related to employment, Members and Candidates must \nact for the benefit of their employer and not deprive their employer of the advantage \nof their skills and abilities, divulge confidential information, or otherwise cause harm \nto their employer. Actions regarding unearned designations are potentially harmful \nto an employer. The standard relating to misconduct requires, Members and \nCandidates must not engage in any professional conduct involving dishonesty, fraud, \nor deceit or commit any act that reflects adversely on their professional reputation, \nintegrity, or competence. Actions regarding unearned designations are dishonest, an \nact of fraud and deceitful and will reflect adversely on a person's professional \nreputation, integrity and competence."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-75",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5633,7 +5369,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "75. A is correct because according to Standard VI(A), Disclosure of Conflicts, Members \nand Candidates must make full and fair disclosure of all matters that could reasonably \nbe expected to impair their independence and objectivity or interfere with \nrespective duties to their clients, prospective clients, and employer. In addition, sell-\nside members and candidates should disclose any materially beneficial ownership \ninterest in a security or other investment that the member or candidate is \nrecommending. Chan has no beneficial ownership in her brother's account, so she is \nnot required to disclose it. Therefore, Chan has not violated the Standard VI(A). \n \n                                                                         \n \nIn addition, Standard V(B), Communication with Clients and Prospective Clients, \nstates that members and candidates should communicate in a recommendation the \nfactors that were instrumental in making the investment recommendation. A critical \npart of this requirement is to distinguish clearly between opinions and facts. In \npreparing a research report, the member or ca ndidate must present the basic \ncharacteristics of the securities being analyzed, which will allow the reader to \nevaluate the report and incorporate information the reader deems relevant to his or \nher investment decision-making process. Standard V(B) is addressing the investment \nprocess communication with clients. Chan has not violated the Standard V(B)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-76",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5647,7 +5382,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "76. A is correct because according to Standard VII (A), Conduct as Participants in CFA \nInstitute Programs, CFA Institute program rules, regulations, and policies prohibit \ncandidates from disclosing confidential material gained during the exam process. \nExamples of information that cannot be disclosed by candidates sitting for an exam \ninclude but are not limited to: broad topical areas and formulas tested or not tested \non the exam. Further, All aspects of the exam, including questions, broad topical \nareas, and formulas, tested or not tested, are considered confidential until such time \nas CFA Institute elects to release them publicly. There is no indication that CFA \nInstitute has released details about the exam. Therefore, Macmara has violated \nStandard VII (A) by stating “Thankfully, the CAPM formula was not tested."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-77",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5661,7 +5395,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "77. A is correct because according to Standard I (C), Misrepresentation, changing pricing \nproviders should not be based solely on the justification that the new provider \nreports a higher current value of a security."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-78",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5675,7 +5408,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "78. B is correct because asset owners may comply with the GIPS standards in the same \nway as firms if they compete for business. If they don’t compete for business but \nreport their performance to an oversight body, asset owners may choose to comply \nwith the GIPS Standards for Asset Owners."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-79",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5689,7 +5421,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "79. A is correct because according to the GIPS standards, in cases in which laws and/or \nregulations conflict with the GIPS standards, firms are required to comply with the \nlaws and regulations and make full disclosure of the conflict in the GIPS Report."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-80",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5703,7 +5434,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "80. A is correct because according to the GIPS standards, The FIRM MUST include \nterminated COMPOSITES on this list for at least ﬁve years after the COMPOSITE \nTERMINATION DATE."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-81",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5717,7 +5447,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "81. A is correct because according to the GIPS standards, verification is performed with \nrespect to an entire firm, not on specific composites or pooled funds."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-82",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5731,7 +5460,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "82. A is correct because according to the recommended procedures for compliance with \nStandard II (E), Preservation of Confidentiality, avoid disclosing any information \nreceived from a client except to authorized fellow employees who are also working \n                                                                         \n \nfor the client. Is the information background material that, if disclosed, will enable \nthe member or candidate to improve service to the client?"
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-83",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5745,7 +5473,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "83. A is correct because according to the recommended procedures for compliance with \nStandard II(A) Material Nonpublic Information the use of watch lists is a minimum \nelement of such a system. The minimum elements of such a system include, but are \nnot limited to, the review of employee trading through the maintenance of “watch,” \n“restricted,” and “rumor” lists."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-84",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5759,7 +5486,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "84. A is correct because according to the Standard II(B), market manipulation includes \n(1) the dissemination of false or misleading information. Also, information -based \nmanipulation includes, but is not limited to, spreading false rumors to induce trading \nby others. For example, members and candidates must refrain from “pumping up” the \nprice of an investment by issuing misleading positive information or overly optimistic \nprojections of a security’s worth only to later “dump” the investment (i.e., sell it) once \nthe price, fueled by the misleading information’s effect on other market participants, \nreaches an artificially high level."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-85",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5773,7 +5499,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "85. A is correct because according to the GIPS standards, only a firm managing assets \ncan claim compliance once the firm has satisfied all applicable requirements of the \nGIPS standards. Further, asset owners may comply with the GIPS standards in the \nsame way as firms if they compete for business. If they don’t compete for business \nbut report their performance to an oversight body, asset owners may choose to \ncomply with the GIPS Standards for Asset Owners. Therefore, a pension fund that \nmanages investments for its beneficiaries can claim compliance with the GIPS \nstandards."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-86",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5787,7 +5512,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "86. C is correct because both statements violate Standard VII(B), Reference to CFA \nInstitute, the CFA Designation, and the CFA Program by implying that superior \nperformance from someone with the CFA designation can be expected. Statements \nreferring to CFA Institute, the CFA designation, or the CFA Program that overstate \nthe competency of an individual or imply, either directly or indirectly, that superior \nperformance can be expected from someone with the CFA designation are not allowed \nunder the standard. Improper References ... 'CFA charterholders achieve better \nperformance results' ... 'As a CFA charterholder, I am the most qualified to manage \nclient investments.'\""
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-87",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5801,7 +5525,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "87. C is correct because Bravoria violated Standard III(A)–Loyalty, Prudence, and Care \nas he had not updated his client’s profile in more than two years and thus should not \nhave made further investments, particularly in high-risk investments, until such time \nas he updated the client’s risk and return objectives, financial constraints, and \nfinancial position. Bravoria provided his client with investment statements more \nfrequently than that which is required, i.e., quarterly, so was not in violation of regular \naccount information."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-88",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5815,7 +5538,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "88. B is correct because compliance enables the GIPS-compliant firm to participate in \ncompetitive bids against other compliant firms throughout the world."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-89",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5829,7 +5551,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "89. B is correct because compliance enables the GIPS-compliant firm to participate in \ncompetitive bids against other compliant firms throughout the world."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-90",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5843,7 +5564,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "90. B is correct because firms that claim compliance with the GIPS standards are \nresponsible for their claim of compliance and for maintaining that compliance. That \nis, firms self-regulate their claim of compliance. Therefore, including when \ncompliance is verified by an independent third party, the firm is always responsible \nfor maintaining that compliance."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-91",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5857,7 +5577,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "91. A is correct because Delgado did not violate Standard VII (A), Responsibilities as a \nCFA Institute Member of CFA Candidate. Candidates are prohibited from disclosing \nconfidential material gained during the exam process but are free to discuss the \nexamination in a general manner, such as the fact that she found the exam difficult. \nRegarding her opinion about the CFA Institute, a member must not engage in any \nconduct that compromises the reputation or integrity of CFA Institute. However, \nStandard VII (A) does not cover expressing opinions regarding the CFA Program or \nCFA Institute. Therefore, Delgado's voicing her opinion is not a conduct that \ncompromises the reputation or integrity of CFA Institute."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-92",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5871,7 +5590,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "92. C is correct because for the purposes of Standard VI(A) Disclosure of Conflicts, \nmembers and candidates beneficially own securities or other investments if they have \na direct or indirect pecuniary interest in the securities, have the power to vote or \ndirect the voting of the shares of the securities or investments, or have the power \nto dispose or direct the disposition of the security or investment. Therefore, the \nmember is considered a beneficial owner for shares held in both Account 1 and \nAccount 2."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-93",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5885,7 +5603,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "93. B is correct because one of the key concepts of the standards is the required use of \ncomposites. A composite is an aggregation of one or more portfolios managed \naccording to a similar investment mandate, objective, or strategy. The requirement \nto create, use and maintain composites is designed to prevent firms from cherry-\npicking—using the best-performing accounts to represent the performance of an \ninvestment strategy."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-94",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5899,7 +5616,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "94. C is correct because Members and Candidates must not engage in practices that \ndistort prices or artificially inflate trading volume with the intent to mislead market \nparticipants. Transactions that artificially affect prices or volume to give the \nimpression of activity or price movement in a financial instrument, which represent a \ndiversion from the expectations of a fair and efficient market."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-95",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5913,7 +5629,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "95. B is correct because one of the objectives of the GIPS standards is to promote \nindustry self-regulation on a global basis."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-96",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5927,7 +5642,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "96. B is correct because recommended procedures for compliance with Standard I (A), \nKnowledge of the Law, state: Establish procedures for reporting violations: Firms \nmight provide written protocols for reporting suspected viola tions of laws, \nregulations, or company policies."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-97",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5941,7 +5655,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "97. A is correct because Murphy has not violated any Standards. Standard V(B), \nCommunication with Clients and Prospective Clients, requires members, use \nreasonable judgment in identifying which factors are important to their investment \nanalyses, recommendations, or actions and include those factors in communications \nwith clients and prospective client. Murphy has done this when she reviewed the \ninvestment rationale behind buying the security and the potential investment risks. \nThe appropriateness of risk disclosure should be assessed on the basis of what was \nknown at the time the investment action was taken (often called an ex ante basis). \nMembers must disclose significant risks known to them at the time of the disclosure. \nMembers cannot be expected to disclose risks they are unaware of at the time \nrecommendations or investment actions are made. A one-time investment loss that \noccurs after the disclosure does not constitute a pertinent factor in assessing \nwhether significant risks and limitations were properly disclosed. Murphy has also not \nviolated Standard V(A), Diligence and Reasonable Basis, which requires members, \nhave a reasonable and adequate basis, supported by appropriate research and \ninvestigation, for any investment analysis, recommendation, or action. Murphy has \nexplained the investment thesis supporting the purchase of the security as well as \nthe risk to the earnings stream.  While having no knowledge of a risk or limitation \nthat subsequently triggers a loss may reveal a deficiency in the diligence and \nreasonable basis of the research it is not a violation of the Standard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-98",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5955,7 +5668,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "98. B is correct because Standard II(B), Market Manipulation, require members to uphold \nmarket integrity by prohibiting market manipulation. Market manipulation includes \npractices that distort security prices or trading volume with the intent to deceive \npeople or entities that rely on information in the market. This is an example of \ninformation-base manipulation as misleading fake information affects other market \nparticipants."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-99",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5969,7 +5681,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "99. A is correct because neither Paralova or Klemmer violated CFA Standards through \ntheir statements.  Paralova did not violate Standard VII(B) Reference to CFA \nInstitute, the CFA Designation, and the CFA Program when she made her comments \nabout what getting the Charter will reflect and the hope for a pay raise. The \nStandard states, When referring to CFA Institute, CFA Institute membership, the \nCFA designation, or candidacy in the CFA Program, Members and Candidates must not \nmisrepresent or exaggerate the meaning or implications of membership in CFA \nInstitute, holding the CFA designation, or candidacy in the CFA program. Klemmer \ndid not violate Standard VII (B) Reference to CFA Institute, the CFA Designation, \nand the CFA Program when he expressed his opinion that Paralova's potential pay \nraise will reflect her enhanced skills.   Klemmer also complied with Standard VII(A) \n                                                                         \n \nResponsibilities as a CFA Institute Member or CFA Candidate, Conduct as \nParticipants in CFA Institute Programs when stating an opinion about the difficulty \nof the exam without revealing any specific details or the need to study all subjects. \nThe Standard states that candidates must not engage in any conduct that \ncompromises . . . the integrity, validity, or security of CFA Institute programs."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-100",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5983,7 +5694,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "100. C is correct because prior clearance processes guard against potential and actual \nconflicts of interest; members are required to abide by their employer’s compliance \nprocedures, Standard VI(B)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-101",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -5997,7 +5707,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "101. B is correct because Standard IV (C), Responsibilities of Supervisors, states if \nthe member or candidate clearly cannot discharge supervisory responsibilities \nbecause of the absence of a compliance system or because of an inadequate \ncompliance system, the member or candidate should decline in writing to accept \nsupervisory responsibility until the firm adopts reasonable procedures to allow \nadequate exercise of supervisory responsibility."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-102",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6011,7 +5720,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "102. B is correct because Standard VI(B)–requires client transactions to be given \nprecedence over transactions made on behalf of the member’s or candidate’s firm or \npersonal transactions. Because the advisor trades alongside his clients and allocates \ntrades on a rotating basis, there are times when the advisor’s trades will receive \npriority over his clients in violation of the Code and Standards. A member or \ncandidate having the same investment positions or being co-invested with clients does \nnot always create a conflict. Some clients in certain investment situations require \nmembers or candidates to have aligned interests. Personal investment positions or \ntransactions of members or candidates or their firms should never, however, \nadversely affect client investments."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-103",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6025,7 +5733,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "103. B is correct because Standard VI(C) requires disclosure of any compensation, \nconsideration, or benefit received from or paid to others for the recommendation of \nproducts or services. Even without cash changing hands the arrangement provides for \na quid pro quo referral of clients and should be disclosed."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-104",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6039,7 +5746,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "104. B is correct because Standard VII (A), Conduct as Participants in CFA Institute \nPrograms, states: Standard VII (A) covers the conduct of CFA Institute members \nand candidates involved with the CFA Program and prohibits any conduct that \nundermines the public's confidence that the CFA charter represents a level of \nachievement based on merit and ethical conduct. Conduct covered includes but is not \nlimited to improperly using an association with CFA Institute to further personal or \nprofessional goals. Bernod violated the Standard by stating that his involvement in \nexam writing gave him unique investment insights that will be of value to his firm's \nclients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-105",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6053,7 +5759,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "105. A is correct because Professional Conduct inquiries come from a number of \nsources including the monitoring of online and social media to detect disclosure of \nconfidential exam information."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-106",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6067,7 +5772,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "106. A is correct because receiving a gift, benefit, or consideration from a client can \nbe distinguished from gifts given by entities seeking to influence a member or \ncandidate to the detriment of other clients. In a client relationship, the client has \nalready entered some type of compensation arrangement with the member, candidate, \nor his or her firm. A gift from a client could be considered supplementary \ncompensation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-107",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6081,7 +5785,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "107. A is correct because Regali did not violate Standard II (A), Nonpublic Material \nInformation. The Standards permit the use of in dustry experts. Members and \ncandidates may provide compensation to individuals [industry experts] for their \ninsights without violating this standard. In this case, the industry experts are \nunaffiliated with the trials and thus do not have access to inside information on the \ntrials, so their insights can be used to make investment decisions. The Standards also \npermit the sell-side analysts to distribute material information to only clients. Simply \nbecause the public in general would find the conclusions material does not require \nthat the analyst make his or her work public."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-108",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6095,7 +5798,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "108. A is correct because Standard II(A), Material Nonpublic Information, states that \nMembers and Candidates who possess material nonpublic information that could \naffect the value of an investment must not a ct or cause others to act on the \ninformation. Also, Members and candidates must not use material nonpublic \ninformation to influence their investment actions related to derivatives. Therefore, \na member analyst buying call option on a company stock after learning from its CEO \nthat the company will report earnings exceeding analyst expectation is a violation of \nStandard II(A). In contrast, a member analyst buying an oil company stock after \nspeaking to a well-known industry expert who believes oil prices will rise due to \ngeopolitical risk is not a violation of Standard II(A). This is because a well-known \nindustry expert's view is unlikely to be nonpublic information. Therefore, only Action \n1 violates Standard II(A)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-109",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6109,7 +5811,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "109. A is correct because Standard III (B), Fair Dealing, states that if the issue is \noversubscribed, then the issue should be prorated to all subscribers. In addition, if \nthe investment professional’s family-member accounts are managed similarly to the \naccounts of other clients of the firm, however, the family-member accounts should \nnot be excluded from buying such shares."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-110",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6123,7 +5824,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "110. A is correct because Standard III (B), Fair Dealing, states: For example, when \nmaking investments in new offerings or in secondary financings, members and \ncandidates should distribute the issues to all customers for whom the investments \nare appropriate in a manner consistent with the policies of the firm for allocating \nblocks of stock. In addition, if the issue is oversubscribed, members and candidates \n                                                                         \n \nshould forgo any sales to themselves or their immediate families in order to free up \nadditional shares for clients. If the investment professional's family -member \naccounts are managed similarly to the accounts of other clients of the firm, however, \nthe family-member accounts should not be excluded from buying such shares. In this \ncase, Lee's brother has a standard fee-paying, regular account, the IPO is suitable, \nso Lee should include his brother in the pro-rata allocation of the IPO shares."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-111",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6137,7 +5837,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "111. A is correct because Standard III (E), Preservation of Confidentiality, requires \nMembers and Candidates must keep information about current, former, and \nprospective clients confidential.  Also, this standard protects the confidentiality of \nclient information even if the person or entity is no longer a client of the member or \ncandidate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-112",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6151,7 +5850,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "112. A is correct because Standard III (E), Preservation of Confidentiality, requires \nthat members and candidates preserve the confidentiality of information \ncommunicated to them by their clients, prospective clients, and former clients. \nFurther, if a client or former client expressly authorizes the member or candidate \nto disclose information, however, the member or candidate may follow the terms of \nthe authorization and provide the information. The unsolicited stock order from the \nclient is confidential. So, Barr must obtain the original client's authorization before \nrecommending the stock to other clients. Therefore, Barr has violated Standard III \n(E) by executing without the original's client authorization, a single block trade for \nthe original client as well as other clients for whom the stock is suitable."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-113",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6165,7 +5863,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "113. C is correct because Standard I (A), Knowledge of the Law, states that Members \nand Candidates must understand and comply with all applicable laws, rules, and \nregulations. While Standard III (E), Preservation of Confidentiality, states that \nWhen permissible under applicable law, members and candidates shall consider the \nPCP an extension of themselves when requested to provide information about a client \nin support of a PCP investigation into their own conduct, this case clearly states that \ndisclosure is not permitted by applicable law. Therefore, the member violates \nStandard I (A) by disclosing client information."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-114",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6179,7 +5876,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "114. C is correct because Standard II(A), Material Nonpublic Information, states that \nMembers and Candidates who possess material nonpublic information that could \naffect the value of an investment must not act or cause others to act on the \ninformation. Also, Members and candidates must not use material nonpublic \ninformation to influence their investment actions related to derivatives. Hadid \ncaused Jackson to act by telling Jackson about her work on SML. Jackson acts on the \ninformation and buys call options on SML. Therefore, both Hadid and Jackson violate \nStandard II(A)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-115",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6193,7 +5889,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "115. C is correct because Standard II(B), Market Manipulation, prohibits such activity. \nTransaction-based manipulation includes, but is not limited to securing a controlling, \n                                                                         \n \ndominant position in a financial instrument to exploit the price of the underlying \nasset."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-116",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6207,7 +5902,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "116. C is correct because Standard III (E), Preservation of Confidentiality, states \nthat members must keep information about current, former, and prospective clients \nconfidential unless: the client or prospective client permits disclosure of the \ninformation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-117",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6221,7 +5915,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "117. C is correct because Standard III(C), Suitability, When Members and Candidates \nare in an advisory relationship with a client, they must determine that an investment \nis suitable to the client’s financial situation and consistent with the client’s written \nobjectives, mandates, and constraints before making an investment recommendation \nor taking investment action. Also, the investment professional’s determination of \nsuitability should reflect only the investment recommendations or actions that a \nprudent person would be willing to undertake. Not every investment opportunity will \nbe suitable for every portfolio, regardless of the potential return being offered. Lee \nhas ignored her client’s mandate of an equal-weighted portfolio and is in violation of \nthis standard. Further, according to Standard III(A), Loyalty, Prudence, and Care, \n;Members and Candidates have a duty of loyalty to their clients and must act with \nrea­sonable care and exercise prudent judgment. Also, members and candidates must \nfollow any guidelines set by their clients for the management of their assets. Lee’s \ndecision not to rebalance the portfolio is a violation of this Standard. So, Lee has \nviolated both Standard III(C) and Standard III(A)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-118",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6235,7 +5928,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "118. C is correct because Standard IV (B), Additional Compensation Arrangements, \nrequires members and candidates to obtain permission from their employer before \naccepting compensation or other benefits from third parties for the services \nrendered to the employer or for any services that might create a conflict with their \nemployer's interest. Compensation and benefits include direct compensation by the \nclient and any indirect compensation or other benefits received from third parties."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-119",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6249,7 +5941,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "119. C is correct because Standard IV (B), Additional Compensation Arrangements, \nstates that Members and Candidates must not accept gifts, benefits, compensation, \nor consideration that competes with or might reasonably be expected to create a \nconflict of interest with their employer’s interest unless they obtain consent from \nall parties involved.Taylor must inform his employer and obtain consent for accepting \nthe front-row ticket to an upcoming sold out match. Therefore, he has violated this \nStandard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-120",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6263,7 +5954,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "120. C is Correct because Standard V (A), Diligence and Reasonable Basis, s tates \nmembers and candidates who are directly involved with the use of external advisers \nneed to ensure that their firms have standardized criteria for reviewing these \nselected external advisers and managers. Such criteria would include, but would not \nbe limited to, the following: \n \n                                                                         \n \n• reviewing the adviser's established code of ethics, \n• understanding the adviser's compliance and internal control procedures, \n• assessing the quality of the published return information, and \n• reviewing the adviser's investment process and adherence to its stated \nstrategy."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-121",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6277,7 +5967,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "121. C is correct because Standard VI(A), Disclosure of Conflicts requires members \nand candidates to make full and fair disclosure of all matters that could reasonably \nbe expected to impair their independence and obje ctivity or interfere with \nrespective duties to their clients, prospective clients, and employer and protects \ninvestors and employers by requiring members and candidates to fully disclose to \nclients, potential clients, and employers all actual and potential conflicts of interest. \nOnce a member or candidate has made full disclosure, the member’s or candidate’s \nemployer, clients, and prospective clients will have the information needed to evaluate \nthe objectivity of the investment advice or action taken on their behalf."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-122",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6291,7 +5980,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "122. A is correct because the member has not violated either of the Standards.  \nStandard I (C), Misrepresentation, prohibits members and candidates from \nguaranteeing clients any specific return on volatile investments. The member is not \nmaking a guarantee or implying a future return to the prospective client, and \ntherefore is not in violation of this Standard. Standard III (D), Performance \nPresentation, states a member or candidate must give a fair and complete \npresentation of performance information whenever communicating data with respect \nto the performance history of individual accounts, composites or groups of accounts, \nor composites of an analyst’s or firm’s performance results. Furthermore, members \nand candidates should not state or imply that clients will obtain or benefit from a \nrate of return that was generated in the past. The member is stating a fact that the \ncomposite shows outperformance, gross of fees, and not implying future returns and \ntherefore is not in violation of this Standard."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-123",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6305,7 +5993,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "123. B is correct because the member has misrepresented the returns she could \nrealistically achieve for her clients, violating Standard I(C), which prohibits members \nand candidates from guaranteeing clients any specific return on volatile investments."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-124",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6319,7 +6006,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "124. C is correct because the GIPS standards are a practitioner-driven set of ethical \nprinciples that establish a standardized, industry-wide approach for investment firms \nto follow in calculating and presenting their historical investment results to \nprospective clients. Therefore, the GIPS standard establish a standardized approach \nto presenting historical investment results to prospective clients, and this answer is \ncorrect."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-125",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6333,7 +6019,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "125. A is correct because the objectives of the GIPS standards are as follows: \nPromote fair, global competition among investment firms."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-126",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6347,7 +6032,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "126. C is correct because the portfolio manager received permission to use his \ninvestment performance history from his prior employer. The member violated his \nnon-solicitation agreement by indicating his availability to new clients on several social \nmedia sites accessible by clients of his former employer. This is a violation of \nStandard IV(A)–Loyalty because he did not act for the benefit of his former \nemployer. In this case, the member may cause harm to his former employer if his \nweekend messages result in clients moving to his new business from his former \nemployer. The member also violated this standard by taking his employer’s property, \ntrading software."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-127",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6361,7 +6045,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "127. A is correct because the recommended procedures for compliance with Standard \nI (C), Misrepresentation, state that firms can also help prevent misrepresentation by \nspecifically designating which employees are authorized to speak on behalf of the \nfirm."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-128",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6375,7 +6058,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "128. B is correct because the recommended procedures for compliance with Standard \nVI (B), Priority of Transactions, recommend that investment personnel should be \nrequired to direct their brokers to supply to firms duplicate copies or confirmations \nof all their personal securities transactions and copies of periodic statements for all \nsecurities accounts."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-129",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6389,7 +6071,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "129. C is correct because the recommended procedures for compliance with Standard \nIII(C), Suitability, state that an investor’s objectives and constraints should be \nmaintained and reviewed periodically to reflect any changes in the client’s \ncircumstances. Annual review is reasonable unless business or other reasons, such as \na major change in market conditions, dictate more frequent review. In addition, in \nformulating an investment policy for the client, the member or candidate should take \nthe following into consideration: performance measurement benchmarks. Therefore, \nboth procedures are recommended for compliance with Standard III(C)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-130",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6403,7 +6084,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "130. B is correct because this is a requirement of Standard I(B), Independence and \nObjectivity. Issuer-paid research conducted by independent analysts, however, is \nfraught with potential conflicts. Members must adhere to strict standards of \nconduct that govern how the research is to be conducted and what disclosures must \nbe made in the report. Analysts must engage in thorough, independent, and unbiased \nanalysis and must fully disclose potential conflicts of interest, including the nature \nof their compensation."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-131",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6417,7 +6097,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "131. A is correct because under Standard I(A), Knowledge of the Law, members and \ncandidates have a responsibility to step away and dissociate from the [unethical] \nactivity. Inaction combined with continuing association with those involved in illegal \nor unethical conduct may be construed as participation or assistance in the illegal or \nunethical conduct."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-132",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6431,7 +6110,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "132. A is correct because under Standard IV(C), Responsibilities of Supervisors, \nmembers and candidates should encourage their employers to provide their codes to \nclients... the code of ethics will be effective in conveying that the firm is committed \nto conducting business in an ethical manner and in the best interests of the clients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-133",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6445,7 +6123,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "133. A is correct because verification is performed with respect to an entire firm, not \non specific composites or pooled funds."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-134",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6459,7 +6136,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "134. C is correct because this is consistent with Standard V(C), Record Retention. For \nfuture use, the member or candidate must re-create the supporting records at the \nnew firm with information gathered through public sources or directly from the \ncovered company and not from memory or sources obtained at the previous employer."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-135",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6473,7 +6149,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "135. A is correct because verification is performed with respect to an entire firm, not \non specific composites."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-136",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6487,7 +6162,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "136. C is correct because verification provides assurance on whether the firm’s policies \nand procedures related to composite and pooled fund maintenance, as well as the \ncalculation, presentation, and distribution of performance, have been designed in \ncompliance with the GIPS standards and have been implemented on a firm-wide basis."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-137",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6501,7 +6175,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "137. A is Correct because according to Standard V (A), Diligence and Reasonable basis, \nMembers and Candidates must:"
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-138",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6515,7 +6188,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "138. B is correct because according to Standard I (B), Independence and Objectivity, \none type of benefit is the allocation of shares in oversubscribed IPOs to investment \nmanagers for their personal accounts. This practice affords managers the \nopportunity to make quick profits that may not be available to their clients. Such a \npractice is prohibited under Standard I (B). Therefore, a member is prohibited from \naccepting benefits from corporate issuers in the form of allocation of shares in \noversubscribed IPOs that are suitable for firm's clients. So, Statement 2 is \naccurate."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-139",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6529,7 +6201,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "139. B is correct because according to Standard I (D), Misconduct, Members and \nCandidates must not engage in any professional conduct involving dishonesty, fraud, \nor deceit or commit any act that reflects adversely on their professional reputation, \nintegrity, or competence. Overcharging the charity by any amount is fraud and \nreflects adversely on Melmo as an investment professional and potentially on her \nemployer and the investment profession."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-140",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6543,7 +6214,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "140. B is correct because according to Standard VI(A), Disclosure of Conflicts, equally \nimportant is the disclosure of arrangements in which the firm benefits directly from \ninvestment recommendations. An obvious conflict of interest is the rebate of a \nportion of the service fee some classes of mutual funds charge to investors. Members \nand candidates should ensure that their firms disclose such relationships so clients \ncan fully understand the costs of their investments and the benefits received by \ntheir investment manager’s employer."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-141",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6557,7 +6227,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "141. B is correct because according to Standard VI(B), Priority of Transactions, \ninvestment personnel involved in the investment decision-making process should \nestablish blackout periods prior to trades for clients so that managers cannot take \nadvantage of their knowl­edge of client activity by “front-running” client trades \n(trading for one’s personal account before trading for client accounts)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-142",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6571,7 +6240,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "142. B is correct because Garcia has violated Standard III (B), Fair Dealing, by \ndisseminating the sell recommendation to her largest client before th e \nrecommendation is sent to all clients. Each member or candidate is obligated to ensure \nthat information is disseminated in such a manner that all clients have a fair \nopportunity to act on every recommendation. Garcia has not violated Standard III \n(B) by calling her largest client, since she widely disseminated the recommendation \nand provided the information to all her clients prior to discussing it with her largest \nclient. Members and candidates should establish procedures for the timing of \ndissemination of investment recommendations so that all clients are treated fairly—\nthat is, are informed at approximately the same time. Once this distribution has \noccurred, the member or candidate may follow up separately with individual clients, \n                                                                         \n \nbut members and candidates should not give favored clients advance information \nwhen such advance notification may disadvantage other clients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-143",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6585,7 +6253,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "143. C is correct because according to Standard V (C), Investment Analysis, \nRecommendations, and Actions - Record Retention, Local regulators often impose \nrequirements on members, candidates, and their firms related to record retention \nthat must be followed. Firms may also implement policies detailing the applicable time \nframe for retaining research and client communication records. Fulfilling such \nregulatory and firm requirements satisfies the requirements of Standard V(C). In \nthe absence of regulatory guidance or firm policies, CFA Institute recommends \nmaintaining records for at least seven years."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-144",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6599,7 +6266,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "144. C is correct because Standard VI (C), Referral Fees, states the responsibility of \nmembers and candidates to inform their employer, clients, and prospective clients of \nany benefit received for referrals of customers and clients."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-145",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6613,7 +6279,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "145. A is correct because the GIPS standards rely on the integrity of input data, the \nquality of which is critical to creating accurate performance presentations. The \nunderlying valuations of portfolio holdings drive performance. It is essential for \nthese and other inputs to be accurate. The GIPS standards require firms to adhere \nto certain calculation methodologies to allow for comparability across firms."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-146",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6627,7 +6292,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "146. C is correct because, according to Standard V (C), Record Retention, records \ncreated as part of a member’s or candidate’s professional activity on behalf of his or \nher employer are the property of the firm."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-147",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6641,7 +6305,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "147. A is correct because the identical material reflected in her previous client's \nproposal belongs to that client, even though she wrote it on their behalf as their \nconsultant. To use it in its identical format would be considered plagiarism. In \naddition, the description also identifies a proprietary process and is therefore not \napplicable to her existing client's investment process. Consequently, to prevent \nviolating Standard I(C) Misrepresentation the material should be removed. The \nStandard states Members and Candidates must not knowingly make any \nmisrepresentations relating to investment analysis, recommendations, actions, or \nother professional activities. Standard I(C) Misrepresentation prohibits plagiarism in \nthe preparation of material for distribution to employers, associates, clients, \nprospects, or the general public. Macharia should also report the use of plagiarized \nmaterial to the client so they can take action to prevent the event being repeated in \nthe future (Standard I(A) Knowledge of the Law). Allowing the use of plagiarized \nmaterial reflects poorly on a firm and can hurt their reputation.  By reporting to the \nclient Macharia is also protecting the interests of her clients (Standard III(A) \nLoyalty, Prudence, and Care)."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-148",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6655,7 +6318,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "148. A is correct. GIPS standards are ethical standards for investment performance \npresentation to ensure fair representation and full disclosure of investment \nperformance. So, Statement 1 is a key concept of the GIPS standards. \nQuantitative Methods: Practice Pack \n\ncandidates for practice purpose."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-1",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6669,7 +6331,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "1. A is correct. CFA charterholders and candidates must place the integrity of the \ninvestment profession and the interests of clients above their own personal interests."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-2",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6683,7 +6344,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. B is correct. A profession is practiced by members who share and agree to adhere to \na common code of ethics, and a profession is based on a specialized knowledge and \nskills and service to others."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-3",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6697,7 +6357,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. B is correct. Most societies acknowledge the ethical principles of honesty, fairness \nor justice, diligence, and respect for the rights of others. Duplicity or deception \nwould be in violation of most ethical principles."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-4",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6711,7 +6370,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. A is correct as members and candidates must self-disclose on the annual Professional \nConduct Statement all matters that question their professional conduct, such as \ninvolvement in civil litigation or a criminal investigation or being the subject of a \nwritten complaint."
     },
     {
-        "id": "vikas-vohra-ethical-and-professional-standards-5",
         "source": "Vikas Vohra",
         "subject": "Ethical and Professional Standards",
         "lm": "LM - Ethical and Professional Standards",
@@ -6725,7 +6383,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "5. A is correct as soliciting the bank’s client did not violate Standard IV(A)–Loyalty \nbecause the manager is no longer an employee of the bank and there is no indication \nshe obtained the client information from bank sources. The member, however, has \nviolated Standard V(C)–Record Retention, because when she left the bank she took \nthe property of the bank without express permission to do so. In addition, the analyst \nviolated Standard I(C)–Misrepresentation by creating research materials without \nattribution, which is demonstrated when the manager adds to the new report a real \nestate study she saw in the Wall Street Journal, referencing the Journal only. In all \ninstances, a member or candidate must cite the actual source of the information. If \nshe does not obtain the report and review the information, the manager runs the risk \nof relying on second-hand information that may misstate facts. Best practice would \nbe either to obtain the complete study from its original author and cite only that \nauthor or to use the information provided by the intermediary and cite both sources."
     },
     {
-        "id": "vikas-vohra-alternative-investments-9",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6739,7 +6396,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. A is correct because a leveraged loan is a loan that is itself levered. Private debt \nfirms that invest in leveraged loans first borrow money to finance the debt and then \nextend it to another borrower. By using leverage, a private debt firm can enhance \nthe return on its loan portfolio."
     },
     {
-        "id": "vikas-vohra-alternative-investments-10",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6753,7 +6409,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. B is correct because advantages of a SPAC exit include:  \na. extended time for public disclosure on company prospects to build investor \ninterest, \nb. fixed valuation with lower volatility of share pricing, \nc. flexibility of transaction structure to best suit the company’s context, and \nd. association with potentially high-profile and seasoned sponsors and their \nextensive investor network."
     },
     {
-        "id": "vikas-vohra-alternative-investments-11",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6767,7 +6422,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. C is correct because among several other specialties, some private equity firms \nspecialize in growth capital, also known as growth equity or minority equity investing. \nGrowth capital generally refers to minority equity investments, whereby the firm \ntakes a less-than-controlling interest in more mature companies that are looking for \ncapital to expand or restructure operations, enter new markets, or finance major \nacquisitions."
     },
     {
-        "id": "vikas-vohra-alternative-investments-12",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6781,7 +6435,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. C is correct because any investment vehicle that is heavily involved with Level 3–\npriced assets deserves increased scrutiny and due diligence. The following is a \nmethodology that involves the categorization of investments into three buckets: \nLevel 1, 2, and 3 asset pricing. Level 3 asset values are computed using only internal \nmodels when outsider broker (Level 2) quotes are not available or not reliable."
     },
     {
-        "id": "vikas-vohra-alternative-investments-13",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6795,7 +6448,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. A is correct because alternative investments often have many of the following \ncharacteristics. Restrictions on redemptions (i.e., 'lockups' and 'gates'). As such, \nrestrictions on redemptions are typically imposed [by hedge funds]. Investors may be \nrequired to keep their money in the hedge fund for a minimum period (referred to as \na lockup period) before they are allowed to make withdrawals or redeem shares. \nInvestors may be required to give notice of their intent to redeem; the notice period \nis typically 30–90 days. To redeem shares, investors may be charged a fee, typically \npayable to the fund itself (rather than the manager) so as not to disadvantage \nremaining investors in the fund, particularly in circumstances where the redemption \ntakes place during the lockup period."
     },
     {
-        "id": "vikas-vohra-alternative-investments-14",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6809,7 +6461,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because commodities are considered either 'hard' (those mined, such as \ncopper, or extracted, such as oil) or 'soft' (those grown over a period of time, such \nas livestock, grains, and cash crops, such as coffee)."
     },
     {
-        "id": "vikas-vohra-alternative-investments-15",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6823,7 +6474,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. A is correct because co-investing offers reduced control over the investment \nselection process compared with direct investing."
     },
     {
-        "id": "vikas-vohra-alternative-investments-16",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6837,7 +6487,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. C is correct because direct investing allows the investor to build a portfolio of \ninvestments to her exact requirements. Direct investing provides the greatest \namount of flexibility for the investor and grants the highest level of control over how \nthe asset is managed."
     },
     {
-        "id": "vikas-vohra-alternative-investments-17",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6851,7 +6500,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. A is correct because commodity investments may involve investing in actual physical \ncommodities or in producers of commodities. Commodities are considered either \n'hard' (those mined, such as copper, or extracted, such as oil) or 'soft' (those grown \nover a period of time, such as livestock, grains, and cash crops, such as coffee)."
     },
     {
-        "id": "vikas-vohra-alternative-investments-18",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6865,7 +6513,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. B is correct because greenfield investors typically invest alongside strategic \ninvestors or developers who specialize in developing the underlying assets."
     },
     {
-        "id": "vikas-vohra-alternative-investments-19",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6879,7 +6526,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. A is correct because End-of-year AUM = $500 million × 22% = $610 million. \n \nManagement fee = $610 million × 2% = $12.2 million. \n \nThe hurdle rate is a minimum rate of return, typically 8%, that the GP must exceed \nin order to earn the performance fee. GPs typically receive 20% of the total profit \nof the private equity fund net of any hard hurdle rate, in which case the GP earns \nfees on annual returns in excess of the hurdle rate, or net of the soft hurdle rate, in \nwhich case the fee is calculated on the entire annual gross return as long as the set \nhurdle is exceeded. \n \nHard hurdle = $500 million × 10% = $50 million. \n \nIncentive fee (based on returns net of management fees) = ($610 million – $500 \nmillion – $50 million – $12.2 million) × 15% = $47.8 million × 15% = $7.17 million ≈ $7.2 \nmillion."
     },
     {
-        "id": "vikas-vohra-alternative-investments-20",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6893,7 +6539,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. A is correct because event-driven strategies, which include \"activist\", seek to profit \nfrom defined catalyst events, typically those that involve changes in corporate \nstructure, such as an acquisition or restructuring. In activist strategies, hedge fund \nmanagers secure sufficient equity holdings to allow them to influence a company’s \npolicies or direction. The hedge fund manager thus tries to create his or her own \ncatalyst, influencing the investment’s ultimate destiny by creating a desired \ncorporate outcome."
     },
     {
-        "id": "vikas-vohra-alternative-investments-21",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6907,7 +6552,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. A is correct because event-driven strategies tend to be long biased, with merger \narbitrage having the least bias."
     },
     {
-        "id": "vikas-vohra-alternative-investments-22",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6921,7 +6565,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. B is correct because infrastructure investments are frequently categorized on the \nbasis of the underlying assets. The broadest categorization organizes investments \ninto economic and social infrastructure assets. ... Social infrastructure assets are \ndirected toward human activities and include such assets as educational, health care, \nsocial housing, and Correct ional facilities, with the focus on providing, operating, and \nmaintaining the asset infrastructure."
     },
     {
-        "id": "vikas-vohra-alternative-investments-23",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6935,7 +6578,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. B is correct because investing in alternative assets can require handling illiquidity, \ntransacting on private markets, operating sophisticated investment strategies, or \nrisk–return profiles that are very different from those of traditional long -only \ninvestments."
     },
     {
-        "id": "vikas-vohra-alternative-investments-24",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6949,7 +6591,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. B is correct because it calculates the incentive fee net of the management fee. That \nis, the total fee is the sum of the management fee of $5 million ($250 million AUM \ntimes 0.02) and the incentive fee of $9 million ($250 million less $200 million less \nthe $5 million incentive times 0.20), which is $14 million."
     },
     {
-        "id": "vikas-vohra-alternative-investments-25",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6963,7 +6604,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. A is correct because funds are generally structured with a management fee typically \nranging from 1% to 2% of assets under management (e.g. for hedge funds) or \ncommitted capital (e.g. private equity funds), which is how much money in total that \nLP's have committed to the fund's future investments."
     },
     {
-        "id": "vikas-vohra-alternative-investments-26",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6977,7 +6617,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. A is correct because hedge funds are private investment vehicles that manage \nportfolios of securities and/or derivative positions using a variety of strategies. \nAlthough hedge funds may be invested entirely in traditional assets, these vehicles \nare considered alternative because of their private nature. Hedge funds typically \nhave more leeway to pursue investments and strategies offering the potential for \nhigher returns, whether absolute or compared with a specific market benchmark, but \nthese strategies may increase the risk of investment loss. They may involve long and \nshort positions and may be highly leveraged."
     },
     {
-        "id": "vikas-vohra-alternative-investments-27",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -6991,7 +6630,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. C is correct because in hedge funds, fee calculations also take into account a high-\nwater mark, which reﬂects the highest value used to calculate an incentive fee. A \nhigh-water mark is the highest value of the fund investment ever achieved at a \nperformance fee crystallization date, net of fees, by the individual LP. A high-water \nmark clause states that a hedge fund manager must recuperate declines in value from \nthe high-water mark before performance fees can be charged on newly generated \nprofits. The use of high-water marks protects clients from paying twice for the same \nperformance."
     },
     {
-        "id": "vikas-vohra-alternative-investments-28",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7005,7 +6643,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. C is correct because in real estate fund investing, investors may be classified as unit \nholders, and joint ventures are a partnership structure common in real estate direct \ninvesting."
     },
     {
-        "id": "vikas-vohra-alternative-investments-29",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7019,7 +6656,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. C is correct because in whole-of-fund (European) waterfalls, all distributions go to \nthe LPs as deals are exited and the GP does not participate in any profits until the \nLPs receive their initial investment and the hurdle rate has been met. In contrast to \ndeal-by-deal (American) waterfalls, whole-of-fund waterfalls occur at the aggregate \nfund level and are more advantageous to the LPs."
     },
     {
-        "id": "vikas-vohra-alternative-investments-30",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7033,7 +6669,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. A is correct because in addition to lockup periods, funds sometimes impose a gate, \nwhich limits or restricts redemptions for a period of time."
     },
     {
-        "id": "vikas-vohra-alternative-investments-31",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7047,7 +6682,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. C is correct because infrastructure funds with a higher -risk profile invest in \nGreenfield projects without guarantees of demand upon completion and with high \nweighting to capital appreciation. Investing in infrastructure assets that are to be \nconstructed is generally referred to as greenfield investment. Greenfield \ninvestments are early-stage investments with a higher-risk profile."
     },
     {
-        "id": "vikas-vohra-alternative-investments-32",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7061,7 +6695,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. B is correct because one of the advantages of fund investing is that it provides access \nto alternative investments without possessing a high degree of investment expertise."
     },
     {
-        "id": "vikas-vohra-alternative-investments-33",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7075,7 +6708,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. C is correct because investing in infrastructure may add an income stream, increase \nportfolio diversification by adding an asset class with typically low correlation with \nexisting investments, and offer some protection against inflation. Low exposure to \nshort-term GDP growth issues may also be a factor."
     },
     {
-        "id": "vikas-vohra-alternative-investments-34",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7089,7 +6721,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. A is correct because in co-investing, the investor invests in assets indirectly through \nthe fund but also possesses rights (known as co-investment rights) to invest directly \nin the same assets. Through co-investing, an investor is able to make an investment \nalongside a fund when the fund identifies deals; the investor is not limited to \nparticipating in the deal solely by investing in the fund."
     },
     {
-        "id": "vikas-vohra-alternative-investments-35",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7103,7 +6734,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. C is correct because major disadvantages to investing directly [in real estate] include \nextensive time required to manage the property. The owner may choose to handle all \naspects of investing in and operating the property, including property selection, asset \nmanagement, property management, leasing, and administration."
     },
     {
-        "id": "vikas-vohra-alternative-investments-36",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7117,7 +6747,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because mezzanine debt often comes with additional features, such as \nwarrants or conversion rights, which provide equity participation to \nlenders/investors, meaning they have the option of converting their debt into equity \nor purchasing the equity of the underlying borrower under certain circumstances."
     },
     {
-        "id": "vikas-vohra-alternative-investments-37",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7131,7 +6760,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. B is correct because private equity investments generally involve an initial capital \ncommitment, but actual capital flows often lag that commitment because capital \n                                                                         \n \n'calls' are staggered over substantive periods of time. Private equity returns are \nfrequently described in terms of the J-curve effect."
     },
     {
-        "id": "vikas-vohra-alternative-investments-38",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7145,7 +6773,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. A is correct because key private equity investment strategies include leveraged \nbuyouts (e.g., MBOs and MBIs) and venture capital. Primary exit strategies include \ntrade sale, IPO, and recapitalization."
     },
     {
-        "id": "vikas-vohra-alternative-investments-39",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7159,7 +6786,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. A is correct because macro hedge funds use long and short positions to profit from \na view on the overall direction of the market as it is inﬂuenced by major economic \ntrends and events."
     },
     {
-        "id": "vikas-vohra-alternative-investments-40",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7173,7 +6799,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. C is correct because open-end funds generally offer exposure to core real estate, \ncharacterized by well-leased, high-quality institutional real estate in the best \nmarkets. Investors expect core real estate to deliver stable returns, primarily from \nincome."
     },
     {
-        "id": "vikas-vohra-alternative-investments-41",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7187,7 +6812,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. A is correct because one of the advantages of co-investing is that it has reduced \nmanagement fees. In co-investing, investors co-invest an additional amount into that \nsame investment often without paying management fees on the capital they used for \nthe direct investment (a co-investment, in this case)."
     },
     {
-        "id": "vikas-vohra-alternative-investments-42",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7201,7 +6825,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. C is correct because relative value funds seek to profit from a pricing discrepancy \nbetween related securities based on an unusual short -term relationship. The \nexpectation is that the discrepancy will be resolved over time. Examples of relative \nvalue strategies include the following: Convertible bond arbitrage. This conceptually \nmarket-neutral investment strategy seeks to exploit a perceived mispricing between \na convertible bond and its component parts—namely, the underlying bond and the \nembedded stock option—relative to the pricing of a reference equity into which the \nbond may someday convert. The strategy typically involves buying convertible debt \nsecurities and simultaneously selling a certain amount of the same issuer’s common \nstock. As this type of strategy seeks to profit from a pricing discrepancy (an unusual \nshort-term relationship) between related securities, it is best described as a relative \nvalue strategy."
     },
     {
-        "id": "vikas-vohra-alternative-investments-43",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7215,7 +6838,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. A is correct because real estate property has some unique features, including \nheterogeneity (no two properties are identical) and fixed location."
     },
     {
-        "id": "vikas-vohra-alternative-investments-44",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7229,7 +6851,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. B is correct because the hedge fund takes long positions in securities identified as \nundervalued and short positions in overvalued securities. The hedge fund tries to \nmaintain a net position that is neutral with respect to market risk and other risk \nfactors (size, industry, momentum, value, etc.). Ideally, the portfolio has an overall \nbeta of approximately zero."
     },
     {
-        "id": "vikas-vohra-alternative-investments-45",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7243,7 +6864,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. B is correct because the hurdle rate is a minimum rate of return, typically 8%, that \nthe GP must exceed in order to earn the performance fee. GPs typically receive 20% \n                                                                         \n \nof the total profit of the private equity fund net of any hard hurdle rate, in which \ncase the GP earns fees on annual returns in excess of the hurdle rate, or net of the \nsoft hurdle rate, in which case the fee is calculated on the entire annual gross return \nas long as the set hurdle is exceeded. \n \nManagement fee = $100 million × 120% × 1% = $1.200 million. \n \nPerformance fee = [($100 million × 20%) – ($100 million × 3%) − $1.200 million)] × 15% \n= $2.370 million. \n \nTotal fee = $1.200 million + $2.370 million = $3.570 million. \n \nInvestor return = ($20 – $3.570) / $100 = 16.430% ≈ 16.4%."
     },
     {
-        "id": "vikas-vohra-alternative-investments-46",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7257,7 +6877,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. B is correct because the hurdle rate is a minimum rate of return, typically 8%, that \nthe GP must exceed in order to earn the performance fee. GPs typically receive 20% \nof the total profit of the private equity fund net of any hard hurdle rate, in which \ncase the GP earns fees on annual returns in excess of the hurdle rate, or net of the \nsoft hurdle rate, in which case the fee is calculated on the entire annual gross return \nas long as the set hurdle is exceeded. \n \nThe management fee is calculated as $1,500,000,000 × (1 + 20%) × 2% = $36,000,000 \nand the incentive fee is calculated as [$1,800,000,000 − $1,500,000,000 – \n($1,500,000,000 × 6%) − $36,000,000] × 20% = $34,800,000. Therefore, the total \nfees earned by the manager are $36,000,000 + $34,800,000 = $70,800,000."
     },
     {
-        "id": "vikas-vohra-alternative-investments-47",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7271,7 +6890,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. C is correct because the fee increases the value of the hedge fund by the fee amount. \nA redemption fee may be charged, typically payable to the fund itself (rather than \nthe manager). This is to protect remaining investors in the fund, particularly in \ncircumstances where the redemption takes place during the lockup period. This \ncharacteristic is called a soft lockup, and it offers a path (albeit an expensive one) \nto redeem early."
     },
     {
-        "id": "vikas-vohra-alternative-investments-48",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7285,7 +6903,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. C is correct because the futures price can be formalized in the following form: \nFutures price ≈ Spot price(1 + r) + Storage costs − Convenience yield, where r is the \nperiod's short-term risk-free interest rate. Thus, if Storage costs = Convenience \nyield, then Futures price ≈ Spot price(1 + r), from which Futures price > Spot price if \nr > 0."
     },
     {
-        "id": "vikas-vohra-alternative-investments-49",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7299,7 +6916,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. A is correct because the partnership agreement usually specifies that the \nperformance fee is earned only after the fund achieves a return known as a hurdle \nrate. The hurdle rate is a minimum rate of return, typically 8%, that the GP must \nexceed in order to earn the performance fee. GPs typically receive 20% of the total \nprofit of the private equity fund net of any hard hurdle rate, in which case the GP \nearns fees on annual returns in excess of the hurdle rate, or net of the soft hurdle \n                                                                         \n \nrate, in which case the fee is calculated on the entire annual gross return as long as \nthe set hurdle is exceeded. \n \nAUM at year-end = €200 million × 115% = €230 million. \n \nManagement fee = €230 million × 1.5% = €3.45 million. \n \nThe incentive fee is calculated net of management fees and there is also a hard hurdle \nrate. Accordingly, Incentive fee = (€230 million – €200 million – €3.45 million – €10 \nmillion) × 20% = €16.55 million × 20% = €3.31 million; where hard hurdle = €200 million \n× 5% = €10 million."
     },
     {
-        "id": "vikas-vohra-alternative-investments-50",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7313,7 +6929,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. B is correct because this is the definition of venture debt. Venture debt is private \ndebt funding that provides venture capital backing to start -up or early-stage \ncompanies that may be generating little or negative cash flow."
     },
     {
-        "id": "vikas-vohra-alternative-investments-51",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7327,7 +6942,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. C is correct because timberland investment involves ownership of raw land and the \nharvesting of its trees for lumber, thus generating an income stream and the \npotential for capital gain."
     },
     {
-        "id": "vikas-vohra-alternative-investments-52",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7341,7 +6955,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. B is correct because value-add investments may require modest redevelopment or \nupgrades, the leasing of vacant space, or repositioning the underlying properties to \nearn a higher return than core properties."
     },
     {
-        "id": "vikas-vohra-alternative-investments-53",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7355,7 +6968,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. C is correct because when futures prices are higher than the spot price, the \ncommodity forward curve is upward sloping, and the prices are referred to as being \nin contango."
     },
     {
-        "id": "vikas-vohra-alternative-investments-54",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7369,7 +6981,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. A is correct because take-or-pay arrangements, where payments are based upon the \navailability rather than the use of an asset, are used to mitigate demand/volume risk."
     },
     {
-        "id": "vikas-vohra-alternative-investments-55",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7383,7 +6994,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. B is correct because alternative investments' is a label for a disparate group of \ninvestments that are distinguished from long-only, publicly traded investments in \nstocks, bonds, and cash (often referred to as traditional investments)."
     },
     {
-        "id": "vikas-vohra-alternative-investments-56",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7397,7 +7007,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. A is correct because, for private real estate markets, transaction costs are high."
     },
     {
-        "id": "vikas-vohra-alternative-investments-57",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7411,7 +7020,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. C is correct because alternative Investments into three categories and several \nsubcategories as follows: 1. Private Capital 2. Real Assets 3. Hedge Funds. Other “real \nasset” investments may include tangible assets, such as fine wine, art, antique \nfurniture and automobiles, stamps, coins, and other collectibles, and intangible assets, \nsuch as patents and litigation actions."
     },
     {
-        "id": "vikas-vohra-alternative-investments-58",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7425,7 +7033,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. C is correct because if a general partner (GP) accrues an incentive fee on gains not \nyet fully realized and then subsequently gives back those gains, a limited partner (LP) \n                                                                         \n \nmay claw back prior incentive fee payments. A clawback provision reflects the right \nof LPs to reclaim part of the GP’s performance fee."
     },
     {
-        "id": "vikas-vohra-alternative-investments-59",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7439,7 +7046,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. A is correct because, when market prices or quotes are used for valuation, funds may \ndiffer in which price or quote they use (bid price, ask price, average quote, or median \nquote). A more conservative and accurate approach is to use bid prices for long \npositions and ask prices for short positions because these are more realistic prices \nat which the positions could be closed. However, some managers use a simplifying \napproach whereby they take the average of the bid and the ask; this approach is not \nas accurate and could be misleading."
     },
     {
-        "id": "vikas-vohra-alternative-investments-60",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7453,7 +7059,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. C is correct because, as a junior form of subordinated debt, mezzanine private debt \noffers higher growth potential, equity upside, and higher risk, with the comparatively \nhighest returns. Infrastructure debt is senior and poses the lowest risk, as compared \nto unitranche debt and mezzanine debt."
     },
     {
-        "id": "vikas-vohra-alternative-investments-61",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7467,7 +7072,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. B is correct because: \n \n$60 million × 2% = $1.2 million management fee. \n \n($60 – $50 – $1.2) million × 20% = $1.76 million incentive fee. \n \nTotal fees = $2.96 million. \n \nInvestor return = ($60 – $50 – $2.96)/$50 million = 14.08%. \nEquity Investments: Practice Pack \n\ncandidates for practice purpose."
     },
     {
-        "id": "vikas-vohra-alternative-investments-1",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7481,7 +7085,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "1. A is correct because decentralized exchanges lack a centralized control mechanism \nand operate on a distributed platform without central coordination or control. This \ncomes with the benefit that should one of the computers on the network be attacked, \nthe exchange remains operational since there are numerous other computers that \ncontinue to operate on the network. That is why attacking decentralized exchanges \nis substantially more difficult, rendering such attacks almost certain to fail. However, \nfor a centralized exchange, trading is hosted on private servers, exposing the \ncentralized exchanges and their clients to security vulnerabilities. Should the \nexchange's servers become compromised, the entire system may become paralyzed, \nhalting trade, and leaking vital user information. Hence, decentralized exchanges are \nless susceptible to attacks from hackers. Moreover, decentralized exchanges are \ndifficult to regulate because no single individual, organization, or group controls the \nsystem. This means that those trading on decentralized exchanges are generally free \nto transact without any regulatory scrutiny. However, some [centralized] exchanges \nare regulated, and depending on jurisdiction, these exchanges may be regulated as \nfinancial exchanges or other types of financial intermediaries. Hence, decentralized \nexchanges are less likely to be regulated."
     },
     {
-        "id": "vikas-vohra-alternative-investments-2",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7495,7 +7098,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. A is correct because digital asset investment can take the form of direct investment \non the blockchain or indirect investments. Direct ownership of bitcoin and other  \ncryptocurrencies involves the use of a cryptocurrency wallet, which stores the (public \nand private) digital codes required to access the asset on a computer website or \nmobile device application."
     },
     {
-        "id": "vikas-vohra-alternative-investments-3",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7509,7 +7111,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. C is correct because the correlation of cryptocurrencies with traditional assets is on \nthe rise."
     },
     {
-        "id": "vikas-vohra-alternative-investments-4",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7523,7 +7124,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. A is correct because in practice, prices (or returns) of cryptocurrencies are driven \nmore by market adoption, network effects, technological advancement, regulatory \ndevelopment, and general market risk appetite."
     },
     {
-        "id": "vikas-vohra-alternative-investments-5",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7537,7 +7137,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "5. C is correct because while there were around 70 cryptocurrencies recorded in 2013, \nby early 2022, there were close to 10,000 different cryptocurrencies issued by \ncorporations, organizations, and in many cases, individuals."
     },
     {
-        "id": "vikas-vohra-alternative-investments-6",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7551,7 +7150,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "6. C is correct because, unlike financial assets, most digital assets do not have an \ninherent value based on underlying assets or on the potential cash flow."
     },
     {
-        "id": "vikas-vohra-alternative-investments-7",
         "source": "Vikas Vohra",
         "subject": "Alternative Investments",
         "lm": "LM - Alternative Investments",
@@ -7565,7 +7163,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "7. C is correct because lockup periods—time periods when investors cannot withdraw \ntheir capital—provide the hedge fund manager the required time to implement and \npotentially realize a strategy’s expected results. Lockup periods apply to new \ninvestors in a hedge fund with the goal of allowing the hedge fund manager time to \nimplement the fund's investment strategy."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-8",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7579,7 +7176,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. A is correct because short-term debt is included in a company's financial balance \nsheet."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-9",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7593,7 +7189,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. A is correct because tiered pricing is charging different prices to different buyers, \noften based on volume purchased but also based on product features (e.g., base \nversus premium trims of vehicles)."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-10",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7607,7 +7202,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. B is correct because a pull on liquidity is when disbursements (outflows) are paid too \nquickly by the company or trade credit availability is limited, requiring companies to \nexpend funds before they receive funds from sales that could cover the liability. \nAlso, major pulls on payments include Reduced credit limits. >If a company has a \nhistory of making late payments, suppliers might cut the amount of credit they will \nallow to be outstanding at any time.” So, reduced credit limits are a pull on a company’s \nliquidity."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-11",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7621,7 +7215,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. C is correct because penetration pricing is an example of discount pricing and is used \nwhen a firm willingly sacrifices margins in order to build scale and market share."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-12",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7635,7 +7228,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. B is correct because a supply chain refers to the sequence of processes involved in \nthe creation of a product, both within and external to a firm. A supply chain includes \nall the steps involved in producing and delivering a physical product to the end \ncustomer, regardless of whether those steps are performed by a single firm."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-13",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7649,7 +7241,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. C is correct because a company will produce a product using someone else’s brand \nname in return for a royalty under a licensing arrangement."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-14",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7663,7 +7254,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because a clearly described business model helps the analyst understand \na business: how it operates, its strategy, target customers, key partners, prospects, \nrisks, and financial profile. Rather than rely on management’s description of its \nbusiness model, analysts should develop their own understanding."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-15",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7677,7 +7267,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. B is Correct because a drag on liquidity is when receipts lag, creating pressure from \nthe decreased available funds. Major drags on receipts involve pressures from credit \nmanagement and deterioration in other assets and include: Uncollected receivables. \nThe longer these are outstanding, the greater the risk that they will not be collected \nat all."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-16",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7691,7 +7280,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. B is correct because an increased ability to support debt is indicated by high revenue, \nlow operating leverage, and greater fungible assets."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-17",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7705,7 +7293,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. C is correct because as the debt-to-equity ratio increases and the company uses more \ndebt, its risk goes up and the cost of equity must increase. MM Proposition II holds \n                                                                                    \n \nthat the increase in the cost of equity must exactly offset the greater use of lower \ncost debt."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-18",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7719,7 +7306,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. C is correct because at the mature stage, the company becomes able to support low-\ncost debt, often on an unsecured basis. From the company’s perspective, debt \nfinancing is likely to be more attractive than higher-cost equity financing. Also, as \ncompanies mature, business risk typically declines, and their cash flows turn positive \nand become increasingly predictable, allowing for greater use of leverage on more \nattractive (less costly) financing terms. Debt then becomes a larger component of \ntheir capital structures."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-19",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7733,7 +7319,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. B is correct because compared with shareholders, managers typically have greater \naccess to information about the business and are more knowledgeable about its \noperations. Such 'information asymmetry' (that is, unequal access to information) \nmakes it easier for managers to make strategic decisions that are not necessarily in \nthe best interest of shareholders and weakens the ability of shareholders to \nexercise control."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-20",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7747,7 +7332,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. C is correct because expansion projects typically involve greater uncertainty, time, \nand amounts of capital than going concern projects."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-21",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7761,7 +7345,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. A is correct because debt represents a cheaper financing source for companies and \na lower risk for investors. Because the returns to lenders are capped and because \nthe cost of debt is lower than the cost of equity, corporations with predictable cash \nflows may prefer to borrow money rather than sell an ownership stake to raise the \ncapital they need to finance their investments. This is because issuing more equity \ndilutes upside return for existing equity owners given that residual value must be \nshared across more owners."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-22",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7775,7 +7358,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. A is correct because default risks are also mitigated by properly functioning audit \nsystems, transparent and better reporting of earnings, and controlling information \nasymmetries between the company and its capital providers. Lower default risks are \nassociated with better credit ratings for the company and lower costs of debt \nborrowing, given that creditors typically require a lower return when their funds are \nbetter secured and their rights protected. Thus, an effective corporate governance \nstructure will result in lower cost of debt borrowing for the company."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-23",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7789,7 +7371,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. A is correct because for a capital investment with one investment outlay, made \ninitially, the net present value (NPV) is the present value of the future after-tax cash \nflows minus the investment outlay  \n \n                                                                                    \n \nWe calculate the present value of the future after -tax cash flows using the \ncalculator with the following parameters: \nYearly after-tax payment/cash-flow: PMT = 50 × (1 – 0.15) = 42.5 \nNumber of payments: N = 6 \nInt. rate = 12%, \n \nTo calculate the NPV, from the present value we subtract the initial $90 million \noutflow. Accordingly, NPV = $174.7 million – $90.0 million = $84.7 ≈ $85 million."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-24",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7803,7 +7384,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. B is correct because key features of sole proprietorships include the following: \nOperational simplicity and flexibility."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-25",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7817,7 +7397,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. A is correct because if interest can be deducted in full, the tax deductibility of debt \nreduces the effective marginal cost of debt to reflect the income shielded from \ntaxation and the marginal cost of debt is rd(1 – t). The cost of debt capital is the only \ncost of capital that can benefit from a tax shield."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-26",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7831,7 +7410,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. C is correct because in real estate, utilities, shipping, airlines, and certain other highly \ncapital-intensive businesses, the underlying assets can be bought and sold fairly \neasily, tend to retain their value regardless of who owns them, and can therefore \nsupport substantial debt secured by those assets."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-27",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7845,7 +7423,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. A is correct because if the cash flow from abandoning an investment exceeds the \npresent value of the cash flows from continuing the investment, the company should \nexercise the abandonment option. Conversely, if the PV of the cash flows from \ncontinuing the investment is lower than the cash flow from abandoning the \ninvestment, the company should exercise the abandonment option."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-28",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7859,7 +7436,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. B is correct because Modigliani and Miller also show that the cost of equity for the \nsame company with debt is: re = r0 + (r0 – rd)(1 – t)(D/E), where: \n \nre = cost of equity \n \nro = cost of capital for a company financed only with equity \n \nrd = cost of debt \n \nD = market value of debt \n \nE = market value of equity. \n \n                                                                                    \n \nCost of equity = 0.09 + (0.09 – 0.04)×(1 – 0.25)×(£15,000/(£40,000 – 15,000)) = 0.1125 \n≈ 11.3%."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-29",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7873,7 +7449,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. C is correct because interest coverage ratios are also commonly used to assess \ncompanies’ debt capacities. Generally, these ratios provide an estimate of how many \ntimes a company can cover its interest expense (or interest expense plus lease \npayments) with current earnings (usually measured as EBIT or EBITDA). In other \nwords, interest coverage ratios provide an indication of a company’s financial cushion \nin meeting its debt service obligations. The larger the interest coverage ratio, the \nlarger the financial cushion and the greater the company’s ability to service its debt \nobligations."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-30",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7887,7 +7462,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. B is correct because Modigliani and Miller proved that changing the capital structure \ndoes not affect firm value. The value of a firm is thus determined not by the \nsecurities it issues but, rather, by its expected future cash flows."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-31",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7901,7 +7475,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. B is correct because primary sources of liquidity are liquidity sources that are the \nmost readily accessible resources available to the company. One of the examples is \ncash flow management, which is the company's effectiveness in its cash management \nsystem and practices, and the degree of decentralization of the collections or \npayments processes. The more decentralized the system of collections, for example, \nthe more likely the company will be to have cash tied up in the system and not available \nfor use. Therefore, an effective cash management system is a primary source of \nliquidity as it is likely to be the most readily accessible resources available to the \ncompany."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-32",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7915,7 +7488,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. B is correct because public debtholders do not have access to non-public information. \nPublic debtholders (or bondholders) rely on public information and credit rating \nagency determinations to make their investment decisions. Unlike shareholders, \ndebtholders do not hold voting power, and they typically have limited influence over \na company’s day-to-day operations."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-33",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7929,7 +7501,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. C is correct because MM Proposition II without taxes tells us that adding any amount \nof lower-cost debt capital to the capital structure is always perfectly offset by an \nincrease in the cost of equity, resulting in no change to the company’s overall weighted \naverage cost of capital."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-34",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7943,7 +7514,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. C is correct because Modigliani and Miller show that in the presence of corporate \ntaxes (but not personal taxes), the value of the levered company is greater than that \nof the all-equity company by an amount equal to the tax rate multiplied by the value \nof the debt, also termed the debt tax shield."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-35",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7957,7 +7527,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. A is correct because key features of limited partnerships include: • GP operates the \nbusiness, having unlimited liability, • LPs have limited liability but lack control over \nbusiness operations."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-36",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7971,7 +7540,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because one common pitfall is basing investment decisions on EPS, net \nincome, or ROE: Companies sometimes have incentives to boost earnings per share, \nnet income, or return on equity. Many investments, even those with strong NPVs, do \nnot increase these accounting numbers in the short run and may even reduce them. \nPaying too much attention to short-run accounting numbers can result in a company \nchoosing investments that are not in the long -run economic interests of its \nshareholders."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-37",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7985,7 +7553,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. C is correct because operating leverage captures the sensitivity of operating profit, \nproxied by EBIT, to a change in revenues."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-38",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -7999,7 +7566,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. C is correct because proxy voting is a process that enables shareholders who are \nunable to attend a meeting to authorize another individual (for example, another \nshareholder or director) to vote on their behalf."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-39",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8013,7 +7579,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. A is correct because owners in a corporation have limited liability."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-40",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8027,7 +7592,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. A is correct because secondary sources include: filing for bankruptcy protection and \nreorganization. Further, reorganization through bankruptcy, may also be considered \na liquidity tool because a company under bankruptcy protection that generates \noperating cash will be liquid and generally able to continue business operations until a \nrestructuring has been devised and approved."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-41",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8041,7 +7605,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. A is correct because sizing options encompass abandonment or expansion of capacity. \nIf after investing the company can abandon the investment if the financial results \nare disappointing, it has an abandonment option. At some future date, if the cash flow \nfrom abandoning an investment exceeds the present value of the cash flows from \ncontinuing the investment, the company should exercise the abandonment option. \nConversely, if the company can make additional investments when future financial \nresults are strong, the company has a growth option or an expansion option."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-42",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8055,7 +7618,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. C is correct because ROIC reflects how effectively a company’s management is able \nto convert capital into after-tax operating profits."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-43",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8069,7 +7631,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. C is correct because shareholder losses are limited to their initial investment. For \nboth equityholders and debtholders, their initial investment represents their \nmaximum possible loss."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-44",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8083,7 +7644,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. C is correct because social factors considered in ESG implementation generally \npertain to the management of the human capital of a business, including human rights \nand welfare concerns in the workplace; product development; and, in some cases, \ncommunity impact."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-45",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8097,7 +7657,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. A is correct because tax disadvantage for owners in countries with double taxation \nis a key feature of corporations. In most countries, corporations are taxed directly \non their profits. In many countries, shareholders pay an additional tax on \ndistributions (dividends) that are passed on to them. Economists refer to this as the \ndouble taxation of corporate profits."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-46",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8111,7 +7670,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. B is correct because the main difference between primary and secondary sources of \nliquidity is that using a primary source is not likely to affect the normal operations \nof the company, whereas using a secondary source might result in a change in the \ncompany’s financial and operating positions. Secondary sources used by companies  \ninclude: liquidating assets, which depends on the degree to which short-term and/or \nlong-term assets can be liquidated and converted into cash without substantial loss \nin value."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-47",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8125,7 +7683,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. B is correct because the main role of the board’s governance committee is to ensure \nthat the company adopts good corporate governance structures and practices. For \nthis purpose, it oversees the development of the governance policies at the company \nsuch as  \n• the corporate governance code \n• the charter of the board and its committees \n• the code of ethics and \n• the conflict of interest policy, among others."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-48",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8139,7 +7696,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. A is correct because the IRR is the discount rate that makes the present value of \nthe future after-tax cash flows equal that investment outlay or ∑nt=1 CFt ÷ (1 + IRR)t \n= Outlay, where IRR is the internal rate of return. Solved using the following \ncalculator inputs: CF0 = −150, CF1 = 8, CF2 = 175, Calculate IRR = 10.7119, rounded to \n10.71% which is less than 12%."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-49",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8153,7 +7709,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. A is correct because the marginal cost of debt financing is the cost of debt after \nconsidering the allowable deduction for interest on debt. If interest can be deducted \nin full, the tax deductibility of debt reduces the effective marginal cost of debt to \nreflect the income shielded from taxation (often referred to as the tax shield) and \nthe marginal cost of debt is rd(1 – t). If the marginal tax rate increases, this \nincreases the tax shield and lowers the marginal cost of debt and also the WACC."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-50",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8167,7 +7722,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. B is correct because the Modigliani and Miller proposition implies that higher leverage \nraises the cost of equity but does not change firm value or WACC."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-51",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8181,7 +7735,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. A is correct because the NPV, including the real option, should be: \nProject NPV = NPV (based on DCF alone) – Cost of options + Value of options. \nProject NPV = –$0.2 million – $0.4 million + $0.8 million = $0.2 million."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-52",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8195,7 +7748,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. C is correct because the pecking order theory suggests that managers choose \nmethods of financing according to a hierarchy that gives first preference to methods \nwith the least potential information content (internally generated funds) and lowest \npreference to the form with the greatest potential information content (public equity \nofferings). In brief, managers prefer internal financing. If internal financing is \ninsufficient, managers next prefer debt, then equity."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-53",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8209,7 +7761,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. B is correct because the positive aspect of a staggered board, though, is that it \nprovides continuous implementation of strategy and oversight without constantly \nbeing reassessed by new board members, which otherwise risks bringing short -\ntermism into company strategy."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-54",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8223,7 +7774,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. C is correct because the potential debt/equity conflict is greater in the case of long-\nterm rather than short-term debt because the passage of time exposes debtholders \nto possible changes in business conditions, strategy, and management behavior."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-55",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8237,7 +7787,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. C is correct because the primary stakeholder groups of a corporation consist of \nshareholders, creditors, managers (or executives), other employees, board of \ndirectors, customers, suppliers, and governments/regulators (and, by extension, \naffected individuals and community groups)."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-56",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8251,7 +7800,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. A is correct because the relationship between shareholders and managers/directors \nis a classic example of a principal–agent relationship, whereby shareholders (the \nprincipal in this case) elect directors (an agent) who are expected to protect their \ninterests by appointing senior managers (another agent) to run the company."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-57",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8265,7 +7813,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. B is correct because the WACC = wdrd × (1 – t) + wprp + were. \nWhere: \nwd = the market value weight for debt = 60 / (60 + 20 + 120) = 0.30 \nrd = the before-tax cost of debt = 6% \nt = the company's marginal tax rate = 40% = 0.4 \nwp = the market value weight for preferred stock = 20 / (60 + 20 + 120) = 0.10 \nrp = the marginal cost of preferred stock = 8% \nwe = the market value weight for equity = 120 / (60 + 20 + 120) = 0.60 \n \n                                                                                    \n \nre = the marginal cost of equity = 15% \nWACC = (0.30 × 6% × (1 – 0.4)) + (0.10 × 8%) + (0.60 × 15%) = 10.88%."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-58",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8279,7 +7826,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. A is correct because to limit bondholders’ risk during the term of a bond (or loan), \nthe bond indenture typically contains covenants, which are the terms and conditions \nof lending agreements, enabling creditors to specify the actions an issuer is obligated \nto perform or prohibited from performing."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-59",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8293,7 +7839,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. C is Correct because the weight of debt is determined by the formula: \nwd= D/E / (1 + D/E) where D is the value of debt and E is the value of equity. Weight \nof equity (we) is represented by 1 minus the weight of debt. Calculation: 1 - 0.5/ (1.5) \n= 1 - 0.333 = 0.667 ≈ 0.67."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-60",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8307,7 +7852,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. C is correct because to raise more capital after listing, public companies may issue \nadditional shares in the capital markets, typically raising very large amounts from \nmany investors who may then actively trade shares among themselves in the \nsecondary market. In contrast, private companies finance much smaller amounts in \nthe primary market (private debt or equity) with far fewer investors who have much \nlonger holding periods."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-61",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8321,7 +7865,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. B is correct because tiered pricing charges different prices to different buyers, \nmost commonly based on volume purchased."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-62",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8335,7 +7878,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. A is correct because when the choice is between two mutually exclusive projects and \nthe NPV and IRR rank the two projects differently, the NPV criterion is strongly \npreferred. ... As a practical matter, once a corporation has the data to calculate the \nNPV, it is fairly trivial to then calculate the IRR and other capital allocation criteria. \nHowever, the most appropriate and theoretically sound criterion is the NPV."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-63",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8349,7 +7891,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. B is correct because when it comes to corporations, 'public' and 'private' are typically \ndefined by whether the company’s equity is listed on a stock exchange, although in \nsome countries whether a company is considered public or not may depend on its \nnumber of shareholders, irrespective of whether it is listed."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-64",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8363,7 +7904,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. B is correct because when the choice is between two mutually exclusive projects and \nthe NPV and IRR rank the two projects differently, the NPV criterion is strongly \npreferred. we referred to the rate used in discounting the cash flows as the \n“required rate of return.” The required rate of return is the discount rate that the \nissuer’s suppliers of capital require given the riskiness of the project. This discount \nrate is frequently called the “opportunity cost of funds” or the “cost of capital.” For \na capital investment with one investment outlay, made initially, the net present value \n                                                                                    \n \n(NPV) is the present value of the future after-tax cash flows minus the investment \noutlay, where the discount rate equals the required rate of return."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-65",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8377,7 +7917,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. B is correct because regulatory and compliance projects are required by third \nparties, such as government regulatory bodies, to meet safety and regulatory \ncompliance standards. The investment in new technology to meet improved safety \nstandards is therefore a compliance project."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-66",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8391,7 +7930,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "66. C is correct because, for 'product' businesses, the traditional channel strategy is \ntypically reflected in the flow of finished goods (e.g., from manufacturer to \nwholesaler, retailer, and end customer), each with its own physical facilities and with \nthe product sold and purchased at each stage."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-67",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8405,7 +7943,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "67. A is correct because Project 1 has a higher NPV. For mutually exclusive investments \nthat are ranked differently by the NPV and IRR, the NPV criterion is more \neconomically sound. \nDerivatives: Practice Pack"
     },
     {
-        "id": "vikas-vohra-corporate-issuers-1",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8419,7 +7956,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "1. A is correct because debt must be repaid on a pre-specified date in the future with \ninterest."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-2",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8433,7 +7969,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. C is correct because contract manufacturers produce goods to be marketed by \nothers."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-3",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8447,7 +7982,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. C is correct because an issuer’s income statement distinguishes between its financial \nincome or net income once fixed obligations have been met and its 'economic' profit, \nor return to a firm’s owners in excess of what they could have earned elsewhere on \ndifferent investments, known as their required rate of return on equity."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-4",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8461,7 +7995,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. B is correct because private company investors may be limited to qualified or so-\ncalled accredited investors or sophisticated investors, or those deemed to be able \nand willing by regulatory authorities to assume the greater risk of a non -public \noffering."
     },
     {
-        "id": "vikas-vohra-corporate-issuers-5",
         "source": "Vikas Vohra",
         "subject": "Corporate Issuers",
         "lm": "LM - Corporate Issuers",
@@ -8475,7 +8008,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "5. C is correct because as multi-sided [two-sided] networks grow—more users join the \nservice, which attracts more merchants, which in turn attracts more users—these \nbusinesses can grow exponentially."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-7",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8489,7 +8021,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "7. A is correct because algorithmic trading requires access to low-latency networks, and \nwith the wide-spread adoption of algorithmic trading, the need for low -latency \nnetworks has grown. Low-latency systems—systems that operate on networks that \ncommunicate high volumes of data with minimal delay (latency)—are essential for \nautomated trading applications that make decisions based on real-time prices and \nmarket events. In contrast, high-latency systems do not require access to real-time \ndata and calculations. High-frequency trading is a form of algorithmic trading that \nmakes use of vast quantities of granular financial data (tick data, for example) to \nautomatically place trades when certain conditions are met. Trades are executed on \nultra-high-speed, low-latency networks in fractions of a second."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-8",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8503,7 +8034,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. C is correct because an ML model that has been overfitted is not able to accurately \npredict outcomes using a different dataset and may be too complex. Also, underfitted \nmodels will typically fail to fully discover patterns that underlie the data and thus \nmay not be able to accurately predict outcomes."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-9",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8517,7 +8047,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. C is correct because as the complexity and size of an investor’s portfolio grows, robo-\nadvisers may not be able to sufficiently address the particular preferences and needs \nof the investor. In the case of extremely affluent investors who may own a greater \nnumber of asset types—including alternative investments (e.g., venture capital, \nprivate equity, hedge funds, and real estate)—in addition to global stocks and bonds \nand have greater demands for customization, the need for a team of human advisers, \neach with particular areas of investment or wealth-management expertise, is likely \nto endure."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-10",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8531,7 +8060,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. C is correct because despite the different ways to formulate hypotheses, we always \nconduct a test of the null hypothesis at the point of equality, θ = θ0. We may have a \n‘suspected' or ‘hoped for' condition for which we want to find supportive evidence. \nIn that case, we can formulate the alternative hypothesis as the statement that this \ncondition is true; the null hypothesis that we test is the statement that this condition \nis not true. Here, the “suspected” condition is that the population's mean is greater \nthan zero (µ > 0)."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-11",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8545,7 +8073,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. B is correct because for a contingency table we can perform a test of independence \nusing a nonparametric test statistic that is chi-square distributed this test statistic \nhas (r – 1)(c – 1) degrees of freedom, where r is the number of rows and c is the \nnumber of columns. Here, r = 5 and c = 4, so degrees of freedom = (5 – 1)(4 – 1) = 4 × \n3 = 12."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-12",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8559,7 +8086,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. B is correct because for a Parametric Test of a Correlation if the two variables are \nnormally distributed, we can test to determine whether the null hypothesis (H0: ρ = \n0) should be rejected using the sample correlation, r. The formula for the t-test is"
     },
     {
-        "id": "vikas-vohra-quantitative-methods-13",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8573,7 +8099,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. B is correct because for the continuous negatively skewed unimodal distribution, the \nmean is less than the median, which is less than the mode. Therefore, the mode has \nthe highest value."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-14",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8587,7 +8112,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. C is correct because if returns are normally distributed, the safety-first optimal \nportfolio maximizes the safety-first ratio. SFRatio = [E(RP) – RL] / σP, where E(RP) \nis the expected portfolio return, RL is the investor's minimum acceptable return, and \nσP is the standard deviation of portfolio returns. The minimum acceptable return is \n5% (= €5,000 / €100,000) as the investor needs to withdraw €5,000 without invading \ninitial capital; SFP1 = (23% – 5%) / 15% = 1.20; SFP2 = (12% – 5%) / 6% ≈ 1.17; SFP3 \n= (15% – 5%) / 8% = 1.25. Therefore, Portfolio 3 is the safety-first optimal portfolio. \n“The portfolio for which E(RP) − RL is largest relative to standard deviation minimizes \nP(RP < RL)."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-15",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8601,7 +8125,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. C is correct because if the relationship between the independent variable and the \ndependent variable is not linear, we can often transform one or both of these \nvariables to convert this relation to a linear form, which then allows the use of simple \nlinear regression."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-16",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8615,7 +8138,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. A is correct because for a continuous positively skewed unimodal distribution, the \nmode is less than the median, which is less than the mean."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-17",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8629,7 +8151,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. C is correct because in its broadest sense, the term 'fintech' generally refers to \ntechnology-driven innovation occurring in the financial services industry. For the \npurposes of this reading, fintech refers to technological innovation in the design and \ndelivery of financial services and products. Note, however, that in common usage, \nfintech can also refer to companies (often new, startup companies) involved in \ndeveloping the new technologies and their applications, as well as the business sector \nthat comprises such companies."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-18",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8643,7 +8164,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. B is correct because it is the standard error of the estimate calculated as the square \nroot of the mean square error; (10)^0.5 = 3.2. The mean square error (MSE) is \ncalculated as SSE / (n – 2); 280 / (30 – 2) = 10.0, where SSE is the sum of squares \nerror."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-19",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8657,7 +8177,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. A is correct because in bootstrap, we repeatedly draw samples from the original \nsample, and each resample is of the same size as the original sample. Note that each \nitem drawn is replaced for the next draw (i.e., the identical element is put back into \nthe group so that it can be drawn more than once). Assuming we are looking to find \n\n                                                                         \n \nthe standard error of sample mean, we take many resamples and then compute the \nmean of each resample."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-20",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8671,7 +8190,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. A is correct because in regression analysis, we can use an F-distributed test statistic \nto test whether the slopes in a regression are equal to zero, with the slopes \ndesignated as bi, against the alternative hypothesis that at least one slope is not \nequal to zero for simple linear regression, these hypotheses simplify to H0: b1 = 0. \nHa: b1 ≠ 0."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-21",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8685,7 +8203,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. B is correct because probabilities for different scenarios and different outcomes \nare best represented using a tree diagram."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-22",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8699,7 +8216,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. C is correct because NLP [natural language processing] may be used to monitor analyst \ncommentary to aid investment decision making. Since analysts tend not to change \ntheir buy, hold, and sell recommendations for a company frequently, they may instead \noffer nuanced commentary without making a change in their investment \nrecommendation. NLP can, therefore, be used to detect, monitor, and tag shifts in \nsentiment, potentially ahead of an analyst's recommendation change."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-23",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8713,7 +8229,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. B is correct because scatter plots are a very useful tool for the sensible \ninterpretation of a correlation coefficient. A scatter plot is a type of graph for \nvisualizing the joint variation in two numerical variables. It is a useful tool for \ndisplaying and understanding potential relationships between the variables."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-24",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8727,7 +8242,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. A is correct because mean–variance analysis generally considers risk symmetrically in \nthe sense that standard deviation captures variability both above and below the mean. \nAn alternative approach evaluates only downside risk. We discuss one such approach, \nsafety-first rules, as it provides an excellent illustration of the application of normal \ndistribution theory to practical investment problems. Safety-first rules focus on \nshortfall risk, the risk that portfolio value will fall below some minimum acceptable \nlevel over some time horizon. Roy's safety-first criterion states that the optimal \nportfolio minimizes the probability that portfolio return, RP, falls below the \nthreshold level, RL."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-25",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8741,7 +8255,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. C is correct because probability sampling gives every member of the population an \nequal change of being selected. Hence it can create a sample that is representative \nof the population. In contrast, non-probability sampling depends on factors other \nthan probability considerations, such as a sampler's judgment or the convenience to \naccess data. Consequently there is a significant risk that non-probability sampling \nmight generate a non-representative sample. In general, all else being equal, \nprobability sampling can yield more accuracy and reliability compared with non -\nprobability sampling."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-26",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8755,7 +8268,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. B is correct because the t-statistic for a paired comparisons test has n – 1 degrees \nof freedom, where n is the number of pairs of observations. When n = 30, the number \nof degrees of freedom is 30 – 1 = 29."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-27",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8769,7 +8281,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. B is correct because the interquartile range (IQR) is the difference between the \nthird quartile and the first quartile, or IQR = Q3 − Q1 \" = 93 – 11 = 82. Quartiles \ndivide the distribution into quarters."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-28",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8783,7 +8294,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. B is correct because the power of a test is the probability of Correct ly rejecting \nthe null—that is, the probability of rejecting the null when it is false."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-29",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8797,7 +8307,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. B is correct because the 19th observation is located at the 25th percentile;"
     },
     {
-        "id": "vikas-vohra-quantitative-methods-30",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8811,7 +8320,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. C is correct because sampling error is the difference between the observed value of \na statistic and the quantity it is intended to estimate."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-31",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8825,7 +8333,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. B is correct because the central limit theorem states that the variance of the \ndistribution of the sample mean is σ2/n. The positive square root of variance is \nstandard deviation. The standard deviation of a sample statistic is known as the \nstandard error of the statistic. The sample mean, in addition to being an efficient \nestimator, is also a consistent estimator of the population mean: As sample size n \ngoes to infinity, its standard error, σ/√n, goes to 0 and its sampling distribution \nbecomes concentrated right over the value of population mean, µ."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-32",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8839,7 +8346,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. A is correct because the variance of a random variable is the expected value (the \nprobability-weighted average) of squared deviations from the random variable’s \nexpected value: σ2(X) = E[X – E(X)]^2. Since each scenario is equally likely \n(probability = 1/3), E(X) = (2.0 + 2.2 + 2.4)/3 = 2.2, so σ2(X) = [(2.0 – 2.2)^2 + (2.2 – \n2.2)^2 + (2.4 – 2.2)^2]/3 = [0.04 + 0.04]/3 = 0.08/3 = 0.0267 ≈ 0.03 [in $^2]."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-33",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8853,7 +8359,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. A is correct because the 50th percentile is the median, which is the average of the \ntwo middle items; (£0.50 + £2.50)/2 = £1.50. In an odd-numbered sample of n items, \nthe median occupies the (n + 1)/2 position. In an even-numbered sample, we define \nthe median as the mean of the values of items occupying the n/2 and (n + 2)/2 \npositions (the two middle items). Calculating the median may also be more complex; \nto do so, we need to order the observations from smallest to largest, determine \nwhether the sample size is even or odd and, on that basis, apply one of two \n\n                                                                         \n \ncalculations. Alternatively, the 50th percentile when Ly is not a whole number or \ninteger, Ly lies between the two closest integer numbers (one above and one below), \nand we use linear interpolation between those two places to determine Py.  That is, \nLy = (n + 1)(y/100) = (4 + 1)(50/100) = 2.5. Hence, 2 is the closest integer below the \ncalculated location and 3 is the closest integer above the calculated location. Using \nlinear interpolation, P50 = £0.50 + (£2.50 – £0.50) × (2.5 – 2) = £1.50."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-34",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8867,7 +8372,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. C is correct because the standard error of the estimate is a measure of the distance \nbetween the observed values of the dependent variable and those predicted from the \nestimated regression."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-36",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8881,7 +8385,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because the coefficient of variation, CV, is the ratio of the standard \ndeviation of a set of observations to their mean value. When the observations are \nreturns, for example, the coefficient of variation measures the amount of risk \n(standard deviation) per unit of mean return."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-37",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8895,7 +8398,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. B is correct because the formula for the position of a percentile in an array with n \nentries sorted in ascending order is Ly = ( n + 1) × y/100, where y is the percentage \npoint at which we are dividing the distribution and Ly is the location ( L) of the \npercentile ( Py) in the array sorted in ascending order. With seven entries, the \nlocation of the second quartile, or 50th percentile, is: Ly = (7 + 1) × 50/100 = 4. When \nplacing the funds' returns in ascending order (3%; 3%; 4%; 5%; 7%; 8%; 12%), the \nreturn of the 4th fund is 5%. \n \nAlternatively, candidates might realize that the second quartile or 50th percentile is \nthe median. The median is the value of the middle item of a set of items that has \nbeen sorted into ascending or descending order. In an odd-numbered sample of n \nitems, the median occupies the ( n + 1)/2 position. Hence, the median return is 5%."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-38",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8909,7 +8411,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. C is correct because the correlation coefficient expresses the strength of the linear \nrelationship between the two random variables."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-39",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8923,7 +8424,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. A is correct because the correlation between two random variables, Ri and Rj, is \ndefined as ρ(Ri,Rj) = Cov(Ri,Rj)/[σ(Ri)σ(Rj)], where Cov denotes the covariance and σ \nthe standard deviation. Since the standard deviation of each asset occurs in the \ndenominator of the correlation formula, it is clear that, all else being equal, an \nincrease in the variance (hence standard deviation) of either variable will decrease \nthe correlation."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-40",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8937,7 +8437,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. A is correct because the correlation coefficient is a measure of the linear association \nbetween two variables; it would not be appropriate to use the correlation coefficient \nto measure the non-linear relationship between variables."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-41",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8951,7 +8450,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. A is correct because the equation to estimate the standard error of the sample mean \neffectively computes the sample standard deviation of the different means \ngenerated across all resamples. Hence the mean of each resample is required. \nHowever, neither the mean, nor the standard deviation, of the original sample are \nrequired."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-43",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8965,7 +8463,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. C is correct because the expected value of a random variable X given an event or \nscenario S is denoted E(X | S). Suppose the random variable X can take on any one of \nn distinct outcomes X1, X2, …, Xn (these outcomes form a set of mutually exclusive \nand exhaustive events). The expected value of X conditional on S is the first outcome, \nX1, times the probability of the first outcome given S, P(X1 | S), plus the second \noutcome, X2, times the probability of the second outcome given S, P(X2 | S), and so \nforth. In our case, S = Favorable scenario, X1 = Dividend of $2.50, X2 = Dividend of \n$1.50, P(X1 | S) = 0.80, and P(X2 | S) = 0.20. Thus, the expected dividend given the \nfavorable scenario = (0.80 × $2.00) + (0.20 × $1.50) = $1.90."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-44",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8979,7 +8476,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. B is correct because the lin-log model is similar to the log-lin model, but only the \nindependent variable is in logarithmic form."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-45",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -8993,7 +8489,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. C is correct because the formula for calculating the covariance between random \nvariables RA and RB is Cov(RA,RB) = ΣΣP(RA,i,RB,j)(RA,i – E[RA])(RB,j – E[RB]). \n \nThe expected return (given) for each company is: \n \nE[RX] = 0.2(20) + 0.4(15) + 0.4(10) = 4 + 6 + 4 = 14, \n \nE[RY] = 0.2(15) + 0.4(10) + 0.4(5) = 3 + 4 + 2 = 9. \n \n\n                                                                         \n \nHence, Cov(RX,RY) = 0.2(20 – 14)(15 – 9) + 0.4(15 – 14)(10 – 9) + 0.4(10 – 14)(5 – 9) = \n0.2(6)(6) + 0.4(1)(1) + 0.4(–4)(–4) = 7.2 + 0.4 + 6.4 = 14."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-46",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9007,7 +8502,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. A is correct because the mean absolute deviation of 1.5% is less than the sample \nstandard deviation of 1.83%. The mean absolute deviation, MAD, is calculated as:"
     },
     {
-        "id": "vikas-vohra-quantitative-methods-47",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9021,7 +8515,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. B is correct because the portfolio standard deviation is 2.1%;"
     },
     {
-        "id": "vikas-vohra-quantitative-methods-48",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9035,7 +8528,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. C is correct because the power of a test is the probability of Correct ly rejecting \nthe null–that is, the probability of rejecting the null when it is false. Failing to reject \nthe null hypothesis when it is false is a Type II error. So the power of the test is \nequal to one minus the probability of Type II error."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-49",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9049,7 +8541,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. C is correct because the prediction interval is equal to the predicted value of the \ndependent variable plus/minus the critical t-value times the standard error of the \nforecast. The better the fit of the regression model, the smaller the standard error \nof the estimate (se) and, therefore, the smaller standard error of the forecast. \nWhen the standard error of the estimate increases, the standard error of the \nforecast will increase, which will lead to a wider prediction interval if holding other \nthings constant."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-50",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9063,7 +8554,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. B is correct because the residual for the ith observation, ei, is how much the observed \nvalue of Yi differs from the estimated [value] using the regression line. Further, the \nresidual refers to the fitted linear relation based on the sample."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-51",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9077,7 +8567,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. A is correct because the target downside deviation = [Σ(Xi – B)^2/(n – 1)]^0.5, where \nXi are the periodic returns below the target return, B is the target return, and n is \nthe total number of periods. Since the sample has a standard deviation of 2.7%, it \nwill have values below and above its mean of 1.0%. Since the target downside deviation \nignores the deviations above the mean, it will be less than the standard deviation."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-52",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9091,7 +8580,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. A is correct because the trimmed mean is computed by excluding a stated small \npercentage of the lowest and highest values and then computing an arithmetic mean \nof the remaining values. For example, a 5% trimmed mean discards the lowest 2.5% \nand the highest 2.5% of values and computes the mean of the remaining 95% of \nvalues."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-53",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9105,7 +8593,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. C is correct because the relationship between normal and lognormal distributions is \nif a stock's continuously compounded return is normally distributed, then future \nstock price is necessarily lognormally distributed."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-54",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9119,7 +8606,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. B is correct because the sampling procedure does not give every member of the \npopulation an equal chance of being selected. It is based on the analyst's convenience. \nNon-probability sampling depends on factors other than probability considerations, \nsuch as a sampler’s judgment or the convenience to access data."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-55",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9133,7 +8619,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. B is correct because the two most noteworthy observations about the lognormal \ndistribution are that it is bounded below by 0 and it is skewed to the right (it has a \nlong right tail), i.e. it is asymmetrical."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-56",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9147,7 +8632,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. B is correct because the variation of Y (the dependent variable) is often referred to \nas the sum of squares total (SST), or the total sum of squares."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-57",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9161,7 +8645,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. A is correct because tokenization is the process of representing ownership rights to \nphysical assets on a blockchain or distributed ledger."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-58",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9175,7 +8658,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. C is correct because through tokenization, the process of representing ownership \nrights to physical assets on a blockchain or distributed ledger, distributed ledger \ntechnology (DLT) has the potential to streamline this process by creating a single, \ndigital record of ownership with which to verify ownership title and authenticity, \nincluding all historical activity."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-59",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9189,7 +8671,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. A is correct because one of the four key assumptions we need to make to be able to \ndraw valid conclusions from a simple linear regression mode is that regression \nresiduals are normally distributed."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-60",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9203,7 +8684,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. A is correct because when the observations are returns, the coefficient of variation \nmeasures the amount of risk (standard deviation) per unit of mean return."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-61",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9217,7 +8697,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. A is correct because when the unknown population variances are equal, a t-test based \non independent random"
     },
     {
-        "id": "vikas-vohra-quantitative-methods-62",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9231,7 +8710,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. A is correct because with n as the sample size, the Spearman rank correlation is given \nby:"
     },
     {
-        "id": "vikas-vohra-quantitative-methods-63",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9245,7 +8723,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. B is correct because variation in the demand for corn is being used to explain the \nvariation in the supply of wheat. Therefore the variation in the supply of wheat is the \ndependent variable, or explained variable. We refer to the variable whose variation \nis being explained as the dependent variable, or the explained variable; it is typically \ndenoted by Y."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-64",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9259,7 +8736,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. A is correct because a return distribution with negative skew has frequent small gains \nand a few extreme losses."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-65",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9273,7 +8749,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. B is correct because when we look at the residuals of a model, what we would like to \nsee is that the residuals are random. The residuals should not exhibit a pattern when \nplotted against the independent variable."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-66",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9287,7 +8762,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "66. A is correct because, in cluster sampling, the population is divided into clusters, each \nof which is essentially a mini-representation of the entire populations. Then certain \nclusters are chosen as a whole using simple random sampling. Cluster sampling is \ncommonly used for market surveys, and the most popular version identifies clusters \nbased on geographic parameters."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-67",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9301,7 +8775,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "67. B is correct because, according to the central limit theorem, the sampling distribution \nof the sample mean will be approximately normal when the sample size n is large. The \nnormal distribution has a skewness of 0 (it is symmetric).  Since the binomial \ndistribution has a mean of np and finite variance of np(1 – p), where n is the number \nof trials and p is the probability of success, the central limit theorem holds."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-68",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9315,7 +8788,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "68. A is correct. A negatively skewed distribution appears as if the left tail has been \npulled away from the mean. The average magnitude of negative deviations from the \nmean is larger than the average magnitude of positive deviations."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-69",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9329,7 +8801,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "69. B is correct. A nonparametric test is used under three circumstances: 1) when the \ndata do not meet distributional assumptions, 2) when the data are given in ranks, and \n3) when the hypothesis does not concern a parameter."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-70",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9343,7 +8814,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "70. C is correct because, in stratified random sampling, the population is divided into \nsubpopulations (strata) based on one or more classification criteria. Simple random \nsamples are then drawn from each stratum in sizes proportional to the relative size \nof each stratum in the population."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-71",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9357,7 +8827,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "71. C is correct because, when we make a decision in a hypothesis test, we run the risk \nof making either a Type I or a Type II error. These are mutually exclusive errors: If \nwe mistakenly reject the null hypothesis, we can only be making a Type I error; if we \nmistakenly fail to reject the null, we can only be making a Type II error. \n\nPortfolio Management: Practice Pack \n\ncandidates for practice purpose."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-1",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9371,7 +8840,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "1. B is correct because a confidence interval for a parameter is calculated as: Point \nestimate ± Reliability factor × Standard error, where standard error is the standard \nerror of the sample statistic providing the point estimate. Thus, sampling error is not \npart of the calculation. Sampling error is the difference between the observed value \nof a statistic and the quantity it is intended to estimate. It is because of sampling \nerror that confidence intervals are used."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-2",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9385,7 +8853,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. B is correct because a forecasted value of the dependent variable, Yf, is determined \nusing the estimated intercept and slope, as well as the expected or forecasted \nindependent variable, Xf: Yf = b0 + b1Xf,\" where b0 and b1 are the estimated \nintercept and slope coefficients, respectively. Hence, Yf = 1.2% + 1.0 × 3.5% = 4.7%. \n \nNext, the prediction interval is Yf ± tcritical for α/2sf,\" where sf denotes the \nstandard error of the forecast. Hence, the prediction interval is given by: 4.7% ± \n1.4% × 2.032 ≈ (1.9%, 7.5%)."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-3",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9399,7 +8866,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. C is correct because a holding period return is the return earned from holding an \nasset for a single specified period of time. This return can be generalized and shown \nas a mathematical expression in which P is the price and I is the income: R = (P1 − P0 \n+ D1)/P0  Thus, R = ($107 – $100 + $7)/$100 = $14/$100 = 14%."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-4",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9413,7 +8879,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. C is correct because a nonparametric test would be less appropriate compared to \nother answers as in this case a parametric test can be used. We may want to test a \nhypothesis concerning the mean of a population but believe that neither t- nor z-\ndistributed tests are appropriate because the sample is small and may come from a \nmarkedly non-normally distributed population. In that case, we may use a \nnonparametric test. In our case, the data sample is large, thus a  parametric test can \nbe used instead."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-5",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9427,7 +8892,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "5. A is correct because for a Test of Mean Differences (Normally Distributed \nPopulations, Unknown Population Variances), when we have data consisting of paired \nobservations from samples generated by normally distributed populations with \nunknown variances, a t-test is based on t = (d − µd0)/sd, with n − 1 degrees of freedom, \nwhere n is the number of paired observations, d is the sample mean difference, and \nsd is the standard error of d."
     },
     {
-        "id": "vikas-vohra-quantitative-methods-6",
         "source": "Vikas Vohra",
         "subject": "Quantitative Methods",
         "lm": "LM - Quantitative Methods",
@@ -9441,7 +8905,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "6. C is correct because a cryptocurrency, also known as a digital currency, operates as \nelectronic currency and allows near-real-time transactions between parties without \nthe need for an intermediary, such as a bank."
     },
     {
-        "id": "vikas-vohra-equity-investments-8",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9455,7 +8918,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. B is correct because investors compare these scenarios with other analysts’ (e.g., \nsell-side analysts) forecasts for a company, as well as forecasts implied by current \nvaluations, to make investment decisions."
     },
     {
-        "id": "vikas-vohra-equity-investments-9",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9469,7 +8931,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. C is correct because analyst’s discretionary forecasts include those based on surveys, \nquantitative models, probability distributions, analogies to historical precedents that \ndiffer from comparable companies or industry averages, and other unobservable \ninputs. This approach is most common for companies in cyclical industries, companies \nthat have no or few comparables, those that do not provide management guidance, \nand/or those undergoing a fundamental change like a shift in the competitive or \nregulatory environment."
     },
     {
-        "id": "vikas-vohra-equity-investments-10",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9483,7 +8944,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. C is correct because downside and upside risk factors are part of the company \nresearch report element \"Risks\" which is not only part of the initial company research \nreport elements but also listed amongst the five elements for the subsequent \ncompany research report: 1. Front Matter, 2. Recommendation, 3. Analysis of New \nInformation, 4. Valuation and 5. Risks."
     },
     {
-        "id": "vikas-vohra-equity-investments-11",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9497,7 +8957,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. A is correct because in the most competitive markets, where firms are selling nearly \nidentical products, firms are price takers—that is, price is dictated by the forces of \nsupply and demand—and all firms generally sell at the same price, i.e. the prevailing \nmarket price. Other attributes of highly competitive markets include little to no \nproduct differentiation, low barriers to firm entry, available substitutes, a lack of \ncustomer loyalty, and low switching costs for customers. Many markets fit this \ndescription, including retail, oil and gas and other natural resources."
     },
     {
-        "id": "vikas-vohra-equity-investments-12",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9511,7 +8970,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. A is correct because issuing debt will raise money for a company and so is a source of \ncapital, not a use."
     },
     {
-        "id": "vikas-vohra-equity-investments-13",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9525,7 +8983,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. C is correct because clearing instructions indicate how to arrange the final \nsettlement of the trade."
     },
     {
-        "id": "vikas-vohra-equity-investments-14",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9539,7 +8996,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because selling and distribution expenses often have a large variable \ncomponent and can be modeled as a percentage of sales."
     },
     {
-        "id": "vikas-vohra-equity-investments-15",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9553,7 +9009,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. C is correct because preference shares (or preferred stock) rank above common \nshares with respect to the payment of dividends and the distribution of the \ncompany’s net assets upon liquidation."
     },
     {
-        "id": "vikas-vohra-equity-investments-16",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9567,7 +9022,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. B is correct because present value models include free-cash-flow-to-equity models."
     },
     {
-        "id": "vikas-vohra-equity-investments-17",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9581,7 +9035,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. B is correct because 26.67% is the price return for an equal-weighted index. \n \nPrice return for security A is (End of Period Price / Beginning of Period Price) –1 = \n18/20 – 1 = – 0.1 = – 10%. \n \nPrice return for security B is (End of Period Price / Beginning of Period Price) –1 = \n15/10 – 1 = 0.5 = 50% \n \nPrice return for security C is (End of Period Price / Beginning of Period Price) –1 = \n21/15 – 1 = 0.4 = 40% \n \nEqual weighting = average of the security's returns = (– 10% + 50% + 40%)/3 = \n26.667% ≈ 26.67%."
     },
     {
-        "id": "vikas-vohra-equity-investments-18",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9595,7 +9048,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. C is correct because a buy order placed below the best bid is behind the market. \nSimilarly, a sell order that is above the best offer (ask) is said to be behind the \nmarket. So any sell order higher than 48.00 is behind the market."
     },
     {
-        "id": "vikas-vohra-equity-investments-19",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9609,7 +9061,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. C is correct because a callable preference share with non-cumulative dividends has \ngreater uncertainty of cash flows than a putable preference share with non -\ncumulative dividends. From an investor's point of view, putable common or preference \nshares are less risky than their callable or non-callable counterparts.  The callable \npreference share with non-cumulative dividends has greater uncertainty of cash \nflows than the non-callable preference share with cumulative dividends on the basis \nof both its callable feature, as previously described, and its non-cumulative feature. \nCumulative preference shares have lower risk than non-cumulative preference shares."
     },
     {
-        "id": "vikas-vohra-equity-investments-20",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9623,7 +9074,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. B is correct because a disadvantage of an equal-weighted index is that securities that \nconstitute the largest fraction of the target market value are underrepresented, and \nsecurities that constitute a small fraction of the target market value are \noverrepresented."
     },
     {
-        "id": "vikas-vohra-equity-investments-21",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9637,7 +9087,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. A is correct because P0/E1 = p/(r – g), where g = b × ROE \n                                                                         \n \n \nRestating the equation we arrive at: P0/E1 = p/(r – (b × ROE)) where: \np = dividend payout ratio = (1 – retention rate) = (1 – b) \nr = required rate of return on the stock \ng = dividend growth rate = retention rate × ROE \nTherefore, P0/E1 = p/(r – (b × ROE)) is rearranged as: P0/E1 = (1 – b)/(r – (b × ROE)) \nRearranging this equation we arrive at: ROE = (((1 – b)/(P0/E1)) – r)/–b \nROE = (((1 – 45%)/8) – 10%)/–45% ≈ 6.9%."
     },
     {
-        "id": "vikas-vohra-equity-investments-22",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9651,7 +9100,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. C is correct because a company's book value is not directly affected by investor \nestimates."
     },
     {
-        "id": "vikas-vohra-equity-investments-23",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9665,7 +9113,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. A is correct because conservative investors tend to be slow to react to new \ninformation and continue to maintain their prior views or forecasts."
     },
     {
-        "id": "vikas-vohra-equity-investments-24",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9679,7 +9126,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. B is correct because a total return index reflects not only the prices of the \nconstituent securities but also the reinvestment of all income received since \ninception. As the constituents securities received no income (e.g. dividends or other \ndistributions), the value of the price version equals the value of the total return \nversion of the index."
     },
     {
-        "id": "vikas-vohra-equity-investments-25",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9693,7 +9139,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. B is correct because a limit order conveys almost the same instruction: Obtain the \nbest price immediately available, but in no event accept a price higher than a specified \nlimit price ($76.00) when buying. Furthermore, immediate or cancel orders (IOC) are \ngood only upon receipt by the broker or exchange. If they cannot be filled in part or \nin whole, they cancel immediately. In some markets these orders are also known as \nfill or kill orders. That is, 15 units of the stock would trade or execute immediately \nat: 5 units at $75.90 and 10 units at $76.00. The average trade price per unit = ((5 × \n$75.90) + (10 × $76.00)) / 15 ≈ $75.97."
     },
     {
-        "id": "vikas-vohra-equity-investments-26",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9707,7 +9152,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. A is correct because validity instructions indicate when the order may be filled."
     },
     {
-        "id": "vikas-vohra-equity-investments-27",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9721,7 +9165,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. C is correct because a stock dividend divides the “pie” (the market value of \nshareholders’ equity) into smaller pieces without affecting the value of the pie or any \nshareholder’s proportional ownership in the company."
     },
     {
-        "id": "vikas-vohra-equity-investments-28",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9735,7 +9178,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. A is correct because a global registered share (GRS) is a common share that is traded \non different stock exchanges around the world in different currencies."
     },
     {
-        "id": "vikas-vohra-equity-investments-29",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9749,7 +9191,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. C is correct because a market order instructs the broker or exchange to obtain the \nbest price immediately available when filling the order."
     },
     {
-        "id": "vikas-vohra-equity-investments-30",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9763,7 +9204,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. A is correct because a reverse stock split involves a reduction in the number of shares \noutstanding with a corresponding increase in share price."
     },
     {
-        "id": "vikas-vohra-equity-investments-31",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9777,7 +9217,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. C is correct because a share repurchase is viewed as equivalent to the payment of \ncash dividends of equal value in terms of the effect on shareholders’ wealth, all other \nthings being equal."
     },
     {
-        "id": "vikas-vohra-equity-investments-32",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9791,7 +9230,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. A is correct because a sponsored DR is when the foreign company whose shares are \nheld by the depository has a direct involvement in the issuance of the receipts. \nInvestors in sponsored DRs have the same rights as the direct owners of the common \nshares (e.g., the right to vote and the right to receive dividends). In contrast, with \nan unsponsored DR, the underlying foreign company has no involvement with the \nissuance of the receipts. Instead, the depository purchases the foreign company’s \nshares in its domestic market and then issues the receipts through brokerage firms \nin the depository’s local market. In this case, the depository bank, not the investors \nin the DR, retains the voting rights."
     },
     {
-        "id": "vikas-vohra-equity-investments-33",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9805,7 +9243,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. A is correct because a stock dividend divides the “pie” (the market value of \nshareholders’ equity) into smaller pieces without affecting the value of the pie or any \nshareholder’s proportional ownership in the company. Thus, stock dividends are not \nrelevant for valuation. Stock splits and reverse stock splits are similar to stock \ndividends in that they have no economic effect on the company or shareholders."
     },
     {
-        "id": "vikas-vohra-equity-investments-34",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9819,7 +9256,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. B is correct because an asset-based valuation of a company uses estimates of the \nmarket or fair value of the company’s assets and liabilities."
     },
     {
-        "id": "vikas-vohra-equity-investments-35",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9833,7 +9269,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. C is correct because according to the dividend discount model, each year's dividend \nDt is the expected dividend in year t, assumed to be paid at the end of the year."
     },
     {
-        "id": "vikas-vohra-equity-investments-36",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9847,7 +9282,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because according to the Gordon growth model equations"
     },
     {
-        "id": "vikas-vohra-equity-investments-37",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9861,7 +9295,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "37. B is correct because asset-based valuations work well for companies that do have a \nhigh proportion of current assets and current liabilities."
     },
     {
-        "id": "vikas-vohra-equity-investments-38",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9875,7 +9308,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. B is correct because both equity and fixed income indexes can be constructed \naccording to sector. Similar to equities, fixed-income securities can be categorized \naccording to the issuer’s economic sector, the issuer’s geographic region, or the \neconomic development of the issuer’s geographic region."
     },
     {
-        "id": "vikas-vohra-equity-investments-39",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9889,7 +9321,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. C is correct because arbitrageurs are traders who engage in such trades to benefit \nfrom pricing discrepancies (inefficiencies) in markets. Such trading activity \ncontributes to market efficiency. The presence of these arbitrageurs helps pricing \ndiscrepancies disappear quickly."
     },
     {
-        "id": "vikas-vohra-equity-investments-40",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9903,7 +9334,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. A is correct because an efficient market is thus a market in which asset prices \nreflect all past and present information."
     },
     {
-        "id": "vikas-vohra-equity-investments-41",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9917,7 +9347,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. A is correct because an increase in transaction costs will increase the price \ndiscrepancy between market price and efficient price. Higher transaction costs make \nit more expensive for traders to exploit market inefficiencies, thereby decreasing \nmarket efficiency. Inefficiencies may also be unexploitable if the amount of the \ntransaction cost offsets the amount of the price discrepancy. A price discrepancy \nmust be sufficiently large to leave the investor with a profit (adjusted for risk) after \ntaking account of the transaction costs and information-acquisition costs to reach \nthe conclusion that the discrepancy may represent a market inefficiency."
     },
     {
-        "id": "vikas-vohra-equity-investments-42",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9931,7 +9360,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. B is correct because changes in distribution of age happen due to demographic \ninfluence. Changes in population size, in the distributions of age and gender, and in \nother demographic characteristics may have significant effects on economic growth \nand on the amounts and types of goods and services consumed."
     },
     {
-        "id": "vikas-vohra-equity-investments-43",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9945,7 +9373,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. B is correct because compared to equity indexes, fixed-income index providers must \ncontact dealers to obtain current prices on constituent securities to update the index \nor they must estimate the prices of constituent securities using the prices of traded \nfixed-income securities with similar characteristics."
     },
     {
-        "id": "vikas-vohra-equity-investments-44",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9959,7 +9386,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. A is correct because at inception, the values of the price and total return versions \nof an index are equal. As time passes, however, the value of the total return index \nwill exceed the value of the price return index."
     },
     {
-        "id": "vikas-vohra-equity-investments-45",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9973,7 +9399,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. A is correct because behavioral finance allows for the possibility that the dislike for \nrisk is not symmetrical, in contrast to the more general models where researchers \nassume that investors do not like risk (risk aversion), whether the risk is that returns \nare higher than expected or lower than expected."
     },
     {
-        "id": "vikas-vohra-equity-investments-46",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -9987,7 +9412,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. C is correct because companies issue equity to both make acquisitions and ensure that \ndebt covenants are met."
     },
     {
-        "id": "vikas-vohra-equity-investments-47",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10001,7 +9425,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. C is correct because cumulative voting allows shareholders to direct their total voting \nrights to specific candidates, as opposed to [statutory voting] having to allocate their \nvoting rights evenly among all candidates."
     },
     {
-        "id": "vikas-vohra-equity-investments-48",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10015,7 +9438,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. B is correct because convertible preference shares allow investors to benefit from a \nrise in the price of the common shares through the conversion option."
     },
     {
-        "id": "vikas-vohra-equity-investments-49",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10029,7 +9451,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. C is correct because defensive industries and companies are those whose revenues \nand profits are least affected by fluctuations in overall economic activity. These \nindustries/companies tend to produce staple consumer goods (e.g., bread), to provide \nbasic services (grocery stores, drug stores, fast food outlets)."
     },
     {
-        "id": "vikas-vohra-equity-investments-50",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10043,7 +9464,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "50. A is correct because brokered markets are markets in which brokers arrange trades \namong their clients. Brokers organize markets for instruments for which finding a \nbuyer or seller willing to trade is difficult because the instruments are unique."
     },
     {
-        "id": "vikas-vohra-equity-investments-51",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10057,7 +9477,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "51. C is correct because differences in reporting rules among different markets and in \nchosen accounting methods can result in revenues, earnings, book values, and cash \nflows that are not easily comparable."
     },
     {
-        "id": "vikas-vohra-equity-investments-52",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10071,7 +9490,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. C is correct because enterprise value is most frequently determined as market \ncapitalization plus market value of preferred stock plus market value of debt minus \ncash and investments (cash equivalents and short-term investments). Therefore, \nenterprise value increases with an increase in the market value of preferred stock."
     },
     {
-        "id": "vikas-vohra-equity-investments-53",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10085,7 +9503,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. C is correct because examples of classification systems based on products and/or \nservices include the commercial classification systems ... namely, the Global Industry \nClassification Standard (GICS)."
     },
     {
-        "id": "vikas-vohra-equity-investments-54",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10099,7 +9516,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "54. A is correct because commodity indexes consist of futures contracts on one or more \ncommodities."
     },
     {
-        "id": "vikas-vohra-equity-investments-55",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10113,7 +9529,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. C is correct because external factors affecting an industry's growth include \nmacroeconomic, technological, demographic, governmental, and social influences."
     },
     {
-        "id": "vikas-vohra-equity-investments-56",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10127,7 +9542,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. A is correct because companies often raise money for projects by selling (issuing) \nownership interests (e.g., corporate common stock or partnership interests). \nAlthough these equity instruments legally represent ownership in companies rather \nthan loans to the companies, selling equity to raise capital is simply another mechanism \nfor moving money from the future to the present."
     },
     {
-        "id": "vikas-vohra-equity-investments-57",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10141,7 +9555,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. C is correct because first is the declaration date, the day that the company issues a \nstatement declaring a specific dividend. Next comes the ex-dividend date (or ex- \ndate), the first date that a share trades without (i.e., “ex”) the dividend."
     },
     {
-        "id": "vikas-vohra-equity-investments-58",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10155,7 +9568,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. A is correct because Company 1's P/S and P/B are both the highest compared to \nthose of its two peers and the industry average. All else being equal, high P/S and \nP/B multiples point to relatively expensive valuations. Therefore, in the absence of \nconflict between the indications given by P/S and P/B (as both measures are the \n                                                                         \n \nhighest for the same company), the company most likely to be overvalued is Company"
     },
     {
-        "id": "vikas-vohra-equity-investments-59",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10169,7 +9581,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. B is correct because examples of cyclical industries and broader sectors are autos, \nhousing, basic materials, industrials, and technology."
     },
     {
-        "id": "vikas-vohra-equity-investments-60",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10183,7 +9594,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. C is correct because float-adjusted market-capitalization-weighted indexes reflect \nthe shares available for public trading [excluding the ones held by controlling \nshareholders] by multiplying the market price per share by the number of shares \navailable to the investing public (i.e., the float-adjusted market capitalization), which \nmeans constituent weights are impacted."
     },
     {
-        "id": "vikas-vohra-equity-investments-61",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10197,7 +9607,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. B is correct because free-cash-flow-to-equity (FCFE) can be expressed as FCFE = \nCFO – FCInv + Net borrowing where CFO is cash flow from operations and FCInv is \nfixed capital investment."
     },
     {
-        "id": "vikas-vohra-equity-investments-62",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10211,7 +9620,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. B is correct because fundamentally weighted indexes generally will have a contrarian \n'effect' in that the portfolio weights will shift away from securities that have \nincreased in relative value and toward securities that have fallen in relative value \nwhenever the portfolio is rebalanced."
     },
     {
-        "id": "vikas-vohra-equity-investments-63",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10225,7 +9633,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. A is correct because EV is often viewed as the cost of a takeover and EBITDA is a \nproxy for operating cash flow. Companies with relatively low EV/EBITDA multiples \nare likely to be undervalued. Company 1 has the lowest EV/EBITDA multiple among \nthe three. \n \nCompany 1: EV/EBITDA = 100,000,000 / 8,000,000 = 12.5; \nCompany 2: EV/EBITDA = 150,000,000 / 10,000,000 = 15.0; \nCompany 3: EV/EBITDA = 200,000,000 / 15,000,000 = 13.3."
     },
     {
-        "id": "vikas-vohra-equity-investments-64",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10239,7 +9646,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. C is correct because frequently, a hedge fund reports its performance to only one \ndatabase. The result is little overlap of funds covered by the different indices. With \nlittle overlap between their constituents, different global hedge funds indices may \nreflect very different performance for the hedge fund industry over the same period \nof time."
     },
     {
-        "id": "vikas-vohra-equity-investments-65",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10253,7 +9659,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. B is correct because in a semi-strong-form efficient market, prices reflect all \npublicly known and available information."
     },
     {
-        "id": "vikas-vohra-equity-investments-66",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10267,7 +9672,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "66. B is correct because in a highly efficient market, a passive investment strategy (i.e., \nbuying and holding a broad market portfolio) that does not seek superior risk -\nadjusted returns is preferred to an active investment strategy because of lower \ncosts (for example, transaction and information-seeking costs)."
     },
     {
-        "id": "vikas-vohra-equity-investments-67",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10281,7 +9685,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "67. C is correct because fundamental analysis is necessary in a well-functioning market \nbecause this analysis helps the market participants understand the value implications \nof information."
     },
     {
-        "id": "vikas-vohra-equity-investments-68",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10295,7 +9698,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "68. A is correct because external factors affecting an industry’s growth include \nmacroeconomic, technological, demographic, governmental, and social influences."
     },
     {
-        "id": "vikas-vohra-equity-investments-69",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10309,7 +9711,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "69. B is correct because in the weak-form efficient market hypothesis, security prices \nfully reflect all past market data, which refers to all historical price and trading \nvolume information."
     },
     {
-        "id": "vikas-vohra-equity-investments-70",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10323,7 +9724,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "70. B is correct because indices play a critical role as proxies for asset classes in asset \nallocation models."
     },
     {
-        "id": "vikas-vohra-equity-investments-71",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10337,7 +9737,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "71. C is correct because in market-capitalization weighting, or value weighting, the weight \non each constituent security is determined by dividing its market capitalization by \nthe total market capitalization (the sum of the market capitalization) of all the \nsecurities in the index. Market capitalization or value is calculated by multiplying the \nnumber of shares outstanding by the market price per share."
     },
     {
-        "id": "vikas-vohra-equity-investments-72",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10351,7 +9750,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "72. A is correct because from an investor's point of view, putable common or preference \nshares are less risky than their callable or non-callable counterparts because they \ngive the investor the option to sell the shares to the issuer at a pre-determined price. \nAs a result, putable shares generally pay a lower dividend than non-putable shares."
     },
     {
-        "id": "vikas-vohra-equity-investments-73",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10365,7 +9763,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "73. C is correct because in an underwritten offering —the most common type of \noffering—the investment bank guarantees the sale of the issue at an offering price \nthat it negotiates with the issuer."
     },
     {
-        "id": "vikas-vohra-equity-investments-74",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10379,7 +9776,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "74. C is Correct because in operating a publicly traded company, management often feels \npressured to focus on short-term results (e.g., meeting quarterly sales and earnings \ntargets from analysts biased toward near-term price performance) instead of \noperating the company to obtain long-term sustainable revenue and earnings growth."
     },
     {
-        "id": "vikas-vohra-equity-investments-75",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10393,7 +9789,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "75. B is correct because it is the value of the index at the end of period 3 = Beginning \nvalue × (1+Period 1 return) × (1 + Period 2 return) × (1 + Period 3 return) = 100 × (100 \n+ 12%) × (100 – 8%) × (1 + 2%) ≈ 105.10, which is closest to 105."
     },
     {
-        "id": "vikas-vohra-equity-investments-76",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10407,7 +9802,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "76. A is correct because how accurately prices reflect fundamental information depends \non the costs of obtaining fundamental information and on the liquidity available to \nwell-informed traders. If filling orders is very costly, informed trading may not be \nprofitable. In that case, information-motivated traders will not commit resources to \ncollect and analyze data and they will not trade. Without their research and their \nassociated trading, prices would be less informative."
     },
     {
-        "id": "vikas-vohra-equity-investments-77",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10421,7 +9815,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "77. B is correct because justified forward P/E = p / (r – g), where p = payout ratio = (1 – \nretention rate) and r = required rate of return = nominal risk -free rate + risk \npremium. \n22 = (1 – 0.60) / ((0.025 + 0.06) – g). \n22 = 0.40 / (0.085 – g) and g = 0.0668 ≈ 6.7%."
     },
     {
-        "id": "vikas-vohra-equity-investments-78",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10435,7 +9828,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "78. A is correct because investment banks provide advice to their mostly corporate \nclients and help them arrange transactions such as initial and seasoned securities \nofferings. Additionally, a seasoned security is a security that an issuer has already \nissued. If the issuer wants to sell additional units of a previously issued security, it \nmakes a seasoned offering (sometimes called a secondary offering)."
     },
     {
-        "id": "vikas-vohra-equity-investments-79",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10449,7 +9841,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "79. A is correct because if securities markets are weak-form and semi-strong-form \nefficient, the implication is that active trading, whether attempting to exploit price \npatterns or public information, is not likely to generate abnormal returns. In other \nwords, portfolio managers cannot beat the market on a consistent basis, so therefore, \npassive portfolio management should outperform active portfolio management."
     },
     {
-        "id": "vikas-vohra-equity-investments-80",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10463,7 +9854,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "80. C is correct because indexes also serve as market proxies when measuring risk-\nadjusted performance. The beta of an actively managed portfolio allows investors to \nform a passive alternative with the same level of systematic risk. In this case, multi-\nmarket indexes usually comprise indexes from different countries would serve as \nbenchmarks to calculate beta for the portfolios of global stock managers."
     },
     {
-        "id": "vikas-vohra-equity-investments-82",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10477,7 +9867,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "82. C is correct because intrinsic value = V0 = D1/(r – g). Therefore, V0 = $1.048/(0.10 – \n0.048) = $1.048/0.052 ≈ $20.15, where: \n \ng = ROE × retention rate = 0.12 × (1 – 0.60) = 0.048; \n \nD1 = D0 × (1 + g) = $1.00 × 1.048 = $1.048."
     },
     {
-        "id": "vikas-vohra-equity-investments-83",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10491,7 +9880,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "83. A is correct because in the case of a strong-form efficient market, insiders would \nnot be able to earn abnormal returns from trading on the basis of private information. \nMarket prices reflect private information under strong form market efficiency."
     },
     {
-        "id": "vikas-vohra-equity-investments-84",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10505,7 +9893,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "84. A is correct because in the GICS each company is assigned to a sub -industry \naccording to its principal business activity. Each sub-industry belongs to a particular \nindustry; each industry belongs to an industry group; and each group belongs to a \nsector. In June 2009, the GICS classification structure comprised four levels of \ndetail consisting of 154 sub- industries, 68 industries, 24 industry groups, and 10 \nsectors. Therefore, a sector is the broadest level of classification."
     },
     {
-        "id": "vikas-vohra-equity-investments-85",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10519,7 +9906,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "85. A is correct because in the weak form of market efficiency, market prices reflect \nall past market data; however, it does not incorporate all public information. \nTherefore, investors may use fundamental analysis to outperform the market."
     },
     {
-        "id": "vikas-vohra-equity-investments-86",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10533,7 +9919,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "86. B is correct because rebalancing is necessary because the weights of the constituent \nsecurities change as their market prices change. The weights of the securities in the \nequal-weighted index at the end of the period are no longer equal. Therefore equal-\nweighted indexes are regularly rebalanced."
     },
     {
-        "id": "vikas-vohra-equity-investments-87",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10547,7 +9932,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "87. A is correct because industry-level forces driving industry competition include: \nthreat of new entrants, substitution threats, customer and supplier bargaining \nforces, the competitive forces in the industry (rivalry), life -cycle issues, and \nbusiness-cycle considerations."
     },
     {
-        "id": "vikas-vohra-equity-investments-88",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10561,7 +9945,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "88. A is correct because it is the price return for the price-weighted index of the three \nstocks and is computed as follows: The price return of an index is expressed as"
     },
     {
-        "id": "vikas-vohra-equity-investments-89",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10575,7 +9958,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "89. C is Correct because most government and commercial classification systems are \nreviewed and, if necessary, updated from time to time. Generally, commercial \nclassification systems are adjusted more frequently than government classification \nsystems, which may be updated only every five years or so."
     },
     {
-        "id": "vikas-vohra-equity-investments-90",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10589,7 +9971,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "90. B is correct because return on equity (ROE) is computed as net income available to \nordinary shareholders (i.e., after preferred dividends have been deducted) divided \nby the average total book value of equity (BVE)."
     },
     {
-        "id": "vikas-vohra-equity-investments-91",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10603,7 +9984,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "91. C is correct because multi-market indexes usually comprise indexes from different \ncountries and regions and are designed to represent multiple security markets. Multi-\nmarket indexes may represent multiple national markets, geographic regions, \neconomic development groups, and, in some cases, the entire world. World indexes \nare of importance to investors who take a global approach to equity investing without \nany particular bias toward a particular country or region."
     },
     {
-        "id": "vikas-vohra-equity-investments-92",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10617,7 +9997,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "92. C is correct because of the three characteristics, only the participating \ncharacteristic is most directly affected by liquidation of the company. Participating \npreference shares can also contain provisions that entitle shareholders to an \nadditional distribution of the company's assets upon liquidation, above the par (or \nface) value of the preference shares."
     },
     {
-        "id": "vikas-vohra-equity-investments-93",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10631,7 +10010,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "93. C is correct because one can make the case that a three-stage DDM would be most \nappropriate for a fairly young company, one that is just entering the growth phase."
     },
     {
-        "id": "vikas-vohra-equity-investments-94",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10645,7 +10023,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "94. A is correct because management's decisions directly influence a company's net \nincome, they also directly influence its book value of equity."
     },
     {
-        "id": "vikas-vohra-equity-investments-95",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10659,7 +10036,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "95. A is correct because market value is the price at which an asset can currently be \nbought or sold. Intrinsic value (sometimes called fundamental value) is, broadly \nspeaking, the value that would be placed on it by investors if they had a complete \nunderstanding of the asset's investment characteristics. Intrinsic value can be \nestimated but is not known for certain."
     },
     {
-        "id": "vikas-vohra-equity-investments-96",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10673,7 +10049,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "96. B is correct because short sellers create short positions in securities by borrowing \nsecurities from security lenders who are long holders. The short sellers then sell the \nborrowed securities to other traders. The potential gains on a short position are \nlimited to no more than 100 percent whereas the potential losses are unbounded."
     },
     {
-        "id": "vikas-vohra-equity-investments-97",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10687,7 +10062,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "97. A is correct because money markets trade debt instruments maturing in one year or \nless. The most common such instruments are repurchase agreements, negotiable \ncertificates of deposit, government bills."
     },
     {
-        "id": "vikas-vohra-equity-investments-98",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10701,7 +10075,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "98. A is correct because multiplier models are based chiefly on share price multiples or \nenterprise value multiples. Enterprise value (EV) multiples have the form (Enterprise \nvalue)/(Value of a fundamental variable). Two possible choices for the denominator \nare earnings before interest, taxes, depreciation, and amortization (EBITDA) and \ntotal revenue."
     },
     {
-        "id": "vikas-vohra-equity-investments-99",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10715,7 +10088,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "99. C is correct because real assets are unique properties in the sense that no two \nproperties are alike."
     },
     {
-        "id": "vikas-vohra-equity-investments-100",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10729,7 +10101,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "100. A is correct because option holders generally will exercise call options if the \nstrike price is below the market price of the underlying instrument, in which case, \nthey will be able to buy at a lower price than the market price. Similarly, they will \nexercise put options if the strike price is above the underlying instrument price so \nthat they will sell at a higher price than the market price. Therefore, if the investor \npurchases a put option and the US market declines, they will profit by buying at the \nlower market price and selling at the higher strike price."
     },
     {
-        "id": "vikas-vohra-equity-investments-101",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10743,7 +10114,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "101. A is correct because regulation would not be necessary if customers could identify \ncompetent agents and effectively measure their performance. Therefore an increase \nin client ability to identify competent agents would reduce the need for regulation."
     },
     {
-        "id": "vikas-vohra-equity-investments-102",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10757,7 +10127,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "102. B is correct because the asset-based per share value is: market value of assets \nless market value of liabilities = (Total assets + increase in net fixed assets – decrease \n                                                                         \n \nin inventories – total liabilities) / shares outstanding = [(150 + ((80 × 1.25) – 80) + ((20 \n× 0.90) – 20) – 90)] / 4 = (150 + 20 – 2 – 90) / 4 = 19.50. This is the same as the market \nprice."
     },
     {
-        "id": "vikas-vohra-equity-investments-103",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10771,7 +10140,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "103. B is correct because the book value of a company’s equity is the difference \nbetween its total assets and total liabilities."
     },
     {
-        "id": "vikas-vohra-equity-investments-104",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10785,7 +10153,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "104. C is Correct because ROE can increase if net income increases at a faster rate \nthan shareholders' equity or if net income decreases at a slower rate than \nshareholders' equity."
     },
     {
-        "id": "vikas-vohra-equity-investments-105",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10799,7 +10166,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "105. A is correct because style indexes represent groups of securities classified \naccording to market capitalization, value, growth, or a combination of these \ncharacteristics. They are intended to reflect the investing styles of certain \ninvestors, such as the growth investor, value investor, or small-cap investor."
     },
     {
-        "id": "vikas-vohra-equity-investments-106",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10813,7 +10179,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "106. B is correct because the company's justified forward P/E is the same as the peer \ngroup's justified forward P/E. The company's justified forward P/E = p / (r – g) = \n0.40 / (0.09 – 0.05) = 10.0. The peer group's justified forward P/E = 0.50 / (0.09 – \n0.04) = 10.0."
     },
     {
-        "id": "vikas-vohra-equity-investments-107",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10827,7 +10192,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "107. A is correct because the ex-dividend date (or ex-date) is the first date that a \nshare trades without (i.e., 'ex') the dividend. Because buyers of a company's shares \non the ex-dividend date are no longer eligible to receive the upcoming dividend, all \nelse being equal, on that day the company's share price immediately decreases by the \namount of the foregone dividend. If the share trades at $29.00 on 19 August (the \nday before ex-date) and the upcoming dividend is $0.50, then all else being equal, the \nshares would trade at $28.50 ($29.00 - $0.50) on the ex-date."
     },
     {
-        "id": "vikas-vohra-equity-investments-108",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10841,7 +10205,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "108. A is correct because the ex-dividend date (or ex-date) is the first date that a \nshare trades without (i.e., 'ex') the dividend. Thus, an investor will be able to receive \nthe company's dividend if he purchases shares no later than on 1 August, one business \nday before ex-date of 2 August."
     },
     {
-        "id": "vikas-vohra-equity-investments-109",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10855,7 +10218,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "109. C is correct because the January effect, has been observed in most equity \nmarkets around the world. This anomaly is also known as the \"turn -of-the-year\" \neffect. The January effect is a time series anomaly and is an observed pricing \nanomaly."
     },
     {
-        "id": "vikas-vohra-equity-investments-110",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10869,7 +10231,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "110. B is correct because the expected rate of return for Stock 2 exceeds the \ninvestor's required rate of return. In other words, the cost of equity can be thought \nof as the minimum expected rate of return that a company must offer its investors \nto purchase its shares in the primary market and to maintain its share price in the \nsecondary market. If this expected rate of return is not maintained in the secondary \nmarket, then the share price will adjust so that it meets the minimum required rate \n                                                                         \n \nof return demanded by investors. For example, if investors require a higher rate of \nreturn on equity than the company’s cost of equity, they would sell their shares and \ninvest their funds elsewhere resulting in a decline in the company’s share price."
     },
     {
-        "id": "vikas-vohra-equity-investments-111",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10883,7 +10244,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "111. B is correct because the focus of much of the work in this area is on the behavioral \nbiases that affect investment decisions. The behavior of individuals, in particular \ntheir behavioral biases, has been offered as a possible explanation for a number of \npricing anomalies."
     },
     {
-        "id": "vikas-vohra-equity-investments-112",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10897,7 +10257,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "112. B is correct because the Gordon growth model is V0 = D1 / (r – g), where V0 is \ncurrent value, D1 is next year's dividend (D0 × (1 + g)), r is required return and g is \ngrowth rate. Solving this equation for r is r = D1 / V0 + g = (D0 × (1 + g)) / V0 + g. r = \n($4 × (1 + 4%)) / $92 + 4% = ($4.16) / $92 + 4% = 8.522%, which is closest to 8.52%."
     },
     {
-        "id": "vikas-vohra-equity-investments-113",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10911,7 +10270,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "113. A is correct because the ex-dividend date (or ex-date), the first date that a \nshare trades without (i.e., “ex”) the dividend."
     },
     {
-        "id": "vikas-vohra-equity-investments-114",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10925,7 +10283,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "114. C is correct because the estimated intrinsic value = $1.25 / 0.04 = $31.25."
     },
     {
-        "id": "vikas-vohra-equity-investments-115",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10939,7 +10296,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "115. B is correct because the leverage ratio is defined as the ratio of the value of the \nposition to the value of the equity investment in it. The leverage ratio indicates how \nmany times larger a position is than the equity that supports it. \n \nThe starting leverage = value ⁄equity = 1 ⁄ 0.5 = 2 \n \nThe change in market value is given as 25% decline, implying a new market value of \n75%. \n \nWith leverage of 2, new equity reduces by 2 × 25% = 50%, 50% × 50% = remaining \nequity of 25%. \n \nNew leverage = new value ⁄ new equity = 0.75 ⁄ 0.25 = 3. \n \nExpressed alternatively: New leverage = (1 ‒ 0.25) ⁄ (0.5 ‒ 0.25) = 3."
     },
     {
-        "id": "vikas-vohra-equity-investments-116",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10953,7 +10309,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "116. C is correct because the fundamental variable may be stated on a forward basis \n(e.g., forecasted EPS for the next year) or a trailing basis (e.g., EPS for the past \nyear), as long as the usage is consistent across companies being examined."
     },
     {
-        "id": "vikas-vohra-equity-investments-117",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10967,7 +10322,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "117. A is correct because the leverage ratio is the ratio of the value of the position to \nthe value of the equity investment in it."
     },
     {
-        "id": "vikas-vohra-equity-investments-118",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10981,7 +10335,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "118. B is correct because the market price is equal to the calculated value based on \nthe stated rate of return. Since the preferred share pays a perpetual level dividend, \n                                                                         \n \nits value is V0 = D0/r = $1.20/0.06 = $20. If the estimated value equals the market \nprice, the analyst infers the security is fairly valued."
     },
     {
-        "id": "vikas-vohra-equity-investments-119",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -10995,7 +10348,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "119. B is correct because the maximum financial leverage is the same at both firms \ngiven Broker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage \nRatio = 100% / margin requirement: Broker 1 leverage ratio = 100% / 62.5% = 1.6 = \nBroker 2's leverage ratio."
     },
     {
-        "id": "vikas-vohra-equity-investments-120",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11009,7 +10361,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "120. B is correct because the maximum leverage ratio associated with a position \nfinanced by the minimum margin requirement is one divided by the minimum margin \nrequirement. Or, MLR = 1 / MMR and MMR = 1 / MLR. In this case: the minimum margin \nrequirement (MMR) = 1 / 1.75 = 57%."
     },
     {
-        "id": "vikas-vohra-equity-investments-121",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11023,7 +10374,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "121. B is correct because the momentum anomaly is best described as a time-series \nanomaly. Momentum anomalies relate to short-term share price patterns where past \nprice moves continued through time to move in the same direction."
     },
     {
-        "id": "vikas-vohra-equity-investments-122",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11037,7 +10387,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "122. C is correct because the justified forward P/E ratio = P0 / E1 = p / (r – g), where \np is the dividend payout ratio, r is the required rate of return, g is the sustainable \ndividend growth rate; g = b × ROE where b is the earning retention rate = (1 – dividend \npayout ratio) and ROE is return on equity. Given g = (1 – 0.40) × 20% = 12%, then the \njustified forward P/E ratio = 0.40 / (0.15 – 0.12) = 13.3."
     },
     {
-        "id": "vikas-vohra-equity-investments-123",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11051,7 +10400,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "123. C is correct because the margin requirement is equity per share / price per share: \n= (Initial equity + actual price – initial price) / (actual price) = (15+43.75 – 50) / 43.75 \n= 20%."
     },
     {
-        "id": "vikas-vohra-equity-investments-124",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11065,7 +10413,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "124. B is correct because the original equity of $25 indicates a margin loan of $25 \n($50 ‒ $25). At a stock price of $33.33, equity will equal $33.33 less the $25 margin \nloan, or $8.33, which is 25% of the equity per share. $8.33 ⁄ $33.33 ≈ 25%. To reach \nthis answer through calculation, determine where the equity per share equals the \n25% margin requirement: \n \nEquity ⁄ Share = (P ‒ L) ⁄ P = maintenance margin; \n \nWhere P = Share price and L = Loan amount; \n \n0.25 = (P ‒ $25) ⁄ P; P ≈ $33.33."
     },
     {
-        "id": "vikas-vohra-equity-investments-125",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11079,7 +10426,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "125. B is correct because the overreaction effect or anomaly is described as the \npropensity for investors to overreact to the release of unexpected public \ninformation. Therefore, stock prices will be inflated (depressed) for those companies \nreleasing good (bad) information. In other words, inflated (depressed) here means \nthe change of value that is overshooting (undershooting) the fair (intrinsic) value \n                                                                         \n \nafter incorporating the new information, rather than the price action that goes up \n(down) itself."
     },
     {
-        "id": "vikas-vohra-equity-investments-126",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11093,7 +10439,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "126. A is correct because the order matching rules match buy orders to sell orders."
     },
     {
-        "id": "vikas-vohra-equity-investments-127",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11107,7 +10452,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "127. C is correct because the objectives of market regulation include both controlling \nagency problems and ensuring that long-term liabilities are funded.  In total, the \nobjectives of market regulation are:"
     },
     {
-        "id": "vikas-vohra-equity-investments-128",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11121,7 +10465,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "128. A is correct because the P/B value for the company is $30 ⁄ $40 = 0.75, which is \nabove the benchmark ratio of 0.6, indicating the shares are overvalued based on P/B \n(i.e. the ratio is higher than the benchmark). Both the P/E and P/CF ratios for the \ncompany are below their benchmarks, and therefore are not overvalued on that basis \n(see calculations options B and C)."
     },
     {
-        "id": "vikas-vohra-equity-investments-129",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11135,7 +10478,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "129. C is correct because the position of a company in its life-cycle stage is not part \nof Porter's five forces. The five forces are: threat of entry, power of suppliers, \npower of buyers, threat of substitutes, and rivalry among existing competitors."
     },
     {
-        "id": "vikas-vohra-equity-investments-130",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11149,7 +10491,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "130. B is correct because the remaining equity can be calculated as: \n \nProceeds on sale – payoff amount borrowed – payoff loan interest \nAmount paid to purchase shares = $12 × 2,000 = $24,000 \nEquity investment = $24,000/3 = $8,000 \nAmount borrowed = $24,000 - $8,000 = $16,000 \nInterest on loan = $16,000 × 3% = $480 \nTherefore, remaining equity = 2,000 × $9.5 – $16,000 – 3% × $16,000 = $19,000 – \n$16,000 – $480 = $2,520."
     },
     {
-        "id": "vikas-vohra-equity-investments-131",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11163,7 +10504,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "131. A is correct because the security’s market price is less than its intrinsic value, \nindicating that it is undervalued. The dividend discount model can be used to estimate \nan asset’s intrinsic value."
     },
     {
-        "id": "vikas-vohra-equity-investments-132",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11177,7 +10517,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "132. A is correct because the use of convertible preference shares is a popular \nfinancing option in venture capital and private equity transactions in which the issuing \ncompanies are considered to be of higher risk and when it may be years before the \nissuing company 'goes public' (i.e., issues common shares to the public)."
     },
     {
-        "id": "vikas-vohra-equity-investments-133",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11191,7 +10530,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "133. C is correct because the return on equity to a margin position is calculated by \nmultiplying the unleveraged return by the financial leverage ratio. The financial \nleverage ratio is equal to 1/margin. In this case, financial leverage is 1/0.30 = 3.3333, \nso the return on equity = 40% × 3.3333 = 133.33%, which is closest to 133%."
     },
     {
-        "id": "vikas-vohra-equity-investments-134",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11205,7 +10543,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "134. C is correct because the size effect results from the observation that equities \nof small-cap companies tend to outperform equities of large-cap companies on a risk-\nadjusted basis."
     },
     {
-        "id": "vikas-vohra-equity-investments-135",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11219,7 +10556,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "135. C is correct because the smaller the number of buyers, the more likely buyer \npower will increase. Bargaining Power of Customers. Affected by: size and \nconcentration of customers, costs of switching to other suppliers, customers’ ability \nto produce the product or service themselves. Are customers able to force price \nreductions or better payment terms? This can affect the intensity of competition by \nexerting influence on suppliers regarding prices (and possibly other factors such as \nproduct quality). For example, auto parts companies generally sell to a small number \nof auto manufacturers, which allows those customers, the auto manufacturers, to be \ntough negotiators when it comes to setting prices."
     },
     {
-        "id": "vikas-vohra-equity-investments-136",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11233,7 +10569,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "136. A is correct because this is the return on investment to the investor. \n \nTotal purchase price = $25/share × 1,000 shares = $25,000 \n \nLeverage ratio of 2 indicates buyer's equity of 1/2 \n \nBuyer's equity = 1/2 × $25,000 = $12,500 \n \nBorrowed money = $25,000 – $12,500 = $12,500 \n \nInterest on borrowed money = 5% × $12,500 = $625 \n \nSale proceeds = $20/share × 1,000 shares = $20,000 \n \nNet return to buyer = Sale proceeds – purchase price – interest payment = $20,000 \n– $25,000 – $625 = –$5,625 \n \nReturn on investment to the buyer = –$5,625 / $12,500 = –45%"
     },
     {
-        "id": "vikas-vohra-equity-investments-137",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11247,7 +10582,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "137. C is correct because the stock's weight in a market-capitalization-weighted index \n= market capitalization of stock / market capitalization of index = $20 billion / $57 \nbillion = 35.08%, which is closest to 35%."
     },
     {
-        "id": "vikas-vohra-equity-investments-138",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11261,7 +10595,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "138. C is correct because the total return of an index is the price appreciation, or \nchange in the value of the price return index, plus income (dividends and/or interest) \nover the period, expressed as a percentage of the beginning value of the price return \n                                                                         \n \nindex. Total return = (ending index value – beginning index value + income) / beginning \nindex value = (1575 – 1540 + 55) / 1540 = 90 / 1540 = 5.8%."
     },
     {
-        "id": "vikas-vohra-equity-investments-139",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11275,7 +10608,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "139. A is correct because under all forms of market efficiency past trading data are \nalready reflected in current prices and investors cannot predict future price changes \nby extrapolating prices or patterns of prices from the past. Therefore, if investors \ncan predict future asset prices based on past prices, markets are inefficient."
     },
     {
-        "id": "vikas-vohra-equity-investments-140",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11289,7 +10621,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "140. C is correct because the value at the end of Year 3 (same as at the beginning of \nYear 4) will be: V3 = D3(1 + gL)/(r – gL) = D4/(r – gL), where gL = long-term growth \nrate. The Year 4 dividend equals the initial dividend compounded at 20% for three \nyears, the compounded at 5% for another year; D4 = $3 × (1.2)3 × (1.05) = $5.4432. \nV3 = $5.4432/(0.10 – 0.05) = $108.8640 ≈ $108.86."
     },
     {
-        "id": "vikas-vohra-equity-investments-141",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11303,7 +10634,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "141. B is correct because this is considered a disadvantage of an equal weighted index. \nEqual weighting has a number of disadvantages. Securities that constitute the largest \nfraction of the target market value are underrepresented, and securities that \nconstitute a small fraction of the target market value are overrepresented."
     },
     {
-        "id": "vikas-vohra-equity-investments-142",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11317,7 +10647,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "142. A is correct because using the formula:"
     },
     {
-        "id": "vikas-vohra-equity-investments-143",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11331,7 +10660,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "143. C is correct because there is no active secondary market for equity of private \ncompanies and the shares require negotiations between investors in order to be \ntraded. This is in contrast to public companies, which have secondary markets for \ntrading their equity."
     },
     {
-        "id": "vikas-vohra-equity-investments-144",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11345,7 +10673,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "144. B is correct because total return measures price appreciation plus interest, \ndividends, and other distributions. Thus, the total return of an index is the price \nappreciation, or change in the value of the price return index, plus income (dividends \nand/or interest) over the period, expressed as a percentage of the beginning value \nof the price return index. Price return for Stock 1 = ($8 – $10) / $10 = –0.20 = –20%. \n\n                                                                         \n \nTotal return = price return + dividends = –20% + 2% = –18%. Price return for Stock 2 \n= ($24 – $20) / $20 = 0.20 = 20%. Total return = 20% + 2% = 22%. Price return for \nStock 3 = ($30 – $30) / $30 = 0.00 = 0%. Total return = 0% + 2% = 2%. The total \nreturn of the index = (–18% + 22% + 2%) / 3 = 6% / 3 = 2%."
     },
     {
-        "id": "vikas-vohra-equity-investments-145",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11359,7 +10686,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "145. B is correct because transaction costs are incurred in trading to exploit any \nperceived market inefficiency. If there are limits on transaction costs, more \ninvestors would be encouraged to trade. This brings about increased number of \nmarket participants which in turn contributes to market efficiency. One of the most \ncritical factors contributing to the degree of efficiency in a market is the number of \nmarket participants."
     },
     {
-        "id": "vikas-vohra-equity-investments-146",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11373,7 +10699,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "146. A is correct because when a company's shares split, their price declines and their \nweight in a price-weighted index is reduced, regardless of the importance of the \nstock."
     },
     {
-        "id": "vikas-vohra-equity-investments-147",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11387,7 +10712,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "147. A is correct because when investors sell securities to others, they trade in the \nsecondary market. In the secondary market, funds flow between traders."
     },
     {
-        "id": "vikas-vohra-equity-investments-148",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11401,7 +10725,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "148. A is correct because when issuers sell securities to investors, practitioners say \nthat they trade in the primary market."
     },
     {
-        "id": "vikas-vohra-equity-investments-149",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11415,7 +10738,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "149. C is correct because well functioning financial systems are characterized by \nprices that reflect fundamental values so that prices vary primarily in response to \nchanges in fundamental values and not to demands for liquidity made by uninformed \ntraders (informationally efficient markets)."
     },
     {
-        "id": "vikas-vohra-equity-investments-150",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11429,7 +10751,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "150. C is correct because when a company sells common stock to raise capital, \nregulatory reporting requirements and accounting standards attempt to ensure the \nproduction of meaningful financial disclosures."
     },
     {
-        "id": "vikas-vohra-equity-investments-151",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11443,7 +10764,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "151. A is correct because dividends on preference shares are known and fixed, and \nthey account for a large portion of the preference shares’ total return. Therefore, \nthere is less uncertainty about future cash flows."
     },
     {
-        "id": "vikas-vohra-equity-investments-152",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11457,7 +10777,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "152. A is correct because the Gordon growth model assumes that the growth rate \ncannot be greater than the required rate of return. Also, the dividend growth rate is \nstrictly less than the required rate of return."
     },
     {
-        "id": "vikas-vohra-equity-investments-153",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11471,7 +10790,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "153. B is correct because private equity securities do not have “market determined” \nquoted prices, are highly illiquid, and require negotiations between investors in order \nto be traded."
     },
     {
-        "id": "vikas-vohra-equity-investments-154",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11485,7 +10803,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "154. A is correct because of its assumption of a constant growth rate, the Gordon \ngrowth model is particularly appropriate for valuing the equity of dividend-paying \n                                                                         \n \ncompanies that are relatively insensitive to the business cycle and in a mature growth \nphase. Examples might include an electric utility. \nCorporate Issuers: Practice Pack \n\ncandidates for practice purpose."
     },
     {
-        "id": "vikas-vohra-equity-investments-1",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11499,7 +10816,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "1. A is correct. Negative earnings in the last year result in a negative ratio of trailing \nprice to earnings and are not meaningful. Practitioners may use the ratio of (1) current \nprice to cash flow or (2) leading price to earnings by replacing last year’s loss with \nforecasted earnings."
     },
     {
-        "id": "vikas-vohra-equity-investments-2",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11513,7 +10829,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. A is correct. The payment date can occur on a weekend or holiday unlike other \npertinent dates, such as the ex-date and record date, which occur only on business \ndays."
     },
     {
-        "id": "vikas-vohra-equity-investments-3",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11527,7 +10842,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. B is correct. The investor has written a put contract, which means she is short the \noption. She, therefore, must satisfy the obligation to purchase the asset if requested \nto do so by the put owner. The investor has a long exposure to the risk of the \nunderlying index future because she benefits when its quoted price increases—that \nis, when the put declines in value (or suffers a loss when its quoted price decreases \nas the put increases in value)."
     },
     {
-        "id": "vikas-vohra-equity-investments-4",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11541,7 +10855,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. B is correct. The service that dealers provide is liquidity. Liquidity is the ability to \nbuy or sell with low transaction costs when investors want to trade. By allowing their \nclients to trade when they want to trade, dealers provide liquidity to them."
     },
     {
-        "id": "vikas-vohra-equity-investments-5",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11555,7 +10868,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "5. B is correct. The value effect occurs when value stocks, which are generally referred \nto as stocks that have below-average price-to-earnings and market-to-book ratios, \nas well as above-average dividend yields, outperform growth stocks consistently and \nfor long periods."
     },
     {
-        "id": "vikas-vohra-equity-investments-6",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11569,7 +10881,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "6. B is correct because depreciation expense can serve as the basis for maintenance \ncapital expenditures, as it is management's estimate of the cost of fixed assets \nexpensed on the income statement in a manner that tracks its use."
     },
     {
-        "id": "vikas-vohra-equity-investments-7",
         "source": "Vikas Vohra",
         "subject": "Equity Investments",
         "lm": "LM - Equity Investments",
@@ -11583,7 +10894,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "7. B is correct because forecast objects for revenues are typically either top-down or \nbottom-up drivers. Common top-down forecast objects include 'growth relative to \nGDP growth' and 'market growth and market share. The analyst first forecasts a \ngrowth rate for a company's product market, and then considers the company's \ncurrent market share and how that share is likely to change over time."
     },
     {
-        "id": "vikas-vohra-derivatives-6",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11597,7 +10907,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "6. B is correct because a discount factor may also be interpreted as the price of a zero-\ncoupon cash flow or bond. The price equivalent of a zero rate is the present value of \na currency unit on a future date, known as a discount factor. The discount factor for \nperiod i (𝐷𝐹#) is: 𝐷𝐹# = 1 / (1+𝑧#). Accordingly, the equivalent zero rate is: \n𝐷𝐹$ = 0.96 = 1 / (1\t+\t𝑧$)$; and 𝑧$ = 2.0621%  \n𝐷𝐹% = 0.93 = 1 / (1\t+\t𝑧%)%; and 𝑧% =  2.4485%  \n \nThe implied forward rate between period A and period B is denoted as 𝐼𝐹𝑅&,(–&. It is \na forward rate on a bond that starts in period A and ends in period B a general formula \nfor the relationship between the two spot rates (𝑧*, 𝑧+) and the implied forward rate \n𝐼𝐹𝑅&,(–&: (1\t+𝑧*)* × (1\t+\t𝐼𝐹𝑅*,+–*)(+-*) = (1\t+𝑧+)+. \n \n(1.020621)^2 × (1 + 𝐼𝐹𝑅$,%–$)^(3–2) = (1.024485)^3 \n \n(1 + 𝐼𝐹𝑅$,/) = (1.024485)^3 / (1.020621)^2  \n \n(1 + 𝐼𝐹𝑅$,/) = (1.075269 / 1.041667) \n \n1 + 𝐼𝐹𝑅$,/ = 1.032258 \n \n𝐼𝐹𝑅$,/ = 1.032258 – 1 = 3.2258% ≈ 3.23%."
     },
     {
-        "id": "vikas-vohra-derivatives-7",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11611,7 +10920,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "7. B is correct because according to put-call parity, po = c0 – S0 + X/(1 + r)^T, long put \n= long call, short asset, long bond. Therefore, the payoff of a European put option is \nequal to a payoff of a portfolio consisting of a short asset, a long call and a long risk-\nfree bond."
     },
     {
-        "id": "vikas-vohra-derivatives-8",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11625,7 +10933,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "8. A is correct because a long put and a short call are equivalent to a long risk-free bond \nand short forward position: 𝑝\" – 𝑐\" =[X–𝐹\"(T)](1+𝑟)-! as calculated below:"
     },
     {
-        "id": "vikas-vohra-derivatives-9",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11639,7 +10946,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "9. C is correct because a forward contract is an over-the-counter derivative contract \nin which two parties agree that one party, the buyer, will purchase an underlying asset \nfrom the other party, the seller, at a later date at a fixed price they agree on when \nthe contract is signed."
     },
     {
-        "id": "vikas-vohra-derivatives-10",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11653,7 +10959,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "10. A is correct because a fair value hedge designation applies when a derivative is \ndeemed to offset the fluctuation in fair value of an asset or liability. A commodities \nproducer might sell its inventory forward in anticipation of lower future prices."
     },
     {
-        "id": "vikas-vohra-derivatives-11",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11667,7 +10972,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "11. A is correct because a put option buyer will exercise only if the spot price, ST, is \nbelow X at maturity. The exercise price, X, therefore represents the upper bound on \nthe put value. The lower bound is the present value of the exercise price minus the \nspot price or zero, whichever is greater."
     },
     {
-        "id": "vikas-vohra-derivatives-12",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11681,7 +10985,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "12. B is correct because an embedded derivative is a derivative within an underlying, such \nas a callable, puttable, or convertible bond."
     },
     {
-        "id": "vikas-vohra-derivatives-13",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11695,7 +10998,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "13. B is correct because an option is a derivative contract in which one party, the buyer, \npays a sum of money to the other party, the seller or writer, and receives the right \nto either buy or sell an underlying asset at a fixed price either on a specific expiration \ndate or at any time prior to the expiration date."
     },
     {
-        "id": "vikas-vohra-derivatives-14",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11709,7 +11011,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "14. B is correct because basis risk is the potential divergence between the expected \nvalue of a derivative instrument versus an underlying or hedged transaction."
     },
     {
-        "id": "vikas-vohra-derivatives-15",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11723,7 +11024,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "15. C is correct because another type of derivative is a contingent claim, in which one of \nthe counterparties determines whether and when the trade will settle. An option is \nthe primary contingent claim."
     },
     {
-        "id": "vikas-vohra-derivatives-16",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11737,7 +11037,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "16. B is correct because cT = Max(0,ST – X), where cT is the value of the call option, or \nthe payoff to the call buyer, X is the strike (or exercise) price, and ST is the stock \nprice at expiration. In this case, cT = Max(0,$22 – $27) = 0."
     },
     {
-        "id": "vikas-vohra-derivatives-17",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11751,7 +11050,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "17. A is correct because asymmetric payoff profile is a common feature of contingent \nclaims, which are sometimes referred to as non-linear derivatives."
     },
     {
-        "id": "vikas-vohra-derivatives-18",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11765,7 +11063,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "18. A is correct because basis risk is the potential divergence between the expected \nvalue of a derivative instrument versus an underlying or hedged transaction."
     },
     {
-        "id": "vikas-vohra-derivatives-19",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11779,7 +11076,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "19. C is correct because currency forward designated as offsetting the FX risk of the \nequity of a foreign operation is an example of a net investment hedge."
     },
     {
-        "id": "vikas-vohra-derivatives-20",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11793,7 +11089,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "20. C is correct because excessive risk taking and use of leverage in derivative markets \nmay contribute to market stress, as in the 2008 financial crisis."
     },
     {
-        "id": "vikas-vohra-derivatives-21",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11807,7 +11102,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "21. A is correct because convenience yield is a non-cash benefit associated with physical \nassets. In contrast to securities or cash stored electronically, commodities usually \ninvolve known costs associated with the storage, insurance, transportation, and \npotential spoilage (in the case of soft commodities) of these physical assets. A non-\ncash benefit of holding a physical commodity versus a deriva tive is known as a \nconvenience yield."
     },
     {
-        "id": "vikas-vohra-derivatives-22",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11821,7 +11115,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "22. B is correct because exchange-traded derivatives (ETD) are standardized contracts \ntraded on an organized exchange which requires collateral on deposit to protect \nagainst counterparty default and a futures contract is an exchange-traded derivative \n(ETD) with standardized terms set by the exchange. Therefore, futures has lowest \ncounterparty default risk."
     },
     {
-        "id": "vikas-vohra-derivatives-23",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11835,7 +11128,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "23. C is correct because for a call option, a lower exercise price has two benefits. One is \nthat there are more values of the underlying at expiration that are above the \nexercise price, meaning that there are more outcomes in which the call expires in-\nthe-money."
     },
     {
-        "id": "vikas-vohra-derivatives-24",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11849,7 +11141,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "24. A is correct because Derivatives are typically priced by forming a hedge involving the \nunderlying asset and a derivative such that the combination must pay the risk-free \nrate and do so for only one derivative price."
     },
     {
-        "id": "vikas-vohra-derivatives-25",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11863,7 +11154,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "25. B is correct because liquidity risk is described as potential divergence between the \ncash flow timing of a derivative instrument versus an underlying o r hedged \ntransaction."
     },
     {
-        "id": "vikas-vohra-derivatives-26",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11877,7 +11167,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "26. A is correct because if the underlying is equal to or worth more than the exercise \nprice at expiration (ST ≥ X), the put will simply expire with no value. So, the put is \nworth the greater of either zero or the exercise price minus th e price of the \nunderlying at expiration. Also, the time value of an option is the difference between \nthe market price of the option and its intrinsic value. As the price of the underlying \nis above the exercise price the put has a zero exercise value and only a positive time \nvalue."
     },
     {
-        "id": "vikas-vohra-derivatives-27",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11891,7 +11180,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "27. B is correct because recall our put–call parity discussion and assume that Investor A \ncreates his protective put in a slightly different manner. Instead of buying the asset, \nhe buys a forward contract and a risk-free bond in which the face value is the forward \nprice. This strategy is a synthetic protective put. Because we showed that the \nfiduciary call is equivalent to the protective put, a fiduciary call has to be equivalent \n                                                                                    \n \nto a protective put with a forward contract. Therefore, the payoff on a fiduciary call \n= the payoff on a synthetic protective put, fiduciary call = long call + long risk-free \nbond = long risk-free bond + long forward contract + long put."
     },
     {
-        "id": "vikas-vohra-derivatives-28",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11905,7 +11193,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "28. C is correct because OTC and ETD markets differ in several ways, including that ETD \ncontracts have lower trading and transaction costs."
     },
     {
-        "id": "vikas-vohra-derivatives-29",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11919,7 +11206,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "29. B is correct because similarities between interest rate forwards and swaps include \nthe symmetric payoff profile and the fact that no cash flow is exchanged upfront."
     },
     {
-        "id": "vikas-vohra-derivatives-30",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11933,7 +11219,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "30. A is correct because neither the long nor the short pays anything to the other at the \ninitiation date of a forward contract, the value of a forward contract when initiated \nis zero."
     },
     {
-        "id": "vikas-vohra-derivatives-31",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11947,7 +11232,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "31. C is correct because realizing a gain on the FRA contract as rates rise. Note that this \nwould be equivalent to taking a short position on a CNY MRR futures contract if one \nwere available. A long FRA (i.e., FRA floating -rate receiver (fixed-rate payer)) \nposition realizes a gain as MRR rises. A short futures contract price is based on (100 \n− yield), which gains as yield-to-maturity (MRR) rises."
     },
     {
-        "id": "vikas-vohra-derivatives-32",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11961,7 +11245,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "32. A is correct because OTC (over-the-counter) derivative markets involve contracts \nentered between derivatives end users and dealers, or financial intermediaries, such \nas commercial banks or investment banks."
     },
     {
-        "id": "vikas-vohra-derivatives-33",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11975,7 +11258,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "33. A is correct because other similarities between interest rate forwards and swaps \ninclude the symmetric payoff profile and the fact that no cash flow is exchanged \nupfront. The symmetric payoff profile of a swap means that the swap has zero value \nto both parties at contract inception."
     },
     {
-        "id": "vikas-vohra-derivatives-34",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -11989,7 +11271,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "34. B is correct because the call buyer will not pay more for the right to purchase an \nunderlying than the price of that underlying, which is the upper bound."
     },
     {
-        "id": "vikas-vohra-derivatives-35",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12003,7 +11284,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "35. A is correct because the buyer of a derivative enters a contract whose value changes \nin a way similar to a long position in the underlying. Thus a short futures position \nhedges the exposure to the underlying: Use of a derivative to offset or neutralize \nexisting or anticipated exposure to an underlying is referred to as hedging, with the \nderivative itself commonly described as a hedge of the underlying transaction. In \naddition, a futures position is a firm commitment: Firm commitments include forward \ncontracts, futures contracts, and swaps involving a periodic exchange of cash flows."
     },
     {
-        "id": "vikas-vohra-derivatives-36",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12017,7 +11297,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "36. C is correct because the daily settlement mechanism resets the futures MTM to \nzero, and variation margin is exchanged to settle the difference, reducing \ncounterparty credit risk."
     },
     {
-        "id": "vikas-vohra-derivatives-38",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12031,7 +11310,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "38. B is correct because The forward price of an asset with benefits and/or costs is the \nspot price compounded at the risk-free rate over the life of the contract minus the \nfuture value of those benefits and costs. That is, F0(T) = S0(1+r)^T – (γ – θ)(1+r)^T, \nwhere the net cost of carry consists of the benefits, denoted as γ (dividends or \ninterest plus convenience yield), minus the costs, denoted as θ. When net cost of \ncarry is zero, the term (γ – θ) is zero, resulting in (γ – θ)(1+r)^T being zero. Then, \nF0(T) = S0(1+r)^T. Hence, the forward price of a c ommodity is equal to the \ncommodity's spot price compounded at the risk-free rate over the life of the \ncontract when the net cost of carry is zero."
     },
     {
-        "id": "vikas-vohra-derivatives-39",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12045,7 +11323,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "39. C is correct because the different patterns of cash flows for forwards and futures \ncan lead to a difference in the pricing of forwards versus futures and if futures \nprices are positively correlated with interest rates, long futures contracts are more \nattractive than long forward positions for the same underlying and maturity. The \nreason is because rising prices lead to futures profits that are reinvested in periods \nof rising interest rates, and falling prices lead to losses that occur in periods of \nfalling interest rates the more desirable contract will tend to have the higher price."
     },
     {
-        "id": "vikas-vohra-derivatives-40",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12059,7 +11336,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "40. C is correct because the different patterns of cash flows for forwards and futures \ncan lead to a difference in the pricing of forwards versus futures. Forward and \nfutures prices are identical under certain conditions, namely: ■ if interest rates are \nconstant, or ■ if futures prices and interest rates are uncorrelated. On the other \nhand, violations of these assumptions can give rise to differences in pricing between \nthese two contracts. For example, if futures prices are positively correlated with \ninterest rates, long futures contracts are more attractive than long forward positions \nfor the same underlying and maturity. The reason is because rising prices lead to \nfutures profits that are reinvested in periods of rising interest rates, and falling \nprices lead to losses that occur in periods of falling interest rates. The price \ndifferential will also vary with the volatility of interest rates. Therefore, the \n\n                                                                                    \n \ndifferential between forward and futures prices is determined by both interest rate \nvolatility and the correlation between futures prices and interest rates."
     },
     {
-        "id": "vikas-vohra-derivatives-41",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12073,7 +11349,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "41. A is correct because the fixed-rate receiver pays the market reference rate and \nreceives the par swap par rate. If the market reference rate increases, they are \npaying more and the value of the contract decreases to them. Another interpretation \nof an interest rate swap is that the fixed-rate payer (floating-rate receiver) is long \na floating-rate note (FRN) priced at the MRR and short a fixed-rate bond with a \ncoupon equal to the fixed swap rate. Similarly, the fixed-rate receiver (floating-rate \npayer) is long a fixed-rate bond with a coupon equal to the swap rate and short a \nfloating-rate note priced at the MRR. A rise in the expected forward rates after \ninception will increase the present value of floating payments, while the fixed-swap \nrate will remain the same."
     },
     {
-        "id": "vikas-vohra-derivatives-42",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12087,7 +11362,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "42. A is correct because the futures price for a commodity with known storage cost \namounts may be determined [as"
     },
     {
-        "id": "vikas-vohra-derivatives-43",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12101,7 +11375,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "43. B is correct because the law of one price can be used to value a derivative security \nsince there is a one-to-one relationship between the derivative and its underlying \nasset at maturity. Therefore, there exists only one price for each derivative."
     },
     {
-        "id": "vikas-vohra-derivatives-44",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12115,7 +11388,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "44. A is correct because the non-linear payoff profile of an option requires that the \nreplicating transaction be adjusted as this likelihood changes, while the replicating \ntrades for a forward commitment remain constant. Also, as in the case of the call \noption, the asymmetric payoff profile requires adjustment over time based on the \nlikelihood of exercise."
     },
     {
-        "id": "vikas-vohra-derivatives-45",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12129,7 +11401,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "45. B is correct because the payoff of a put option following a down move is p1d = Max \n(0, X – S1d) where X is the exercise price and S1d is the price after a down move. In \nthis case, S1d = €26(0.75) = €19.50. So, p1d = Max (0, €22 - €19.50) = €2.50, which \nis greater than the payoffs of other two responses."
     },
     {
-        "id": "vikas-vohra-derivatives-46",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12143,7 +11414,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "46. B is correct because the periodic settlement value = (MRR – sN) × Notional amount × \nPeriod. The market reference rate (MMR) for Year 3 is 1.35%, thus: \n \n= (0.0135 – 0.0195) × $10,000,000 × 1 = –$60,000."
     },
     {
-        "id": "vikas-vohra-derivatives-47",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12157,7 +11427,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "47. A is correct because the put price plus the underlying price equals the call price plus \nthe present value of the exercise price. Rearranged, this is as follows: The present \nvalue of the exercise price plus the call price equals the put price plus the underlying \nprice."
     },
     {
-        "id": "vikas-vohra-derivatives-48",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12171,7 +11440,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "48. B is correct because the put’s value at expiration = pT = Max(0,X – ST), where pT is \nthe value of the put at expiration, X is the exercise price, and ST is the price of the \nunderlying at expiration. In this case, Max(0,45 – 41) = $4. The put buyer’s profit = \nΠ = pT – p0  (where p0 is the price of the put at time 0), or 4 – 2 = $2."
     },
     {
-        "id": "vikas-vohra-derivatives-49",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12185,7 +11453,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "49. C is correct because the put-call parity relationship implies S0 = c0 – p0 + X/(1 + r)^T \nwhich implies that a long asset = long call, short put, long bond."
     },
     {
-        "id": "vikas-vohra-derivatives-52",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12199,7 +11466,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "52. A is correct because the value of the call option today, c0, is computed as the \nexpected value of the option at expiration, c1 u and c1 d, discounted at the risk-free \nrate, r. Also, this no-arbitrage derivative value established separately from investor \nviews on risk is referred to as risk-neutral pricing."
     },
     {
-        "id": "vikas-vohra-derivatives-53",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12213,7 +11479,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "53. B is correct because the terms of OTC (over -the-counter) contracts can be \ncustomized to match a desired risk exposure profile. This flexibility is important to \n\n                                                                                    \n \nend users seeking to hedge a specific existing or anticipated underlying exposure \nbased upon non-standard terms."
     },
     {
-        "id": "vikas-vohra-derivatives-55",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12227,7 +11492,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "55. B is correct because the value at expiration for the seller: \n= F0(T) – ST = $285 – $282 = $3. \nHence the total value is $3 × 2,000 shares = $6,000."
     },
     {
-        "id": "vikas-vohra-derivatives-56",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12241,7 +11505,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "56. B is correct because the writer of a call is the seller of the call: An option is a \nderivative contract in which one party, the buyer, pays a sum of money to the other \nparty, the seller or writer, and receives the right to either buy or sell an underlying \nasset at a fixed price either on a specific expiration date or at any time prior to the \nexpiration date. The profit to the seller of the call is –Max(0,ST – X) + c0, where X \nis the exercise price, ST is the value of the underlying at expiration and c0 is the call \npremium received by the seller. Since one point is equal to one dollar the profit to \nthe call seller is: –Max(0,$2,450 – $2,400) + $25 = –$50 + $25 = –$25."
     },
     {
-        "id": "vikas-vohra-derivatives-57",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12255,7 +11518,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "57. C is correct because the value or \"payoff to the call buyer\" at expiration is cT = \nMax(0,ST – X) where X is the strike price, ST is the price of the underlying at \nexpiration. Given the information in the stem we get $17.80 = Max(0,ST – $130). \nHence, ST =$ 130 + $17.80 = $147.80."
     },
     {
-        "id": "vikas-vohra-derivatives-58",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12269,7 +11531,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "58. C is correct because to the put seller, the profit is Π = –Max(0,X – ST) + p0, where \nX is the exercise price, ST is the price of the underlying at expiration, and p0 is the \nput price. Therefore, Π = –Max(0,(1,320 – 1,340)) + 30 = 30."
     },
     {
-        "id": "vikas-vohra-derivatives-59",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12283,7 +11544,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "59. A is correct because both a long forward position and a long call option position will \ngain from an increase in the underlying price."
     },
     {
-        "id": "vikas-vohra-derivatives-60",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12297,7 +11557,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "60. A is correct because the benefit of the dividend reduces the costs associated with \ncarrying the stock. The cost of carry is the net of the costs and benefits related to \nowning an underlying asset for a specific period. The cost of carry is the opportunity \ncost plus other costs of ownership less benefits of ownership, and stock dividends or \nbond coupons are examples of cash flow benefits."
     },
     {
-        "id": "vikas-vohra-derivatives-61",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12311,7 +11570,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "61. C is correct because Π = Max(0,X – ST) – p0 (profit to the put buyer), where ST  is \nthe price of the underlying at expiration, X is the strike price and p0 is the option \npremium. Therefore, the Correct calculation yields: $1 = Max(0,$210 – $200) – $9."
     },
     {
-        "id": "vikas-vohra-derivatives-62",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12325,7 +11583,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "62. B is correct because the discounting feature of the FRA, which is not present in the \nfutures contract, leads to a convexity bias that is greater for longer discounting \nperiods. Since the length of the discounting period depends on the maturity of the \nunderlying market reference rate, 3-month market reference rate results in a longer \ndiscounting period than the 1-month rate."
     },
     {
-        "id": "vikas-vohra-derivatives-63",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12339,7 +11596,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "63. A is correct because the upper no-arbitrage bound of a call price is the underlying's \nspot price."
     },
     {
-        "id": "vikas-vohra-derivatives-64",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12353,7 +11609,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "64. B is correct, because an option is a derivative contract in which one party, the buyer, \npays a sum of money to the other party, the seller or writer, and receives the right \nto either buy or sell an underlying asset at a fixed price either on a specific expiration \ndate or at any time prior to the expiration date. The right to sell is a (another) type \nof option, referred to as a put or put option."
     },
     {
-        "id": "vikas-vohra-derivatives-65",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12367,7 +11622,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "65. C is correct because, from the example on the Bioman Contract, the higher risk-free \nrate increases the opportunity cost of a cash position and lowers the present value \nof the forward price. The present value of the forward price has decreased, \nincreasing the value to the buyer. If 𝑆0 is the spot price of the underlying asset at \ntime t, [the equation] shows the forward contract MTM value at time t, 𝑉0 (T), from \nthe long forward position's perspective:\t𝑉0(T) = 𝑆0 − 𝐹\"(T)(1\t+\t𝑟)–(1\t–\t3). \nFixed Income: Practice Pack"
     },
     {
-        "id": "vikas-vohra-derivatives-1",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12381,7 +11635,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "1. C is correct. The value of a European call option is directly related to the time to \nexpiration. That is, all else held equal, the value of a European call option is higher \nthe longer the time to expiration."
     },
     {
-        "id": "vikas-vohra-derivatives-2",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12395,7 +11648,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "2. C is correct because the value of a European put option is directly related to the \nexercise price. Also, The value of a European put option can be either directly or \ninversely related to the time to expiration. The direct effect is more common. Option \n1 and Option 2 have the same exercise price, but Option 2 has a longer time to \nexpiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 \nand Option 3 have the same time to expiration, but Option 3 has a higher exercise \nprice. So, Option 3 is most likely to have a higher value than Option 2."
     },
     {
-        "id": "vikas-vohra-derivatives-3",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12409,7 +11661,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "3. B is correct because \"[t]he value of a European put option is directly related to the \nexercise price.\""
     },
     {
-        "id": "vikas-vohra-derivatives-4",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
@@ -12423,7 +11674,6 @@ const SAMPLE_QUESTIONS = [
         "explanation": "4. A is correct because –𝑐! = –Max(0,𝑆! – X) (payoff to the call seller), where –𝑐! is the \ncall value at expiration for the call seller, 𝑆! is the price of the underlying at \nexpiration, and X is the strike price. Therefore, the Correct calculation yields: –$5 = \n–Max(0,$30 – $25)."
     },
     {
-        "id": "vikas-vohra-derivatives-5",
         "source": "Vikas Vohra",
         "subject": "Derivatives",
         "lm": "LM - Derivatives",
