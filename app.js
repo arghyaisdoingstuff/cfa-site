@@ -268,18 +268,54 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v31-confidence-fix';
+        const SEED_VERSION = 'v32-smart-sync';
         const seeded = localStorage.getItem('cfaSeedVersion');
+        
         if (seeded !== SEED_VERSION) {
-            // Clear ALL existing questions and attempts so we start fresh with the new set
-            await db.questions.clear();
-            await db.attempts.clear();
-            localStorage.removeItem('flaggedQuestions');
-            await db.questions.bulkAdd(SAMPLE_QUESTIONS);
+            const existingQ = await db.questions.toArray();
+            
+            if (existingQ.length === 0) {
+                await db.questions.bulkAdd(SAMPLE_QUESTIONS);
+            } else {
+                const existingMap = new Map();
+                for (const q of existingQ) existingMap.set(q.text, q);
+                
+                const toAdd = [];
+                const toUpdate = [];
+                
+                for (const sq of SAMPLE_QUESTIONS) {
+                    const eq = existingMap.get(sq.text);
+                    if (!eq) {
+                        toAdd.push(sq);
+                    } else {
+                        let needsUpdate = false;
+                        if (eq.explanation !== sq.explanation || 
+                            eq.correctAnswer !== sq.correctAnswer ||
+                            eq.lm !== sq.lm ||
+                            eq.subject !== sq.subject ||
+                            JSON.stringify(eq.options) !== JSON.stringify(sq.options)) {
+                            needsUpdate = true;
+                        }
+                        if (needsUpdate) {
+                            toUpdate.push({
+                                ...eq,
+                                explanation: sq.explanation,
+                                correctAnswer: sq.correctAnswer,
+                                lm: sq.lm,
+                                subject: sq.subject,
+                                options: sq.options,
+                                source: sq.source
+                            });
+                        }
+                    }
+                }
+                
+                if (toAdd.length > 0) await db.questions.bulkAdd(toAdd);
+                if (toUpdate.length > 0) await db.questions.bulkPut(toUpdate);
+            }
+            
             localStorage.setItem('cfaSeedVersion', SEED_VERSION);
         } else if ((await db.questions.count()) === 0) {
-            // DB was cleared manually — re-seed without wiping attempts
             await db.questions.bulkAdd(SAMPLE_QUESTIONS);
         }
     },
