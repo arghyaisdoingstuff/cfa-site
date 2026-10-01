@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v45-fix-navigator';
+        const SEED_VERSION = 'v46-mock-dashboard';
         const seeded = localStorage.getItem('cfaSeedVersion');
         
         if (seeded !== SEED_VERSION) {
@@ -556,33 +556,84 @@ const app = {
 
     renderMocks: async function(c) {
         const allQ = await db.questions.toArray();
+        const allAttempts = await db.attempts.toArray();
         const mockQs = allQ.filter(q => q.mockName);
         const mocks = [...new Set(mockQs.map(q => q.mockName))];
-        
-        let html = `<div class="max-w-4xl mx-auto space-y-4">`;
+
+        let html = `<div class="max-w-4xl mx-auto space-y-6">`;
         if (mocks.length === 0) {
-            html += `<div class="stat-card text-center py-10 text-slate-500 dark:text-zinc-400 dark:text-zinc-500">No mock exams found. Upload a CSV with a "Mock Name" column and a "Session" column (1 or 2).</div>`;
+            html += `<div class="stat-card text-center py-10 text-slate-500 dark:text-zinc-400">No mock exams found.</div>`;
         }
-        
+
         for (const mock of mocks) {
-            const s1Count = mockQs.filter(q => q.mockName === mock && q.session === 1).length;
-            const s2Count = mockQs.filter(q => q.mockName === mock && q.session === 2).length;
-            
+            const mockQ  = mockQs.filter(q => q.mockName === mock);
+            const s1Qs   = mockQ.filter(q => q.session === 1);
+            const s2Qs   = mockQ.filter(q => q.session === 2);
+            const mockIds = new Set(mockQ.map(q => q.id));
+
+            const mockAttempts = allAttempts.filter(a => mockIds.has(a.questionId));
+            const totalAtt   = mockAttempts.length;
+            const correctAtt = mockAttempts.filter(a => a.isCorrect).length;
+            const acc = totalAtt > 0 ? Math.round(correctAtt / totalAtt * 100) : null;
+
+            const bySub = {};
+            for (const a of mockAttempts) {
+                const sub = a.subject || 'Unknown';
+                if (!bySub[sub]) bySub[sub] = { c: 0, t: 0 };
+                bySub[sub].t++;
+                if (a.isCorrect) bySub[sub].c++;
+            }
+            const subRows = Object.entries(bySub).map(([sub, d]) => {
+                const pct = Math.round(d.c / d.t * 100);
+                const col = pct >= 70 ? '#16a34a' : pct >= 50 ? '#ca8a04' : '#dc2626';
+                return `<div class="flex items-center justify-between text-xs py-1 border-b border-slate-100 dark:border-zinc-800 last:border-0">
+                    <span class="text-slate-600 dark:text-zinc-300">${sub}</span>
+                    <span class="font-bold" style="color:${col}">${pct}% <span class="font-normal text-slate-400 dark:text-zinc-500">(${d.c}/${d.t})</span></span>
+                </div>`;
+            }).join('');
+
+            const mockEsc = mock.replace(/'/g, "\\'");
+            const attempted = totalAtt > 0;
+
             html += `
-            <div class="stat-card flex flex-col md:flex-row items-center justify-between gap-4">
-                <div>
-                    <h3 class="font-bold text-lg text-slate-800 dark:text-white">${mock}</h3>
-                    <p class="text-sm text-slate-500 dark:text-zinc-400 dark:text-zinc-500 mt-1">${s1Count+s2Count} Questions total</p>
-                </div>
-                <div class="flex flex-wrap gap-2">
-                    ${s1Count > 0 ? `<button onclick="app.startMock('${mock.replace(/'/g, "\'")}', 1)" class="px-4 py-2 bg-slate-800 text-white text-sm font-semibold rounded-xl hover:bg-slate-900 shadow-sm transition-all active:scale-95 whitespace-nowrap">Start Session 1 (${s1Count} Qs)</button>` : ''}
-                    ${s2Count > 0 ? `<button onclick="app.startMock('${mock.replace(/'/g, "\'")}', 2)" class="px-4 py-2 bg-slate-800 text-white text-sm font-semibold rounded-xl hover:bg-slate-900 shadow-sm transition-all active:scale-95 whitespace-nowrap">Start Session 2 (${s2Count} Qs)</button>` : ''}
+            <div class="stat-card">
+                <div class="flex flex-col md:flex-row md:items-start gap-6">
+                    <div class="flex-1 min-w-0">
+                        <div class="flex items-center gap-3 mb-1">
+                            <h3 class="font-bold text-xl text-slate-800 dark:text-white">${mock}</h3>
+                            ${attempted ? `<span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300">Attempted</span>` : ''}
+                        </div>
+                        <p class="text-sm text-slate-500 dark:text-zinc-400 mb-5">${mockQ.length} Questions &middot; ${s1Qs.length ? s1Qs.length + ' in Session 1' : ''} ${s2Qs.length ? '&middot; ' + s2Qs.length + ' in Session 2' : ''}</p>
+
+                        ${attempted && subRows ? `
+                        <div class="mb-5">
+                            <p class="text-xs font-semibold uppercase tracking-wide text-slate-400 dark:text-zinc-500 mb-2">Subject Performance</p>
+                            <div>${subRows}</div>
+                        </div>` : ''}
+
+                        <div class="flex flex-wrap gap-3">
+                            ${s1Qs.length > 0 ? `<button onclick="app.startMock('${mockEsc}', 1)" class="btn-primary text-sm py-2 px-5">${attempted ? 'Retry' : 'Start'} Session 1 (${s1Qs.length} Qs)</button>` : ''}
+                            ${s2Qs.length > 0 ? `<button onclick="app.startMock('${mockEsc}', 2)" class="btn-primary text-sm py-2 px-5">${attempted ? 'Retry' : 'Start'} Session 2 (${s2Qs.length} Qs)</button>` : ''}
+                        </div>
+                    </div>
+
+                    ${attempted ? `
+                    <div class="flex flex-row md:flex-col gap-6 md:gap-4 items-center md:min-w-[110px] bg-slate-50 dark:bg-zinc-900/60 border border-slate-100 dark:border-zinc-800 rounded-xl p-4 text-center">
+                        <div>
+                            <div class="text-3xl font-black" style="color:${acc>=70?'#16a34a':acc>=50?'#ca8a04':'#dc2626'}">${acc}%</div>
+                            <div class="text-xs text-slate-400 dark:text-zinc-500 mt-0.5">Accuracy</div>
+                        </div>
+                        <div>
+                            <div class="text-xl font-bold text-slate-700 dark:text-zinc-200">${correctAtt}/${totalAtt}</div>
+                            <div class="text-xs text-slate-400 dark:text-zinc-500 mt-0.5">Correct</div>
+                        </div>
+                    </div>` : ''}
                 </div>
             </div>`;
         }
         c.innerHTML = html + `</div>`;
     },
-    
+
     startMock: async function(mockName, session) {
         this.quizMode = 'exam';
         const allQ = await db.questions.toArray();
@@ -1069,16 +1120,16 @@ const app = {
         const flaggedCount = this.quizQueue.filter(q=>getFlaggedIds().has(q.id)).length;
         const unanswered = this.quizQueue.length - answered;
 
-        return `<div class="stat-card sticky top-0">
-            <p class="text-xs font-bold uppercase tracking-wide text-slate-500 dark:text-zinc-400 dark:text-zinc-500 mb-3">Navigator</p>
-            <div class="nav-grid mb-4">${cells}</div>
-            <div class="space-y-1 text-xs mb-4">
-                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-slate-200 inline-block"></span>Unanswered (${unanswered})</div>
-                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-blue-200 inline-block"></span>Answered (${answered})</div>
-                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded bg-yellow-200 inline-block"></span>Flagged (${flaggedCount})</div>
+        return `<div class="stat-card nav-panel sticky top-0">
+            <p class="text-xs font-bold uppercase tracking-wide text-slate-500 dark:text-zinc-400 mb-2">Navigator</p>
+            <div class="nav-grid mb-3">${cells}</div>
+            <div class="space-y-1 text-xs mb-3 flex-shrink-0">
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded nav-legend-unanswered bg-slate-200 inline-block"></span><span class="text-slate-600 dark:text-zinc-300">Unanswered (${unanswered})</span></div>
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded nav-legend-answered bg-blue-200 inline-block"></span><span class="text-slate-600 dark:text-zinc-300">Answered (${answered})</span></div>
+                <div class="flex items-center gap-2"><span class="w-3 h-3 rounded nav-legend-flagged bg-yellow-300 inline-block"></span><span class="text-slate-600 dark:text-zinc-300">Flagged (${flaggedCount})</span></div>
             </div>
-            <div class="text-xs text-slate-400 dark:text-zinc-500 mb-3">Timer: <span id="nav-timer" class="font-mono font-bold text-slate-700 dark:text-zinc-200">${this.formatTime(this.getElapsedSeconds())}</span></div>
-            <button onclick="app.submitExam(document.getElementById('app-container'),false)" class="btn-primary w-full justify-center text-sm py-2">
+            <div class="text-xs text-slate-400 dark:text-zinc-500 mb-3 flex-shrink-0">Timer: <span id="nav-timer" class="font-mono font-bold text-slate-700 dark:text-zinc-200">${this.formatTime(this.getElapsedSeconds())}</span></div>
+            <button onclick="app.submitExam(document.getElementById('app-container'),false)" class="btn-primary w-full justify-center text-sm py-2 flex-shrink-0">
                 Submit Exam
             </button>
         </div>`;
@@ -1162,9 +1213,11 @@ const app = {
                     </div>
                     <h3 class="text-2xl font-bold text-slate-800 dark:text-white mb-1">Exam Complete</h3>
                     <p class="text-slate-400 dark:text-zinc-500 mb-5">${this.sessionCorrect} correct · ${this.sessionTotal-this.sessionCorrect} incorrect · ${this.quizQueue.length-this.sessionTotal} unanswered</p>
-                    <div class="flex gap-3 justify-center">
-                        <button onclick="app.renderQuizSetup(document.getElementById('app-container'))" class="btn-primary">New Session</button>
-                        <button onclick="app.navigate('dashboard')" class="px-4 py-2.5 border border-slate-300 dark:border-zinc-700 rounded-xl text-sm font-semibold text-slate-600 dark:text-zinc-300 hover:bg-slate-50 dark:bg-zinc-900">Dashboard</button>
+                    <div class="flex gap-3 justify-center flex-wrap">
+                        ${this.isMock
+                            ? `<button onclick="app.navigate('mocks')" class="btn-primary">Back to Mocks</button>`
+                            : `<button onclick="app.renderQuizSetup(document.getElementById('app-container'))" class="btn-primary">New Practice Session</button>`}
+                        <button onclick="app.navigate('dashboard')" class="px-4 py-2.5 border border-slate-300 dark:border-zinc-700 rounded-xl text-sm font-semibold text-slate-600 dark:text-zinc-300 hover:bg-slate-50 dark:hover:bg-zinc-800">Dashboard</button>
                     </div>
                 </div>
 
