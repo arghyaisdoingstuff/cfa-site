@@ -246,7 +246,7 @@ const app = {
 
     seedSampleQuestions: async function () {
         // Version key — bump this whenever SAMPLE_QUESTIONS changes to force a reseed
-        const SEED_VERSION = 'v13-vikas-lms-fixed';
+        const SEED_VERSION = 'v14-equity-ethics';
         const seeded = localStorage.getItem('cfaSeedVersion');
         if (seeded !== SEED_VERSION) {
             // Clear ALL existing questions and attempts so we start fresh with the new set

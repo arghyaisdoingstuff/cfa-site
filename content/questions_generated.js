@@ -13596,5 +13596,3775 @@ const SAMPLE_QUESTIONS = [
         ],
         "correctAnswer": 0,
         "explanation": "Correct because tokenization is the process of representing ownership rights to physical assets on a blockchain or distributed ledger."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Which of the following financial intermediaries is most likely to provide liquidity service to its clients?",
+        "options": [
+            "Brokers",
+            "Dealers",
+            "Exchanges"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. The service that dealers provide is liquidity. Liquidity is the ability to buy or sell with low transaction costs when investors want to trade. By allowing their clients to trade when they want to trade, dealers provide liquidity to them."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "An investor writes a put option on FTSE 100 Index futures. Which of the following best describes the investor's position with respect to the put contract and her exposure to the underlying index future, respectively?",
+        "options": [
+            "Long, short",
+            "Short, long",
+            "Short, short"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. The investor has written a put contract, which means she is short the option. She, therefore, must satisfy the obligation to purchase the asset if requested to do so by the put owner. The investor has a long exposure to the risk of the underlying index future because she benefits when its quoted price increases—that is, when the put declines in value (or suffers a loss when its quoted price decreases as the put increases in value)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "If securities are purchased on margin with a maximum leverage ratio of 1.75, the minimum margin requirement is closest to:",
+        "options": [
+            "43%.",
+            "57%.",
+            "75%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the maximum leverage ratio associated with a position financed by the minimum margin requirement is one divided by the minimum margin requirement. Or, MLR = 1 / MMR and MMR = 1 / MLR. In this case: the minimum margin requirement (MMR) = 1 / 1.75 = 57%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "When a company raises common equity capital in the public market, the company most likely:",
+        "options": [
+            "moves money from the present to the future.",
+            "agrees to make scheduled distributions in the future.",
+            "is required to meet regulatory reporting requirements."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when a company sells common stock to raise capital, regulatory reporting requirements and accounting standards attempt to ensure the production of meaningful financial disclosures."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "A trader reports the following information about an equity investment which was sold after 1 year:\n| Number of shares purchased | 2,000 |\n| Leverage ratio | 3 |\n| Purchase price per share | $12.00 |\n| Sale price per share | $9.50 |\n| Call money rate per year | 3% |\nThe trader's equity value as a result of the trade is closest to:",
+        "options": [
+            "$460.00",
+            "$2,520.00",
+            "$3,000.00"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the remaining equity can be calculated as:\nProceeds on sale – payoff amount borrowed – payoff loan interest\nAmount paid to purchase shares = $12 × 2,000 = $24,000\nEquity investment = $24,000 / 3 = $8,000\nAmount borrowed = $24,000 - $8,000 = $16,000\nInterest on loan = $16,000 × 3% = $480\nTherefore, remaining equity = 2,000 × $9.5 – $16,000 – 3% × $16,000 = $19,000 – $16,000 – $480 = $2,520."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Order matching rules in order-driven trading systems are used to:",
+        "options": [
+            "match buy orders to sell orders.",
+            "determine the prices at which the orders submitted by dealers are matched.",
+            "determine the prices at which the orders submitted by customers are matched."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the order matching rules match buy orders to sell orders."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "A sell order that instructs the broker to obtain the best price immediately available without specifying a minimum price is a:",
+        "options": [
+            "stop order.",
+            "limit order.",
+            "market order."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a market order instructs the broker or exchange to obtain the best price immediately available when filling the order."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Which of the following is an objective of market regulation?",
+        "options": [
+            "Controlling agency problems only",
+            "Ensuring that long-term liabilities are funded only",
+            "Both controlling agency problems and ensuring that long-term liabilities are funded"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the objectives of market regulation include both controlling agency problems and ensuring that long-term liabilities are funded. In total, the objectives of market regulation are:\n1. control fraud.\n2. control agency problems.\n3. promote fairness.\n4. set mutually beneficial standards.\n5. prevent undercapitalized financial firms from exploiting their investors by making excessively risky investments; and\n6. ensure that long-term liabilities are funded."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "If a European investor believes the US equity market will decline in the next three months, the transaction most likely to allow the investor to profit from this view is the purchase of a:",
+        "options": [
+            "put option.",
+            "call option.",
+            "currency swap."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because option holders generally will exercise call options if the strike price is below the market price of the underlying instrument, in which case, they will be able to buy at a lower price than the market price. Similarly, they will exercise put options if the strike price is above the underlying instrument price so that they will sell at a higher price than the market price. Therefore, if the investor purchases a put option and the US market declines, they will profit by buying at the lower market price and selling at the higher strike price."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "When issuers sell securities to investors:",
+        "options": [
+            "they trade in the primary market.",
+            "they trade in the secondary market.",
+            "funds flow between the primary and the secondary market."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because when issuers sell securities to investors, practitioners say that they trade in the primary market."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "If the price of a stock bought on 30% margin increases by 40%, the return on equity to the buyer is closest to:",
+        "options": [
+            "52%.",
+            "75%.",
+            "133%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the return on equity to a margin position is calculated by multiplying the unleveraged return by the financial leverage ratio. The financial leverage ratio is equal to 1/margin. In this case, financial leverage is 1/0.30 = 3.3333, so the return on equity = 40% × 3.3333 = 133.33%, which is closest to 133%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "In which markets are government bills most likely traded?",
+        "options": [
+            "Money markets",
+            "Capital markets",
+            "Alternative investment markets"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because money markets trade debt instruments maturing in one year or less. The most common such instruments are repurchase agreements, negotiable certificates of deposit, and government bills."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Financial intermediaries that help their clients arrange seasoned securities offerings are best known as:",
+        "options": [
+            "investment banks.",
+            "commercial banks.",
+            "multi-lateral trading facilities."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because investment banks provide advice to their mostly corporate clients and help them arrange transactions such as initial and seasoned securities offerings. Additionally, a seasoned security is a security that an issuer has already issued. If the issuer wants to sell additional units of a previously issued security, it makes a seasoned offering (sometimes called a secondary offering)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "In the secondary market, funds flow from:",
+        "options": [
+            "traders to traders.",
+            "issuers to investors.",
+            "investors to issuers."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because when investors sell securities to others, they trade in the secondary market. In the secondary market, funds flow between traders."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Short sellers are most likely exposed to:",
+        "options": [
+            "unlimited gains and limited losses.",
+            "limited gains and unlimited losses.",
+            "unlimited gains and unlimited losses."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because short sellers create short positions in securities by borrowing securities from security lenders who are long holders. The short sellers then sell the borrowed securities to other traders. The potential gains on a short position are limited to no more than 100 percent, whereas the potential losses are unbounded."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "An instruction that indicates when an order may be filled is most likely a(n):",
+        "options": [
+            "validity instruction.",
+            "clearing instruction.",
+            "execution instruction."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because validity instructions indicate when the order may be filled."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Broker 1 has a minimum margin requirement of 62.5% and Broker 2 has a maximum leverage ratio of 1.6. The maximum financial leverage possible with Broker 1 is:",
+        "options": [
+            "less than the maximum financial leverage with Broker 2.",
+            "equal to the maximum financial leverage with Broker 2.",
+            "greater than the maximum financial leverage with Broker 2."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the maximum financial leverage is the same at both firms given Broker 1's margin requirement and Broker 2's maximum leverage ratio. Leverage Ratio = 100% / margin requirement: Broker 1 leverage ratio = 100% / 62.5% = 1.6 = Broker 2's leverage ratio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Which of the following is most likely used to raise funds for a capital project?",
+        "options": [
+            "Equity issuance only",
+            "A stock dividend only",
+            "Both equity issuance and a stock dividend"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because companies often raise money for projects by selling (issuing) ownership interests (e.g., corporate common stock or partnership interests). Although these equity instruments legally represent ownership in companies rather than loans to the companies, selling equity to raise capital is simply another mechanism for moving money from the future to the present."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Clearing instructions for an order most likely indicate:",
+        "options": [
+            "how to fill the order.",
+            "when the order may be filled.",
+            "how to arrange the settlement of the trade."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because clearing instructions indicate how to arrange the final settlement of the trade."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "A trader gathers the following limit order information about a stock:\n| Bid Size (Number of Shares) | Share Price ($) | Offer Size (Number of Shares) |\n| 10 | 75.70 | --- |\n| 20 | 75.80 | --- |\n| --- | 75.90 | 5 |\n| --- | 76.00 | 10 |\n| --- | 76.10 | 15 |\nIf the trader submits a fill or kill buy order for 20 shares at a limit price of $76.00, the trader's average price per share for this trade will be closest to:",
+        "options": [
+            "$75.80.",
+            "$75.97.",
+            "$76.00."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because a limit order conveys almost the same instruction: Obtain the best price immediately available, but in no event accept a price higher than a specified limit price ($76.00) when buying. Furthermore, immediate or cancel orders (IOC) are good only upon receipt by the broker or exchange. If they cannot be filled in part or in whole, they cancel immediately. In some markets these orders are also known as fill or kill orders. That is, 15 units of the stock would trade or execute immediately at: 5 units at $75.90 and 10 units at $76.00. The average trade price per unit = ((5 × $75.90) + (10 × $76.00)) / 15 ≈ $75.97."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "A trader buys a stock on margin with the following conditions:\n| Purchase price per share | $50 |\n| Equity per share | $25 |\n| Maintenance margin requirement | 25% |\nIf the share price declines, the highest price at which the trader will receive a margin call is closest to:",
+        "options": [
+            "$12.50.",
+            "$33.33.",
+            "$37.50."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the original equity of $25 indicates a margin loan of $25 ($50 – $25). At a stock price of $33.33, equity will equal $33.33 less the $25 margin loan, or $8.33, which is 25% of the equity per share. $8.33 / $33.33 ≈ 25%. To reach this answer through calculation, determine where the equity per share equals the 25% margin requirement:\nEquity/Share = (P – L)/P = maintenance margin;\nWhere P = Share price and L = Loan amount;\n0.25 = (P – $25)/P; P ≈ $33.33."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "An investor buys a security on margin posting 50% of the initial price as equity. All else being equal, if the price declines 25%, the investor's new leverage ratio is closest to:",
+        "options": [
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the leverage ratio is defined as the ratio of the value of the position to the value of the equity investment in it. The leverage ratio indicates how many times larger a position is than the equity that supports it.\nThe starting leverage = value /equity = 1 / 0.5 = 2\nThe change in market value is given as 25% decline, implying a new market value of 75%.\nWith leverage of 2, new equity reduces by 2 × 25% = 50%, 50% × 50% = remaining equity of 25%.\nNew leverage = new value / new equity = 0.75 / 0.25 = 3.\nExpressed alternatively: New leverage = (1 – 0.25) / (0.5 – 0.25) = 3."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "When an investment bank guarantees the sale of an entire issue at a negotiated offering price, this best describes a(n):",
+        "options": [
+            "rights offering.",
+            "best effort offering.",
+            "underwritten offering."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in an underwritten offering—the most common type of offering—the investment bank guarantees the sale of the issue at an offering price that it negotiates with the issuer."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "In a well-functioning financial system, changes in asset prices primarily reflect changes in:",
+        "options": [
+            "execution costs.",
+            "the demand for liquidity.",
+            "fundamental asset values."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because well functioning financial systems are characterized by prices that reflect fundamental values so that prices vary primarily in response to changes in fundamental value and not to demands for liquidity made by uninformed traders (informationally efficient markets)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "If the ability of clients to identify competent agents increases, the need for regulation most likely:",
+        "options": [
+            "decreases.",
+            "remains the same.",
+            "increases."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because regulation would not be necessary if customers could identify competent agents and effectively measure their performance. Therefore an increase in client ability to identify competent agents would reduce the need for regulation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "If the cost to fill trades increases, the market's informational efficiency most likely:",
+        "options": [
+            "decreases.",
+            "remains the same.",
+            "increases."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because how accurately prices reflect fundamental information depends on the costs of obtaining fundamental information and on the liquidity available to well-informed traders. If filling orders is very costly, informed trading may not be profitable. In that case, information-motivated traders will not commit resources to collect and analyze data and they will not trade. Without their research and their associated trading, prices would be less informative."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "If 1,000 shares of stock purchased at $30 per share on 75% margin are later sold at $26 per share, the return on equity is closest to:\nCorrect answer:",
+        "options": [
+            "–17.8%.",
+            "–13.3%.",
+            "–10.0%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because it has correctly applied margin requirement and calculated the effect of leverage on the return calculation, accordingly:\nCost of purchase = Shares purchased × Purchase price = 1,000 × $30 = $30,000\nInitial investment = Equity invested = Cost of purchase × Margin requirement = $30,000 × 75% = $22,500\nProceeds from sale = Shares sold × Sales price = 1,000 × $26 = $26,000\nLoss on the position = Proceeds from Sale – Cost of purchase = $26,000 – $30,000 = –$4,000\nReturn on investment = Loss on the position / Initial investment = –$4,000 / $22,500 = 0.1777... ≈ 17.78%\nAlternatively, it can also be calculated as Return on investment = Loss on the position / Cost of purchase / Margin requirement = (–$4,000 / $30,000) / 75% = –0.1777... ≈ –17.78%"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "The market structure that uses trade pricing rules to match buyers and sellers is most likely a(n):",
+        "options": [
+            "brokered market.",
+            "order-driven market.",
+            "quote-driven market."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because order-driven trading systems match buyers to sellers using rules that rank the buy orders and the sell orders based on price, and often along with other secondary criteria."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "Which of the following financial intermediaries most likely buy and sell similar instruments at different prices in different markets?",
+        "options": [
+            "Dealers",
+            "Brokers",
+            "Arbitrageurs"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because arbitrageurs buy and sell identical or essentially similar instruments at different prices in different markets."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "An investor purchases a nondividend-paying stock using 35% margin. If the stock price rises by 7%, the total return on this leveraged position is closest to:",
+        "options": [
+            "9.5%.",
+            "10.8%.",
+            "20.0%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the leverage ratio is 1 / 35% = 2.86, and the leveraged position return is calculated as the leverage ratio × percentage increase (decrease) in equity = 2.86 × 7% = 20%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "An investor purchases stock on margin by posting 25% as equity. If the purchase price was $40 and the sale price was $30, the total return on the leveraged position is closest to:",
+        "options": [
+            "–100%.",
+            "–33%.",
+            "–25%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the maximum leverage ratio associated with a position financed by the minimum margin requirement is one divided by the minimum margin requirement. With a requirement of 25%, the maximum leverage ratio = 100% position / 25% equity = 4.0. The leverage ratio indicates how much more risky a leveraged position is relative to an unleveraged position. The investor's return on the equity investment will be equal to the maximum leverage ratio × change in the stock price. Change in stock price= ($30 – $40) / $40 = –0.25 = –25%. Return on investment = 4 × –25% = 100% loss. Alternatively, initial equity = $40 × 0.25 = $10 per share. With a price decline of $10 ($40 – $30), there is a 100% loss of equity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM1 - Market Organization and Structure",
+        "text": "The maximum initial leverage ratio associated with a position financed by margin is one divided by:",
+        "options": [
+            "the minimum margin requirement.",
+            "one plus the minimum margin requirement.",
+            "one minus the minimum margin requirement."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the maximum leverage ratio associated with a position financed by the minimum margin requirement is one divided by the minimum margin requirement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Management of a price-weighted index most likely entails:",
+        "options": [
+            "rebalancing only.",
+            "reconstitution only.",
+            "both rebalancing and reconstitution."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because price-weighted indexes are not rebalanced because the weight of each constituent security is determined by its price. Reconstitution is the process of changing the constituent securities in an index."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Which of the following statements best describes hedge fund indexes?",
+        "options": [
+            "Index constituents are regulated entities",
+            "Potential survivorship bias is reduced by voluntary performance reporting",
+            "There may be little overlap in index constituents between different indexes offered by different index providers"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because frequently, a hedge fund reports its performance to only one database. The result is little overlap of funds covered by the different indices. With little overlap between their constituents, different global hedge funds indices may reflect very different performance for the hedge fund industry over the same period of time."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "An analyst gathers the following information about a market-capitalization-weighted index and one of its four constituent stocks:\n| Total Market Capitalization (in $ Billions) |\n| Stock | 20 |\n| Index | 57 |\nIf the stock price is $30 per share and the index value is 100, the stock's weight in the index is closest to:",
+        "options": [
+            "25%.",
+            "30%.",
+            "35%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the stock's weight in a market-capitalization-weighted index = market capitalization of stock / market capitalization of index = $20 billion / $57 billion = 35.08%, which is closest to 35%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Security market indices most likely serve as proxies for:",
+        "options": [
+            "nonsystematic risk.",
+            "asset classes in asset allocation models.",
+            "the fair value of assets in asset-based valuation models."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because indices play a critical role as proxies for asset classes in asset allocation models."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "A multi-market index is most appropriately used as a benchmark:",
+        "options": [
+            "for a single country ETF.",
+            "for a small-capitalization growth stock manager.",
+            "to calculate beta for the portfolio of a global stock manager."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because indexes also serve as market proxies when measuring risk-adjusted performance. The beta of an actively managed portfolio allows investors to form a passive alternative with the same level of systematic risk. In this case, multi-market indexes usually comprise indexes from different countries would serve as benchmarks to calculate beta for the portfolios of global stock managers."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "A world equity index is most likely considered a:",
+        "options": [
+            "style index.",
+            "sector index.",
+            "multi-market index."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because multi-market indexes usually comprise indexes from different countries and regions and are designed to represent multiple security markets. Multi-market indexes may represent multiple national markets, geographic regions, economic development groups, and, in some cases, the entire world. World indexes are of importance to investors who take a global approach to equity investing without any particular bias toward a particular country or region."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "An analyst gathers the following information about a security index:\n| Period | Return (%) |\n| 1 | 12 |\n| 2 | -8 |\n| 3 | 2 |\nIf the index's value is 100 at the beginning of Period 1, the index's value at the end of Period 3 is closest to:",
+        "options": [
+            "103",
+            "105",
+            "106"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because it is the value of the index at the end of Period 3 = Beginning value × (1+Period 1 return) × (1 + Period 2 return) × (1 + Period 3 return) = 100 × (100 + 12%) × (100 – 8%) × (100 + 2%) ≈ 105.10, which is closest to 105."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "The beginning value for an index is 1540 and the ending value is 1575. If the income for the period is 55, the total return of the index is closest to:",
+        "options": [
+            "1.3%.",
+            "2.2%.",
+            "5.8%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the total return of an index is the price appreciation, or change in the value of the price return index, plus income (dividends and/or interest) over the period, expressed as a percentage of the beginning value of the price return index. Total return = (ending index value – beginning index value + income) / beginning index value = (1575 – 1540 + 55) / 1540 = 90 / 1540 = 5.8%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Fixed-income indexes most likely:",
+        "options": [
+            "are more easily replicated than equity indexes.",
+            "require the provider to estimate the prices of some constituent securities.",
+            "are created from a smaller universe of possible constituent securities than the universe of equity securities."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because compared to equity indexes, fixed-income index providers must contact dealers to obtain current prices on constituent securities to update the index or they must estimate the prices of constituent securities using the prices of traded fixed-income securities with similar characteristics."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "As time passes after inception, the value of the price version of an index is:",
+        "options": [
+            "less than the value of the total return version.",
+            "equal to the value of the total return version.",
+            "greater than the value of the total return version."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because at inception, the values of the price and total return versions of an index are equal. As time passes, however, the value of the total return index will exceed the value of the price return index."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "A disadvantage of an equal-weighted index is that:",
+        "options": [
+            "maintaining equal weights requires frequent reconstitution of the index.",
+            "securities that represent a relatively large fraction of the target market value are underrepresented.",
+            "securities that represent a relatively small fraction of the target market value are underrepresented."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because this is considered a disadvantage of an equal weighted index. Equal weighting has a number of disadvantages. Securities that constitute the largest fraction of the target market value are underrepresented, and securities that constitute a small fraction of the target market value are overrepresented."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "An increase in shares held by controlling shareholders most likely impacts the constituent weightings of a(n):",
+        "options": [
+            "price-weighted index.",
+            "equal-weighted index.",
+            "float-adjusted market-capitalization-weighted index."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because float-adjusted market-capitalization-weighted indexes reflect the shares available for public trading (excluding the ones held by controlling shareholders) by multiplying the market price per share by the number of shares available to the investing public (i.e., the float-adjusted market capitalization), which means constituent weights are impacted."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Equity style indexes most likely represent groups of securities classified by:",
+        "options": [
+            "geography and sector.",
+            "value and/or growth and market capitalization.",
+            "asset class and gross domestic product (GDP) weight."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because style indices represent groups of securities classified according to market capitalization, value, growth, or a combination of these characteristics. They are intended to reflect the investing styles of certain investors, such as the growth investor, value investor, and small-cap investor."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "An analyst gathers the following information about an equal-weighted index composed of three stocks:\n| Stock | Beginning-of-Period Price | End-of-Period Price |\n| 1 | $10 | $8 |\n| 2 | $20 | $24 |\n| 3 | $30 | $30 |\nIf there is a 2% return from dividends for each of the three stocks, the total return of the index is:",
+        "options": [
+            "0%.",
+            "2%.",
+            "6%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because total return measures price appreciation plus interest, dividends, and other distributions. Thus, the total return of an index is the price appreciation, or change in the value of the price return index, plus income (dividends and/or interest) over the period, expressed as a percentage of the beginning value of the price return index. Price return for Stock 1 = ($8 – $10) / $10 = –0.20 = –20%. Total return = price return + dividends = –20% + 2% = –18%. Price return for Stock 2 = ($24 – $20) / $20 = 0.20 = 20%. Total return = 20% + 2% = 22%. Price return for Stock 3 = ($30 – $30) / $30 = 0.00 = 0%. Total return = 0% + 2% = 2%. The total return of the index = (–18% + 22% + 2%) / 3 = 6% / 3 = 2%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Over time, which of the following indexes most likely has portfolio weights that shift away from securities that have increased in relative value and toward securities that have fallen in relative value? A:",
+        "options": [
+            "price-weighted index",
+            "fundamentally weighted index",
+            "market-capitalization-weighted index"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because fundamentally weighted indexes generally will have a contrarian 'effect' in that the portfolio weights will shift away from securities that have increased in relative value and toward securities that have fallen in relative value whenever the portfolio is rebalanced."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Which of the following indexes is composed of futures contracts?",
+        "options": [
+            "Commodity index",
+            "Hedge fund index",
+            "Broad equity market index"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because commodity indexes consist of futures contracts on one or more commodities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "An analyst gathers the following information about an index and one security in the index:\n| Metric | Security | Index |\n| Price | €38.00 | --- |\n| Shares outstanding | 540 million | --- |\n| Sum of the prices of all constituent securities | --- | €808.50 |\n| Sum of the market caps of all constituent securities | --- | €420 billion |\n| Number of constituent securities | --- | 18 |\nWhich of the following index-weighting methods most likely gives this security the greatest weight in the index?",
+        "options": [
+            "Price weighting",
+            "Equal weighting",
+            "Market capitalization weighting"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because equal weighting results in the largest weight:\nEqual weight = 1 / number of constituent securities = 1 / 18 ≈ 5.6%.\nPrice weight = price of security / sum of all prices of constituent securities = 38 / 808.50 ≈ 4.7%.\nMarket cap weight = price × shares outstanding / sum of all market caps of constituent securities = €38 × 540m / €420b = €20.52b / €420b ≈ 4.9%.\nAlternatively, B is correct because the security's price is less than the average price of the securities in the index and the security's market cap is less than the average market cap of the securities in the index:\nIndex's average price = sum of all prices of constituent securities / number of constituent securities = €808.50 / 18 ≈ €44.92 > security's price of €38.00.\nIndex's average market cap = sum of all market caps of constituent securities / number of constituent securities = €420b / 18 ≈ €23.3b > security's market cap of €20.52b (€38.00 × 540mm). The mathematical fact that both these averages are greater than the price and market cap of the individual security means equal weight must be the correct answer."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "Reconstitution of a security index is best described as the process of changing the:",
+        "options": [
+            "constituent securities in the index.",
+            "weights of the constituent securities in the index.",
+            "date on which the index provider reviews the constituent securities."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because reconstitution is the process of changing the constituent securities in an index."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM2 - Security Market Indexes",
+        "text": "A total return index reflects:",
+        "options": [
+            "only the prices of constituent securities.",
+            "only the reinvestment of all income received since index inception.",
+            "both the prices of constituent securities and the reinvestment of all income received since index inception."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct, because a total return index, in contrast, reflects not only the prices of the constituent securities but also the reinvestment of all income received since inception."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "With respect to behavioral finance, which of the following is least likely a behavioral bias used to explain pricing anomalies?",
+        "options": [
+            "Risk aversion",
+            "Loss aversion",
+            "Overconfidence"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because behavioral finance allows for the possibility that the dislike for risk is not symmetrical, in contrast to the more general models where researchers assume that investors do not like risk (risk aversion), whether the risk is that returns are higher than expected or lower than expected."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "In a highly efficient market, a passive investment strategy most likely has:",
+        "options": [
+            "higher transaction costs than an active strategy.",
+            "lower information-seeking costs than an active strategy.",
+            "higher risk-adjusted returns before all expenses than an active strategy."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in a highly efficient market, a passive investment strategy (i.e., buying and holding a broad market portfolio) that does not seek superior risk-adjusted returns is preferred to an active investment strategy because of lower costs (for example, transaction and information-seeking costs)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "The observation that a large-capitalization company's stock price is inflated after the company releases unexpected good news at year end is most likely related to the:",
+        "options": [
+            "value effect.",
+            "overreaction effect.",
+            "turn-of-the-year effect."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the overreaction effect or anomaly is described as the propensity for investors to overreact to the release of unexpected public information. Therefore, stock prices will be inflated (depressed) for those companies releasing good (bad) information. In other words, inflated (depressed) here means the change of value that is overshooting (undershooting) the fair (intrinsic) value after incorporating the new information, rather than the price action that goes up (down) itself."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "A feature of an efficient market is that:",
+        "options": [
+            "the market reflects all past and present information.",
+            "asset prices react to information that is fully anticipated.",
+            "an investor can earn consistent, superior, risk-adjusted returns."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because an efficient market is thus a market in which asset prices reflect all past and present information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "A market where security prices fully reflect all publicly known and available information, but not private information, is:",
+        "options": [
+            "weak-form efficient.",
+            "semi-strong-form efficient.",
+            "strong-form efficient."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in a semi-strong-form efficient market, prices reflect all publicly known and available information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "In a weak-form efficient market, which of the following information is reflected in security prices?",
+        "options": [
+            "Historical prices only",
+            "Historical prices and historical trading volumes only",
+            "Historical prices, historical trading volumes, and current earnings"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because in the weak-form efficient market hypothesis, security prices fully reflect all past market data, which refers to all historical price and trading volume information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "With respect to behavioral biases, when investors tend to be slow to react to new information and continue to maintain their prior views, this is best described as:",
+        "options": [
+            "conservatism.",
+            "herding behavior.",
+            "representativeness."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because conservative investors tend to be slow to react to new information and continue to maintain their prior views or forecasts."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "The size effect anomaly results when it is observed that on a risk-adjusted basis small cap companies tend to:",
+        "options": [
+            "underperform equities of large-cap companies.",
+            "perform in line with equities of large-cap companies.",
+            "outperform equities of large-cap companies."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the size effect results from the observation that equities of small-cap companies tend to outperform equities of large-cap companies on a risk-adjusted basis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "Behavioral finance:",
+        "options": [
+            "suggests that behavioral biases only affect novice investors.",
+            "provides a possible explanation for a number of pricing anomalies.",
+            "relies on the assumption that people consider all available information in decision-making."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the focus of much of the work in this area is on the behavioral biases that affect investment decisions. The behavior of individuals, in particular their behavioral biases, has been offered as a possible explanation for a number of pricing anomalies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "Trading by arbitrageurs most likely:",
+        "options": [
+            "reduces liquidity.",
+            "increases pricing discrepancies.",
+            "contributes to market efficiency."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because arbitrageurs are traders who engage in such trades to benefit from pricing discrepancies (inefficiencies) in markets. Such trading activity contributes to market efficiency. The presence of these arbitrageurs helps pricing discrepancies disappear quickly."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "Decreased market efficiency is most likely associated with an increase in:",
+        "options": [
+            "transaction costs.",
+            "financial disclosure.",
+            "the number of market participants."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because an increase in transaction costs will increase the price discrepancy between market price and efficient price. Higher transaction costs make it more expensive for traders to exploit market inefficiencies, thereby decreasing market efficiency. Inefficiencies may also be unexploitable if the amount of the transaction cost offsets the amount of the price discrepancy. A price discrepancy must be sufficiently large to leave the investor with a profit (adjusted for risk) after taking account of the transaction costs and information-acquisition costs to reach the conclusion that the discrepancy may represent a market inefficiency."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "In contrast to the market value of an equity security, intrinsic value is most likely:",
+        "options": [
+            "not known with certainty.",
+            "constant throughout the life of the security.",
+            "determined by the intersection of supply and demand."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because market value is the price at which an asset can currently be bought or sold. Intrinsic value (sometimes called fundamental value) is, broadly speaking, the value that would be placed on it by investors if they had a complete understanding of the asset's investment characteristics. Intrinsic value can be estimated but is not known for certain."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "The January effect is an example of:",
+        "options": [
+            "loss aversion.",
+            "an earnings surprise.",
+            "a market pricing anomaly."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the January effect, has been observed in most equity markets around the world. This anomaly is also known as the \"turn-of-the-year\" effect. The January effect is a time series anomaly and is an observed pricing anomaly."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "According to the efficient market hypothesis, if market prices reflect private information, the market is most likely:",
+        "options": [
+            "strong-form efficient.",
+            "weak-form efficient only.",
+            "semi-strong-form efficient, but not strong-form efficient."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in the case of a strong-form efficient market, insiders would not be able to earn abnormal returns from trading on the basis of private information. Market prices reflect private information under strong form market efficiency."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "Which of the following market anomalies is best described as a time-series anomaly?",
+        "options": [
+            "Size effect",
+            "Momentum",
+            "Initial Public Offerings"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the momentum anomaly is best described as a time-series anomaly. Momentum anomalies relate to short-term share price patterns where past price movements continued through time to move in the same direction."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "Fundamental analysis most likely:",
+        "options": [
+            "uses stock price patterns to trade.",
+            "is an input for passive portfolio management.",
+            "helps participants understand the value implications of information."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because fundamental analysis is necessary in a well-functioning market because this analysis helps the market participants understand the value implications of information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "Over the long run, if a market is semi-strong-form efficient, which of the following investment strategies should result in the highest return to investors? A(n):",
+        "options": [
+            "passive investment strategy",
+            "active trading strategy seeking to exploit price patterns",
+            "active trading strategy seeking to exploit public information"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because if securities markets are weak-form and semi-strong-form efficient, the implication is that active trading, whether attempting to exploit price patterns or public information, is not likely to generate abnormal returns. In other words, portfolio managers cannot beat the market on a consistent basis, so therefore, passive portfolio management should outperform active portfolio management."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM3 - Market Efficiency",
+        "text": "In which of the following forms of market efficiency are investors able to consistently outperform the market using fundamental analysis?",
+        "options": [
+            "Weak-form market efficiency",
+            "Semi-strong-form market efficiency",
+            "Strong-form market efficiency"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in the weak form of market efficiency, market prices reflect all past market data; however, it does not incorporate all public information. Therefore, investors may use fundamental analysis to outperform the market."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "The voting method that allows shareholders to cast all their votes for a single candidate is best described as:",
+        "options": [
+            "proxy voting.",
+            "statutory voting.",
+            "cumulative voting."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because cumulative voting allows shareholders to direct their total voting rights to specific candidates, as opposed to statutory voting having to allocate their voting rights evenly among all candidates."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Management is more likely to focus on short-term results instead of long-term earnings growth if a company raises equity through:",
+        "options": [
+            "venture capital.",
+            "a leveraged buyout.",
+            "an initial public offering."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because in operating a publicly traded company, management often feels pressured to focus on short-term results (e.g., meeting quarterly sales and earnings targets from analysts biased toward near-term price performance) instead of operating the company to obtain long-term sustainable revenue and earnings growth."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Common shares that are tradeable on different stock exchanges in different currencies are best described as:",
+        "options": [
+            "global registered shares.",
+            "global depository receipts.",
+            "a basket of listed depository receipts."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a global registered share (GRS) is a common share that is traded on different stock exchanges around the world in different currencies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "The book value of a company's equity is:",
+        "options": [
+            "the present value of its future cash flows.",
+            "the difference between its total assets and total liabilities.",
+            "its share price multiplied by the number of outstanding shares."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the book value of a company's equity is the difference between its total assets and total liabilities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "All else being equal, which of the following preference shares pays the lowest dividend?",
+        "options": [
+            "Putable",
+            "Callable",
+            "Non-callable"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because from an investor's point of view, putable common or preference shares are less risky than their callable or non-callable counterparts because they give the investor the option to sell the shares to the issuer at a pre-determined price. As a result, putable shares generally pay a lower dividend than non-putable shares."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Which of the following is least likely to directly affect a company's book value?",
+        "options": [
+            "Changes in the company's net income",
+            "Purchases by the company of its own shares",
+            "Investor estimates of the company's future cash flows"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Incorrect because changes in a company's net income directly affect the book value of the company."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "A company's ROE most likely decreases if shareholders' equity increases at:",
+        "options": [
+            "a lower rate than net income.",
+            "the same rate as net income.",
+            "a higher rate than net income."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because ROE can increase if net income increases at a faster rate than shareholders' equity or if net income decreases at a slower rate than shareholders' equity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Global depository receipts are most likely:",
+        "options": [
+            "issued outside the US.",
+            "listed on US exchanges.",
+            "denominated in the currency of the issuing company."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a global depository receipt (GDR) is issued outside of the company's home country and outside of the United States."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "If investors believe a company has a large number of positive net present value investment opportunities, the company's book value will most likely be:",
+        "options": [
+            "less than the market value.",
+            "equal to the market value.",
+            "greater than the market value."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the market value of the company's equity reflects investor's collective assessment and expectations about the company's future cash flows generated by its positive net present value investment opportunities. If investors believe that the company has a large number of these future cash flow-generating investment opportunities, the market value of the company's equity will exceed its book value."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Investors' minimum required rate of return on a company's stock is most directly measured by the:",
+        "options": [
+            "CAPM.",
+            "company's ROE.",
+            "company's WACC."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because two models commonly used to estimate a company's cost of equity (or investors' minimum required rate of return) are the dividend discount model (DDM) and the capital asset pricing model (CAPM)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Which of the following methods of raising capital most likely provides mezzanine financing to early-stage companies?",
+        "options": [
+            "Venture capital",
+            "Initial public offering (IPO)",
+            "Private investment in public equity (PIPE)"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because venture capital investments provide 'seed' or start-up capital, early-stage financing, or mezzanine financing to companies that are in the early stages of development and require additional capital for expansion."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Which of the following types of preference shares entitles shareholders to receive an additional dividend if the company's profits exceed a pre-specified level?",
+        "options": [
+            "Cumulative",
+            "Convertible",
+            "Participating"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because participating preference shares entitle the shareholders to receive the standard preferred dividend plus the opportunity to receive an additional dividend if the company's profits exceed a pre- specified level."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Management actions most directly affect a company's:",
+        "options": [
+            "book value.",
+            "market value.",
+            "intrinsic value."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because management actions can directly affect the book value of the company (by increasing net income or by selling or purchasing its own shares)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "The discounted value of a company's future projected cash flows is best described as its:",
+        "options": [
+            "book value.",
+            "market value.",
+            "intrinsic value."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the company's intrinsic value is the present value of its future projected cash flows."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Which of the following shareholder groups benefits the most by using cumulative voting?",
+        "options": [
+            "Preference shareholders",
+            "Shareholders with a large number of shares",
+            "Shareholders with a small number of shares"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because cumulative voting allows shareholders to direct their total voting rights to specific candidates, as opposed to having to allocate their voting rights evenly among all candidates. The key benefit to cumulative voting is that it allows shareholders with a small number of shares to apply all of their votes to one candidate, thus providing the opportunity for a higher level of representation on the board than would be allowed under statutory voting."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "In a management buyout transaction, a public company is most likely privatized through the:",
+        "options": [
+            "issue of new shares to management.",
+            "issue of new shares by management.",
+            "purchase of publicly listed shares by management."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a leveraged buyout (LBO) occurs when a group of investors (such as the company's management or a private equity partnership) uses a large amount of debt to purchase all of the outstanding common shares of a publicly traded company. In cases where the group of investors acquiring the company is primarily comprised of the company's existing management, the transaction is referred to as a management buyout (MBO). After the shares are purchased, they cease to trade on an exchange and the investor group takes full control of the company. In other words, the company is taken \"private\" or has been privatized."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "If a company raises equity capital in order to continue as a going concern rather than fund revenue-generating activities, the capital is most likely used to:",
+        "options": [
+            "acquire other companies.",
+            "purchase long-lived assets.",
+            "ensure that debt covenants are met."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a company may be forced to raise capital to ensure that it continues to operate as a going concern. In these cases, capital is raised to fulfill regulatory requirements, improve capital adequacy ratios, or to ensure that debt covenants are met."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Preference shares that provide the investor with an opportunity to share in the profits of the company are best described as:",
+        "options": [
+            "cumulative.",
+            "convertible.",
+            "non-cumulative."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because convertible preference shares allow investors the opportunity to share in the profits of the company."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "Common shares most likely rank above preference shares with respect to:\nCorrect answer:",
+        "options": [
+            "voting rights.",
+            "the payment of dividends.",
+            "the distribution of the company's net assets upon liquidation."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because preference shareholders generally do not share in the operating performance of the company and do not have any voting rights."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM4 - Overview of Equity Securities",
+        "text": "All else being equal, convertible preference shares most likely:",
+        "options": [
+            "are more volatile than the underlying common shares.",
+            "pay lower dividends than the underlying common shares.",
+            "allow investors to share in the underlying company's profits after conversion."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because convertible preference shares allow investors the opportunity to share in the profits of the company."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Downside and upside risk factors are most likely included in:",
+        "options": [
+            "an initial company research report only.",
+            "a subsequent company research report only.",
+            "both initial and subsequent company research reports."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because downside and upside risk factors are part of the company research report element \"Risks\" which is not only part of the initial company research report elements but also listed amongst the five elements for the subsequent company research report: 1. Front Matter, 2. Recommendation, 3. Analysis of New Information, 4. Valuation and 5. Risks."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "A natural resources company having access to cheap energy most likely will be able to sell its output:",
+        "options": [
+            "at market price.",
+            "above market price.",
+            "at a price unilaterally set by management."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because in the most competitive markets, where firms are selling nearly identical products, firms are price takers—that is, price is dictated by the forces of supply and demand—and all firms generally sell at the same price, i.e. the prevailing market price. Other attributes of highly competitive markets include little to no product differentiation, low barriers to firm entry, available substitutes, a lack of customer loyalty, and low switching costs for customers. Many markets fit this description, including retail, oil and gas and other natural resources."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following is best described as a source of capital?",
+        "options": [
+            "Debt issuances",
+            "Share repurchases",
+            "Positive net working capital"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because issuing debt will raise money for a company and so is a source of capital, not a use."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Within Porter's five forces framework, the power of buyers within an industry is most likely influenced by the:",
+        "options": [
+            "industry concentration.",
+            "availability of lower priced alternative brands.",
+            "number of customers for the industry's products."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the smaller the number of buyers, the more likely buyer power will increase: Bargaining Power of Customers. Affected by: size and concentration of customers, costs of switching to other suppliers, customers' ability to produce the product or service themselves. Are customers able to force price reductions or better payment terms? This can affect the intensity of competition by exerting influence on suppliers regarding prices (and possibly other factors such as product quality). For example, auto parts companies generally sell to a small number of auto manufacturers, which allows those customers, the auto manufacturers, to be tough negotiators when it comes to setting prices."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "The Global Industry Classification Standard's broadest level of classification is a(n):",
+        "options": [
+            "sector.",
+            "industry.",
+            "industry group."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Incorrect because a sector is the broadest level of classification. Each industry belongs to an industry group; and each group belongs to a sector."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "External factors affecting an industry's growth most likely include:",
+        "options": [
+            "cost structures.",
+            "economies of scale.",
+            "technological influences."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Commercial industry classification systems are most likely updated:",
+        "options": [
+            "less frequently than government classification systems.",
+            "as frequently as government classification systems.",
+            "more frequently than government classification systems."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because most government and commercial classification systems are reviewed and, if necessary, updated from time to time. Generally, commercial classification systems are adjusted more frequently than government classification systems, which may be updated only every five years or so."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Porter's five determinants of the intensity of competition in an industry do not include the:",
+        "options": [
+            "power of buyers.",
+            "threat of substitutes.",
+            "position of a company in its life-cycle stage."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the position of a company in its life-cycle stage is not part of Porter's five forces. The five forces are: threat of entry, power of suppliers, power of buyers, threat of substitutes, and rivalry among existing competitors."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following best describes an industry-level force in a thorough industry analysis?",
+        "options": [
+            "Threat of new entrants",
+            "Demographic influences",
+            "Technological influences"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because industry-level forces driving industry competition include: threat of new entrants, substitution threats, customer and supplier bargaining forces, the competitive forces in the industry (rivalry), life-cycle issues, and business-cycle considerations."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following industries or sectors is most likely classified as cyclical?",
+        "options": [
+            "Utilities",
+            "Industrials",
+            "Health care"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because examples of cyclical industries and broader sectors are autos, housing, basic materials, industrials, and technology."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Industry classification systems are developed and used by:",
+        "options": [
+            "commercial entities only.",
+            "governmental agencies only.",
+            "both commercial entities and governmental agencies."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because industry classification systems are developed and used by both commercial entities and various governmental agencies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following is considered an external influence on industry growth?",
+        "options": [
+            "Social trends",
+            "Barriers to entry",
+            "Industry concentration"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because external factors affecting an industry's growth include macroeconomic, technological, demographic, governmental, and social influences."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Industries whose revenues and profits are least affected by fluctuations in the overall economy are most likely:",
+        "options": [
+            "growth industries.",
+            "cyclical industries.",
+            "defensive industries."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because defensive industries and companies are those whose revenues and profits are least affected by fluctuations in overall economic activity. These industries/companies tend to produce staple consumer goods (e.g., bread), to provide basic services (grocery stores, drug stores, fast food outlets)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following is most likely a demographic influence on industry growth?",
+        "options": [
+            "Lifestyle",
+            "Distribution of age",
+            "Spending behavior"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because changes in distribution of age happen due to demographic influence. Changes in population size, in the distributions of age and gender, and in other demographic characteristics may have significant effects on economic growth and on the amounts and types of goods and services consumed."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following statements about forecasting selling, general and administrative (SG&A) expenses is most accurate?",
+        "options": [
+            "General corporate costs are mostly variable costs",
+            "Selling and distribution expenses can be modeled as a percentage of sales",
+            "Overall SG&A expenses have a more direct relationship with revenues than cost of goods sold"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because selling and distribution expenses often have a large variable component and can be modeled as a percentage of sales."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following statements about scenario analysis is most accurate?",
+        "options": [
+            "Scenario analysis provides a point estimate forecast",
+            "Forecast scenarios can be compared to forecasts implied by current valuations",
+            "Generic risk factors in scenario analysis are assumed to affect all companies in the same way"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because investors compare these scenarios with other analysts' (e.g., sell-side analysts') forecasts for a company, as well as forecasts implied by current valuations, to make investment decisions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which financial statement forecasting approach is best suited for companies in highly cyclical industries?",
+        "options": [
+            "Historical results",
+            "Management guidance",
+            "Analyst's discretionary forecasts"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because analyst's discretionary forecasts include those based on surveys, quantitative models, probability distributions, analogies to historical precedents that differ from comparable companies or industry averages, and other unobservable inputs. This approach is most common for companies in cyclical industries, companies that have no or few comparables, those that do not provide management guidance, and/or those undergoing a fundamental change like a shift in the competitive or regulatory environment."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Which of the following forecast objects for a bank's revenue is best classified as a top-down driver?",
+        "options": [
+            "Net interest income",
+            "Growth in market share",
+            "Growth in the number of branches"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because forecast objects for revenues are typically either top-down or bottom-up drivers. Common top-down forecast objects include 'growth relative to GDP growth' and 'market growth and market share.' The analyst first forecasts a growth rate for a company's product market, and then considers the company's current market share and how that share is likely to change over time."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM5 - Company Analysis: Past and Present",
+        "text": "Depreciation expense is best used in forecasting:",
+        "options": [
+            "growth capital expenditure only.",
+            "maintenance capital expenditure only.",
+            "both growth capital expenditure and maintenance capital expenditure."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because depreciation expense can serve as the basis for maintenance capital expenditures, as it is management's estimate of the cost of fixed assets expensed on the income statement in a manner that tracks its use."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "Asset-based valuation most likely uses estimates of the company's:",
+        "options": [
+            "assets only.",
+            "assets and liabilities only.",
+            "assets, liabilities, and projected cash flow."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because an asset-based valuation of a company uses estimates of the market or fair value of the company's assets and liabilities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "A stock dividend:",
+        "options": [
+            "is relevant for valuation of a company.",
+            "involves a reduction in the number of shares outstanding.",
+            "does not affect the shareholders' proportional ownership in the company."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a stock dividend divides the \"pie\" (the market value of shareholders' equity) into smaller pieces without affecting the value of the pie or any shareholder's proportional ownership in the company."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "All else being equal, a reverse stock split results in:",
+        "options": [
+            "a decrease in the number of shares and an increase in the share price.",
+            "an increase in the number of shares and a decrease in the share price.",
+            "an increase in the number of shares and an increase in the share price."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a reverse stock split involves a reduction in the number of shares outstanding with a corresponding increase in share price."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "In dividend payment chronology, the ex-dividend date most likely comes after the:",
+        "options": [
+            "record date.",
+            "payment date.",
+            "declaration date."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because first is the declaration date, the day that the company issues a statement declaring a specific dividend. Next comes the ex-dividend date (or ex- date), the first date that a share trades without (i.e., \"ex\") the dividend."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "All else being equal, which of the following are equivalent to stock dividends in terms of the economic effect on the company and shareholders?",
+        "options": [
+            "Stock splits",
+            "Cash dividends",
+            "Share repurchases"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because a stock dividend divides the \"pie\" (the market value of shareholders' equity) into smaller pieces without affecting the value of the pie or any shareholder's proportional ownership in the company. Thus, stock dividends are not relevant for valuation. Stock splits and reverse stock splits are similar to stock dividends in that they have no economic effect on the company or shareholders."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "A firm reports negative earnings for the year just ended. The price multiple of the firm's stock that is least likely to be meaningful is:",
+        "options": [
+            "price to cash flow.",
+            "trailing price to earnings.",
+            "leading price to earnings."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. Negative earnings in the last year result in a negative ratio of trailing price to earnings and are not meaningful. Practitioners may use the ratio of (1) current price to cash flow or (2) leading price to earnings by replacing last year's loss with forecasted earnings."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "A $25 par value non-callable, non-convertible preferred share pays an annual dividend rate of 5%. If the required rate of return is 4%, the preferred share's intrinsic value is closest to:",
+        "options": [
+            "$25.25.",
+            "$26.00.",
+            "$31.25."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the estimated intrinsic value (V0) is: , where D0 = dividend, and r = the required rate of return. The D0 = par value × annual dividend rate = $25 × 0.05 = $1.25. V0 = $1.25 / 0.04 = $31.25."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a company's shares:\n| Dividend payable per share | $0.50 |\n| Ex-date | 20 August |\n| Closing share price on 19 August | $29.00 |\nAll else being equal, at the beginning of trading on 20 August, the company's shares will most likely trade at:",
+        "options": [
+            "$28.50.",
+            "$29.00.",
+            "$29.50."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the ex-dividend date (or ex-date) is the first date that a share trades without (i.e., 'ex') the dividend. Because buyers of a company's shares on the ex-dividend date are no longer eligible to receive the upcoming dividend, all else being equal, on that day the company's share price immediately decreases by the amount of the foregone dividend. If the share traded at $29.00 on 19 August (the day before ex-date) and the upcoming dividend is $0.50, then all else being equal, the shares would trade at $28.50 ($29.00 - $0.50) on the ex-date."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a company and its common stock:\n| Forward P/E | 8 |\n| Required rate of return | 12% |\n| Dividend growth rate | 4% |\nUsing the Gordon growth model, the company's dividend payout ratio is closest to:",
+        "options": [
+            "8%.",
+            "33%.",
+            "64%."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the Gordon growth model equations and therefore where E1 forecast for next year's earnings, p = dividend payout ratio, D1 = forward dividend, r = require rate of return, and g = dividend growth rate, the dividend payout ratio p = 8.0 × (0.12 – 0.04) = 0.64 = 64%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a company and the economy:\n| Current share price | €36 |\n| Forward P/E ratio | 22 |\n| Nominal risk-free rate | 2.5% |\n| Risk premium | 6.0% |\n| Expected retention rate | 60% |\nThe best estimate of the company's dividend growth rate is:",
+        "options": [
+            "5.8%.",
+            "6.7%.",
+            "7.4%."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because justified forward P/E = p / (r – g), where p = payout ratio = (1 – retention rate) and r = required rate of return = nominal risk-free rate + risk premium.\n22 = (1 – 0.60) / ((0.025 + 0.06) – g).\n22 = 0.40 / (0.085 – g) and g = 0.0668 ≈ 6.7%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "All else being equal, an increase in which of the following most likely increases a company's enterprise value?",
+        "options": [
+            "Book value of debt",
+            "Market value of investments",
+            "Market value of preferred stock"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because enterprise value is most frequently determined as market capitalization plus market value of preferred stock plus market value of debt minus cash and investments (cash equivalents and short-term investments). Therefore, enterprise value increases with an increase in the market value of preferred stock."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "Enterprise value is most likely associated with:",
+        "options": [
+            "multiplier models.",
+            "present value models.",
+            "asset-based valuation models."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because multiplier models are based chiefly on share price multiples or enterprise value multiples. Enterprise value (EV) multiples have the form (Enterprise value)/(Value of a fundamental variable). Two possible choices for the denominator are earnings before interest, taxes, depreciation, and amortization (EBITDA) and total revenue."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about an industry and three comparable companies within the industry:\n| Metric | Company 1 | Company 2 | Company 3 | Industry Average |\n| Price/sales | 8.9 | 3.2 | 5.7 | 6.2 |\n| Price/book | 5.7 | 2.6 | 2.3 | 4.7 |\nBased only on this information, the most overvalued company is:",
+        "options": [
+            "Company 1.",
+            "Company 2.",
+            "Company 3."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Company 1's P/S and P/B are both the highest compared to those of its two peers and the industry average. All else being equal, high P/S and P/B multiples point to relatively expensive valuations. Therefore, in the absence of conflict between the indications given by P/S and P/B (as both measures are the highest for the same company), the company most likely to be overvalued is Company 1."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following book value information about a company and its common shares:\n| Inventories | €20 million |\n| Net fixed assets | €80 million |\n| Total assets | €150 million |\n| Total liabilities | €90 million |\n| Shares outstanding | 4 million |\nThe analyst estimates the market value of net fixed assets to be 125% of book value and the market value of inventories to be 90% of book value. If the stock is currently trading at €19.50 per share, the asset-based value per share is most likely:",
+        "options": [
+            "less than the market price.",
+            "equal to the market price.",
+            "greater than the market price."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the asset-based per share value is: market value of assets less market value liabilities = (Total assets + increase in net fixed assets – decrease in inventories – total liabilities) / shares outstanding = [(150 + ((80 × 1.25) – 80) + ((20 × 0.90) – 20) – 90)] / 4 = (150 + 20 – 2 – 90) / 4 = 19.50. This is the same as the market price."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "All else being equal, which of the following has the same effect on shareholders' wealth as a cash dividend?",
+        "options": [
+            "A stock split",
+            "A stock dividend",
+            "A share repurchase"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because a share repurchase is viewed as equivalent to the payment of cash dividends of equal value in terms of the effect on shareholders' wealth, all other things being equal."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "Asset-based valuation models are most appropriate for companies with a high proportion of:",
+        "options": [
+            "illiquid assets.",
+            "current assets.",
+            "intangible assets."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because asset-based valuations work well for companies that do have a high proportion of current assets and current liabilities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "The dividend discount model assumes that dividends are paid:",
+        "options": [
+            "quarterly.",
+            "half yearly.",
+            "at the end of each year."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the dividend discount model, each year's dividend Dt is the expected dividend in year t, assumed to be paid at the end of the year."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "When using a multiplier model, the fundamental variable is stated on:",
+        "options": [
+            "a trailing basis only.",
+            "a forward basis only.",
+            "either a trailing basis or a forward basis."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the fundamental variable may be stated on a forward basis (e.g., forecasted EPS for the next year) or a trailing basis (e.g., EPS for the past year), as long as the usage is consistent across companies being examined."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "A free-cash-flow-to-equity model is a(n):",
+        "options": [
+            "multiplier model.",
+            "present value model.",
+            "asset-based valuation model."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because present value models include free-cash-flow-to-equity models."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about common shares:\n| Metric | Company | Peer Group |\n| Dividend payout ratio | 40% | 50% |\n| Estimated future dividend growth rate | 5% | 4% |\nIf the investor's required rate of return is 9%, the company's justified forward P/E is:",
+        "options": [
+            "less than the peer group's justified forward P/E.",
+            "the same as the peer group's justified forward P/E.",
+            "greater than the peer group's justified forward P/E."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the company's justified forward P/E is the same as the peer group's justified forward P/E. The company's justified forward P/E = p / (r – g) = 0.40 / (0.09 – 0.05) = 10.0. The peer group's justified forward P/E = 0.50 / (0.09 – 0.04) = 10.0."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a company and its historical price multiples:\n| Metric | Current | Historical |\n| EPS | $3.00 | --- |\n| Cash flow per share | $4.00 | --- |\n| Book value per share | $40.00 | --- |\n| P/B | --- | 0.6 |\n| P/E | --- | 12.0 |\n| P/CF | --- | 8.0 |\nBased only on this information, if the share price is $30, the company's shares are most likely overvalued based on:",
+        "options": [
+            "P/B.",
+            "P/E.",
+            "P/CF."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the P/B value for the company is $30 / $40 = 0.75, which is above the benchmark ratio of 0.6, indicating the shares are overvalued based on P/B (i.e. the ratio is higher than the benchmark). Both the P/E and P/CF ratios for the company are below their respective benchmarks, and therefore are not overvalued on that basis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "A non-callable, non-convertible perpetual preferred share pays a level dividend of $1.20 with a current market price of $20. If an investor has a required rate of return of 6%, the preferred shares are most likely:",
+        "options": [
+            "undervalued.",
+            "fairly valued.",
+            "overvalued."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the market price is equal to the calculated value based on the stated rate of return. Since the preferred share pays a perpetual level dividend, its value is V0 = D0/r = $1.20/0.06 = $20. If the estimated value equals the market price, the analyst infers the security is fairly valued."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a company:\n| Estimated forward P/E ratio | 8 |\n| Retention rate | 45% |\nIf the investor's required rate of return is 10%, the company's ROE is closest to:",
+        "options": [
+            "6.9%.",
+            "8.0%.",
+            "9.7%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because P0/E1 = p/(r – g), where g = b × ROE\nRestating the equation we arrive at: P0/E1 = p/(r – (b × ROE)) where:\np = dividend payout ratio = (1 – retention rate) = (1 – b)\nr = required rate of return on the stock\ng = dividend growth rate = retention rate × ROE\nTherefore, P0/E1 = p/(r – (b × ROE)) is rearranged as: P0/E1 = (1 – b)/(r – (b × ROE))\nRearranging this equation we arrive at: ROE = (((1 – b)/(P0/E1)) – r)/–b\nROE = (((1 – 45%)/8) – 10%)/–45% ≈ 6.9%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following data for three companies in the same industry (in millions):\n| Company | Enterprise Value (EV) | Earnings Before Interest, Taxes, Depreciation, & Amortization (EBITDA) |\n| 1 | $100 | $8 |\n| 2 | $150 | $10 |\n| 3 | $200 | $15 |\nBased on enterprise value multiples, which of the three companies is likely the most undervalued?",
+        "options": [
+            "Company 1",
+            "Company 2",
+            "Company 3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because EV is often viewed as the cost of a takeover and EBITDA is a proxy for operating cash flow. Companies with relatively low EV/EBITDA multiples are likely to be undervalued.\nCompany 1 has the lowest EV/EBITDA multiple among the three.\nCompany 1: EV/EBITDA = 100,000,000 / 8,000,000 = 12.5;\nCompany 2: EV/EBITDA = 150,000,000 / 10,000,000 = 15.0;\nCompany 3: EV/EBITDA = 200,000,000 / 15,000,000 = 13.3."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "A company's perpetual preferred stock has a $100 par value and a $1.50 quarterly dividend. The required rate of return is 5%. The intrinsic value of the preferred stock is most likely:",
+        "options": [
+            "less than the par value.",
+            "equal to the par value.",
+            "greater than the par value."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the dividend yield is 6% ((4 × 1.50) / 100) which is higher than the required return (5%), so the preferred shares will be valued above par. Alternatively, the intrinsic value (V0) = D0 / r, where D0 is the preferred stock's constant annual dividend and r is the required rate of return. V0 = (4 × 1.50) / 0.05 = $120 which is higher than the par value."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst valuing a stock makes the following assumptions:\n• the required return does not change,\n• the dividend growth rate does not change,\n• the dividend growth rate is less than the required return.\nThe most appropriate model to value this stock is the:",
+        "options": [
+            "Gordon growth model.",
+            "two-stage dividend discount model.",
+            "three-stage dividend discount model."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the assumptions of the Gordon model are as follows: Dividends are the correct metric to use for valuation purposes; The dividend growth rate is forever: It is perpetual and never changes; The required rate of return is also constant over time; The dividend growth rate is strictly less than the required rate of return."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a company and its non-callable, non-convertible, perpetual preferred stock:\n| Estimated EPS growth rate | 6.00% |\n| Par value per share | €25.00 |\n| Dividend per share (annual) | €1.55 |\nIf the analyst estimates the intrinsic value to be €26.00 per share, the required rate of return is closest to:",
+        "options": [
+            "5.96%.",
+            "6.20%.",
+            "6.32%."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the intrinsic value of a non-callable, non-convertible, perpetual preferred share is: V0 = D0 / r. Solving for r = D0 / V0 = €1.55 / €26.00 ≈ 5.96%."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following information about a common stock:\n| Current dividend (D0) | €1.10 |\n| Dividend growth rate: Years 1 and 2 | 15% |\n| Dividend growth rate: Year 3 and beyond | 3% |\n| Required rate of return on equity | 7% |\nThe stock's intrinsic value is closest to:",
+        "options": [
+            "€33.90.",
+            "€34.22.",
+            "€35.17."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the stock's value based on the multistage dividend discount model is as follows:\nV0 = D0 × (1 + gS) / (1 + r) + D0 × (1 + gS)^2 / (1 + r)^2 + P2 / (1 + r)^2\nV0 = D0 × (1 + gS) / (1 + r) + D0 × (1 + gS)^2 / (1 + r)^2 + (D0 × (1 + gS)^2 × (1 + gL)) / (r – gL)) / (1 + r)^2\nV0 = (1.10 × 1.15) / 1.07 + (1.10 × 1.15^2) / 1.07^2 + ((1.10 × 1.15^2 × 1.03) / (0.07 – 0.03)) / 1.07^2\nV0 = €35.17.\nWhere: V0 = intrinsic value of stock\nDt = dividend at time t\nr = required rate of return\ngS = dividend growth rate for year 1 and year 2\ngL = dividend growth rate for year 3 and beyond."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An analyst gathers the following per share estimates for a company's stock:\n| Year 1 dividend (D1) | $4.00 |\n| Year 2 dividend (D2) | $4.40 |\n| Stock price at end of Year 2 | $50.00 |\nUsing the dividend discount model, if the required rate of return is 10% and the stock's current market price is $50.00, the stock is most likely:",
+        "options": [
+            "undervalued.",
+            "fairly valued.",
+            "overvalued."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because using the dividend discount model, the stock's intrinsic value (V0) is given by:\nintrinsic value =\nwhere:\nV0 = value of a share of stock today, at t = 0;\nDt = expected dividend in year t, assumed to be paid at the end of the year;\nr = required rate of return on the stock\nn = number of holding periods; in this case n = 2\nTherefore, V0 = $4.00/(1+10%) + $4.40/(1+10%)^2 + $50.00/(1+10%)^2 = $3.64 + $3.64 + $41.32 = $48.60. Therefore the stock's intrinsic value is less than the current market price for the stock ($50.00) and as such the stock is considered overvalued. If the estimated value is less than the market price, the analyst infers the security is overvalued."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "The free-cash-flow-to-equity model:",
+        "options": [
+            "excludes net borrowings.",
+            "can be used to value non-dividend paying stocks.",
+            "requires an estimate of future dividend payments."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because analysts may also use FCFE valuation models for a non-dividend-paying stock."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "At which of the following days does a buyer of a company's shares first become no longer eligible to receive a dividend?",
+        "options": [
+            "Day before the ex-dividend date",
+            "Ex-dividend date",
+            "Day after the ex-dividend date"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because buyers of a company's shares on the ex-dividend date are no longer eligible to receive the upcoming dividend, all else being equal, on that day the company's share price immediately decreases by the amount of the foregone dividend."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Equity Investments",
+        "lm": "LM6 - Equity Valuation: Concepts and Basic Tools",
+        "text": "An advantage of using price multiples in valuation is most likely that multiples:",
+        "options": [
+            "allow easy cross-sectional comparisons.",
+            "are not affected by differences in accounting rules.",
+            "for cyclical companies are relatively stable over the economic cycle."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the major advantage of using price multiples is that they allow for relative comparisons, both cross-sectional (versus the market or another comparable) and in time series. The approach can be especially beneficial for analysts who are assigned to a particular industry or sector and need to identify the expected best performing stocks within that sector. Price multiples are popular with investors because the multiples can be calculated easily and many multiples are readily available from financial websites and newspapers."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM1 - Ethics and Trust in the Investment Profession",
+        "text": "A profession is most likely described as a group of people that:",
+        "options": [
+            "has a common level of basic knowledge about a particular subject.",
+            "monitors its members based on an agreed-on code of ethics.",
+            "puts the interests of its members first."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. A profession is practiced by members who share and agree to adhere to a common code of ethics, and a profession is based on a specialized knowledge and skills and service to others."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM1 - Ethics and Trust in the Investment Profession",
+        "text": "Most societies would least likely consider ethical principles to include:",
+        "options": [
+            "justice.",
+            "duplicity.",
+            "diligence."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct. Most societies acknowledge the ethical principles of honesty, fairness or justice, diligence, and respect for the rights of others. Duplicity or deception would be in violation of most ethical principles."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM2 - Code of Ethics and Standards of Professional Conduct",
+        "text": "Oversight of the Professional Conduct Program is the responsibility of the:",
+        "options": [
+            "Professional Conduct staff.",
+            "Disciplinary Review Committee.",
+            "CFA Institute Board of Governors."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the CFA Institute Board of Governors maintains oversight and responsibility for the Professional Conduct Program (PCP), which, in conjunction with the Disciplinary Review Committee (DRC), is responsible for enforcement of the Code and Standards."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM2 - Code of Ethics and Standards of Professional Conduct",
+        "text": "Which of the following is one of the seven CFA Institute Standards of Professional Conduct?",
+        "options": [
+            "Duties to Employers",
+            "Performance Integrity",
+            "Disclosure of Transactions"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Duties to Employers is Standard IV."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM2 - Code of Ethics and Standards of Professional Conduct",
+        "text": "The CFA Institute Code of Ethics (the Code) and Standards of Professional Conduct (the Standards) require members to:",
+        "options": [
+            "encourage others to practice in a professional and ethical manner only.",
+            "promote the integrity and viability of the global capital markets for the ultimate benefit of the investment profession only.",
+            "both encourage others to practice in a professional and ethical manner and promote the integrity and viability of the global capital markets for the ultimate benefit of the investment profession."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the Code of Ethics and Standards of Professional Conduct states that members of CFA Institute (including CFA charterholders) and candidates for the CFA designation (Members and Candidates) must practice and encourage others to practice in a professional and ethical manner that will reflect credit on themselves and the profession."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Robin Herring, CFA, is a government bond research analyst at an independent credit rating agency. A competitor credit rating agency just downgraded the bonds of a government Herring follows. Herring notes that all of the information in the competitor's report was covered in his analysis published last week. In the past, Herring has been slow to downgrade bonds, so he starts to doubt his own analysis after seeing the competitor's report. Herring decides to reissue his credit rating of this government bond and match the competitor's downgrade. In his revised report, Herring states that new information has been made available to justify the downgrade. Herring posts the revision on the credit rating agency's website and provides it by email to all clients who received the original. Herring's rating change least likely violated which of the following Standards?",
+        "options": [
+            "Fair dealing",
+            "Diligence and reasonable basis",
+            "Communication with clients and prospective clients"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the analyst has dealt fairly with all clients by sending them an email and posting his rating change on the credit rating agency's website when making material changes to his prior investment recommendation; therefore, he has not violated the Standard relating to fair dealing. Clients should be treated fairly when material changes in a member's or candidate's prior investment recommendations are disseminated, which has been done."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Thomas Huang, CFA, is an investment advisor for Newline Partners (NP). NP has an agreement with brokerage firm Ridge Capital (RC). Huang refers clients to RC in exchange for compensation. RC pays a cash fee to NP for referrals. Before entering into formal agreements for services, Huang makes the following disclosure to NP's clients: \"Please note that Newline Partners receives an annual cash percentage fee from Ridge Capital for the referral of clients.\" Huang omits disclosure of the estimated dollar value of the referrals. Has Huang violated the Standards?",
+        "options": [
+            "No",
+            "Yes, by accepting a cash fee for referral of clients",
+            "Yes, by not disclosing the estimated dollar value of the fee"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VI(C), Referral Fees, members must disclose both the nature of the consideration and the estimated dollar value. Appropriate disclosure means that members and candidates must advise the client or prospective client, before entry into any formal agreement for services, of any benefit given or received for the recommendation of any services provided by the member or candidate. In addition, the member or candidate must disclose the nature of the consideration or benefit—for example, flat fee or percentage basis, one-time or continuing benefit, based on performance, benefit in the form of provision of research or other noncash benefit—together with the estimated dollar value. Consideration includes all fees, whether paid in cash, in soft dollars, or in kind."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Marianne Lynn is registered for the CFA Level I exam. A few weeks after registration, she realizes that she is unable to prepare for the exam due to work commitments, so she informs CFA Institute that she declines to sit for the exam. Afterwards, shortly before the exam date, she posts on social media that she is a CFA candidate. Separately, Thomas Petrov, CFA, posts his investment views anonymously on social media and tags his post using \"#CFAcharter.\" Who has violated the Standards?",
+        "options": [
+            "Lynn only",
+            "Petrov only",
+            "Both Lynn and Petrov"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program, Petrov violates Standard VII(B) because where individuals may anonymously express their opinions, pseudonyms or online profile names created to hide a member's identity should not be tagged with the CFA designation. Lynn violates Standard VII(B) because if an individual is registered for the CFA Program but declines to sit for an exam or otherwise does not meet the definition of a candidate as described in the CFA Institute Bylaws, then that individual is no longer considered an active candidate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Jan Loots, CFA, quit his job as a portfolio manager at an investment firm with which he had a non-solicitation agreement he signed several years ago. Loots received permission to take his investment performance history with him and also took a copy of the firm's software-trading platform. Subsequently, Loots sent out messages on social media sites announcing he was looking for clients for his new investment management firm. Access to Loots' social media sites is restricted to friends, family, and former clients. Loots least likely violated the CFA Institute Standards of Professional Conduct concerning his:",
+        "options": [
+            "trading software.",
+            "non-solicitation agreement.",
+            "investment performance history."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the portfolio manager received permission to use his investment performance history from his prior employer. The member violated his non-solicitation agreement by indicating his availability to new clients on several social media sites accessible by clients of his former employer. This is a violation of Standard IV(A)–Loyalty because he did not act for the benefit of his former employer. In this case, the member may cause harm to his former employer if his weekend messages result in clients moving to his new business from his former employer. The member also violated this standard by taking his employer's property, trading software."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Lisa Hajak, CFA, specialized in research on real estate companies at Cornerstone Country Bank for the past twenty years. Hajak recently started her own investment research firm, Hajak Investment Advisory. One of her former clients at Cornerstone asks Hajak to update a research report she wrote on a real estate company when she was at Cornerstone. Hajak updates the report, which she had copied to her personal computer without the bank's knowledge, and replaces references to the bank with her new firm, Hajak Investment Advisory. Hajak also incorporates the conclusions of a real estate study conducted by the Realtors Association that appeared in the Wall Street Journal. She references the Journal as her source in her report. She provides the revised report free of charge along with a cover letter for the bank's client to become a client of her firm. Concerning the reissued research report, Hajak least likely violated the CFA Institute Standards of Professional Conduct because she:",
+        "options": [
+            "solicited the bank's client.",
+            "did not obtain consent to use the bank report.",
+            "did not cite the actual source of the real estate study."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct as soliciting the bank's client did not violate Standard IV(A)–Loyalty because the manager is no longer an employee of the bank and there is no indication she obtained the client information from bank sources. The member, however, has violated Standard V(C)–Record Retention, because when she left the bank she took the property of the bank without express permission to do so. In addition, the analyst violated Standard I(C)–Misrepresentation by creating research materials without attribution, which is demonstrated when the manager adds to the new report a real estate study she saw in the Wall Street Journal, referencing the Journal only. In all instances, a member or candidate must cite the actual source of the information. If she does not obtain the report and review the information, the manager runs the risk of relying on second-hand information that may misstate facts. Best practice would be either to obtain the complete study from its original author and cite only that author or to use the information provided by the intermediary and cite both sources."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Amanda Covington, CFA, works for McJan Investment Management. McJan employees must receive prior clearance of their personal investments in accordance with McJan's compliance procedures. To obtain prior clearance, McJan employees must provide a written request identifying the security, the quantity of the security to be purchased, and the name of the broker through which the transaction will be made. Pre-cleared transactions are approved only for that trading day. As indicated below, Covington received prior clearance.\n| Security | Quantity | Broker | Prior Clearance |\n| A | 100 | Easy Trade | Yes |\n| B | 150 | Easy Trade | Yes |\nTwo days after she received prior clearance, the price of Stock B had decreased, so Covington decided to purchase 250 shares of Stock B only. In her decision to purchase 250 shares of Stock B only, did Covington violate any CFA Institute Standards of Professional Conduct?",
+        "options": [
+            "No",
+            "Yes, relating to diligence and reasonable basis",
+            "Yes, relating to her employer's compliance procedures"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because prior clearance processes guard against potential and actual conflicts of interest; members are required to abide by their employer's compliance procedures, Standard VI(B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Wang Dazong, CFA, is a sole proprietor investment advisor. Dazong believes in putting his money at risk along with his clients and trades the same securities as his clients. In order to ensure fair treatment of all accounts, he rotates trade allocations so that each account has an equal likelihood of receiving a fill on their orders. This allocation procedure also applies to Dazong's own account. According to the CFA Institute Code of Ethics and Standards of Professional Conduct, the allocation procedure used by Dazong:",
+        "options": [
+            "complies with the Standards",
+            "requires revision to ensure client trades take precedence",
+            "should be disclosed and written approval received from clients"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard VI(B)–requires client transactions to be given precedence over transactions made on behalf of the member's or candidate's firm or personal transactions. Because the advisor trades alongside his clients and allocates trades on a rotating basis, there are times when the advisor's trades will receive priority over his clients in violation of the Code and Standards. A member or candidate having the same investment positions or being co-invested with clients does not always create a conflict. Some clients in certain investment situations require members or candidates to have aligned interests. Personal investment positions or transactions of members or candidates or their firms should never, however, adversely affect client investments."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following member actions most likely violates the Standard relating to market manipulation?",
+        "options": [
+            "Selling one security and buying another to minimize tax liability",
+            "Writing misleading posts on social media about the development of a new product",
+            "Dividing a large block order into a series of smaller orders to achieve better execution"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard II(B), Market Manipulation, requires members to uphold market integrity by prohibiting market manipulation. Market manipulation includes practices that distort security prices or trading volume with the intent to deceive people or entities that rely on information in the market. This is an example of information-base manipulation as misleading fake information affects other market participants."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Linda Barr, CFA, a portfolio manager, receives an unsolicited stock order from a client. She discusses the order with her firm's analysts to determine how it will impact that client's portfolio. The analysts determine the stock to be highly undervalued and suitable for many of Barr's clients. Barr calls clients for whom the stock is suitable to recommend the stock. She then executes a single block trade for the original client as well as other clients for whom the stock is suitable. Barr most likely violated the Standards:",
+        "options": [
+            "only by executing the single block trade.",
+            "only by discussing unsolicited client orders with her analysts.",
+            "both by executing the single block trade and by discussing unsolicited client orders with her analysts."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard III (E), Preservation of Confidentiality, requires that members and candidates preserve the confidentiality of information communicated to them by their clients, prospective clients, and former clients. Further, if a client or former client expressly authorizes the member or candidate to disclose information, however, the member or candidate may follow the terms of the authorization and provide the information. The unsolicited stock order from the client is confidential. So, Barr must obtain the original client's authorization before recommending the stock to other clients. Therefore, Barr has violated Standard III (E) by executing without the original's client authorization, a single block trade for the original client as well as other clients for whom the stock is suitable."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is a recommended procedure for compliance with the Standard relating to knowledge of the law? Members should encourage their firms to:",
+        "options": [
+            "distribute summaries of applicable security laws to clients at least annually.",
+            "provide written protocols for reporting suspected legal or regulatory violations.",
+            "seek the advice of a regulatory agency when in doubt about which action to take regarding potential violations."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because recommended procedures for compliance with Standard I (A), Knowledge of the Law, state: Establish procedures for reporting violations: Firms might provide written protocols for reporting suspected violations of laws, regulations, or company policies."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Applying standardized criteria for the selection of external managers is a requirement of the Standard relating to:",
+        "options": [
+            "suitability.",
+            "independence and objectivity.",
+            "diligence and reasonable basis."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard V (A), Diligence and Reasonable Basis, states members and candidates who are directly involved with the use of external advisers need to ensure that their firms have standardized criteria for reviewing these selected external advisers and managers. Such criteria would include, but would not be limited to, the following:\n• reviewing the adviser's established code of ethics,\n• understanding the adviser's compliance and internal control procedures,\n• assessing the quality of the published return information, and\n• reviewing the adviser's investment process and adherence to its stated strategy.\nUnderstanding the managers' compliance procedures is a criteria for selecting external managers."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member most likely violates the Standard relating to knowledge of the law if she fails to:",
+        "options": [
+            "dissociate from unethical conduct.",
+            "report illegal activity to the appropriate regulatory organization.",
+            "have detailed knowledge of all the laws potentially governing her professional activities."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because under Standard I(A), Knowledge of the Law, members and candidates have a responsibility to step away and dissociate from the unethical activity. Inaction combined with continuing association with those involved in illegal or unethical conduct may be construed as participation or assistance in the illegal or unethical conduct."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following member actions most likely violates the Standard relating to material nonpublic information?\n• Action 1: An analyst buys call options on a stock after learning from the company's CEO that the company will report earnings exceeding analyst expectations\n• Action 2: An analyst buys an oil company stock after speaking to a well-known industry expert who believes oil prices will rise due to geopolitical risk",
+        "options": [
+            "Action 1 only",
+            "Action 2 only",
+            "both Action 1 and Action 2"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard II(A), Material Nonpublic Information, states that Members and Candidates who possess material nonpublic information that could affect the value of an investment must not act or cause others to act on the information. Also, Members and candidates must not use material nonpublic information to influence their investment actions related to derivatives. Therefore, a member analyst buying call option on a company stock after learning from its CEO that the company will report earnings exceeding analyst expectation is a violation of Standard II(A). In contrast, a member analyst buying an oil company stock after speaking to a well-known industry expert who believes oil prices will rise due to geopolitical risk is not a violation of Standard II(A). This is because a well-known industry expert's view is unlikely to be nonpublic information. Therefore, only Action 1 violates Standard II(A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Iris Hadid, CFA, works as an investment banking analyst. She builds a financial model to value Ski Mountain Lodge (SML). Hadid's friend, Peter Jackson, CFA, works for a different advisory firm. Hadid shares with Jackson details about her analysis to receive his feedback on her valuation of SML. Based on this information, Jackson buys call options on SML. Who has violated the Standards?",
+        "options": [
+            "Hadid only",
+            "Jackson only",
+            "Both Hadid and Jackson"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard II(A), Material Nonpublic Information, states that Members and Candidates who possess material nonpublic information that could affect the value of an investment must not act or cause others to act on the information. Also, Members and candidates must not use material nonpublic information to influence their investment actions related to derivatives. Hadid caused Jackson to act by telling Jackson about her work on SML. Jackson acts on the information and buys call options on SML. Therefore, both Hadid and Jackson violate Standard II(A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Amy Joy, CFA, works at Parklane Investments Ltd. (PIL). When presenting to PIL's prospective clients, Joy uses a brief investment performance summary and makes available detailed supporting information only upon request. Has Joy violated the Standards?\nCorrect answer:",
+        "options": [
+            "No",
+            "Yes, the Standard relating to fair dealing",
+            "Yes, the Standard relating to performance presentation"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard III(D), Performance Presentation, if the presentation is brief, the member or candidate must make available to clients and prospects, on request, the detailed information supporting that communication. By making available detailed supporting information on request, Joy does not violate Standard III(D). In addition, Joy does not violate Standard III(B), Fair Dealing, which states that members and Candidates must deal fairly and objectively with all clients when providing investment analysis, making investment recommendations, taking investment action, or engaging in other professional activities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Sue Yong, CFA, is an analyst at a large investment firm. After thorough research, she issues a \"buy\" rating on a company and submits her report to her firm's investment committee for review. The committee disagrees with Yong's assumptions in the report. As a result, the report is changed to a \"neutral\" rating. The final report is issued and Yong agrees to leave her name on the report. Has Yong violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to loyalty, prudence, and care",
+            "Yes, the Standard relating to diligence and reasonable basis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard V (A), Diligence and Reasonable basis, Members and Candidates must:\n1. Exercise diligence, independence, and thoroughness in analyzing investments, making investment recommendations, and taking investment actions.\n2. Have a reasonable and adequate basis, supported by appropriate research and investigation, for any investment analysis, recommendation, or action.\nAdditionally, the results of research are not always clear, and different people may have different opinions based on the same factual evidence. In this case, the committee may have valid reasons for issuing a report that differs from the analyst's original research. The firm can issue a report that is different from the original report of an analyst as long as there is a reasonable and adequate basis for its conclusions.\nGenerally, analysts must write research reports that reflect their own opinion and can ask the firm not to put their name on reports that ultimately differ from that opinion. When the work is a group effort, however, not all members of the team may agree with all aspects of the report. Ultimately, members and candidates can ask to have their names removed from the report, but if they are satisfied that the process has produced results or conclusions that have a reasonable and adequate basis, members and candidates do not have to dissociate from the report even when they do not agree with its contents.\nYong was thorough in her research and There is no evidence to assume that she did not have a reasonable and adequate basis for her recommendation. Additionally there is no violation of the standard relating to loyalty, prudence and care."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Rita Melmo, CFA, is an analyst at Greensky Investment (GI). On weekends, she works as a paid employee of a local charity where she negotiates purchase agreements. Melmo does not disclose the charity employment to GI. Melmo is asked to purchase a new truck for the charity and she negotiates a purchase agreement with a local truck dealership. In the purchase agreement, the charity is charged $500 more than the truck's normal sale price. In return, Melmo receives retail vouchers worth $500 from the dealership for her private use. Melmo has most likely violated the Standards:",
+        "options": [
+            "only by failing to disclose the charity employment to GI.",
+            "only by negotiating a purchase agreement in which the charity is charged more than the truck's normal sale price.",
+            "both by failing to disclose the charity employment to GI and by negotiating a purchase agreement in which the charity is charged more than the truck's normal sale price."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard I (D), Misconduct, Members and Candidates must not engage in any professional conduct involving dishonesty, fraud, or deceit or commit any act that reflects adversely on their professional reputation, integrity, or competence. Overcharging the charity by any amount is fraud and reflects adversely on Melmo as an investment professional and potentially on her employer and and the investment profession."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member believes a colleague is participating in unethical activities at work. The member does not disassociate himself from the activities of his colleague. The member has most likely violated:",
+        "options": [
+            "only the Standard relating to knowledge of the law.",
+            "only the Standard relating to avoid or disclose conflicts.",
+            "both the Standard relating to knowledge of the law and the Standard relating to avoid or disclose conflicts."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard I(A) Knowledge of the Law, if a member or candidate has reasonable grounds to believe that imminent or ongoing client or employer activities are illegal or unethical, the member or candidate must disassociate, or separate, from the activity. Inaction combined with continuing association with those involved in illegal or unethical conduct may be constructed as participation or assistance in the illegal or unethical conduct."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to independence and objectivity, which of the following is accurate?\n• Statement 1: A member should encourage her firm to remove a covered company from a restricted list if the firm is unwilling to permit dissemination of an adverse opinion about the company\n• Statement 2: A member is prohibited from accepting benefits from corporate issuers in the form of allocation of shares in oversubscribed IPOs suitable for firm's clients",
+        "options": [
+            "Statement 1 only",
+            "Statement 2 only",
+            "Both Statement 1 and Statement 2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard I (B), Independence and Objectivity, one type of benefit is the allocation of shares in oversubscribed IPOs to investment managers for their personal accounts. This practice affords managers the opportunity to make quick profits that may not be available to their clients. Such a practice is prohibited under Standard I (B). Therefore, a member is prohibited from accepting benefits from corporate issuers in the form of allocation of shares in oversubscribed IPOs that are suitable for firm's clients. So, Statement 2 is accurate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Anita Delgado is a candidate in the CFA Program. After taking the Level II examination, Delgado posts on a social networking website that she found the exam to be very difficult and that in her opinion, the CFA Program and CFA Institute were losing credibility with the public. Has Delgado most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, by posting information about the exam on a public website",
+            "Yes, by compromising the reputation or integrity of CFA Institute"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Delgado did not violate Standard VII (A), Responsibilities as a CFA Institute Member of CFA Candidate. Candidates are prohibited from disclosing confidential material gained during the exam process but are free to discuss the examination in a general manner, such as the fact that she found the exam difficult. Regarding her opinion about the CFA Institute, a member must not engage in any conduct that compromises the reputation or integrity of CFA Institute. However, Standard VII (A) does not cover expressing opinions regarding the CFA Program or CFA Institute. Therefore, Delgado's voicing her opinion is not a conduct that compromises the reputation or integrity of CFA Institute."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to independence and objectivity:",
+        "options": [
+            "a gift from a client could be considered supplementary compensation.",
+            "compensation arrangements should link analyst remuneration to investment banking assignments.",
+            "portfolio managers may report sell-side analysts to covered companies if analysts' changes in recommendation adversely affect client portfolios."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because receiving a gift, benefit, or consideration from a client can be distinguished from gifts given by entities seeking to influence a member or candidate to the detriment of other clients. In a client relationship, the client has already entered some type of compensation arrangement with the member, candidate, or his or her firm. A gift from a client could be considered supplementary compensation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is a recommended procedure for compliance with the Standard relating to independence and objectivity? Members should encourage their firms to:",
+        "options": [
+            "prohibit any employee participation in equity-related IPOs.",
+            "remove a corporate client company from the research universe and put it on a restricted list if the firm is unwilling to disseminate adverse opinions about the company.",
+            "provide every client with the procedures and policies for reporting potentially unethical behaviour, violations of regulations, or other activities that may harm the firm's reputation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to the recommended procedures for compliance with Standard I (B), Independence and Objectivity, Create a restricted list: If the firm is unwilling to permit dissemination of adverse opinions about a corporate client, members and candidates should encourage the firm to remove the controversial company from the research universe and put it on a restricted list so that the firm disseminates only factual information about the company."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "To comply with the Standards, if applicable law requires members to maintain confidentiality of client information, confidentiality must be maintained unless:",
+        "options": [
+            "the client has died.",
+            "the client's information involves illegal activities.",
+            "the client permits the disclosure of the information."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard III (E), Preservation of Confidentiality, states that members must keep information about current, former, and prospective clients confidential unless: the client or prospective client permits disclosure of the information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following most likely violates the Standard relating to preservation of confidentiality?",
+        "options": [
+            "Recommending a former client as a potential donor for a local charity",
+            "Disclosing details of client activity to the CFA Institute Professional Conduct Program",
+            "Providing confidential information about a prospective client when permitted by the prospective client"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard III (E), Preservation of Confidentiality, requires Members and Candidates must keep information about current, former, and prospective clients confidential. Also, this standard protects the confidentiality of client information even if the person or entity is no longer a client of the member or candidate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is a recommended procedure for compliance with the Standard relating to priority of transactions? Investment personnel should:",
+        "options": [
+            "examine all personal trades for possible conflicts immediately after execution of the trades.",
+            "direct their brokers to supply their firms with duplicate confirmations of all their personal securities transactions.",
+            "make a one-time disclosure of holdings in which they have a beneficial interest to their firm upon commencement of the employment relationship."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the recommended procedures for compliance with Standard VI (B), Priority of Transactions, recommend that investment personnel should be required to direct their brokers to supply to firms duplicate copies or confirmations of all their personal securities transactions and copies of periodic statements for all securities accounts."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following individuals can refer to themselves as a candidate in the CFA Program?\n• Individual 1: Has passed Level II and expects to register for Level III in a couple of months\n• Individual 2: Has failed Level I and expects to retake the exam in its next administration\n• Individual 3: Is awaiting results of the Level III exam",
+        "options": [
+            "Individual 1",
+            "Individual 2",
+            "Individual 3"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program, a person is a candidate in the CFA Program if the registered person has sat for a specified examination but exam results have not yet been received."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is a recommended procedure for compliance with the Standard relating to priority of transactions?\n• Procedure 1: Members should disclose personal transactions relating to shares in their firm's research universe to clients upon request\n• Procedure 2: Members should establish blackout periods prior to trades for clients\n• Procedure 3: Members should treat fee-paying family accounts in which they have beneficial ownership in the same manner as they would treat their personal accounts",
+        "options": [
+            "Procedure 1",
+            "Procedure 2",
+            "Procedure 3"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard VI(B), Priority of Transactions, investment personnel involved in the investment decision-making process should establish blackout periods prior to trades for clients so that managers cannot take advantage of their knowledge of client activity by \"front-running\" client trades (trading for one's personal account before trading for client accounts)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard related to independence and objectivity, a member must:",
+        "options": [
+            "refuse all business-related gifts.",
+            "adhere to strict standards of conduct that govern how issuer-paid research is conducted.",
+            "pay for transportation, hotel and meal expenses when attending meetings at an issuer's headquarters."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because this is a requirement of Standard I(B), Independence and Objectivity. Issuer-paid research conducted by independent analysts, however, is fraught with potential conflicts. Members must adhere to strict standards of conduct that govern how the research is to be conducted and what disclosures must be made in the report. Analysts must engage in thorough, independent, and unbiased analysis and must fully disclose potential conflicts of interest, including the nature of their compensation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which statement regarding market manipulation is consistent with the Standards? Members must refrain from:",
+        "options": [
+            "inducing trading by disseminating verifiable information.",
+            "engaging in practices which exploit perceived market inefficiencies.",
+            "securing a dominant position in a financial instrument to exploit the price of the underlying asset."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard II(B), Market Manipulation, prohibits such activity. Transaction-based manipulation includes, but is not limited to securing a controlling, dominant position in a financial instrument to exploit the price of the underlying asset."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard related to communication with clients and prospective clients, members must:",
+        "options": [
+            "only distinguish between fact and opinion in the presentation of investment analyses.",
+            "only promptly disclose material and nonmaterial changes in the investment processes they use to select securities.",
+            "both distinguish between fact and opinion in the presentation of investment analyses and promptly disclose material and nonmaterial changes in the investment processes they use to select securities."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard V(B), Communication with Clients and Prospective Clients, members must distinguish between fact and opinion in the presentation of investment analyses and recommendations."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the recommended procedures for compliance with the Standard relating to priority of transactions, members should:",
+        "options": [
+            "discourage clients from trading during blackout periods.",
+            "supply copies of their personal securities transactions to clients upon request.",
+            "preclear their participation in IPOs even if there is no conflict of interest between their participation in an IPO and the client's interests."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the recommended procedures for compliance with Standard VI(B), Priority of Transactions, members and candidates should preclear their participation in IPOs, even in situations without any conflict of interest between a member's or candidate's participation in an IPO and the client's interest."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Sharon Chan, CFA, is an analyst at an investment firm. Chan issues a \"buy\" rating on a company in which her brother holds shares. Chan does not disclose her brother's holdings in her report as she has no beneficial ownership in her brother's account. Has Chan violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to avoid or disclose conflicts",
+            "Yes, the Standard relating to communication with clients and prospective clients"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard VI(A), Avoid or Disclose Conflicts, Members and Candidates must make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer. In addition, sell-side members and candidates should disclose any materially beneficial ownership interest in a security or other investment that the member or candidate is recommending. Chan has no beneficial ownership in her brother's account, so she is not required to disclose it. Therefore, Chan has not violated the Standard VI(A).\nIn addition, Standard V(B), Communication with Clients and Prospective Clients, states that members and candidates should communicate in a recommendation the factors that were instrumental in making the investment recommendation. A critical part of this requirement is to distinguish clearly between opinions and facts. In preparing a research report, the member or candidate must present the basic characteristics of the securities being analyzed, which will allow the reader to evaluate the report and incorporate information the reader deems relevant to his or her investment decision-making process. Standard V(B) is addressing the investment process communication with clients. Chan has not violated the Standard V(B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Michael Mak, CFA, is a portfolio manager at an investment firm. After comprehensive research, Mak buys Advance One Tech's (AOT) stock for all his clients for whom the investment is suitable. He then buys AOT shares for his brother's fee-paying account, in which Mak has beneficial ownership. AOT's stock price declines significantly after a month, resulting in substantial losses for all his clients. Are Mak's actions consistent with the Standards?",
+        "options": [
+            "Yes",
+            "No, Mak's actions are not consistent with the Standard relating to priority of transactions",
+            "No, Mak's actions are not consistent with the Standard relating to diligence and reasonable basis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard VI(B), Priority of Transactions, family accounts that are client accounts should be treated like any other firm account and should neither be given special treatment nor be disadvantaged because of the family relationship. If a member or candidate has a beneficial ownership in the account, however, the member or candidate may be subject to preclearance or reporting requirements of the employer or applicable law. Mak should treat his brother's fee paying account like any other firm account and should not be disadvantaged. Therefore, Mak's actions are not consistent with the Standard relating to priority of transactions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Kelvin Lee, CFA, is a portfolio manager at an investment firm. His social media profile reads: \"Kelvin Lee passed all three CFA examinations in three consecutive years. As a CFA charterholder, Lee achieves better investment performance results.\" Has Lee violated the Standards?",
+        "options": [
+            "No",
+            "Yes, by stating that he passed all three CFA Program examinations in three consecutive years",
+            "Yes, by stating that he achieves better investment performance results as a CFA charterholder"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VII(B), Reference to CFA Institute, the CFA Designation, and the CFA Program, those who have earned the right to use the Chartered Financial Analyst designation are encouraged to do so but only in a manner that does not misrepresent or exaggerate the meaning or implications of the designation. In addition, if the candidate then goes on to claim or imply superior ability by obtaining the designation in only three years, however, he or she is in violation of Standard VII(B). Lee states that as a CFA charterholder, he achieves better investment performance results. Therefore, he has violated the Standard VII(B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member manages two fee-paying family accounts at her firm. The member has the power to vote on the shares held in Account 1 and the discretion to sell shares held in Account 2. According to the Standards, is the member considered a beneficial owner of the shares held in her family accounts?",
+        "options": [
+            "No",
+            "Yes, for Account 1 only",
+            "Yes, for both Account 1 and Account 2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because for the purposes of Standard VI(A), Avoid or Disclose Conflicts, members and candidates beneficially own securities or other investments if they have a direct or indirect pecuniary interest in the securities, have the power to vote or direct the voting of the shares of the securities or investments, or have the power to dispose or direct the disposition of the security or investment. Therefore, the member is considered a beneficial owner for shares held in both Account 1 and Account 2."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to diligence and reasonable basis, a member is required to:",
+        "options": [
+            "exercise diligence, independence, and thoroughness in analyzing investments.",
+            "become an expert in the technical aspects of the models used for investment recommendations.",
+            "dissociate and remove her name from a company group report if the report does not reflect her opinion."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard V(A) Investment Analysis, Recommendations, and Actions - Diligence and Reasonable Basis, Members and Candidates must: Exercise diligence, independence, and thoroughness in analyzing investments, making investment recommendations, and taking investment actions."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to avoid or disclose conflicts, a member should:",
+        "options": [
+            "reject a board position in a company on which the member's firm is planning to initiate a research report.",
+            "ensure that her firm discloses to clients any rebates received from the service fee some classes of mutual funds charge to investors.",
+            "place a company on a restricted list and issue factual information about the company if the member's firm holds options on the company's shares."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard VI(A), Avoid or Disclose Conflicts, equally important is the disclosure of arrangements in which the firm benefits directly from investment recommendations. An obvious conflict of interest is the rebate of a portion of the service fee some classes of mutual funds charge to investors. Members and candidates should ensure that their firms disclose such relationships so clients can fully understand the costs of their investments and the benefits received by their investment manager's employer."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standards, a member who is asked to produce an issuer-paid research report is required to:",
+        "options": [
+            "avoid cash compensation.",
+            "disclose the nature of their compensation in the report.",
+            "decline to write the report if the member's firm provides investment banking services to the issuer."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard I (B), Independence and Objectivity, members are required to disclose their compensation. Members and candidates must adhere to strict standards of conduct that govern how the research is to be conducted and what disclosures must be made in the report. Analysts must engage in thorough, independent, and unbiased analysis and must fully disclose potential conflicts of interest, including the nature of their compensation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Shirin Regali, CFA, is a well-respected, sell-side analyst covering the biotech sector. While researching the market prospects for a drug being trialed by BioHeal InC., Regali interviews industry experts who are not affiliated with the trials or BioHeal. These experts express confidence that the drug will pass the trials and be a market success. After thorough analysis and based on these experts' insights, Regali issues a \"buy\" recommendation for BioHeal and distributes it to her clients and not to the public. Has Regali most likely violated the Standard relating to material nonpublic information?",
+        "options": [
+            "No",
+            "Yes, by distributing the recommendation to her clients and not to the public",
+            "Yes, by issuing a \"buy\" recommendation for BioHeal based on insights from industry experts"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard II (A), Material Nonpublic Information, a financial analyst gathers and interprets large quantities of information from many sources. The analyst may use significant conclusions derived from the analysis of public and nonmaterial nonpublic information as the basis for investment recommendations and decisions even if those conclusions would have been material inside information had they been communicated directly to the analyst by a company. Under the \"mosaic theory,\" financial analysts are free to act on this collection, or mosaic, of information without risking violation. Therefore, Naden is permitted to use published financial data and nonmaterial, nonpublic information gathered from industry experts and competitor to arrive at his investment recommendation. Further, Standard II (A) states, when a particularly well-known or respected analyst issues a report or makes changes to his or her recommendation, that information alone may have an effect on the market and thus may be considered material. Theoretically, under Standard II(A), such a report would have to be made public at the time it was distributed to clients. The analyst is not a company insider, however, and does not have access to inside information. In addition, simply because the public in general would find the conclusions material does not require that the analyst make his or her work public. So, Naden is not required to make her recommendation available to her clients and the public at the same time. Therefore, Naden has not violated Standard II (A) either by using the information gathered from industry experts and competitors in her report or by failing to make her recommendation available to her clients and the public at the same time."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Meera Doka, CFA, manages an equity fund for clients. One day, the fund experiences a large loss due to an event unforeseen by all market participants. Prior to the event, Doka failed to disclose the risk of this event occurring to her clients. One month later, Doka decides to outsource 5% of the fund's assets to an external manager. She does not inform her clients of this change because the external manager follows an investment process that is very similar to her fund's process. Are Doka's actions consistent with the Standard relating to communication with clients and prospective clients?",
+        "options": [
+            "Yes",
+            "No, because she failed to disclose the risk that resulted in the large loss",
+            "No, because she failed to inform her clients about outsourcing 5% of the fund's assets"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because it is not consistent with Standard V (B), Communications with Clients and Prospective Clients, to fail to inform clients about the use of an outside manager. A firm's investment policy may include the use of outside advisers to manage various portions of clients' assets under management. Members and candidates should inform the clients about the specialization or diversification expertise provided by the external adviser(s). This information allows clients to understand the full mix of products and strategies being applied that may affect their investment objectives."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member employed by an investment firm carries out research at the request of a client. The records of that research are the property of the:",
+        "options": [
+            "client.",
+            "member.",
+            "investment firm."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because, according to Standard V (C), Record Retention, records created as part of a member's or candidate's professional activity on behalf of his or her employer are the property of the firm."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is a recommended procedure for complying with the Standard relating to preservation of confidentiality?\n• Procedure 1: Disclose to authorized fellow employees only information that will improve service to the client\n• Procedure 2: Encourage the adoption of standard confidentiality procedures utilized by leading firms in the industry",
+        "options": [
+            "Procedure 1 only",
+            "Procedure 2 only",
+            "Both Procedure 1 and Procedure 2"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to the recommended procedures for compliance with Standard II (E), Preservation of Confidentiality, avoid disclosing any information received from a client except to authorized fellow employees who are also working for the client. Is the information background material that, if disclosed, will enable the member or candidate to improve service to the client?"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Hannah Hostettler, CFA, is a portfolio manager at a wealth management firm. Hostettler has an arrangement with a lawyer, whereby she refers clients who need legal advice to the lawyer, who in turn refers clients to Hostettler. Because no referral fees are involved, Hostettler does not disclose this arrangement to her existing or prospective clients. Has Hostettler most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, only by failing to disclose the arrangement to existing clients",
+            "Yes, both by failing to disclose the arrangement to existing clients and to prospective clients"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VI (C), Referral Fees, members must disclose to clients and potential clients any referral arrangements and must disclose all consideration. Consideration includes all fees, whether paid in cash, in soft dollars, or in-kind. Thus, Hostettler would need to disclose the full bi-lateral referral arrangement to both clients and prospective clients."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "To use a quantitative model in her investment research, a member is required by the Standards to:",
+        "options": [
+            "have developed or co-developed the model.",
+            "become an expert in every technical aspect of the model developed by others.",
+            "understand the assumptions and limitations inherent in the model developed by others."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard V (A), Diligence and Reasonable Basis, Members and candidates need to have an understanding of the parameters used in models and quantitative research that are incorporated into their investment recommendations. Although they are not required to become experts in every technical aspect of the models, they must understand the assumptions and limitations inherent in any model and how the results were used in the decision-making process. Therefore, to use quantitative models in her investment research, a member is required to understand the assumptions and limitations inherent in the model developed by others."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Emma Berkstein, CFA, uses third-party data to prepare a report on a company. Berkstein does not check the validity of this data herself, but instead relies on her senior colleagues to conduct due diligence. Another analyst at the same firm, Jimmy Brooks, CFA, prepares an industry report with a group of colleagues. After thorough research, the group agrees to issue a report with a positive outlook for the industry. Brooks disagrees with this conclusion, but leaves his name in the report. Has the Standard relating to diligence and reasonable basis most likely been violated?",
+        "options": [
+            "No",
+            "Yes, by Brooks",
+            "Yes, by Berkstein"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard V (A), Diligence and Reasonable Basis, A member or candidate may rely on others in his or her firm to determine whether secondary or third-party research is sound and use the information in good faith unless the member or candidate has reason to question its validity or the processes and procedures used by those responsible for the research. Berkstein relied on her senior colleague's due diligence, and there is nothing in the case to suggest she has reason to question it, hence no violation. Nor did Brooks violate the Standard by leaving his name on the group report: The conclusions or recommendations of the group report represent the consensus of the group and are not necessarily the views of the member or candidate, even though the name of the member or candidate is included on the report. In some instances, a member or candidate will not agree with the view of the group. If, however, the member or candidate believes that the consensus opinion has a reasonable and adequate basis and is independent and objective, the member or candidate need not decline to be identified with the report. If the member or candidate is confident in the process, the member or candidate does not need to dissociate from the report even if it does not reflect his or her opinion."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the guidance for the Standards, which of the following statements are accurate?\n• Statement 1: Employees must place employer interests ahead of personal interests in all matters\n• Statement 2: Senior management of a member's firm should create financial compensation structures that do not drive unethical behavior",
+        "options": [
+            "Statement 1 only.",
+            "Statement 2 only.",
+            "Both Statement 1 and Statement 2."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard IV (A), Loyalty, the employer is responsible for a positive working environment, which includes an ethical workplace. Senior management has the additional responsibility to devise compensation structures and incentive arrangements that do not encourage unethical behavior. Therefore, Statement 2 is accurate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standards, which of the following is most likely considered material nonpublic information?",
+        "options": [
+            "The recent execution of a large buy order from a hedge fund",
+            "Significant legal challenges revealed at an internal meeting of the company's management",
+            "Recent increases in a company's board remuneration discussed at the annual general meeting"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard II(A) Material Nonpublic Information, material information may include, but is not limited to, information on the following: significant legal disputes."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Susana Garcia, CFA, is a widely respected analyst covering the transportation sector. She completes a new recommendation for a company. The next morning, she emails the recommendation to her firm's largest client. After lunch, she emails the recommendation to all other firm clients. One hour later, she calls the largest client to discuss the recommendation in detail. Garcia has violated the Standard relating to fair dealing:",
+        "options": [
+            "only by calling the largest client to discuss the recommendation in detail.",
+            "only by emailing the recommendation to the largest client prior to sending it to all other clients.",
+            "both by calling the largest client to discuss the recommendation in detail and by emailing the recommendation to the largest client prior to sending it to all other clients."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Garcia has violated Standard III (B), Fair Dealing, by disseminating the sell recommendation to her largest client before the recommendation is sent to all clients. Each member or candidate is obligated to ensure that information is disseminated in such a manner that all clients have a fair opportunity to act on every recommendation. Garcia has not violated Standard III (B) by calling her largest client, since she widely disseminated the recommendation and provided the information to all her clients prior to discussing it with her largest client. Members and candidates should establish procedures for the timing of dissemination of investment recommendations so that all clients are treated fairly—that is, are informed at approximately the same time. Once this distribution has occurred, the member or candidate may follow up separately with individual clients, but members and candidates should not give favored clients advance information when such advance notification may disadvantage other clients."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to loyalty, members must:",
+        "options": [
+            "place their employer's interest above their personal interests in all matters.",
+            "notify their employer before engaging in an independent practice while still employed.",
+            "never act against their employer's interests when complying with their duties to clients."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because although Standard IV (A), Loyalty, does not preclude members or candidates from entering into an independent business while still employed, members and candidates who plan to engage in independent practice for compensation must notify their employer and describe the types of services they will render to prospective independent clients, the expected duration of the services, and the compensation for the services. Members and candidates should not render services until they receive consent from their employer to all of the terms of the arrangement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to loyalty, in the absence of a noncompete agreement and without employer consent, a member is permitted to:",
+        "options": [
+            "email himself a list of his clients when leaving his employer.",
+            "enter into an independent competitive business while still employed.",
+            "contact clients from his previous employer using public information to solicit business at his new firm."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard IV(A), Loyalty, the standard does not prohibit former employees from contacting clients of their previous firm as long as the contact information does not come from the records of the former employer or violate an applicable 'noncompete agreement'. Members and candidates are free to use public information after departing to contact former clients without violating Standard IV(A) as long as there is no specific agreement not to do so."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Andrew Milton, CFA, is an advisor working with individual clients. Milton is careful to recommend investments for his clients that are consistent with their overall objectives and risk tolerance. His firm gives its advisors a bonus for recommending the firm's proprietary products. If all other variables are equal in an investment choice, Milton uses the proprietary products. Milton does not inform the clients of this bonus. Has Milton most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to suitability",
+            "Yes, the Standard relating to avoid or disclose conflicts"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VI (A), Avoid or Disclose Conflicts, Members and Candidates must avoid or make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer. Members and candidates must maintain their objectivity when rendering investment advice or taking investment action. Requiring members and candidates to disclose all matters that reasonably could be expected to impair the member's or candidate's objectivity when a conflict exists mitigates the conflict and allows clients and prospective clients to judge motives and possible biases for themselves. Therefore, for Milton, the bonus represented a conflict of interest, which he needs to disclose to clients."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the recommended procedure for compliance with the Standard relating to fair dealing, a member who works in a large firm should:",
+        "options": [
+            "offer different levels of service to clients selectively based on the clients' investment needs.",
+            "disclose to clients and prospective clients how she selects accounts to participate in an order.",
+            "inform all firm staff of the content of upcoming investment recommendations to assure that all clients' investment needs are met."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard III (B), Fair Dealing, Members and candidates should disclose to clients and prospective clients how they select accounts to participate in an order."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the recommended procedures for compliance with the Standard relating to diligence and reasonable basis, members should encourage their firms to:",
+        "options": [
+            "evaluate the adequacy of external advisors by customizing the evaluation criteria for each advisor.",
+            "establish maximum levels of scenario testing of all computer-based models used in evaluating financial instruments.",
+            "appoint a supervisory analyst to determine whether research reports have a reasonable and adequate basis prior to external circulation."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the recommended procedures for compliance with Standard V (A), Diligence and Reasonable Basis, members and candidates should encourage their firms to establish a policy requiring that research reports, credit ratings, and investment recommendations have a basis that can be substantiated as reasonable and adequate. An individual employee (a supervisory analyst) or a group of employees (a review committee) should be appointed to review and approve such items prior to external circulation to determine whether the criteria established in the policy have been met. Therefore, appointing a supervisory analyst to determine whether research reports have a reasonable and adequate basis, before circulating the reports externally, is a recommended procedure for compliance with Standard V (A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Dennis Kim, CFA, works at Century Growth Partners (CGP) where he manages an investment account for his client Amelia Frost. Frost tells Kim to invest one percent of her portfolio in biotech stocks. Kim believes such an investment is inconsistent with Frost's investment policy statement. CGP has no policy regarding execution of unsolicited trading requests. Kim discusses his concerns with Frost, but she does not change her instruction. Without amending Frost's investment policy statement, Kim executes the trade afterward. Has Kim violated the Standards?",
+        "options": [
+            "No",
+            "Yes, because Kim executes an unsuitable trade for Frost",
+            "Yes, because Kim does not change Frost's investment policy statement before executing the trade"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because (1) Kim discusses his concerns with Frost before executing the trade, (2) Frost acknowledges this discussion and accepts the conditions of unsuitability, (3) Kim's firm does not require approval for unsuitable trades since it has no policy on the subject, and (4) the request does not have a material impact on Frost's portfolio since it represents only one percent of its value, hence no modification of the IPS is required. According to Standard III(C), Suitability, in cases of unsolicited trade requests that a member or candidate knows are unsuitable for a client, the member or candidate should refrain from making the trade until he or she discusses the concerns with the client. Following the discussion, the member or candidate may follow his or her firm's policies regarding the necessary client approval for executing unsuitable trades. At a minimum, the client should acknowledge the discussion and accept the conditions that make the recommendation unsuitable. Should the unsolicited request be expected to have a material impact on the portfolio, the member or candidate should use this opportunity to update the investment policy statement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Tom Dixon, CFA, provides a brief summary of his investment performance to his clients. He indicates that further information is available upon request. He tells his clients they can expect a return of 5% in the next three years based on his strong track record. Has Dixon most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, by indicating that further information is available upon request",
+            "Yes, by telling his clients they can expect a return of 5% in the next three years"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III(D), Performance Presentation, members and candidates should not state or imply that clients will obtain or benefit from a rate of return that was generated in the past. Also, If the presentation is brief, the member or candidate must make available to clients and prospects, on request, the detailed information supporting that communication."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following are among the recommended procedures for compliance with the Standard relating to independence and objectivity?\n• Procedure 1: Impose limits on investment personnel acquiring securities in private placements\n• Procedure 2: Prohibit employees from receiving reimbursement from corporate issuers for air transportation when attending meetings at the issuers' headquarters\n• Procedure 3: Remove a company from the restricted list if the firm is unwilling to permit dissemination of adverse opinions about the company",
+        "options": [
+            "Procedure 1 and Procedure 2",
+            "Procedure 1 and Procedure 3",
+            "Procedure 2 and Procedure 3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard I(B), Independence and Objectivity, members and Candidates must use reasonable care and judgment to achieve and maintain independence and objectivity in their professional activities.\nAs for Procedure 1, restrict investments: Members and candidates should encourage their investment firms to develop formal policies related to employee purchases of equity or equity-related IPOs. Firms should require prior approval for employee participation in IPOs, with prompt disclosure of investment actions taken following the offering. Strict limits should be imposed on investment personnel acquiring securities in private placements.\nAs for Procedure 2, restrict special cost arrangements: When attending meetings at an issuer's headquarters, members and candidates should pay for commercial transportation and hotel charges. No corporate issuer should reimburse members or candidates for air transportation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Brigid O'Rourke, CFA, serves as a CFA Institute volunteer and grades Level III CFA exams. After grading, O'Rourke shares her experience with work colleagues, none of whom are CFA candidates. She says, \"The Level III exam is very tough.\" She also states, \"I was surprised how few candidates could remember the Black–Scholes equation.\" Has O'Rourke most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, only by saying \"I was surprised how few candidates could remember the Black–Scholes equation\"",
+            "Yes, both by saying \"I was surprised how few candidates could remember the Black–Scholes equation\" and by stating \"The Level III exam is very tough\""
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard VII (A), Conduct as Participants in CFA Institute Programs, prohibits members from disclosing and/or soliciting confidential material gained prior to or during the exam and grading processes with those outside the CFA exam development process. Examples of information that cannot be shared by members involved in developing, administering, or grading the exams include but are not limited to questions appearing on the exam or under consideration. Therefore, Rourke has violated Standard VII (A) by stating \"I was surprised how few candidates could remember the Black–Scholes equation.\""
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following statements are consistent with the Standard relating to conduct as participants in CFA Institute programs?\n• Statement I: Questions that appear on the CFA examinations cannot be disclosed by candidates even after they are notified of their exam results\n• Statement II: Broad topic areas and formulas not tested on the exam cannot be publicly discussed by the candidates after the exam",
+        "options": [
+            "Statement I only",
+            "Statement II only",
+            "Both Statement I and Statement II"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VII(A), Conduct as Participants in CFA Institute Programs, all aspects of the exam, including questions, broad topical areas, and formulas, tested or not tested, are considered confidential until such time as CFA Institute elects to release them publicly. This confidentiality requirement allows CFA Institute to maintain the integrity and rigor of exams for future candidates. Therefore, both Statements I and II are consistent with Standard VII(A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Max Cohen, CFA, is offered a gift by one of his premium-fee-paying clients. Prior to accepting the gift, he obtains written consent from his supervisor and the client offering the gift. He does not disclose the gift to his regular-fee-paying clients. Has Cohen violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to independence and objectivity",
+            "Yes, the Standard relating to additional compensation arrangements"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard I(B), Independence and Objectivity, members and candidates must use reasonable care and judgment to achieve and maintain independence and objectivity in their professional activities. When possible, prior to accepting \"bonuses\" or gifts from clients, members and candidates should disclose to their employers such benefits offered by clients. Also, according to Standard IV(B), Additional Compensation Arrangements, Members and Candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved. Standard IV(B) does not require Cohen to disclose the gift to all of his other clients. Thus, Cohen has not violated either Standard I(B) or Standard IV(B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member resides in Adovia, a country with securities laws and regulations that are less strict than the Code and Standards. She does business in Batavia, a country with securities laws and regulations that are less strict than those of AdoviA. Which of the following statements is accurate? The member must most likely adhere to:",
+        "options": [
+            "the Code and Standards.",
+            "the laws and regulations of AdoviA.",
+            "the laws and regulations of Batavia."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because if applicable law is stricter than the requirements of the Code and Standards, members and candidates must adhere to the applicable law; otherwise, they must adhere to the Code and Standards. Since the laws and regulations of Adovia and Batavia are less strict than the Code and Standards, the member must adhere to the Code and Standards."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Agnes Boucault belongs to an online forum of candidates studying for the Level II exam. Boucault writes on the forum: \"Hello, I am a Level II candidate in the CFA Program. A friend who took the Level II exam last month tells me that it's very difficult. Let's focus more study time on the fixed income and derivatives areas, which I think are the hardest.\" Has Boucault most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, by improperly referencing the CFA Program",
+            "Yes, by revealing confidential information about the CFA exam"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Boucault has not revealed any information about questions or specific topic areas tested or not tested on the prior Level II exam. Therefore, she complied with Standard VII (A), Conduct as Participants in CFA Institute Programs, which does not prohibit candidates from discussing nonconfidential information or curriculum material with others or in study groups in preparation for the exam. Boucault has also used an approved format for referencing her candidacy in the CFA Program, by describing herself as \"a Level II candidate in the CFA Program\". Therefore, Boucault did not violate Standard VII (B), Reference to CFA Institute, the CFA Designation, and the CFA Program."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Bertram Kendall, CFA, is an investment advisor at a bank. Kendall plans to teach an economics course at a local university in his spare time, for which he will be paid a fee by the university. In addition, Kendall plans to serve as an investment advisor for the endowment fund of a community center. Kendall will not be paid by the community center but will be given free access to its athletic facilities, which normally charge fees, in return for his services. According to the Standards, Kendall is required to obtain written consent from his employer:",
+        "options": [
+            "only for teaching the economics course.",
+            "only for serving as an advisor for the community center endowment.",
+            "both for teaching the economics course and for serving as an advisor for the community center endowment."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard IV (B), Additional Compensation Arrangements, requires members and candidates to obtain permission from their employer before accepting compensation or other benefits from third parties for the services rendered to the employer or for any services that might create a conflict with their employer's interest. Compensation and benefits include direct compensation by the client and any indirect compensation or other benefits received from third parties. Kendall performs an investment service as an advisor to the endowment that conflicts with his employer's interest. Further, free access to the athletic facilities amounts to indirect compensation from third parties. Therefore, Kendall must obtain written consent from his employer for serving as a consultant for the endowment of a community center."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Mark Monroe, CFA, is an equity analyst at an investment firm. In his spare time, he performs accounting work for his local sports club in return for the club waiving his membership fees and paying his expenses to attend club social events. Monroe does not disclose either the work or the compensation to his employer. Has Monroe most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to loyalty",
+            "Yes, the Standard relating to additional compensation agreements"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Monroe did not violate the Standards. Standard IV (A), Loyalty, requires members and candidates to protect the interests of their firms by refraining from any conduct that would injure the firm, deprive it of profit, or deprive it of the member's or candidate's skills and ability. The Standard also requires that members and candidates abstain from independent competitive activity that could conflict with the interests of their employer. Working as an accountant for his sports club does not represent competitive activity, and Monroe does this work in his spare time, so it does not deprive his employer of his skills and abilities. Thus, Monroe has not violated this Standard.\nStandard IV (B), Additional Compensation Arrangements, states that members and candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved. Because Monroe's outside work is for a local sports club, and not a competitor, there is no conflict of interest with his employer. Therefore, Monroe is not required to disclose it or receive consent from his employer for the compensation. Thus, there is no violation of Standard IV (B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "With respect to the Standard relating to suitability, members who are portfolio managers for a mutual fund are required to:",
+        "options": [
+            "consider clients' circumstances and objectives before investing.",
+            "manage the fund in a manner consistent with the fund's mandate.",
+            "gather information related to investors' taxes and other investment constraints."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard III (C), Suitability, states that some Members and Candidates do not manage money for individuals but are responsible for managing a fund to an index or an expected mandate. The responsibility of these members and candidates is to invest in a manner consistent with the stated mandate. For example, a member or candidate who serves as the fund manager for a large-cap income fund would not be following the fund mandate by investing heavily in small-cap or start-up companies whose stock is speculative in nature. Therefore, members who are portfolio managers for a mutual fund are required to manage the fund in a manner consistent with the fund's mandate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Kate Clark, CFA, and Tom Matt, CFA, have a referral arrangement between them. Clark directs equity clients to Matt. In return, Matt refers fixed income clients to Clark. Matt and Clark both disclose the details of the arrangement to their existing clients. However, only Clark discloses the referral arrangement to her prospective clients. Have the Standards most likely been violated?",
+        "options": [
+            "No",
+            "Yes, by Matt",
+            "Yes, by Clark"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard VI (C), Referral Fees, states that Members and Candidates must disclose to their employer, clients and prospective clients, as appropriate, any compensation, consideration, or benefit received from or paid to others for the recommendation of products or services. Only Matt has violated the Standard because he fails to disclose the referral arrangement to his prospective client."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Anna Schulz, CFA, works for an investment firm. She enters into an arrangement with an independent tax advisor to prepare Schulz's personal tax returns free of charge in exchange for Schulz referring her clients to the tax advisor. According to the Standards, Schulz is required to disclose her arrangement with the tax advisor to:",
+        "options": [
+            "her clients only.",
+            "her employer only.",
+            "both her clients and her employer."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VI (C) Referral Fees, Members and Candidates must disclose to their employer, clients, and prospective clients, as appropriate, any compensation, consideration, or benefit received from or paid to others for the recommendation of products or services. Preparing a tax return free of charge falls within the scope of \"any compensation, consideration, or benefit.\" Therefore, Schultz must disclose the referral fee arrangement to her clients and her employer."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Vikram Shah, CFA, is a wealth manager with AZ Bank (AZ). Shah refers his client, Sean Tan, to the investment banking division of AZ as Tan is considering taking his company public. AZ's policy is to pay its employees a fee for referrals. According to the Standards, Shah is:",
+        "options": [
+            "required to decline the referral fees because Tan is an existing client of AZ.",
+            "not required to disclose the referral fee arrangement to Tan because the referral fee is an interdepartmental incentive payment.",
+            "required to disclose the referral fee arrangement to Tan at the time of referral to allow Tan to evaluate the full cost of the investment banking service."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VI(C), Referral Fees, Members and Candidates must disclose to their employer, clients, and prospective clients, as appropriate, any compensation, consideration, or benefit received from or paid to others for the recommendation of products or services. Such disclosures allow clients to evaluate (1) any partiality shown in any recommendation of services and (2) the full cost of the services. Appropriate disclosure means that members must advise the client or prospective client, before entry into any formal agreement for services, of any benefit received for the recommendation of any services provided by the member."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to suitability, a member is required to do which of the following?",
+        "options": [
+            "Judge the suitability of an investment in the context of the client's total portfolio",
+            "Update a client's investment policy statement as soon as possible after making any changes to recommendations for the client",
+            "Both judge the suitability of an investment in the context of the client's total portfolio and make a reasonable inquiry into a client's investment experience only after taking investment action."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard III (C), Suitability, states that when members and candidates are in an advisory relationship with a client, they must judge the suitability of an investment in the context of the client's total portfolio."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Chris Taylor, CFA, is an investment advisor with Zenith Advisors (ZA). ZA maintains a list of recommended equity securities and purchases newly rated securities for all clients in block transactions. Taylor has just gained a new client who has an existing equity portfolio. Before their first meeting, Taylor reallocates the portfolio in accordance with the firm's recommended equity list without gathering additional information from the client. Taylor most likely violated the Standard(s) relating:",
+        "options": [
+            "only to suitability.",
+            "only to fair dealing.",
+            "both to suitability and to fair dealing."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard III (C), Suitability, requires members to make a reasonable inquiry into a client's or prospective client's investment experience, risk and return objectives, and financial constraints prior to making any investment recommendation or taking investment action and must reassess and update this information regularly. Also, members must determine that an investment is suitable to the client's financial situation and consistent with the client's written objectives, mandates, and constraints before making an investment recommendation or taking investment action. The fact that the client brought an all-equity portfolio to the relationship is not enough to indicate suitability for the client, thus Taylor violated the Standard."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Martha Ray, CFA, manages a portfolio based on an \"Environment Social Governance\" (ESG) style of investing. Ray is also an environmental activist. She is arrested for civil disobedience while participating in a government-authorized nonviolent protest against a company that is accused of damaging the environment. Has Ray most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to misconduct",
+            "Yes, the Standard relating to loyalty, prudence, and care"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard I (D), Misconduct, is not meant to cover legal transgressions resulting from acts of civil disobedience in support of personal beliefs because such conduct does not reflect poorly on the member's or candidate's professional reputation, integrity, or competence. Ray is arrested for civil disobedience in a government-authorized nonviolent protest. Therefore, Ray has not violated Standard I (D). Further, according to Standard III (A), Loyalty, Prudence, and Care, a member's or candidate's responsibility to a client includes a duty of loyalty and a duty to exercise reasonable care. Investment actions must be carried out for the sole benefit of the client and in a manner the member or candidate believes, given the known facts and circumstances, to be in the best interest of the client. There is no reason to believe that Ray has not exercised reasonable care while taking investment actions for her clients. Therefore, Ray has not violated either Standard I (D) or Standard III (A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standards, when presenting performance results, members should encourage their firms to:",
+        "options": [
+            "disclose whether the results are before or after tax.",
+            "exclude terminated accounts as part of performance history.",
+            "present the results using the most representative single account."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to the recommended procedures for compliance with Standard III (D), Performance Presentation, Members and candidates can also meet their obligations under Standard III (D) by including disclosures that fully explain the performance results being reported (for example, disclosing whether the performance is gross of fees, net of fees, or after tax). Therefore, Standard III (D) recommends that members encourage their firms to disclose whether the performance results are before or after tax."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member is in violation of the Standard relating to market manipulation if he:",
+        "options": [
+            "frequently trades two stocks to exploit market inefficiencies.",
+            "secures a controlling position in a company's stock to exploit a potential acquisition of the company.",
+            "issues a report exaggerating negative aspects of a company with the intent to drive down its share price."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard II (B), Market Manipulation, Members and Candidates must not engage in practices that distort prices or artificially inflate trading volume with the intent to mislead market participants. The member engages in information-based manipulation by issuing a misleading report—one that exaggerates negative aspects of a company, to artificially distort (drive down) the company's share price. He has thus violated Standard II (B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Several years ago, a member purchased a large position in a small-cap stock for her own account. The member is unable to sell the entire position due to the stock's limited liquidity. To improve liquidity, the member trades the stock between two client accounts before selling her own position. The member has engaged in:",
+        "options": [
+            "transaction-based manipulation only.",
+            "information-based manipulation only.",
+            "both transaction-based manipulation and information-based manipulation."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard II (B), Market Manipulation, transaction-based manipulation includes artificially affecting prices or volume to give the impression of activity or price movement, which the member did."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "To comply with the Standards, if a member is offered a paid position in addition to his current position that may conflict with his employer's interests, he is most likely required to:",
+        "options": [
+            "decline the position.",
+            "notify his employer in writing before accepting the position.",
+            "obtain written consent from all parties involved before accepting the position."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard IV (B), Additional Compensation Arrangements, Members and Candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member receives an offer of compensation from a third party that might create a conflict of interest with the member's employer. According to the Standard relating to additional compensation arrangements, the member is most likely required to:",
+        "options": [
+            "refuse the offer.",
+            "only disclose the offer to the employer.",
+            "obtain written consent from all parties involved prior to accepting the offer."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard IV (B), Additional Compensation Arrangements, Members and Candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Tom Oak, CFA, is an advisor to high-net-worth individuals. The risk tolerances of Oak's clients range from conservative to aggressive. He recommends an equity mutual fund which the prospectus describes as a \"high-growth and high-risk vehicle.\" Oak observes that the volatility of the fund's price has been very low over the past three quarters. He therefore recommends investing a large proportion of each client's portfolio in the fund, citing the low volatility and excellent return potential. Oak has most likely violated the Standard(s) relating:",
+        "options": [
+            "only to suitability.",
+            "only to misrepresentation.",
+            "both to suitability and to misrepresentation."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III (C), Suitability, When Members and Candidates are in an advisory relationship with a client, they must make a reasonable inquiry into a client's or prospective client's investment experience, risk and return objectives, and they must determine that an investment is suitable to the client's financial situation and consistent with the client's written objectives, mandates, and constraints. By recommending to invest a large portion of the portfolio in this high-risk investment vehicle to clients with varying degrees of risk tolerance, and not only to clients with a high degree of risk tolerance, Oak violated Standard III (C). According to Standard I (C), Misrepresentation, Members and Candidates must not knowingly make any misrepresentations relating to investment analysis, recommendations, actions, or other professional activities. Even though the recent history of the fund shows risk lower than described in the investment policy of the fund, lacking a change in the fund's policy, it is neither accurate, nor appropriate, to represent the fund as having a lower-risk profile than specified by the fund's policy. By representing the fund in this manner and misrepresenting the investment, Oak has violated Standard I (C)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Venture Energy Exchange (VEE) launches a new derivatives product on crude oil. The exchange's CEO, Adam Jaafar, CFA, enters into a confidential agreement with VEE's ten largest members, who commit to trading substantial minimum volumes of the new product in the first six months after its launch. The product's liquidity improves over the next five months. Jaafar is satisfied with the results and decides not to extend the confidential agreement once it expires. Has Jaafar violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to fair dealing",
+            "Yes, the Standard relating to market manipulation"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Jaafar's \"pump-priming\" strategy violates Standard II (B), Market Manipulation, which states that Members and Candidates must not engage in practices that distort prices or artificially inflate trading volume with the intent to mislead market participants. The formal liquidity of a market is determined by the obligations set on market makers, but the actual liquidity of a market is better estimated by the actual trading volume and bid–ask spreads. Attempts to mislead participants about the actual liquidity of the market constitute a violation of Standard II (B). In this example, investors have been intentionally misled to believe they chose the most liquid instrument for some specific purpose, but they could eventually see the actual liquidity of the contract significantly reduced after the term of the agreement expires. If Jaafar were to fully discloses its agreement with members to boost transactions over some initial launch period, he would not violate Standard II (B). Jaafar's intent is not to harm investors but, on the contrary, to give them a better service. For that purpose, he may engage in a liquidity-pumping strategy, but the strategy must be disclosed."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is a recommended procedure for compliance with the Standard relating to performance presentation? Members should encourage their firms to:",
+        "options": [
+            "state, when applicable, that performance results are simulated.",
+            "use a representative account to present composite performance.",
+            "use identical performance presentation reports for all types of clients."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because recommended procedures for compliance with Standard III (D), Performance Presentation, include disclosures that fully explain the performance results being reported (for example, stating, when appropriate, that results are simulated when model results are used)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Adam Johnson, CFA, works at a large investment firm. After losing his taxi receipt for a business meeting, he uses his colleague's taxi receipt of a slightly higher value to submit his monthly expense claim to his employer. Recently, Johnson declared personal bankruptcy due to large medical bills for a family member. Has Johnson violated the Standard relating to misconduct?",
+        "options": [
+            "No",
+            "Yes, by submitting the expense claim",
+            "Yes, by declaring personal bankruptcy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard I (D), Misconduct, states that Members must not engage in any professional conduct involving dishonesty, fraud, or receipt or commit any act that reflects adversely on their professional reputation, integrity, or competence. By using a colleague's taxi receipt of a higher value, Johnson engages in intentional conduct involving fraud and deceit in the work place that adversely reflects on his integrity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Michael Butcher, CFA, has recently joined Patriot Investments (PI) as an investment manager. With information gathered from public sources, Butcher re-creates supporting records from his former firm for investment recommendations at PI. Butcher also reviews client positions and routinely deletes records of the reviews that do not result in a change. Butcher has most likely violated the Standards:",
+        "options": [
+            "only by deleting the reviews that do not result in a change.",
+            "only by re-creating supporting records for investment recommendations.",
+            "both by deleting the reviews that do not result in a change and by re-creating supporting records for investment recommendations."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard V (C), Record Retention, states that the retention requirement applies to decisions to buy and sell a security as well as reviews undertaken that do not lead to a change in position."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Ming Xu, CFA, is an investment advisor at Topnotch Advisors (TNA). Xu plans to leave TNA and start an independent advisory practice that would compete with TNA. Without notifying TNA of his plans, Xu makes preparations during non-working hours to start his independent practice. Has Xu most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to loyalty",
+            "Yes, the Standard relating to disclosure of conflicts"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Xu has not violated the Standards. According to Standard IV (A) Loyalty, a departing employee is generally free to make arrangements or preparations to go into a competitive business before terminating the relationship with his or her employer as long as such preparations do not breach the employee's duty of loyalty. There is no evidence to believe that Xu's action breaches her employer's duty of loyalty. Therefore, Xu she has not violated the Standard IV (A). Further, according to Standard VI (A) Disclosure of Conflicts, Members and Candidates must make full and fair disclosure of all matters that could reasonably be expected to impair their independence and objectivity or interfere with respective duties to their clients, prospective clients, and employer. Reportable situations include conflicts that would interfere with rendering unbiased investment advice and conflicts that would cause a member or candidate to act not in the employer's best interest. Xu only makes preparations during non-working hours to start her independent practice. Therefore, Xu has also not violated Standard VI (A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standards, members who are supervisors are most likely required to:",
+        "options": [
+            "have in-depth knowledge of the Standards.",
+            "personally evaluate the conduct of all of their employees on a continuing basis.",
+            "report violations of the Standards by any employee under their supervision to CFA Institute."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard IV (C), Responsibilities of Supervisors, Members and candidates acting as supervisors must also have in-depth knowledge of the Code and Standards so that they can apply this knowledge in discharging their supervisory responsibilities."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Anna Yeung, CFA, is a research analyst with TL Securities (TLS). TLS does not have a policy on record retention, and applicable law does not require retaining records. Yeung only retains her work records electronically and deletes records older than three years. Are Yeung's actions consistent with the recommendations for compliance with the Standard relating to record retention?",
+        "options": [
+            "Yes",
+            "No, because she only retains her work records electronically",
+            "No, because she deletes her records that are older than three years"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard V (C), Record Retention, in the absence of regulatory guidance or firm policies, CFA Institute recommends maintaining records for at least seven years. Since she deletes records that are older than three years she is not consistent with the Standard relating to record retention."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Patrick Tam, CFA, is a chemicals industry analyst for an investment firm. The president of Naxos Chemicals (Naxos) asks Tam to provide customized reports on global industry trends in return for free travel and accommodations for the Naxos annual shareholder meeting. To comply with the Standards, Tam is most likely required:",
+        "options": [
+            "only to fully disclose the arrangement with Naxos to all of the firm's clients.",
+            "only to obtain written permission from his employer before accepting the offer from Naxos.",
+            "both to fully disclose the arrangement with Naxos to all of the firm's clients and to obtain written permission from his employer before accepting the offer from Naxos."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard VI (A), Avoid or Disclose Conflicts, the most obvious conflicts of interest, which should always be disclosed, are relationships between an issuer and the member, candidate, or his or her firm (such as a directorship or consultancy by a member. Although the compensation Tam would receive for the industry reports is relatively meager, there would be a separate relationship with a firm he covers, which must be disclosed. In addition, according to Standard IV (B), Additional Compensation Arrangements, Members and candidates must not accept gifts, benefits, compensation, or consideration that competes with or might reasonably be expected to create a conflict of interest with their employer's interest unless they obtain written consent from all parties involved. Writing special reports for a company the analyst is following would reasonably be construed as creating a conflict of interest with the employer because Tam would be expected to write industry reports for his employer as the chemicals industry analyst."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "To be consistent with the Standard relating to record retention, a member should maintain records of which of the following?\n• Item 1: A change in recommendation posted on social media.\n• Item 2: Reviews of materials that do not lead to a change in recommendation.",
+        "options": [
+            "Item 1 only",
+            "Item 2 only",
+            "Both Item 1 and Item 2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard V (C), Record Retention, the nature or format of the information does not remove a member's or candidate's responsibility to maintain a record of information used in his or her analysis or communicated to clients. Examples of nonprint media formats that should be retained include, but are not limited to blog posts and Twitter posts. The retention requirement applies to decisions to buy or sell a security as well as reviews undertaken that do not lead to a change in position."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the recommended procedures for compliance with the Standard relating to responsibilities of supervisors, members should encourage their firms to:\nCorrect answer:",
+        "options": [
+            "continually educate personnel regarding all of the firm's compliance procedures.",
+            "separate employees' professional conduct evaluations from their performance reviews.",
+            "integrate the firm's compliance procedures into its code of ethics to provide a comprehensive document."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because recommended procedures for compliance with Standard IV (C), Responsibilities of Supervisors, state that once a compliance program is in place, a supervisor should continually educate personnel regarding the compliance procedures."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "In the absence of regulations or firm policies, the Standards recommend retaining investment-related records for a minimum of:",
+        "options": [
+            "five years.",
+            "seven years.",
+            "ten years."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard V (C), Record Retention, states that in the absence of regulatory guidance or firm policies, CFA Institute recommends maintaining records for at least seven years."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A candidate taking the CFA Level II exam develops an analytical model while working as an unpaid intern at a brokerage firm. Before completing her internship, the candidate copies supporting documents used to create the model with an intention to recreate the model at a new firm she expects to join soon. Has the candidate violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to record retention only",
+            "Yes, the Standard relating to record retention and the Standard relating to loyalty"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard V(C), Record Retention, states that as a general matter, records created as part of a member's or candidate's professional activity on behalf of his or her employer are the property of the firm. When a member or candidate leaves a firm to seek other employment, the member or candidate cannot take the property of the firm, including original forms or copies of supporting records of the member's or candidate's work, to the new employer without the express consent of the previous employer. The candidate cannot copy the supporting documents without the consent of the current employer. Therefore, the candidate has violated the Standard V(C).\nIn addition, Standard IV(A), Loyalty, states that, even if a candidate does not receive monetary compensation for her services at a firm, she is considered an employee if she receives compensation and benefits in the form of work experience and knowledge. Therefore by copying the supporting document, the candidate violated Standard IV(A) because she misappropriated the firm's property without permission."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Disclosures about the use of leverage, sector or industry risk, and security-specific risk are most likely included in the Standard relating to:",
+        "options": [
+            "independence and objectivity.",
+            "responsibilities of supervisors.",
+            "communication with clients and prospective clients."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because discussions about leverage, sector or industry risk, and security-specific risk are included in the guidance for Standard V (B), Communication with Clients and Prospective Clients. This Standard states that Members must outline to clients and prospective clients significant risks and limitations of the analysis contained in their investment products or recommendations. This includes but is not limited to the use of leverage, sector or industry risk, and security-specific risk. The type and nature of significant risks will depend on the investment process that members are following and on the personal circumstances of the client. In general, the use of leverage constitutes a significant risk and should be disclosed."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Agnes Dupy, CFA, manages discretionary accounts at a large brokerage firm. She finds a suitable set of the firm's proprietary equity mutual funds for one of her clients. Dupy's firm is awarding a special quarterly bonus to managers who use one of the highest-fee funds on the list of suitable funds, so she invests in that fund for her client without contacting the client. Dupy has most likely violated the Standard(s) relating:",
+        "options": [
+            "only to fair dealing.",
+            "only to avoid or disclose conflicts.",
+            "both to fair dealing and to avoid or disclose conflicts."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard VI (A), Avoid or Disclose Conflicts, states that the Standard protects investors and employers by requiring members and candidates to fully disclose to clients, potential clients, and employers all actual and potential conflicts of interest. Dupy violated the standard by not disclosing the special bonus for the chosen fund."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following examples is most likely a violation of the Standards? A member who is a supervisor:",
+        "options": [
+            "delegates supervisory duties to subordinates who oversee other employees.",
+            "relies on an employee's statement that previous wrongdoing will not reoccur and takes no additional steps.",
+            "fails to detect all violations, although the member has taken reasonable steps to implement an effective compliance program."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard IV (C), Responsibilities of Supervisors, once a supervisor learns that an employee has violated or may have violated the law or the Code and Standards, the supervisor must promptly initiate an assessment to determine the extent of the wrongdoing. Relying on an employee's statements about the extent of the violation or assurances that the wrongdoing will not reoccur is not enough. A supervisor should take steps to ensure that the violation will not be repeated. A supervisor must make sure that such violation will not reoccur."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A candidate posts questions from the most recent CFA exam in an online forum. This action is a violation of the Standard(s) relating:",
+        "options": [
+            "to preservation of confidentiality only.",
+            "to conduct as participants in CFA Institute programs only.",
+            "both to preservation of confidentiality and to conduct as participants in CFA Institute programs."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard VII(A), Conduct as Participants in CFA Institute Programs, states CFA Institute program rules, regulations, and policies prohibit candidates from disclosing confidential material gained during the exam process. Examples of information that cannot be disclosed by candidates sitting for an exam include but are not limited to specific details of questions appearing on the exam."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to responsibilities of supervisors, a member who cannot discharge supervisory responsibilities due to his firm's inadequate compliance system should:",
+        "options": [
+            "decline in writing to accept supervisory responsibility only.",
+            "report the inadequate compliance system to the CFA Institute only.",
+            "both decline in writing to accept supervisory responsibility and report the inadequate compliance system to the CFA Institute."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard IV(C), responsibilities of supervisors, if the member or candidate clearly cannot discharge supervisory responsibilities because of the absence of a compliance system or because of an inadequate compliance system, the member or candidate should decline in writing to accept supervisory responsibility until the firm adopts reasonable procedures to allow adequate exercise of supervisory responsibility."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following Standards states that members must not commit any act that reflects adversely on their professional reputation, integrity, or competence? The Standard relating to:",
+        "options": [
+            "fair dealing",
+            "misconduct",
+            "loyalty, prudence, and care"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard I (D), Misconduct, Members and Candidates must not engage in any professional conduct involving dishonesty, fraud, or deceit or commit any act that reflects adversely on their professional reputation, integrity, or competence."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Anna Schulz, CFA, is a securities analyst. When she joined her firm, Schulz's manager, Zhang Feng, CFA, informed her only that \"the CFA Institute Code and Standards pretty much cover the company's compliance rules.\" In her personal account, Schulz holds a large position in a company that she recommends for purchase to clients. Schulz does not report this holding to her firm or clients. The Standards were most likely violated:",
+        "options": [
+            "only by Zhang.",
+            "only by Schulz.",
+            "both by Zhang and by Schulz."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard IV (C), Responsibilities of Supervisors, Members and Candidates must promote actions by all employees under their supervision and authority to comply with applicable laws, rules, regulations, and firm policies and the Code and Standards. At a minimum, Standard IV(C) requires that members and candidates with supervisory responsibility make reasonable efforts to prevent and detect violations by ensuring the establishment of effective compliance systems. To be effective supervisors, members and candidates should implement education and training programs on a recurring or regular basis for employees under their supervision. Such programs will assist the employees with meeting their professional obligations to practice in an ethical manner within the applicable legal system. Therefore, by not thoroughly explaining to Schulz or training Schulz in requirements for compliance with applicable laws, rules, regulations, and firm policies, and by not employing/implementing an effective compliance system, Zhang violated this Standard. In addition, Schulz violated Standard VI (A), Avoid or Disclose Conflicts, which protects investors and employers by requiring members and candidates to fully disclose to clients, potential clients, and employers all actual and potential conflicts of interest. Also, sell-side members and candidates must disclose any materially beneficial ownership interest in a security or other investment that the member or candidate is recommending. By not disclosing that Schulz holds a large position in a company that she recommends for purchase to clients, Schulz is in violation of Standard VI (A)"
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Rayan Tengku, CFA, manages an equity fund. When talking to potential investors, Tengku presents the fund's average historical performance as the minimum performance investors can expect over the next year. After releasing the most recent quarterly fund report, Tengku finds an error in the report. He immediately sends the corrected report to all clients by e-mail and then calls only those clients who pay for premium services to discuss the report. Tengku has most likely violated the Standard(s) relating:",
+        "options": [
+            "only to fair dealing.",
+            "only to performance presentation.",
+            "both to fair dealing and to performance presentation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard III (D), Performance Presentation, prohibits misrepresentations of past performance or reasonably expected performance. A member or candidate must give a fair and complete presentation of performance information. Furthermore, members and candidates should not state or imply that clients will obtain or benefit from a rate of return that was generated in the past. Therefore, by stating that the fund's average historic performance is representative of investors' minimum future performance, Tengku has violated Standard III (D)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Emilio Torro, CFA, owns a small investment firm. He sends a brochure to potential clients which states: \"As a CFA charterholder, Emilio Torro will deliver better investment performance compared to the competition. Over the past 6 years, Torro has beaten the market in every single year and will continue to do so in the future.\" Torro has most likely violated the Standard(s) relating to:",
+        "options": [
+            "performance presentation only.",
+            "reference to the CFA Institute, the CFA Designation, and the CFA Program only.",
+            "both performance presentation and reference to the CFA Institute, the CFA Designation, and the CFA Program."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III (D), Performance Presentation, members and candidates should not state or imply that clients will obtain or benefit from a rate of return that was generated in the past. This standard also prohibits misrepresentations of past performance or reasonably expected performance. By stating \"Over the past 6 years, Torro has beaten the market in every single year and will continue to do so in the future\", Torro has violated Standard III (D) because he misrepresents reasonably expected performance.\nAccording to Standard VII (B), Reference to CFA Institute, the CFA Designation, and the CFA Program, statements that overstate the competency of an individual or imply, either directly or indirectly, that superior performance can be expected from someone with the CFA designation are not allowed under the standard. Therefore, by stating, \"As a CFA charterholder, Emilio Torro will deliver better investment performance compared to the competition\", Torro has violated Standard VII (B) because he states that superior performance can be expected from someone with the CFA designation. Therefore, Torro has violated both the Standard relating to performance presentation and the Standard relating to reference to the CFA Institute, the CFA Designation, and the CFA Program."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Herman Standish, CFA, is a top analyst in the semiconductor industry. Standish issues a report on International Chips (IC) to clients of his firm that highlights a change in his recommendation from \"hold\" to \"strong buy.\" He writes in the report: \"Just as it has in the past two years, IC will double its earnings and its dividend.\" After three business days, Standish releases the report to the business press. Which of the following Standards has Standish most likely violated?",
+        "options": [
+            "Only the Standard relating to material nonpublic information",
+            "Only the Standard relating to communication with clients and prospective clients",
+            "Both the Standard relating to material nonpublic information and the Standard relating to communication with clients and prospective clients"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard V (B), Communication with Clients and Prospective Clients, requires that opinion be separated from fact. Violations often occur when reports fail to separate the past from the future by not indicating that earnings estimates, changes in the outlook for dividends, or future market price information are opinions subject to future circumstances. Standish violated the Standard by writing IC will double its earnings and its dividend in his report."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Member violations of the Standard relating to misconduct must involve a(n):",
+        "options": [
+            "illegal act.",
+            "violation of one of the other Standards.",
+            "act that reflects adversely on the member's professional reputation."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard I (D), Misconduct, states that Members and Candidates must not engage in any professional conduct involving dishonesty, fraud, or deceit or commit any act that reflects adversely on their professional reputation, integrity, or competence."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Hemant Sampath, CFA, is a wealth manager. He is contacted by a charity requesting donations. Sampath refuses to share information about existing clients to protect client confidentiality. While communicating with existing clients, Sampath shares contact details of the charity. He also shares contact details of former clients with the charity. Has Sampath violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to preservation of confidentiality",
+            "Yes, the Standard relating to communication with clients and prospective clients"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard III(E), Preservation of Confidentiality, requires that members and candidates preserve the confidentiality of information communicated to them by their clients, prospective clients, and former clients. Sampath breaches Standard III(E) by sharing contact details of former clients with the charity."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "CFA Institute encourages members to report other members' violations of the Code and Standards in writing to the CFA Institute:",
+        "options": [
+            "Board of Governors.",
+            "Professional Conduct Program.",
+            "Disciplinary Review Committee."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because CFA Institute encourages members, nonmembers, clients, and the investing public to report violations of the Code and Standards by CFA Institute members or CFA candidates by submitting a complaint in writing to the CFA Institute Professional Conduct Program."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is among the recommended procedures for compliance with the Standard relating to preservation of confidentiality?\n• Procedure 1: Convey to clients that not all firm-sponsored resources may be appropriate for confidential communications.\n• Procedure 2: Ensure that firm-supported communications follow practices designed to prevent the accidental distribution of confidential information.",
+        "options": [
+            "Only Procedure 1",
+            "Only Procedure 2",
+            "Both Procedure 1 and Procedure 2"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III(E), Preservation of Confidentiality, members and candidates should be diligent in discussing with clients the appropriate methods for providing confidential information. It is important to convey to clients that not all firm-sponsored resources may be appropriate for such communications. So, Procedure 1 is correct. The standard also states that members and candidates need to understand and follow their firm's electronic information communication and storage procedures. If the firm does not have procedures in place, members and candidates should encourage the development of procedures that appropriately reflect the firm's size and business operations. So, Procedure 2 is also correct."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member has a client who pays higher fees for premium services. The Standards most likely allow the member to provide that client with:",
+        "options": [
+            "larger allocations of oversubscribed IPOs.",
+            "earlier access to investment recommendations and rating changes.",
+            "direct access to research analysts to discuss published investment ratings in greater detail."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III (B), Fair Dealing, members and candidates may provide more personal, specialized, or in-depth service to clients who are willing to pay for premium services through higher management fees or higher levels of brokerage. Members and candidates may differentiate their services to clients, but different levels of service must not disadvantage or negatively affect clients. Therefore, a member is permitted to provide direct access to research analysts to discuss published investment ratings in greater detail for a client who pays higher fees for premium services."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Jong Byun, CFA, is a broker who recommends various investments to his clients, but is not legally charged with a fiduciary responsibility. Byun finds two similar and appropriate mutual funds. One of the funds has a higher fee-sharing arrangement with the broker so he recommends that fund to his clients over the fund with lower fees. Has Byun most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to suitability",
+            "Yes, the Standard relating to loyalty, prudence, and care"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III (A) Loyalty, Prudence and Care, members and Candidates must act for the benefit of their clients and place their clients' interests before their employer's or their own interest. By recommending the fund with the higher fee-sharing when another lower-fee alternative is available, Byun is putting his own interests before those of his clients. Even though he does not have a legal fiduciary requirement, Byun, as a member and has the responsibility to put his clients' needs before his own."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Maria Estefan, CFA, recently founded Inversiones Unidas (IU). Estefan has a 5-year fund management track record as part of a team with her previous firm, Alto Investments (AI). Estefan advertises her past 5-year track record as her performance at IU without reference to AI or her role on the team at AI. Estefan most likely violates the Standards:",
+        "options": [
+            "only by advertising her performance without reference to AI.",
+            "only by advertising her performance without reference to her role on the team at AI.",
+            "both by advertising her performance without reference to AI and by advertising her performance without reference to her role on the team at AI."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to Standard III (D), Performance Presentation, when communicating investment performance information, members and candidates must make reasonable efforts to ensure that it is fair, accurate, and complete. Further, as a general matter, this standard does not prohibit showing past performance of funds managed at a prior firm as part of a performance track record as long as showing that record is accompanied by appropriate disclosures about where the performance took place and the person's specific role in achieving that performance. So, Estefan is permitted to advertise her past five-year track record with AI provided she makes adequate disclosures in the advertisement relating to the IU's performance presentation. Therefore, Estefan has violated Standard III (D) because she advertised her performance without reference to AI and also failed to make reference to her role on the team at AI."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Jan Ho, CFA, is an advisor who manages portfolios for endowment funds that share a similar goal of conservative growth. He has thoroughly researched and recommended the purchase of a thinly-traded stock for his clients' portfolios. To execute the trades, Ho follows his policy of prioritizing purchases for his largest clients first. Ho has most likely violated the Standard relating to:",
+        "options": [
+            "suitability.",
+            "fair dealing.",
+            "priority of transactions."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard III(B), Fair Dealing, requires members and candidates to treat all clients fairly when disseminating investment recommendations or making material changes to prior investment recommendations or when taking investment action with regard to general purchases, new issues, or secondary offerings. Further, the term \"fairly\" implies that the member or candidate must take care not to discriminate against any clients when disseminating investment recommendations or taking investment action. Therefore, Ho cannot discriminate between his largest clients and other clients by prioritizing trades for the former group first. By doing do, Ho has violated Standard III(B)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Alicia Garcia, CFA, is a broker. Her firm's analyst changes a prior \"Buy\" recommendation on Ajax Data (AD) to \"Sell\" and Garcia publishes the recommendation change on the firm's website. Later that day, one of Garcia's clients contacts her with an order directing Garcia to buy shares of AD for the client's non-discretionary account. According to the Standard relating to fair dealing, Garcia should:",
+        "options": [
+            "refuse to execute the order.",
+            "advise the client of the recommendation change before accepting the order.",
+            "accept and immediately execute the order because the client's account is non-discretionary."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because Standard III (B), Fair Dealing, addresses the manner in which investment recommendations or changes in prior recommendations are disseminated to clients. Clients who do not know that the member or candidate has changed a recommendation and who, therefore, place orders contrary to a current recommendation should be advised of the changed recommendation before the order is accepted. Therefore, Garcia should advise the client of the recommendation change before accepting the order."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Ria Preston, CFA, works for an investment firm. Her brother is a fee-paying client of the firm. Preston allocates shares in an oversubscribed IPO that she considers suitable for all of her firm's clients. To avoid potential conflicts of interest, Preston does not allocate shares from the IPO to herself or to her brother. Has Preston most likely violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to fair dealing",
+            "Yes, the Standard relating to diligence and reasonable basis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard III (B), Fair Dealing, if the issue is oversubscribed, members and candidates should forgo any sales to themselves or their immediate families in order to free up additional shares for clients. If the investment professional's family-member accounts are managed similarly to the accounts of other clients of the firm, however, the family-member accounts should not be excluded from buying such shares. In addition, Standard III (B) requires members and candidates to treat all clients fairly when disseminating investment recommendations or making material changes to prior investment recommendations or when taking investment action with regard to general purchases, new issues, or secondary offerings. As a fee-paying client, Preston's brother's account must be treated like as any other client account and allocated shares accordingly. Therefore, Preston has violated Standard III (B) because she failed to allocate shares to her brother's account."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Judy Naden, CFA, is an analyst covering the aerospace sector. Naden's recommendations often impact stock prices within the sector. Naden finalizes an investment recommendation on a company using published financial data and nonmaterial, nonpublic information gathered from industry experts and competitors. She distributes the report only to her firm's clients by email. Her firm's clients trade on this information before her report is made available to the general public a few days later. Has Naden most likely violated the Standards?\nCorrect answer:",
+        "options": [
+            "No",
+            "Yes, by using the information gathered from industry experts and competitors in her report",
+            "Yes, by failing to make her recommendation available to her firm's clients and the public at the same time"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to Standard II (A), Material Nonpublic Information, a financial analyst gathers and interprets large quantities of information from many sources. The analyst may use significant conclusions derived from the analysis of public and nonmaterial nonpublic information as the basis for investment recommendations and decisions even if those conclusions would have been material inside information had they been communicated directly to the analyst by a company. Under the \"mosaic theory,\" financial analysts are free to act on this collection, or mosaic, of information without risking violation. Therefore, Naden is permitted to use published financial data and nonmaterial, nonpublic information gathered from industry experts and competitor to arrive at his investment recommendation. Further, Standard II (A) states, when a particularly well-known or respected analyst issues a report or makes changes to his or her recommendation, that information alone may have an effect on the market and thus may be considered material. Theoretically, under Standard II(A), such a report would have to be made public at the time it was distributed to clients. The analyst is not a company insider, however, and does not have access to inside information. In addition, simply because the public in general would find the conclusions material does not require that the analyst make his or her work public. So, Naden is not required to make her recommendation available to her clients and the public at the same time. Therefore, Naden has not violated Standard II (A) either by using the information gathered from industry experts and competitors in her report or by failing to make her recommendation available to her clients and the public at the same time."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the guidance provided by the Code and Standards, which of the following is not a recommended procedure for compliance with the Standard relating to material nonpublic information?",
+        "options": [
+            "Physical separation of departments",
+            "Adopt disclosure procedures for material nonpublic information",
+            "Avoid public dissemination of material nonpublic information received"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because this is not a recommended procedure for compliance with Standard II (A), Material Non-Public Information. The recommended procedure is in fact the opposite, the member should make reasonable efforts to achieve public dissemination of the information."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member works for an investment firm and implements policies to ensure that the use of soft dollars benefits clients. These policies are most likely put in place to comply with the Standard relating to:",
+        "options": [
+            "referral fees.",
+            "loyalty, prudence, and care.",
+            "additional compensation arrangements."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because, according to Standard III (A), Loyalty, Prudence, and Care, conflicts may arise when an investment manager uses client brokerage to purchase research services, a practice commonly called 'soft dollars' or 'soft commissions.' A member or candidate who pays a higher brokerage commission than he or she would normally pay to allow for the purchase of goods or services, without corresponding benefit to the client, violates the duty of loyalty to the client. Therefore, a member who implements policies to ensure that the use of soft dollars benefits clients complies with the Standard relating to loyalty, prudence, and care."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the recommended procedures for compliance with the Standard relating to loyalty, prudence, and care, a member who has control of client assets should:",
+        "options": [
+            "vote proxies in the best interests of her firm.",
+            "submit quarterly itemized account statements to her clients.",
+            "combine her clients' assets with other parties' assets to reduce administrative costs."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to recommended procedures for compliance with Standard III (A), Loyalty, Prudence, and Care, a member should submit to each client, at least quarterly, an itemized statement showing the funds and securities in the custody or possession of the member or candidate plus all debits, credits, and transactions that occurred during the period."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Mark Joy, CFA, manages the pension fund for Bank Ltd. (BL). Joy believes that BL stock is overvalued. BL's CEO requests Joy purchase BL stock for BL's pension fund to help prevent a hostile takeover of BL. Joy complies and his purchase of BL stock for the pension fund helps prevent the takeover. Subsequently, BL's stock price increases, which also increases the value of BL's pension fund. Has Joy most likely violated the Standard relating to loyalty, prudence, and care?",
+        "options": [
+            "No",
+            "Yes, because BL stock subsequently increased",
+            "Yes, because Joy complies with the CEO's request"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because Standard III (A), Loyalty, Prudence, and Care, states that members have a duty of loyalty to their clients. When the manager is responsible for the portfolios of pension plans, the client is not the person or entity who hires the manager but, rather, the beneficiaries of the plan or trust. The duty of loyalty is owed to the ultimate beneficiaries. Joy should not have complied with the CEO's request to buy the stock when he believes the stock is overvalued, because his duty is not owed to BL nor to the CEO. His duty is owed to the BL pension fund beneficiaries. Therefore, Joy would not be permitted to purchase the stock, and this is the correct answer."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the Standard relating to loyalty, prudence, and care, a member who is hired to manage an equity mutual fund:",
+        "options": [
+            "is required to vote proxies in all instances.",
+            "owes the duty of loyalty, prudence, and care to the firm who hired her to serve as fund manager.",
+            "owes the duty of loyalty, prudence, and care to invest in a manner consistent with the stated mandate."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the guidance for Standard III (A), Loyalty, Prudence and Care: Members and candidates managing a fund to an index or an expected mandate owe the duty of loyalty, prudence, and care to invest in a manner consistent with the stated mandate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Rebecca Chen, CFA, is a portfolio manager at an investment firm. Chen has been specializing in the technology sector. She recently expanded her coverage to the oil sector. Chen attends training to ensure that she has sufficient knowledge of the oil sector before taking the new role. After comprehensive research, Chen concludes that First Oil Company (FOC) is undervalued and buys FOC shares for her clients for whom the investment is suitable. Two months later, FOC's price declines by 20%. Has Chen violated the Standards?",
+        "options": [
+            "No",
+            "Yes, the Standard relating to competence",
+            "Yes, the Standard relating to diligence and reasonable basis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard I(E), Competence, states that to be competent in your role and meet your duties under this standard means having sufficient knowledge, skills, and abilities suitable for a professional to work in that specific role with success. These attributes govern the expertise, experience, and accomplishments that professionals need to perform at the highest level. While competence allows members and candidates the opportunity to undertake an activity successfully, lack of competence cannot necessarily be determined by an unsuccessful or a negative outcome. Many competent investment professionals have experienced failure or loss in their professional lives. Chen has obtained the knowledge in new area and completed a comprehensive research before buying the shares to her clients for whom the investment is suitable. Therefore, Chen has not violated Standard I(E) even though the stock price declined by 20%.\nIn addition, Standard V(A), Diligence and Reasonable Basis, states that members and candidates must exercise diligence, independence, and thoroughness in analyzing investments, making investment recommendations, and taking investment actions. Chen has completed comprehensive research before buying the shares to her clients for whom the investment is suitable. Therefore, she has also not violated the Standard V(A)."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Which of the following is among the recommended procedures for compliance with the Standard relating to misrepresentation?\n• Procedure 1: Each member should prepare for client distribution a list of services that the member is capable of performing.\n• Procedure 2: Members should cite specific quotations as attributable to 'investment experts' when confidentiality of the sources has to be preserved.",
+        "options": [
+            "Procedure 1 only",
+            "Procedure 2 only",
+            "Both Procedure 1 and Procedure 2"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because the recommended procedures for compliance with Standard I (C), Misrepresentation, state that to ensure accurate presentations to clients, each member and candidate should prepare a summary of his or her own qualifications and experience and a list of the services the member or candidate is capable of performing."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "According to the recommended procedures for compliance with the Standard relating to misrepresentation, a member should:",
+        "options": [
+            "refrain from using information received from a third party.",
+            "update a summary of her professional qualifications at least quarterly.",
+            "keep copies of the materials that the member relied on in preparing each research report."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to recommended procedures for compliance with Standard I (C), Misrepresentation, to avoid plagiarism members should keep copies of all research reports, articles containing research ideas, material with new statistical methodologies, and other materials that were relied on in preparing the research report."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "A member most likely violates the Standard relating to misrepresentation if he:",
+        "options": [
+            "distributes a research report written by another firm to his clients.",
+            "attributes a quotation to \"a leading analyst\" without naming the analyst.",
+            "uses research done by an analyst who no longer works for the firm without providing attribution to that analyst."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard I (C), Misrepresentation, misrepresentation through plagiarism in investment management can take various forms including citing specific quotations as attributable to 'leading analysts' and 'investment experts' without naming the specific references."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Donovan Jones, CFA, works at Grae Investments (GI). GI invests in commodities, stocks, and bonds. Prices for its illiquid holdings are determined by an independent valuation firm. Jones markets performance using a small-cap equity index as a benchmark. Jones switches to a different valuation firm due to its better customer service and lower cost. The switch results in a marginal increase to the current estimated value of its illiquid assets. Jones has most likely violated the Standard relating to misrepresentation:",
+        "options": [
+            "only by switching valuation firms.",
+            "only by using the small-cap equity index as a benchmark.",
+            "both by switching valuation firms and by using the small-cap equity index as a benchmark."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to Standard I (C), Misrepresentation, members and candidates may misrepresent the success of their performance record through presenting benchmarks that are not comparable to their strategies. The small-cap equity index is not comparable to the described strategy which includes ownership of a mix of commodities, stocks, and bonds."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Fred Berkam, CFA, makes the following two statements in his communication to clients regarding his equity-based hedge fund:\n• Statement 1: \"The fund has reported seven consecutive years of gains, so investors are assured of avoiding losses next year.\"\n• Statement 2: \"The fund's complex strategy does not fit well with any standard benchmark; therefore no performance benchmark is provided.\"\nBerkam has most likely violated the Standards with:",
+        "options": [
+            "Statement 1 only.",
+            "Statement 2 only.",
+            "both Statement 1 and Statement 2."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because Standard I (C), Misrepresentation, prohibits members and candidates from guaranteeing clients any specific return on volatile investments. Stating that an equity-based fund can guarantee against a potential loss is a violation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Alesha Alsagoff, CFA, is hired by Acacia Papermill to manage its pension plan. She must report annual performance results to the plan trustees. Alsagoff's duty of loyalty, prudence, and care is primarily owed to:",
+        "options": [
+            "Acacia Papermill.",
+            "the pension plan trustees.",
+            "the beneficiaries of the pension plan."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because when the manager is responsible for the portfolios of pension plans or trusts, however, the client is not the person or entity who hires the manager, but, rather, the beneficiaries of the plan or trust. The duty of loyalty is owed to the ultimate beneficiaries."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Elana Paralova, a Level I CFA candidate working at an asset management firm, wants to make a good impression on a prospective client. She tells the prospect: \"Getting the CFA Charter will show I am serious about protecting the interests of my clients and it will boost my reputation. Once I get the Charter, I also hope to make more money by getting promoted!\" Her colleague, Jacob Klemmer, CFA, tells Paralova: \"Study all subjects for each exam, you never know what will be included. The three exams will be the most difficult exams you will ever take. Any promotion and pay raise will reflect your enhanced skills.\" Did either Paralova or Klemmer violate the Standards?\nCorrect answer:",
+        "options": [
+            "No.",
+            "Only Paralova violates the Standards.",
+            "Only Klemmer violates the Standards."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because neither Paralova or Klemmer violated CFA Standards through their statements. Paralova did not violate Standard VII(B) Reference to CFA Institute, the CFA Designation, and the CFA Program when she made her comments about what getting the Charter will reflect and the hope for a pay raise. The Standard states, When referring to CFA Institute, CFA Institute membership, the CFA designation, or candidacy in the CFA Program, Members and Candidates must not misrepresent or exaggerate the meaning or implications of membership in CFA Institute, holding the CFA designation, or candidacy in the CFA program. Klemmer did not violate Standard VII (B) Reference to CFA Institute, the CFA Designation, and the CFA Program when he expressed his opinion that Paralova's potential pay raise will reflect her enhanced skills. Klemmer also complied with Standard VII(A) Responsibilities as a CFA Institute Member or CFA Candidate, Conduct as Participants in CFA Institute Programs when stating an opinion about the difficulty of the exam without revealing any specific details or the need to study all subjects. The Standard states that candidates must not engage in any conduct that compromises the integrity, validity, or security of CFA Institute programs."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Jayson Kite, CFA, a senior analyst, is preparing a research report on a shipping company. Kite concludes that the stock of a company is a good investment and decides to put a \"buy\" recommendation on the stock. According to the recommended procedures for compliance, Kite should communicate the recommendation:",
+        "options": [
+            "within the firm first and then to customers.",
+            "to customers first and then within the firm.",
+            "simultaneously within the firm and to customers."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the recommended procedures for compliance with Standard III (B), Fair Dealing, a common practice to assure fair dealing is to communicate recommendations simultaneously within the firm and to customers. Members and candidates should encourage firms to develop guidelines that prohibit personnel who have prior knowledge of an investment recommendation from discussing or taking any action on the pending recommendation. Members and candidates should encourage firms to develop guidelines that prohibit personnel who have prior knowledge of an investment recommendation from discussing or taking any action on the pending recommendation."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM3 - Guidance for Standards I–VII",
+        "text": "Tim Howley, CFA, \"pumps up\" the price of a security by spreading misleading information and later \"dumps\" the security after the price reaches an artificially high level. Howley has most likely violated the Standard relating to:",
+        "options": [
+            "market manipulation.",
+            "independence and objectivity.",
+            "material nonpublic information."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to the Standard II(B), market manipulation includes (1) the dissemination of false or misleading information. Also, information-based manipulation includes, but is not limited to, spreading false rumors to induce trading by others. For example, members and candidates must refrain from \"pumping up\" the price of an investment by issuing misleading positive information or overly optimistic projections of a security's worth only to later \"dump\" the investment (i.e., sell it) once the price, fueled by the misleading information's effect on other market participants, reaches an artificially high level."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following statements regarding the GIPS standards is accurate?",
+        "options": [
+            "All fee-paying client portfolios must be included in at least one composite",
+            "All portfolios with the same investment mandate are aggregated into a composite",
+            "Aggregation of portfolios into composites is based on the actual performance of the portfolios every year"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to the GIPS standards, A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following comments concerning composites meeting the requirements of the GIPS standards is correct?",
+        "options": [
+            "A firm's claim of compliance requires all fee-paying accounts managed by the firm be included in at least one composite",
+            "The requirement to create, use and maintain composites is designed to prevent firms using the best-performing accounts to represent an investment strategy",
+            "A composite must include all actual, fee-paying, discretionary and non-discretionary portfolios managed in accordance with the same investment mandate, objective, or strategy"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because one of the key concepts of the standards is the required use of composites. A composite is an aggregation of one or more portfolios managed according to a similar investment mandate, objective, or strategy. The requirement to create, use and maintain composites is designed to prevent firms from cherry-picking—using the best-performing accounts to represent the performance of an investment strategy."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following statements describe the key concepts of the GIPS standards?\n• Statement 1: The GIPS standards are ethical standards to ensure full disclosure of investment performance\n• Statement 2: The GIPS standards require firms to maintain composites for all strategies for which the firm manages discretionary and nondiscretionary accounts\n• Statement 3: The GIPS standards address all aspects of performance measurement",
+        "options": [
+            "Statement 1",
+            "Statement 2",
+            "Statement 3"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct GIPS standards are ethical standards for investment performance presentation to ensure fair representation and full disclosure of investment performance. So, Statement 1 is a key concept of the GIPS standards."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "A firm claiming compliance with GIPS standards is required to:",
+        "options": [
+            "perform verification of the firm's claim of compliance.",
+            "maintain its compliance even after the firm has been verified by an independent third party.",
+            "determine selection criteria regarding which existing portfolios to include in a composite at the end of the reporting period."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because firms that claim compliance with the GIPS standards are responsible for their claim of compliance and for maintaining that compliance. That is, firms self-regulate their claim of compliance. Therefore, including when compliance is verified by an independent third party, the firm is always responsible for maintaining that compliance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "With respect to the GIPS standards, which of the following statements is most accurate? Verification:",
+        "options": [
+            "of GIPS compliance is mandatory if the firm claims GIPS compliance.",
+            "is performed by the firm when self-regulating and certifying its claim of compliance.",
+            "tests whether the firm's processes are designed to present performance results in compliance with the GIPS standards."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to GIPS, Verification is a process by which an independent verification firm (verifier) conducts testing of a firm on a firm-wide basis in accordance with the required verification procedures of the GIPS standards. Verification provides assurance on whether the firm's policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "According to the GIPS standards, verification is:",
+        "options": [
+            "performed with respect to an entire firm.",
+            "performed by a firm's compliance department.",
+            "mandatory for firms that claim compliance with the GIPS standards."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because according to the GIPS standards, verification is performed with respect to an entire firm, not on specific composites or pooled funds."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "The objectives of the GIPS standards include:",
+        "options": [
+            "promoting financial regulators' interests.",
+            "promoting industry self-regulation on a global basis.",
+            "obtaining acceptance of multiple local standards for accurate performance presentation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because one of the objectives of the GIPS standards is to promote industry self-regulation on a global basis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "According to the GIPS standards, verification must be performed:",
+        "options": [
+            "with respect to an entire firm.",
+            "on specific composites of a firm.",
+            "by a firm's compliance department."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because verification is performed with respect to an entire firm, not on specific composites or pooled funds."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Asset managers are most likely required to do which of the following as part of their adherence to the GIPS standards?",
+        "options": [
+            "Adhere to certain calculation methodologies",
+            "Only follow the minimum GIPS requirements at the time of composite creation",
+            "Include all non-discretionary funds in at least one composite reflecting the investment mandate"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct, because the GIPS standards rely on the integrity of input data, the quality of which is critical to creating accurate performance presentations. The underlying valuations of portfolio holdings drive performance. It is essential for these and other inputs to be accurate. The GIPS standards require firms to adhere to certain calculation methodologies to allow for comparability across firms."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following statements is most accurate? Compliance with the GIPS standards:",
+        "options": [
+            "by firms eliminates the need for in-depth due diligence by investors.",
+            "enables firms to participate in competitive bids against other GIPS-compliant firms.",
+            "is mandatory for firms conducting business in countries that do not have regulations relating to investment performance presentation."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because compliance enables the GIPS-compliant firm to participate in competitive bids against other compliant firms throughout the world."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following is not a key concept of the GIPS standards? The GIPS standards for firms:",
+        "options": [
+            "require the use of composites.",
+            "rely on the integrity of input datA.",
+            "address every aspect of performance measurement."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because according to the GIPS standards, the GIPS standards do not address every aspect of performance measurement. Therefore, it is not a key concept of the GIPS standards to address every aspect of performance measurement."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Verification provides assurance that which of the following have been designed in compliance with the GIPS standards?",
+        "options": [
+            "Only the calculation and presentation of the firm's performance",
+            "Only the firm's policies related to composite and pooled fund maintenance",
+            "Both the calculation and presentation of the firm's performance, and the firm's policies related to composite and pooled fund maintenance"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because verification provides assurance on whether the firm's policies and procedures related to composite and pooled fund maintenance, as well as the calculation, presentation, and distribution of performance, have been designed in compliance with the GIPS standards and have been implemented on a firm-wide basis."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "According to the GIPS standards, verification:",
+        "options": [
+            "is performed on a firm-wide basis.",
+            "must be performed by a firm's compliance department.",
+            "ensures the accuracy of specific composite presentations."
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because verification is performed with respect to an entire firm, not on specific composites."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "A firm claiming compliance with the GIPS standards must:",
+        "options": [
+            "state that its calculation methodology is in accordance with the GIPS standards.",
+            "disclose for which firm assets only partial compliance with the GIPS standards is achieved.",
+            "document policies and procedures used in establishing compliance with the GIPS standards."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Correct because the Fundamentals of Compliance of the GIPS standards state that the FIRM MUST document its policies and procedures used in establishing and maintaining compliance with the REQUIREMENTS of the GIPS standards, as well as any RECOMMENDATIONS it has chosen to adopt, and apply them consistently."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "According to the GIPS standards, which of the following statements is correct?\n• Statement 1: When local regulations conflict with the GIPS standards, firms are required to comply with the GIPS standards if the conflict relates to composite construction.\n• Statement 2: When local regulations conflict with the GIPS standards for performance presentation, firms are required to comply with local regulation.",
+        "options": [
+            "Statement 1 only",
+            "Statement 2 only",
+            "Both Statement 1 and Statement 2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to the GIPS standards, in cases in which laws and/or regulations conflict with the GIPS standards, firms are required to comply with the laws and regulations and make full disclosure of the conflict in the GIPS Report."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "A firm has been in existence for seven years. In order to comply with the GIPS standards, the minimum number of years of GIPS-compliant performance data the firm is initially required to present is:",
+        "options": [
+            "three years.",
+            "five years.",
+            "seven years."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the GIPS standards state that a firm is required to initially present, at a minimum, five years of annual investment performance that is compliant with the GIPS standards. If the composite or pooled fund has been in existence less than five years, the firm must present performance since the composite or pooled fund inception date. Prospectively, the firm must present an additional year of performance each year, building up to a minimum of 10 years of GIPS-compliant performance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "The GIPS standards most likely:",
+        "options": [
+            "assure prospective clients of the accuracy of a firm's reported investment performance.",
+            "help prospective clients consider all relevant information in order to evaluate a firm's past investment performance.",
+            "require investment firms to disclose to prospective clients in a standardized form their own methodologies for calculating performance."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to GIPS standards, institutions and individuals are constantly scrutinizing past investment performance returns in search of the best manager to achieve their investment objectives. Further, the GIPS standards ensure fair representation and full disclosure of investment performance. In other words, the GIPS standards lead investment management firms to avoid misrepresentations of performance and to communicate all relevant information that prospective clients should know in order to evaluate past results. Therefore, the GIPS standards help prospective clients consider all relevant information in order to evaluate a firm's past investment performance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following can claim compliance with the GIPS standards?\nCorrect answer:",
+        "options": [
+            "Only asset owners",
+            "Only software vendors that assist firms in claiming compliance with the GIPS standards",
+            "Both asset owners and software vendors that assist firms in claiming compliance with the GIPS standards"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Correct because asset owners may comply with the GIPS standards in the same way as firms if they compete for business. If they don't compete for business but report their performance to an oversight body, asset owners may choose to comply with the GIPS standards for asset owners. Therefore, asset owners can claim compliance with the GIPS standards."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "Which of the following statements is accurate?\n• Statement 1: Compliance with the GIPS standards eliminates the need for an investor to conduct in-depth due diligence of an investment management firm\n• Statement 2: Compliance with the GIPS standards by external managers facilitates understanding of risk and return sources of funds supervised by an asset owner",
+        "options": [
+            "Statement 1 only",
+            "Statement 2 only",
+            "Both Statement 1 and Statement 2"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the GIPS standards benefit asset managers and their prospective clients and asset owners and their oversight bodies. Particularly, where asset owners require their external managers to comply with the GIPS standards, reporting to the oversight body using the same principles facilitates the understanding of the sources of risk and excess return in the funds under supervision. Therefore, Statement 2 is accurate."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "After a 3-year-old firm has presented a minimum of three years of GIPS-compliant performance, the GIPS standards require the firm to present an additional year of performance each year until the firm reports a minimum of:",
+        "options": [
+            "five years.",
+            "seven years.",
+            "ten years."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because the GIPS standards state that a firm is required to initially present, at a minimum, five years of annual investment performance that is compliant with the GIPS standards. If the composite or pooled fund has been in existence less than five years, the firm must present performance since the composite or pooled fund inception date. Prospectively, the firm must present an additional year of performance each year, building up to a minimum of ten years of GIPS-compliant performance."
+    },
+    {
+        "source": "Premium Pack 2026",
+        "subject": "Ethical and Professional Standards",
+        "lm": "LM4 - Introduction to GIPS",
+        "text": "An investment firm manages a $200 million composite to a small-cap growth style. The firm sells $50 million of these managed assets to a competing money manager. In order to remain in compliance with the GIPS standards, the firm must:",
+        "options": [
+            "exclude the $50 million from the firm's historical performance.",
+            "continue to include the $50 million in the firm's historical performance until the assets were sold.",
+            "show the historical performance of the $50 million separately from the firm's historical performance of the remaining $150 million."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Correct because according to GIPS standards, changes in the FIRM'S organization must not lead to alteration of historical performance. Therefore, the firm must continue to include the $50 million in the firm's historical performance."
     }
 ];
