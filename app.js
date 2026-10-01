@@ -268,7 +268,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v42-fix-dupes';
+        const SEED_VERSION = 'v43-split-sources';
         const seeded = localStorage.getItem('cfaSeedVersion');
         
         if (seeded !== SEED_VERSION) {
@@ -287,7 +287,7 @@ const app = {
             const existingQ = await db.questions.toArray();
             
             if (existingQ.length === 0) {
-                await db.questions.bulkAdd(SAMPLE_QUESTIONS);
+                await db.questions.bulkAdd(window.ALL_QUESTIONS);
             } else {
                 const existingMap = new Map();
                 for (const q of existingQ) existingMap.set(q.text + '|' + (q.mockName || ''), q);
@@ -295,7 +295,7 @@ const app = {
                 const toAdd = [];
                 const toUpdate = [];
                 
-                for (const sq of SAMPLE_QUESTIONS) {
+                for (const sq of window.ALL_QUESTIONS) {
                     const eq = existingMap.get(sq.text + '|' + (sq.mockName || ''));
                     if (!eq) {
                         toAdd.push(sq);
@@ -330,7 +330,7 @@ const app = {
             
             localStorage.setItem('cfaSeedVersion', SEED_VERSION);
         } else if ((await db.questions.count()) === 0) {
-            await db.questions.bulkAdd(SAMPLE_QUESTIONS);
+            await db.questions.bulkAdd(window.ALL_QUESTIONS);
         }
     },
 
