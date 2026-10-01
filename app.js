@@ -3384,6 +3384,7 @@ Return ONLY a valid JSON array (no markdown). Each element:
         if(!confirm('Delete ALL questions and attempts? Cannot be undone!')) return;
         await db.questions.clear(); await db.attempts.clear();
         localStorage.removeItem('flaggedQuestions');
+        localStorage.removeItem('cfaSeedVersion');
         await this.seedSampleQuestions(); showToast('Database cleared','info');
         await this.renderSettings(document.getElementById('app-container'));
         await this.updateSidebarStats();
