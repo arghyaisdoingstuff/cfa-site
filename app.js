@@ -721,9 +721,9 @@ const app = {
                             <label class="block text-xs font-semibold text-slate-500 dark:text-zinc-400 dark:text-zinc-500 uppercase tracking-wide mb-2">Questions</label>
                             <select id="quiz-count" class="form-input w-36">
                                 <option value="5">5</option>
-                                <option value="10" selected>10</option>
+                                <option value="10">10</option>
                                 <option value="20">20</option>
-                                <option value="all">All available</option>
+                                <option value="all" selected>All available</option>
                             </select>
                         </div>
                         <div class="pt-6">
@@ -857,7 +857,7 @@ const app = {
         const allQ = window._quizAllQ || (await db.questions.toArray()).filter(q => !q.mockName);
         let q = this.applyFilters(allQ);
         if (!q.length) { showToast('No questions match your filters','error'); return; }
-        const cv = document.getElementById('quiz-count')?.value || '10';
+        const cv = document.getElementById('quiz-count')?.value || 'all';
         const n  = cv==='all' ? q.length : parseInt(cv);
         q.sort(()=>Math.random()-0.5);
         this.quizQueue      = q.slice(0,n);
