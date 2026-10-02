@@ -289,7 +289,7 @@ const app = {
             // Re-add all static questions fresh.
             await db.questions.bulkAdd(window.ALL_QUESTIONS);
             localStorage.setItem('cfaSeedVersion', SEED_VERSION);
-            console.log(`Seeded ${window.ALL_QUESTIONS.length} questions (v49).`);
+            console.log(`Seeded ${window.ALL_QUESTIONS.length} questions (${SEED_VERSION}).`);
         } else if ((await db.questions.count()) === 0) {
             // DB was wiped manually — reseed.
             await db.questions.bulkAdd(window.ALL_QUESTIONS);
@@ -1086,7 +1086,7 @@ const app = {
                 <!-- Question -->
                 <div class="flex-1 min-w-0">
                     <div class="flex items-center justify-between mb-3">
-                        <button onclick="app.navigate(app.isMock ? 'mocks' : 'quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to ${this.isMock ? 'Mocks' : 'setup'}</button>
+                        <button onclick="if(app.isMock && app.examAnswers.some(a=>a!==null) && !confirm('Leave this exam? Your progress is saved.')){return;} app.navigate(app.isMock ? 'mocks' : 'quiz')" class="text-xs text-slate-400 dark:text-zinc-500 hover:text-slate-600 dark:text-zinc-300">← Back to ${this.isMock ? 'Mocks' : 'setup'}</button>
                         <span class="text-sm text-slate-400 dark:text-zinc-500">${this.examAnswers.filter(a=>a!==null).length}/${this.quizQueue.length} answered</span>
                     </div>
                     <div class="stat-card relative" id="question-card">
@@ -1246,6 +1246,10 @@ const app = {
     },
 
     renderExamReview: async function(c) {
+        // Hide timer since exam is over
+        const td = document.getElementById('timer-display'); if(td){td.classList.add('hidden');td.classList.remove('flex');}
+        const pb = document.getElementById('topbar-pause'); if(pb) pb.style.display='none';
+        
         const wasMock       = this.isMock;
         const mockName      = this.currentMockName;
         const mockSession   = this.currentMockSession;
@@ -1382,6 +1386,10 @@ const app = {
     // SESSION SUMMARY (Practice mode)
     // ══════════════════════════════════════════
     renderSessionSummary: function(c) {
+        // Hide timer since session is over
+        const td = document.getElementById('timer-display'); if(td){td.classList.add('hidden');td.classList.remove('flex');}
+        const pb = document.getElementById('topbar-pause'); if(pb) pb.style.display='none';
+        
         const acc = this.sessionTotal>0?Math.round(this.sessionCorrect/this.sessionTotal*100):0;
         c.innerHTML = `<div class="max-w-md mx-auto text-center">
             <div class="stat-card">
@@ -1687,8 +1695,8 @@ Return ONLY a valid JSON array (no markdown). Each element:
 - "lm": LM name if determinable, else ""`;
         const parts=[{text:prompt}];
         imgs.forEach(img=>parts.push({inlineData:{mimeType:'image/jpeg',data:img}}));
-        const res=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`,
-            {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({contents:[{parts}],generationConfig:{temperature:0.1}})});
+        const res=await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent`,
+            {method:'POST',headers:{'Content-Type':'application/json','x-goog-api-key':apiKey},body:JSON.stringify({contents:[{parts}],generationConfig:{temperature:0.1}})});
         if(!res.ok){const e=await res.json();throw new Error(e.error?.message||'Gemini API error');}
         const data=await res.json();
         let raw=data.candidates[0].content.parts[0].text;
