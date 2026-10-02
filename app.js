@@ -237,6 +237,7 @@ const app = {
 
     // ── Quiz session state ──
     quizMode:       'practice',   // 'practice' | 'exam'
+    isQuizActive:   false,
     quizQueue:      [],
     quizIndex:      0,
     sessionCorrect: 0,
@@ -319,14 +320,26 @@ const app = {
     },
     
     toggleSidebar: function() { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(!s || !o) return; if(s.classList.contains("-translate-x-full")) { s.classList.remove("-translate-x-full"); o.classList.remove("hidden"); } else { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } },
+    updateTimerVisibility: function() {
+        const td = document.getElementById('timer-display');
+        const pb = document.getElementById('topbar-pause');
+        if (this.isQuizActive) {
+            if (td) { td.classList.remove('hidden'); td.classList.add('flex'); }
+            if (pb) pb.style.display = 'inline-flex';
+        } else {
+            if (td) { td.classList.add('hidden'); td.classList.remove('flex'); }
+            if (pb) pb.style.display = 'none';
+        }
+    },
+
     navigate: function (view) {
         this.currentView = view;
-        // Clear quiz cache when leaving the quiz tab so counts are always fresh
+        this.isQuizActive = false;
+        this.stopTimer();
         if (view !== 'quiz') window._quizAllQ = null;
         if(window.innerWidth < 768) { const s = document.getElementById("sidebar"); const o = document.getElementById("mobile-overlay"); if(s && o) { s.classList.add("-translate-x-full"); o.classList.add("hidden"); } }
         document.querySelectorAll('.nav-link').forEach(el =>
             el.classList.toggle('active', el.dataset.view === view));
-        if (view !== 'quiz') this.stopTimer();
         this.render();
     },
 
@@ -343,15 +356,7 @@ const app = {
         const [title, sub] = meta[this.currentView] || ['CFA Prep',''];
         document.getElementById('page-title').textContent    = title;
         document.getElementById('page-subtitle').textContent = sub;
-        const td  = document.getElementById('timer-display');
-        const pb  = document.getElementById('topbar-pause');
-        if (this.currentView === 'quiz') {
-            td.classList.remove('hidden'); td.classList.add('flex');
-            if (pb) pb.style.display = 'inline-flex';
-        } else {
-            td.classList.add('hidden'); td.classList.remove('flex');
-            if (pb) pb.style.display = 'none';
-        }
+        this.updateTimerVisibility();
 
         if      (this.currentView === 'dashboard') await this.renderDashboard(c);
         else if (this.currentView === 'mocks')     await this.renderMocks(c);
@@ -895,6 +900,8 @@ const app = {
     // ══════════════════════════════════════════
     renderPracticeQuestion: async function(c) {
         if (this.quizIndex >= this.quizQueue.length) { this.renderSessionSummary(c); return; }
+        this.isQuizActive = true;
+        this.updateTimerVisibility();
         const q = this.quizQueue[this.quizIndex];
         this.currentQuestion = q;
         this.elapsedSeconds  = 0;
@@ -1080,6 +1087,8 @@ const app = {
             }
             return; 
         }
+        this.isQuizActive = true;
+        this.updateTimerVisibility();
         const q       = this.quizQueue[this.quizIndex];
         this.currentQuestion = q;
         if (!this.timerInterval && !this.isPaused) this.startTimer();
@@ -1251,9 +1260,8 @@ const app = {
     },
 
     renderExamReview: async function(c) {
-        // Hide timer since exam is over
-        const td = document.getElementById('timer-display'); if(td){td.classList.add('hidden');td.classList.remove('flex');}
-        const pb = document.getElementById('topbar-pause'); if(pb) pb.style.display='none';
+        this.isQuizActive = false;
+        this.updateTimerVisibility();
         
         const wasMock       = this.isMock;
         const mockName      = this.currentMockName;
@@ -1391,9 +1399,8 @@ const app = {
     // SESSION SUMMARY (Practice mode)
     // ══════════════════════════════════════════
     renderSessionSummary: function(c) {
-        // Hide timer since session is over
-        const td = document.getElementById('timer-display'); if(td){td.classList.add('hidden');td.classList.remove('flex');}
-        const pb = document.getElementById('topbar-pause'); if(pb) pb.style.display='none';
+        this.isQuizActive = false;
+        this.updateTimerVisibility();
         
         const acc = this.sessionTotal>0?Math.round(this.sessionCorrect/this.sessionTotal*100):0;
         c.innerHTML = `<div class="max-w-md mx-auto text-center">
@@ -1463,6 +1470,7 @@ const app = {
     },
 
     togglePause: function() {
+        if (!this.isQuizActive) return;
         if (this.isPaused) {
             // Resume
             this.isPaused       = false;
@@ -1514,7 +1522,7 @@ const app = {
     setupKeyboardShortcuts: function() {
         document.addEventListener('keydown', e => {
             if (['INPUT','SELECT','TEXTAREA'].includes(e.target.tagName)) return;
-            if (this.currentView !== 'quiz') return;
+            if (!this.isQuizActive) return;
             const k = e.key.toLowerCase();
 
             // Pause / resume
