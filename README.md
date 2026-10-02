@@ -7,7 +7,7 @@ A high-performance, local-first web application designed for candidates preparin
 ## ✨ Features & Functionality
 
 ### 📚 Extensive Question Bank
-* **Curriculum Coverage:** Covers all 10 topic areas aligned with the 2026 CFA Level I curriculum (Ethical & Professional Standards, Quantitative Methods, Economics, FSA, Corporate Issuers, Equity, Fixed Income, Derivatives, Alternative Investments, and Portfolio Management).
+* **Curriculum Coverage:** Covers all 10 topic areas aligned with the 2026 CFA Level I curriculum (Ethical & Professional Standards, Quantitative Methods, Economics, Financial Statement Analysis, Corporate Issuers, Equity Investments, Fixed Income, Derivatives, Alternative Investments, and Portfolio Management).
 * **Learning Module (LM) Mapping:** Filter and track progress down to specific Learning Modules (LM1–LM16).
 * **6 Full-Length Mock Exams:** Simulated 2-session exam experiences with saved state resumption, persistent timers, and question navigators.
 
@@ -19,10 +19,6 @@ A high-performance, local-first web application designed for candidates preparin
   * <kbd>Enter</kbd> / <kbd>→</kbd> — Confirm / Next question
   * <kbd>P</kbd> — Pause / resume session timer
   * <kbd>F</kbd> — Flag question for review
-
-### 🤖 Gemini AI Question Ingestion
-* **PDF & Image Extraction:** Drag-and-drop exam PDFs or screenshots to automatically parse multiple-choice questions, options, correct answers, and explanations using the Google Gemini 1.5 Flash API.
-* **Bring Your Own Key (BYOK):** Gemini API keys are stored exclusively in your local browser cache (`localStorage`) and sent via secure headers (`x-goog-api-key`).
 
 ### 📊 Performance Analytics
 * **Interactive Dashboard:** Powered by Chart.js for visualizing topic-wise accuracy, correct/incorrect splits, time per question, and consecutive study day streaks.
@@ -41,12 +37,11 @@ A high-performance, local-first web application designed for candidates preparin
 | :--- | :--- | :--- |
 | **Frontend** | HTML5, Vanilla JS (ES6+), Tailwind CSS | Zero-dependency, sub-millisecond DOM rendering |
 | **Storage** | Dexie.js (IndexedDB) + `localStorage` | Client-side database for questions, attempts, and state |
-| **AI Ingestion** | Google Gemini 1.5 Flash API + PDF.js | Automated parsing of unstructured PDF/image exam sheets |
 | **Edge Security** | Cloudflare Pages Middleware | Edge-level IP/subnet filtering (`functions/_middleware.js`) |
 
 ### Security Model
 * **Zero Backend Database:** There is no centralized server or user database. Your study data cannot be leaked or breached online.
-* **Header-Based Authentication:** API calls to Gemini bypass query parameters to keep API keys out of URL logs, browser history, and CDN edge traces.
+* **Client-Side Storage:** Practice attempt statistics and flagged questions exist strictly within your browser's local storage.
 
 ---
 
