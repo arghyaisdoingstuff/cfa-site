@@ -495,6 +495,9 @@ const app = {
     calcStreak: function(attempts) {
         if (!attempts.length) return 0;
         const days = [...new Set(attempts.map(a=>new Date(a.timestamp).toDateString()))].sort((a,b)=>new Date(b)-new Date(a));
+        const today = new Date().toDateString();
+        const yesterday = new Date(Date.now() - 86400000).toDateString();
+        if (days[0] !== today && days[0] !== yesterday) return 0;
         let streak=1;
         for (let i=1;i<days.length;i++) {
             if (Math.round((new Date(days[i-1])-new Date(days[i]))/86400000)===1) streak++; else break;
@@ -634,7 +637,9 @@ const app = {
             try {
                 const s = JSON.parse(saved);
                 this.quizIndex = s.quizIndex || 0;
-                this.examAnswers = s.examAnswers || new Array(this.quizQueue.length).fill(null);
+                let loadedAnswers = Array.isArray(s.examAnswers) ? s.examAnswers : [];
+                while (loadedAnswers.length < this.quizQueue.length) loadedAnswers.push(null);
+                this.examAnswers = loadedAnswers;
                 this.elapsedSeconds = s.elapsedSeconds || 0;
             } catch (e) {
                 this.quizIndex = 0;
@@ -1121,8 +1126,8 @@ const app = {
                     </div>
                     <!-- Nav buttons -->
                     <div class="flex justify-between mt-4">
-                        <button onclick="app.examNavigate(${this.quizIndex-1})" ${this.quizIndex===0?'disabled':''} class="px-4 py-2 text-sm font-semibold border border-slate-200 dark:border-zinc-800 rounded-xl hover:bg-slate-50 dark:bg-zinc-900 disabled:opacity-40 disabled:cursor-not-allowed">← Prev</button>
-                        <button onclick="app.examNavigate(${this.quizIndex+1})" class="px-4 py-2 text-sm font-semibold border border-slate-200 dark:border-zinc-800 rounded-xl hover:bg-slate-50 dark:bg-zinc-900">
+                        <button onclick="app.examNavigate(${this.quizIndex-1})" ${this.quizIndex===0?'disabled':''} class="px-4 py-2 text-sm font-semibold border border-slate-200 dark:border-zinc-800 rounded-xl hover:bg-slate-50 dark:bg-zinc-900 text-slate-700 dark:text-zinc-200 hover:text-slate-900 dark:hover:text-white disabled:opacity-40 disabled:cursor-not-allowed">← Prev</button>
+                        <button onclick="app.examNavigate(${this.quizIndex+1})" class="px-4 py-2 text-sm font-semibold border border-slate-200 dark:border-zinc-800 rounded-xl hover:bg-slate-50 dark:bg-zinc-900 text-slate-700 dark:text-zinc-200 hover:text-slate-900 dark:hover:text-white">
                             ${this.quizIndex+1<this.quizQueue.length?'Next →':'Submit Exam →'}
                         </button>
                     </div>
@@ -1809,8 +1814,8 @@ Return ONLY a valid JSON array (no markdown). Each element:
                         
                         let correctStr = getVal(['correct answer', 'correct', 'answer']).toString().trim().toUpperCase();
                         let correctIdx = 0;
-                        if (correctStr === 'B' || correctStr === '1') correctIdx = 1;
-                        if (correctStr === 'C' || correctStr === '2') correctIdx = 2;
+                        if (correctStr.includes('B') || correctStr.includes('1')) correctIdx = 1;
+                        else if (correctStr.includes('C') || correctStr.includes('2')) correctIdx = 2;
                         
                         let mockName = getVal(['mock', 'mock name', 'mock_name']);
                         let sessionStr = getVal(['session']).toString();
@@ -1883,6 +1888,7 @@ Return ONLY a valid JSON array (no markdown). Each element:
                 showToast('Data imported','success');
                 await this.renderSettings(document.getElementById('app-container'));
             } catch{ showToast('Error reading backup file','error'); }
+            event.target.value = '';
         };
         reader.readAsText(file);
     },
