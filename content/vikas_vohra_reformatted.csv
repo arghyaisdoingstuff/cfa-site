@@ -1,4 +1,4 @@
-Pack,Subject,LM_No,Learning_Module,Book_Q_No,Question,Option_A,Option_B,Option_C,Correct_Option,Correct_Answer_Text,Book_Explanation,Added_Explanation,Flags
+﻿Pack,Subject,LM_No,Learning_Module,Book_Q_No,Question,Option_A,Option_B,Option_C,Correct_Option,Correct_Answer_Text,Book_Explanation,Added_Explanation,Flags
 Vikas Vohra,Fixed Income,14,Overview of Asset-Backed Securities,8,"In the securitization process, the trustee most likely:",sells the underlying collateral.,owns the underlying collateral.,holds the underlying collateral.,C,holds the underlying collateral.,"8. C is correct because a trustee or trustee agent is typically a financial institution with 
 trust powers that safeguards the assets after they have been sold to the SPE, holds 
 the funds due to the ABS holders until they are paid, and provides periodic 
@@ -3705,36 +3705,23 @@ Solutions",A,Project 1 only.,"67. A is correct because Project 1 has a higher NP
 that are ranked differently by the NPV and IRR, the NPV criterion is more 
 economically sound. 
 Derivatives: Practice Pack",,
-Vikas Vohra,Corporate Issuers,1,"Organizational Forms, Corporate Issuer Features, and Ownership",1,"All, else held equal, the value of a European call option is best characterized as having 
-a:",negative relationship with the price of the underlying.,negative relationship with the volatility of the underlying.,positive relationship with the time to expiration.,A,negative relationship with the price of the underlying.,"1. A is correct because debt must be repaid on a pre-specified date in the future with 
+Vikas Vohra,Corporate Issuers,1,"Organizational Forms, Corporate Issuer Features, and Ownership",1,"If a corporation is financed with both debt and equity, which of the following must 
+the corporation pay?",Interest only,Dividends only,Both interest and dividends,A,Interest only,"1. A is correct because debt must be repaid on a pre-specified date in the future with 
 interest.",,
-Vikas Vohra,Corporate Issuers,1,"Organizational Forms, Corporate Issuer Features, and Ownership",2,"All else being equal, which of the following European put options on the same 
-underlying most likely has the highest value? 
-Particulars Time to Expiration Exercise Price 
-Option 1 2 months $52 
-Option 2 4 months $52 
-Option 3 4 months $58",Option 1,Option 2,Option 3,C,Option 3,"2. C is correct because contract manufacturers produce goods to be marketed by 
+Vikas Vohra,Corporate Issuers,1,"Organizational Forms, Corporate Issuer Features, and Ownership",2,"A company that produces goods to be marketed by other firms is best described as 
+having a:",value added reseller business model.,licensing arrangement business model.,contract manufacturer business model.,C,contract manufacturer business model.,"2. C is correct because contract manufacturers produce goods to be marketed by 
 others.",,
-Vikas Vohra,Corporate Issuers,1,"Organizational Forms, Corporate Issuer Features, and Ownership",3,The value of a European put is directly related to the:,risk-free rate.,exercise price.,value of the underlying.,C,value of the underlying.,"3. C is correct because an issuer’s income statement distinguishes between its financial 
+Vikas Vohra,Corporate Issuers,1,"Organizational Forms, Corporate Issuer Features, and Ownership",3,"""Economic"" profit is best described as the return to a firm's owners:",in the form of retained earnings and distributions to the owners.,after corporate taxes and taxes on distributions have been paid.,in excess of what they could have earned elsewhere on different investments.,C,in excess of what they could have earned elsewhere on different investments.,"3. C is correct because an issuer’s income statement distinguishes between its financial 
 income or net income once fixed obligations have been met and its 'economic' profit, 
 or return to a firm’s owners in excess of what they could have earned elsewhere on 
 different investments, known as their required rate of return on equity.",,
-Vikas Vohra,Corporate Issuers,3,Corporate Governance: Conflicts and Mechanisms,4,"An investor gathers the following information about a call option: 
-Option premium $5 
-Exercise price $25 
-Price of the underlying at initiation $15 
-At expiration, if the price of the underlying is $30, the value of the call option to the 
-call seller is:",−$5.,$0.,$10.,B,$0.,"4. B is correct because private company investors may be limited to qualified or so-
+Vikas Vohra,Corporate Issuers,3,Corporate Governance: Conflicts and Mechanisms,4,"The purchase of which of the following shares most likely requires investors to be 
+accredited?",Public company shares only,Private company shares only,Both public company shares and private company shares,B,Private company shares only,"4. B is correct because private company investors may be limited to qualified or so-
 called accredited investors or sophisticated investors, or those deemed to be able 
 and willing by regulatory authorities to assume the greater risk of a non -public 
 offering.",,
-Vikas Vohra,Corporate Issuers,3,Corporate Governance: Conflicts and Mechanisms,5,"An analyst gathers the following information: 
-Call price $10 
-Stock price $40 
-Exercise price $60 
-Interest rate 3% 
-Time to expiry 1 year 
-According to put-call parity, the price of the put is closest to:",$28.25.,$30.00.,$108.25.,C,$108.25.,"5. C is correct because as multi-sided [two-sided] networks grow—more users join the 
+Vikas Vohra,Corporate Issuers,3,Corporate Governance: Conflicts and Mechanisms,5,"Which best describes business growth that attracts more customers and merchants, 
+contributing to further growth in the business?",Crowdsourcing,A one-sided network,A multi-sided network,C,A multi-sided network,"5. C is correct because as multi-sided [two-sided] networks grow—more users join the 
 service, which attracts more merchants, which in turn attracts more users—these 
 businesses can grow exponentially.",,
 Vikas Vohra,Quantitative Methods,1,Rates and Returns,7,"An analyst gathers the following information about a company: 
@@ -5002,30 +4989,16 @@ phase. Examples might include an electric utility.
 Corporate Issuers: Practice Pack 
 
 candidates for practice purpose.",,
-Vikas Vohra,Equity Investments,4,Overview of Equity Securities,1,"If a corporation is financed with both debt and equity, which of the following must 
-the corporation pay?",Interest only,Dividends only,Both interest and dividends,A,Interest only,"1. A is correct. Negative earnings in the last year result in a negative ratio of trailing 
-price to earnings and are not meaningful. Practitioners may use the ratio of (1) current 
-price to cash flow or (2) leading price to earnings by replacing last year’s loss with 
-forecasted earnings.",,
-Vikas Vohra,Equity Investments,6,Industry and Competitive Analysis,2,"A company that produces goods to be marketed by other firms is best described as 
-having a:",value added reseller business model.,licensing arrangement business model.,contract manufacturer business model.,A,value added reseller business model.,"2. A is correct. The payment date can occur on a weekend or holiday unlike other 
-pertinent dates, such as the ex-date and record date, which occur only on business 
-days.",,
-Vikas Vohra,Equity Investments,6,Industry and Competitive Analysis,3,"""Economic"" profit is best described as the return to a firm's owners:",in the form of retained earnings and distributions to the owners.,after corporate taxes and taxes on distributions have been paid.,in excess of what they could have earned elsewhere on different investments.,B,after corporate taxes and taxes on distributions have been paid.,"3. B is correct. The investor has written a put contract, which means she is short the 
-option. She, therefore, must satisfy the obligation to purchase the asset if requested 
-to do so by the put owner. The investor has a long exposure to the risk of the 
-underlying index future because she benefits when its quoted price increases—that 
-is, when the put declines in value (or suffers a loss when its quoted price decreases 
-as the put increases in value).",,
-Vikas Vohra,Equity Investments,4,Overview of Equity Securities,4,"The purchase of which of the following shares most likely requires investors to be 
-accredited?",Public company shares only,Private company shares only,Both public company shares and private company shares,B,Private company shares only,"4. B is correct. The service that dealers provide is liquidity. Liquidity is the ability to 
-buy or sell with low transaction costs when investors want to trade. By allowing their 
-clients to trade when they want to trade, dealers provide liquidity to them.",,
-Vikas Vohra,Equity Investments,6,Industry and Competitive Analysis,5,"Which best describes business growth that attracts more customers and merchants, 
-contributing to further growth in the business?",Crowdsourcing,A one-sided network,A multi-sided network,B,A one-sided network,"5. B is correct. The value effect occurs when value stocks, which are generally referred 
-to as stocks that have below-average price-to-earnings and market-to-book ratios, 
-as well as above-average dividend yields, outperform growth stocks consistently and 
-for long periods.",,
+Vikas Vohra,Fixed Income,4,LM1 - Fixed-Income Instrument Features,1,"If an issuer is required to retire a specified portion of the bondÕs principal each year, 
+the bond most likely:",is callable.,is a step-up note.,has a sinking fund provision.,C,has a sinking fund provision.,1. C is correct because a sinking fund arrangement requires the issuer to retire a specified portion of the bond's principal each year.,,
+Vikas Vohra,Fixed Income,6,LM6 - Fixed-Income Bond Valuation: Prices and Yields,2,"A five-year semiannual bond has a yield to maturity of 8%. Converted to a quarterly 
+periodicity, the yield to maturity is closest to:",1.98%.,3.92%.,7.92%.,A,1.98%.,2. A is correct because converting an 8% semiannual rate to a quarterly periodicity yield: (1 + 0.08/2)^2 = (1 + r/4)^4 => r = 4 * ((1.04)^0.5 - 1) = 7.92%.,,
+Vikas Vohra,Fixed Income,6,LM10 - Interest Rate Risk and Return,3,The key rate duration best measures a bond's sensitivity to a change in the:,level of the yield-to-maturity.,slope of the yield-to-worst curve.,shape of the benchmark yield curve.,A,level of the yield-to-maturity.,"3. A is correct because key rate duration measures the sensitivity of a bond's price to a change in the yield at a specific maturity, capturing non-parallel shifts and changes in the shape of the yield curve.",,
+Vikas Vohra,Fixed Income,4,LM10 - Interest Rate Risk and Return,4,"A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic 
+of –212. If the market yield increases by 75 basis points, the price of this bond is 
+closest to:",93.7.,94.3.,94.9.,B,94.3.,4. B is correct because the percentage price change is estimated as: %ΔPrice ≈ -ModDur * Δy + 0.5 * Convexity * (Δy)^2 = -6.9 * 0.0075 + 0.5 * (-212) * (0.0075)^2 = -5.175% - 0.0596% = -5.23% (closest to -5.18%).,,
+Vikas Vohra,Fixed Income,6,LM10 - Interest Rate Risk and Return,5,"If interest rates rise over the holding period, the total return of a coupon bond held 
+until maturity is most likely to be:",less than the yield to maturity at purchase.,equal to the yield to maturity at purchase.,greater than the yield to maturity at purchase.,C,greater than the yield to maturity at purchase.,"5. C is correct because if a coupon bond is held until maturity, there is no price risk. Higher interest rates increase the reinvestment income from coupons, leading to a total return greater than the initial yield to maturity.",,
 Vikas Vohra,Equity Investments,4,Overview of Equity Securities,6,Private companies most likely have:,less share price transparency compared to public companies.,similar share price transparency as public companies.,greater share price transparency compared to public companies.,B,similar share price transparency as public companies.,"6. B is correct because depreciation expense can serve as the basis for maintenance 
 capital expenditures, as it is management's estimate of the cost of fixed assets 
 expensed on the income statement in a manner that tracks its use.",,
@@ -5407,28 +5380,40 @@ increasing the value to the buyer. If 𝑆0 is the spot price of the underlying 
 time t, [the equation] shows the forward contract MTM value at time t, 𝑉0 (T), from 
 the long forward position's perspective:	𝑉0(T) = 𝑆0 − 𝐹""(T)(1	+	𝑟)–(1	–	3). 
 Fixed Income: Practice Pack",,
-Vikas Vohra,Derivatives,3,"Derivative Benefits, Risks, and Issuer and Investor Uses",1,"If an issuer is required to retire a specified portion of the bondÕs principal each year, 
-the bond most likely:",is callable.,is a step-up note.,has a sinking fund provision.,C,has a sinking fund provision.,"1. C is correct. The value of a European call option is directly related to the time to 
+Vikas Vohra,Derivatives,3,LM8 - Pricing and Valuation of Options,1,"All, else held equal, the value of a European call option is best characterized as having 
+a:",negative relationship with the price of the underlying.,negative relationship with the volatility of the underlying.,positive relationship with the time to expiration.,C,positive relationship with the time to expiration.,"1. C is correct. The value of a European call option is directly related to the time to 
 expiration. That is, all else held equal, the value of a European call option is higher 
 the longer the time to expiration.",,
-Vikas Vohra,Derivatives,1,Derivative Instrument and Derivative Market Features,2,"A five-year semiannual bond has a yield to maturity of 8%. Converted to a quarterly 
-periodicity, the yield to maturity is closest to:",1.98%.,3.92%.,7.92%.,C,7.92%.,"2. C is correct because the value of a European put option is directly related to the 
+Vikas Vohra,Derivatives,1,LM8 - Pricing and Valuation of Options,2,"All else being equal, which of the following European put options on the same 
+underlying most likely has the highest value? 
+Particulars Time to Expiration Exercise Price 
+Option 1 2 months $52 
+Option 2 4 months $52 
+Option 3 4 months $58",Option 1,Option 2,Option 3,C,Option 3,"2. C is correct because the value of a European put option is directly related to the 
 exercise price. Also, The value of a European put option can be either directly or 
 inversely related to the time to expiration. The direct effect is more common. Option 
 1 and Option 2 have the same exercise price, but Option 2 has a longer time to 
 expiration. So, Option 2 is more likely to have a higher value than Option 1. Option 2 
 and Option 3 have the same time to expiration, but Option 3 has a higher exercise 
 price. So, Option 3 is most likely to have a higher value than Option 2.",,
-Vikas Vohra,Derivatives,1,Derivative Instrument and Derivative Market Features,3,The key rate duration best measures a bond's sensitivity to a change in the:,level of the yield-to-maturity.,slope of the yield-to-worst curve.,shape of the benchmark yield curve.,B,slope of the yield-to-worst curve.,"3. B is correct because ""[t]he value of a European put option is directly related to the 
+Vikas Vohra,Derivatives,1,LM8 - Pricing and Valuation of Options,3,The value of a European put is directly related to the:,risk-free rate.,exercise price.,value of the underlying.,B,exercise price.,"3. B is correct because ""[t]he value of a European put option is directly related to the 
 exercise price.""",,
-Vikas Vohra,Derivatives,1,Derivative Instrument and Derivative Market Features,4,"A bond priced at 99.4 has a modified duration of 6.9 and an annual convexity statistic 
-of –212. If the market yield increases by 75 basis points, the price of this bond is 
-closest to:",93.7.,94.3.,94.9.,A,93.7.,"4. A is correct because –𝑐! = –Max(0,𝑆! – X) (payoff to the call seller), where –𝑐! is the 
+Vikas Vohra,Derivatives,1,LM8 - Pricing and Valuation of Options,4,"An investor gathers the following information about a call option: 
+Option premium $5 
+Exercise price $25 
+Price of the underlying at initiation $15 
+At expiration, if the price of the underlying is $30, the value of the call option to the 
+call seller is:",−$5.,$0.,$10.,A,−$5.,"4. A is correct because –𝑐! = –Max(0,𝑆! – X) (payoff to the call seller), where –𝑐! is the 
 call value at expiration for the call seller, 𝑆! is the price of the underlying at 
 expiration, and X is the strike price. Therefore, the Correct calculation yields: –$5 = 
 –Max(0,$30 – $25).",,
-Vikas Vohra,Derivatives,7,Pricing and Valuation of Interest Rates and Other Swaps,5,"If interest rates rise over the holding period, the total return of a coupon bond held 
-until maturity is most likely to be:",less than the yield to maturity at purchase.,equal to the yield to maturity at purchase.,greater than the yield to maturity at purchase.,A,less than the yield to maturity at purchase.,"5. A is correct because 𝑆"" + 𝑃"" = 𝐶"" + X / (1+r)^T. This relationship is known as put-call 
+Vikas Vohra,Derivatives,7,LM9 - Option Replication Using Put-Call Parity,5,"An analyst gathers the following information: 
+Call price $10 
+Stock price $40 
+Exercise price $60 
+Interest rate 3% 
+Time to expiry 1 year 
+According to put-call parity, the price of the put is closest to:",$28.25.,$30.00.,$108.25.,A,$28.25.,"5. A is correct because 𝑆"" + 𝑃"" = 𝐶"" + X / (1+r)^T. This relationship is known as put-call 
 parity. Here 𝑆"" is the spot price, 𝑃"" is the put premium, X is the strike price and r is 
 the interest rate. 
 𝑆"" + 𝑃"" = 𝐶"" + X / (1+r)^T 

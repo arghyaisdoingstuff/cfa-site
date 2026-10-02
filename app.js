@@ -269,7 +269,7 @@ const app = {
     },
 
     seedSampleQuestions: async function () {
-        const SEED_VERSION = 'v53-mocks-5-6';
+        const SEED_VERSION = 'v54-fix-vikas-vohra';
         const seeded = localStorage.getItem('cfaSeedVersion');
 
         if (seeded !== SEED_VERSION) {
